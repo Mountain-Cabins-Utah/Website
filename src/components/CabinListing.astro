@@ -1,0 +1,48 @@
+---
+import { getAllCabins } from "../api/cabins/getAllCabins";
+
+const cabins = await getAllCabins();
+---
+
+<div class="cabins">
+  {
+    cabins.map((cabin) => {
+      const {
+        name,
+        currencySymbol,
+        type,
+        baseDailyRate,
+        maximumGuests: guests,
+        picture,
+        propertyURL,
+        isActive,
+      } = cabin;
+      if (!isActive) return null;
+      return (
+        <div class="cabin">
+          <h3>{name}</h3>
+          <img src={picture} alt={`picture of ${name}`} />
+          <div class="info">
+            for {guests} {guests > 1 ? "guests" : "guest"}
+          </div>
+          <div class="price">From {`${currencySymbol}${baseDailyRate}`}</div>
+          <a href={propertyURL}>View {type.toLocaleLowerCase()} now</a>
+        </div>
+      );
+    })
+  }
+</div>
+
+<style>
+  .cabins {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    grid-gap: 1rem;
+  }
+
+  .cabin {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+</style>
