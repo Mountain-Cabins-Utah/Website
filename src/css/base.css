@@ -73,9 +73,12 @@ img {
 
   --secondary-50: #FDF0DC;
   --secondary-200: #E1DBC7;
-  --secondary-700: #9D7231;
+  --secondary-400: #BFAE8A;
 
-  --tertiary-50: ;
+  --tertiary-700: #9D7231;
+
+
+  --shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 *{
@@ -112,3 +115,32 @@ button{
   padding: 8px 32px;
   border-radius: 4px;
 }
+
+input{
+  padding: 8px;
+  border-radius: 8px;
+
+  background-color: var(--secondary-200);
+  outline: none;
+  border: none;
+
+  /* SmallText */
+  font-size: 14px;
+}
+
+input:focus {
+  border: solid 0.5px #6e6e6e;
+  outline: none;
+  color: var(--dark);
+}
+
+.button-light{
+  border: 2px solid var(--light);
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--light);
+}
+
+.button-secondary:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
