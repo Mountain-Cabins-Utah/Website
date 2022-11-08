@@ -10,16 +10,19 @@
 </div>
 
 <script is:inline>
+  let loaded = false;
   const url =
     "https://maps.google.com/maps?q=Mt%20Cabins%20Ut%2C%203105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near";
-  // intersection observer
   const map = document.querySelector(".map");
   const iframe = map.querySelector("iframe");
+
+  // intersection observer
   const observer = new IntersectionObserver(
     (entries) => {
       entries.forEach((entry) => {
-        if (entry.isIntersecting) {
+        if (entry.isIntersecting && !loaded) {
           iframe.src = url;
+          loaded = true;
         }
       });
     },
@@ -28,8 +31,8 @@
       threshold: 0.1,
     }
   );
-  // observe
 
+  // observe
   observer.observe(map);
 </script>
 
