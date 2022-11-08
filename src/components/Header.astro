@@ -1,0 +1,159 @@
+---
+import Nav from "../components/Nav.astro";
+---
+
+<div class="header">
+  <Nav />
+  <p class="decorative-hero">Plan your perfect mountain vacation</p>
+  <div class="phrase">
+    <p>Book Luxury Cabins In Northern Utah</p>
+    <p>Ski-In/Ski-Out Condos In Southern Utah</p>
+  </div>
+  <svg
+    width="121"
+    height="1"
+    viewBox="0 0 121 1"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <line x1="0.5" y1="0.5" x2="120.5" y2="0.5" stroke="#F4F9F4"></line>
+  </svg>
+  <button class="button-light">BOOK YOUR STAY</button>
+  <div class="search">
+    <input type="text" placeholder="South, Utah" />
+    <div class="days">
+      <input type="date" name="" id="check-in" placeholder="Check in" />
+      <input type="date" name="" id="check-out" placeholder="Checkout" />
+    </div>
+    <input type="number" name="" id="" placeholder="Guests" />
+    <button class="btn-search">Search</button>
+  </div>
+</div>
+<style>
+  .btn-search {
+    background-color: var(--brown);
+    color: var(--light);
+  }
+
+  .btn-search:hover {
+    background-color: var(--dark-brown);
+  }
+
+  .header {
+    /* Auto layout */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 32px;
+    width: 100%;
+
+    background-image: url("images/hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+    color: var(--light);
+  }
+
+  .decorative-hero {
+    width: 580px;
+  }
+
+  .header .phrase {
+    text-align: center;
+  }
+
+  .header .search {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    padding: 16px 24px;
+    gap: 24px;
+
+    background: var(--primary-50);
+    box-shadow: var(--shadow);
+    border-radius: 16px;
+
+    position: absolute;
+    bottom: -30px;
+  }
+
+  .search .days {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+  }
+
+  .days #check-in {
+    border-radius: 4px 0px 0px 4px;
+    border-right: 0.5px solid var(--secondary-400);
+  }
+
+  .days #check-out {
+    border-radius: 0px 4px 4px 0px;
+  }
+
+  /* RESPONSIVE */
+  @media only screen and (max-width: 950px) {
+    .header .search {
+      width: 100%;
+      justify-content: space-between;
+      border-radius: 0px;
+      gap: 16px;
+    }
+
+    input[type="date"] {
+      width: 100px;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    input[type="text"],
+    input[type="number"] {
+      width: 100%;
+      min-width: none;
+    }
+
+    input[type="date"] {
+      width: 80px;
+    }
+
+    .decorative-hero {
+      font-size: 48px;
+      line-height: 52px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .header .search {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 16px 24px;
+      gap: 4px;
+      border-radius: 8px;
+      bottom: -90px;
+      width: fit-content;
+    }
+
+    input[type="text"],
+    input[type="number"] {
+      width: 100%;
+    }
+
+    input[type="date"] {
+      width: 100%;
+    }
+
+    .decorative-hero {
+      width: 360px;
+      font-size: 36px;
+      line-height: 36px;
+    }
+
+    .search button {
+      margin-top: 16px;
+      width: 100%;
+    }
+  }
+</style>

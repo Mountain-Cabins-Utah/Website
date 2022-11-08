@@ -1,3 +1,24 @@
+@font-face {
+  font-family: "Aref Ruqaa Ink";
+  src: url("/fonts/ArefRuqaaInk-Bold.ttf");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Aref Ruqaa Ink";
+  src: url("/fonts/ArefRuqaaInk-Regular.ttf");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Laila";
+  src: url("/fonts/Laila-Regular.ttf");
+  font-weight: 400;
+  font-display: swap;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -40,4 +61,82 @@ img {
   .wrapper {
     padding: 0 20px;
   }
+}
+
+:root {
+  --light: #fff;
+  --dark-brown: #2f2d27;
+  --brown: #552f00;
+
+  --primary-50: #f4f9f4;
+
+  --secondary-50: #fdf0dc;
+  --secondary-200: #e1dbc7;
+  --secondary-400: #bfae8a;
+
+  --tertiary-700: #9d7231;
+
+  --shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+* {
+  font-family: "Laila";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.decorative-hero {
+  font-family: "Aref Ruqaa Ink";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+
+button {
+  font-family: "Laila";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  align-items: center;
+  padding: 8px 32px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: var(--secondary-200);
+  outline: none;
+  border: none;
+
+  /* SmallText */
+  font-size: 14px;
+}
+
+input:focus {
+  border: solid 0.5px #6e6e6e;
+  outline: none;
+  color: var(--dark);
+}
+
+.button-light {
+  border: 2px solid var(--light);
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--light);
+}
+
+.button-light:hover {
+  background-color: rgba(255, 255, 255, 0.2);
 }

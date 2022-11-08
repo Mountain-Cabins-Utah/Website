@@ -1,0 +1,90 @@
+---
+import Logo from "./svg/Logo.astro";
+---
+
+<nav>
+  <Logo />
+  <ul>
+    <li><a href="/">Reviews</a></li>
+    <li>
+      <a href="/">Local Activities</a>
+      <ul>
+        <li><a class="sub-item" href="/">Our bucket List</a></li>
+        <li><a class="sub-item" href="/">Special Services</a></li>
+        <li><a class="sub-item" href="/">Meet your hosts</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<style>
+  nav {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 160px;
+
+    width: 100%;
+  }
+  nav ul {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+
+    list-style: none;
+  }
+
+  ul .sub-item{
+    background-color: rgba(0, 0, 0, 0.25);
+  }
+
+  nav li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 8px;
+    display: block;
+  }
+
+  nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+  }
+
+  nav li:hover > ul {
+    display: block;
+  }
+
+  nav li ul li {
+    position: relative;
+  }
+
+  nav li ul li ul {
+    right: -140px;
+    top: 0px;
+  }
+
+  /* RESPONSIVE */
+  @media only screen and (max-width: 1150px) {
+    nav {
+      padding: 24px 80px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    nav {
+      padding: 24px 32px;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    nav > ul {
+      flex-direction: column;
+      gap: 0px;
+    }
+  }
+</style>
