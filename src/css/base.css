@@ -77,29 +77,64 @@ img {
   --tertiary-700: #9d7231;
 
   --shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  --font-heading: "Aref Ruqaa Ink", serif;
+  --font-body: "Laila", sans-serif;
 }
 
-* {
-  font-family: "Laila";
+body {
+  font-family: var(--font-body);
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
+  background-color: var(--secondary-200);
+  color: var(--light);
 }
 
-.decorative-hero {
-  font-family: "Aref Ruqaa Ink";
-  font-style: normal;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 64px;
-  line-height: 72px;
-
+  line-height: 1.1;
   text-align: center;
-  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 425px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+a,
+button,
+input,
+textarea,
+p,
+span {
+  font-family: inherit;
 }
 
 button {
-  font-family: "Laila";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
