@@ -46,7 +46,6 @@ import Logo from "../../public/svg/logo.astro";
   }
 
   nav li a:hover {
-
   }
   nav li ul {
     display: none;
@@ -70,23 +69,20 @@ import Logo from "../../public/svg/logo.astro";
   /* RESPONSIVE */
   @media only screen and (max-width: 1150px) {
     nav {
-        padding: 24px 80px;
+      padding: 24px 80px;
     }
   }
 
   @media only screen and (max-width: 600px) {
     nav {
-        padding: 24px 32px;
+      padding: 24px 32px;
     }
+  }
+
+  @media only screen and (max-width: 480px) {
+    nav > ul {
+      flex-direction: column;
+      gap: 8px;
     }
-
-    @media only screen and (max-width: 480px) {
-        nav > ul{
-          flex-direction: column;
-          gap: 8px;
-        }
-
-        
-    }
-
+  }
 </style>

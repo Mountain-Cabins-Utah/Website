@@ -63,34 +63,32 @@ img {
   }
 }
 
-
-:root{
+:root {
   --light: #fff;
   --dark-brown: #2f2d27;
   --brown: #552f00;
 
-  --primary-50: #F4F9F4;
+  --primary-50: #f4f9f4;
 
-  --secondary-50: #FDF0DC;
-  --secondary-200: #E1DBC7;
-  --secondary-400: #BFAE8A;
+  --secondary-50: #fdf0dc;
+  --secondary-200: #e1dbc7;
+  --secondary-400: #bfae8a;
 
-  --tertiary-700: #9D7231;
-
+  --tertiary-700: #9d7231;
 
   --shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
-*{
-  font-family: 'Laila';
+* {
+  font-family: "Laila";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
 }
 
-.decorative-hero{
-  font-family: 'Aref Ruqaa Ink';
+.decorative-hero {
+  font-family: "Aref Ruqaa Ink";
   font-style: normal;
   font-weight: 700;
   font-size: 64px;
@@ -100,8 +98,8 @@ img {
   letter-spacing: -0.02em;
 }
 
-button{
-  font-family: 'Laila';
+button {
+  font-family: "Laila";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
@@ -116,7 +114,7 @@ button{
   border-radius: 4px;
 }
 
-input{
+input {
   padding: 8px;
   border-radius: 8px;
 
@@ -134,13 +132,12 @@ input:focus {
   color: var(--dark);
 }
 
-.button-light{
+.button-light {
   border: 2px solid var(--light);
   background-color: rgba(255, 255, 255, 0.1);
   color: var(--light);
 }
 
-.button-light:hover{
+.button-light:hover {
   background-color: rgba(255, 255, 255, 0.2);
 }
-

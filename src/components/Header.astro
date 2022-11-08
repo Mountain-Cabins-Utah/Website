@@ -3,7 +3,7 @@ import Nav from "../components/Nav.astro";
 ---
 
 <div class="header">
-<Nav/>
+  <Nav />
   <p class="decorative-hero">Plan your perfect mountain vacation</p>
   <div class="phrase">
     <p>Book Luxury Cabins In Northern Utah</p>
@@ -22,23 +22,22 @@ import Nav from "../components/Nav.astro";
   <div class="search">
     <input type="text" placeholder="South, Utah" />
     <div class="days">
-        <input type="date" name="" id="check-in" placeholder="Check in" />
-        <input type="date" name="" id="check-out" placeholder="Checkout" />
+      <input type="date" name="" id="check-in" placeholder="Check in" />
+      <input type="date" name="" id="check-out" placeholder="Checkout" />
     </div>
     <input type="number" name="" id="" placeholder="Guests" />
     <button class="btn-search">Search</button>
   </div>
 </div>
 <style>
-
-    .btn-search{
+  .btn-search {
     background-color: var(--brown);
     color: var(--light);
-    }
+  }
 
-    .btn-search:hover{
-    background-color:var(--dark-brown);
-    }
+  .btn-search:hover {
+    background-color: var(--dark-brown);
+  }
 
   .header {
     /* Auto layout */
@@ -62,7 +61,7 @@ import Nav from "../components/Nav.astro";
     width: 580px;
   }
 
-  .header .phrase{
+  .header .phrase {
     text-align: center;
   }
 
@@ -70,7 +69,7 @@ import Nav from "../components/Nav.astro";
     display: flex;
     flex-direction: row;
     align-items: center;
-    
+
     padding: 16px 24px;
     gap: 24px;
 
@@ -82,23 +81,23 @@ import Nav from "../components/Nav.astro";
     bottom: -30px;
   }
 
-  .search .days{
+  .search .days {
     display: flex;
     flex-direction: row;
     gap: 0px;
   }
 
-  .days #check-in{
+  .days #check-in {
     border-radius: 4px 0px 0px 4px;
-    border-right: .5px solid var(--secondary-400);
+    border-right: 0.5px solid var(--secondary-400);
   }
 
-  .days #check-out{
+  .days #check-out {
     border-radius: 0px 4px 4px 0px;
   }
   /* RESPONSIVE */
   @media only screen and (max-width: 950px) {
-    .header .search{
+    .header .search {
       width: 100%;
       justify-content: space-between;
       border-radius: 0px;
@@ -106,58 +105,59 @@ import Nav from "../components/Nav.astro";
       gap: 16px;
     }
 
-    input[type=date]{
-       width: 100px;
+    input[type="date"] {
+      width: 100px;
     }
-}
-    @media only screen and (max-width: 768px) {
-        input[type=text], input[type=number]{
-            width: 100%;
-            min-width: none;
-        }
-
-        input[type=date]{
-            width: 80px;
-        }
-
-        .decorative-hero{
-            font-size: 48px;
-            line-height: 52px
-        }
+  }
+  @media only screen and (max-width: 768px) {
+    input[type="text"],
+    input[type="number"] {
+      width: 100%;
+      min-width: none;
     }
-    @media only screen and (max-width: 600px) {
-        .header .search {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            
-            padding: 16px 24px;
-            gap: 4px;
 
-            border-radius: 8px;
-            bottom: -90px;
-
-            width: fit-content;
-        }
-
-        input[type=text], input[type=number]{
-            width: 100%;
-        }
-
-        input[type=date]{
-            width: 100%;
-        }
-
-        .decorative-hero {
-            width: 360px;
-            font-size: 36px;
-            line-height: 36px;
-        }
-
-        .search button{
-            margin-top: 16px;
-            width: 100%;
-        }
-
+    input[type="date"] {
+      width: 80px;
     }
+
+    .decorative-hero {
+      font-size: 48px;
+      line-height: 52px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .header .search {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      padding: 16px 24px;
+      gap: 4px;
+
+      border-radius: 8px;
+      bottom: -90px;
+
+      width: fit-content;
+    }
+
+    input[type="text"],
+    input[type="number"] {
+      width: 100%;
+    }
+
+    input[type="date"] {
+      width: 100%;
+    }
+
+    .decorative-hero {
+      width: 360px;
+      font-size: 36px;
+      line-height: 36px;
+    }
+
+    .search button {
+      margin-top: 16px;
+      width: 100%;
+    }
+  }
 </style>
