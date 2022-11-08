@@ -1,0 +1,194 @@
+---
+import Facebook from "./svgs/Facebook.astro";
+import Twitter from "./svgs/Twitter.astro";
+import Youtube from "./svgs/Youtube.astro";
+import Instagram from "./svgs/Instagram.astro";
+import Envelop from "./svgs/Envelop.astro";
+import Phone from "./svgs/Phone.astro";
+import Location from "./svgs/Location.astro";
+
+const socials = [
+  {
+    url: "https://www.facebook.com/mtcabinsutah/",
+    icon: Facebook,
+  },
+  {
+    url: "https://twitter.com/at_cabins",
+    icon: Twitter,
+  },
+  {
+    url: "https://www.youtube.com/channel/UCV29hfd79G1zOuNtcCexMvQ?view_as=subscriber",
+    icon: Youtube,
+  },
+  {
+    url: "https://www.instagram.com/mtcabinsut/",
+    icon: Instagram,
+  },
+];
+
+const contact = [
+  {
+    text: "pamela@ptmad.com",
+    url: "mailto:pamela@ptmad.com",
+    icon: Envelop,
+  },
+  {
+    text: "(512) 413-4380",
+    url: "tel:5124134380",
+    icon: Phone,
+  },
+  {
+    text: "Location",
+    url: "https://maps.google.com/maps?ll=40.393874,-111.585663&z=15&t=m&hl=en&gl=US&cid=14288954003391505973",
+    icon: Location,
+  },
+];
+---
+
+<footer>
+  <img src="/img/logo-white.png" alt="logo" />
+  <div class="wrapper">
+    <div class="logo">
+      <h4>Our Socials</h4>
+      <hr />
+      <p>
+        Follow us on social media, leave a review, or see what our guests are
+        saying about their stay and find all the locals tips on the area.
+      </p>
+      <div class="socials">
+        {
+          socials.map((social) => (
+            <a href={social.url} target="_blank">
+              <div class="icon icon-circle">
+                <social.icon />
+              </div>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+    <div class="affiliation">
+      <h4>Notice of Affiliation</h4>
+      <hr />
+      <p>
+        Mountain Cabins Utah is not affiliated with Sundance Mountain Resort.
+        Sundance Resort guest services (such as Sundance Resort room service,
+        catering, shuttle transportati on, concierge service, etc.) are not
+        available to guests of Mountain Cabins Utah.
+        <br />
+        Thank you.
+      </p>
+    </div>
+    <div class="reviews">
+      <h4>What Guests Say</h4>
+      <hr />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
+        Aliquam in hendrerit ur na. Pellentesque sit amet sapien fringilla,
+        mattis ligula consectetur, ultrices mauris.
+      </p>
+    </div>
+    <div class="contact-info">
+      <h4>Contact Mountain Cabins Utah</h4>
+      <hr />
+      {
+        contact.map((item) => (
+          <div class="contact">
+            <a href={item.url} target="_blank">
+              <div class="icon">
+                <item.icon />
+              </div>
+              <span>{item.text}</span>
+            </a>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</footer>
+
+<style>
+  footer {
+    --bc: #2f2d27;
+    --text-50: #f4f9f4;
+    background-color: var(--bc);
+    color: var(--text-50);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.5rem 0;
+  }
+
+  img {
+    margin-bottom: 2rem;
+  }
+
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+
+  h4,
+  p,
+  hr,
+  .contact {
+    margin-bottom: 0.5rem;
+  }
+
+  hr {
+    border: 1px solid var(--text-50);
+    width: 90%;
+  }
+
+  .socials {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .icon {
+    width: 2rem;
+    height: 2rem;
+    color: var(--text-50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+  }
+
+  .icon-circle {
+    background-color: #fff;
+    border-radius: 50%;
+  }
+
+  .icon :global(svg) {
+    width: 100%;
+    height: 100%;
+  }
+
+  .icon :global(svg path) {
+    fill: var(--text-50);
+  }
+
+  .icon-circle :global(svg path) {
+    fill: var(--bc);
+  }
+
+  .contact a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .wrapper {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    .wrapper {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
