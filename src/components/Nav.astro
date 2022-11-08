@@ -1,0 +1,32 @@
+---
+import Logo from "../../public/svg/logo.astro";
+---
+
+
+<nav>
+    <Logo/>
+    <ul>
+        <li><a href="/">Reviews</a></li>
+        <li><a href="/">Local Activities</a></li>
+    </ul>
+</nav>
+
+<style>
+    nav{
+        /* Auto layout */
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 24px 160px;
+    }
+    nav ul{
+        /* Auto layout */
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 16px;
+
+        list-style: none;
+    }
+</style>
