@@ -105,19 +105,18 @@ button {
   font-size: 12px;
   line-height: 19px;
   /* identical to box height */
-
   letter-spacing: 0.04em;
   text-transform: uppercase;
 
   align-items: center;
   padding: 8px 32px;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 input {
   padding: 8px;
   border-radius: 8px;
-
   background-color: var(--secondary-200);
   outline: none;
   border: none;

@@ -1,5 +1,5 @@
 ---
-import Logo from "../../public/svg/logo.astro";
+import Logo from "./svg/Logo.astro";
 ---
 
 <nav>
@@ -9,9 +9,9 @@ import Logo from "../../public/svg/logo.astro";
     <li>
       <a href="/">Local Activities</a>
       <ul>
-        <li><a href="/">Our bucket List</a></li>
-        <li><a href="/">Special Services</a></li>
-        <li><a href="/">Meet your hosts</a></li>
+        <li><a class="sub-item" href="/">Our bucket List</a></li>
+        <li><a class="sub-item" href="/">Special Services</a></li>
+        <li><a class="sub-item" href="/">Meet your hosts</a></li>
       </ul>
     </li>
   </ul>
@@ -38,6 +38,10 @@ import Logo from "../../public/svg/logo.astro";
     list-style: none;
   }
 
+  ul .sub-item{
+    background-color: rgba(0, 0, 0, 0.25);
+  }
+
   nav li a {
     color: #fff;
     text-decoration: none;
@@ -45,8 +49,6 @@ import Logo from "../../public/svg/logo.astro";
     display: block;
   }
 
-  nav li a:hover {
-  }
   nav li ul {
     display: none;
     position: absolute;
@@ -82,7 +84,7 @@ import Logo from "../../public/svg/logo.astro";
   @media only screen and (max-width: 480px) {
     nav > ul {
       flex-direction: column;
-      gap: 8px;
+      gap: 0px;
     }
   }
 </style>
