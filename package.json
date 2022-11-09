@@ -9,6 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "generate:json": "tsx ./src/scripts/generateJson.ts",
     "format": "prettier --write .",
     "check:format": "prettier --check ."
   },
@@ -16,7 +17,10 @@
     "astro": "^1.6.0"
   },
   "devDependencies": {
+    "dotenv": "^16.0.3",
     "prettier": "^2.7.1",
-    "prettier-plugin-astro": "^0.7.0"
+    "prettier-plugin-astro": "^0.7.0",
+    "tsx": "^3.11.0",
+    "typescript": "^4.8.4"
   }
 }

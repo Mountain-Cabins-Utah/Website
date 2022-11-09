@@ -1,4 +1,4 @@
-import { apiKey } from "../../utils/consts";
+import { getApiKey } from "../../utils/consts";
 
 export interface Cabin {
   pricingRules: PricingRules;
@@ -90,7 +90,7 @@ export async function getCabin(id: string): Promise<Cabin> {
 
   const headers = {
     "Content-Type": "application/json",
-    "X-HOSTFULLY-APIKEY": apiKey,
+    "X-HOSTFULLY-APIKEY": getApiKey(),
   };
 
   const response = await fetch(url, {
