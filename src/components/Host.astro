@@ -1,0 +1,100 @@
+---
+---
+
+<div class="host">
+  <div class="mountain"></div>
+  <div class="img-text">
+    <img src="/img/host.png" alt="Pamela & Lynn" />
+    <div class="content">
+      <h3>About Your Hosts</h3>
+      <div class="text">
+        <p>
+          Mountain Cabins Utah, is a dream realized by Pamela McCue and Lynn
+          Jenkins. Lynn was raised in Springville Utah, enjoying time in the
+          mountains hiking and dreaming of one day building a life in Sundance.
+          Pamela, coming from Austin TX, was introduced to Sundance in 2000, and
+          immediately fell in love with the landscape and with Lynn’s vision of
+          future possibilities. Now they have both exceeded their dreams and are
+          passionate about sharing their extraordinary circumstances with those
+          around the world. Their hope is that you will come visit, experience
+          the beauty of the mountains and breathe in the splendor of Mother
+          Nature.
+        </p>
+        <p>
+          Properties that Make a Difference is an LLC that was created by Pamela
+          and Lynn, with the intention of giving back to those in need. Both
+          coming from modest means and understanding the importance of giving
+          back to the community, they are doing what they can to give a helping
+          hand. The LLC will be donating a percentage of each rental to a
+          community service or non-profit organization that focuses on education
+          and other areas that help build a strong foundation for individual and
+          community growth. The wonderful part of all this is that when you rent
+          a cabin from Pamela and Lynn, you become a part of their community in
+          creating positive change, and opportunities for a better world!
+        </p>
+        <p class="phrase">We can’t wait to meet you!</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .host {
+    position: relative;
+    background-color: var(--secondary-400);
+    background-image: url("/img/mountain.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 56px 120px;
+  }
+
+  .host .img-text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 64px;
+  }
+
+  .img-text img {
+    width: 500px;
+  }
+  .host .mountain {
+    position: absolute;
+    height: 50%;
+  }
+
+  .host .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 32px;
+    gap: 32px;
+  }
+
+  .content .text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 24px;
+  }
+
+  .text .phrase {
+    padding: 4px 16px 12px;
+    font-weight: 500;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: var(--primary-900);
+
+    color: var(--primary-900);
+    font-family: var(--font-heading);
+    font-size: 20px;
+
+    width: fit-content;
+  }
+</style>
