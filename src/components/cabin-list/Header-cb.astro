@@ -1,0 +1,44 @@
+---
+import Nav from "../Nav.astro";
+---
+
+<section>
+  <div class="wrapper">
+    <Nav />
+    <div class="content">
+      <h1>Our cabins and condos</h1>
+      <svg
+        width="121"
+        height="1"
+        viewBox="0 0 121 1"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <line x1="0.5" y1="0.5" x2="120.5" y2="0.5" stroke="var(--primary-50)"
+        ></line>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<style>
+  section {
+    background-image: url("img/hero-cb.png");
+    height: 340px;
+  }
+
+  .wrapper h1 {
+    color: var(--light);
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+
+    align-self: center;
+
+    margin-top: 40px;
+  }
+</style>

@@ -2,7 +2,7 @@
 import Logo from "./svgs/Logo.astro";
 ---
 
-<nav>
+<nav class="wrapper">
   <Logo />
   <ul>
     <li><a href="/">Reviews</a></li>
@@ -24,7 +24,7 @@ import Logo from "./svgs/Logo.astro";
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 24px 160px;
+    padding: 24px 0px;
 
     width: 100%;
   }
@@ -70,8 +70,8 @@ import Logo from "./svgs/Logo.astro";
 
   /* RESPONSIVE */
   @media only screen and (max-width: 1150px) {
-    nav {
-      padding: 24px 80px;
+    .wrapper {
+      padding: 24px 32px;
     }
   }
 
@@ -85,12 +85,6 @@ import Logo from "./svgs/Logo.astro";
     nav > ul {
       flex-direction: column;
       gap: 0px;
-    }
-  }
-
-  @media only screen and (max-width: 480px) {
-    nav {
-      padding: 24px 16px;
     }
   }
 </style>
