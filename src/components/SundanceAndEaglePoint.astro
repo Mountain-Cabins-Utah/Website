@@ -1,0 +1,97 @@
+<section>
+  <div class="wrapper">
+    <div class="sundance">
+      <div>
+        <h2>Sundance</h2>
+        <h4>What will you find when you get away to Mountain Cabins Utah?</h4>
+        <p>
+          Just a short, beautiful drive from Provo, or Heber, Utah, along the
+          world renowned fly fishing Provo River, lies a mountain community
+          tucked away in a little slice of Heaven known as Sundance, Utah.
+          <br />
+          This is where you’ll find a little family of vacation rental cabins known
+          as “Mountain Cabins Utah” but that’s not all you’ll find. Our guests often
+          tell us they found themselves again during their stay with us.
+        </p>
+      </div>
+      <img src="/img/sundance.png" alt="" />
+    </div>
+    <div class="eagle-point">
+      <img src="/img/sundance.png" alt="" />
+      <div>
+        <h2>Eagle Point</h2>
+        <h4>Traveling South Through Utah?</h4>
+        <p>
+          Eagle Point Ski Resort is Southern Utah’s biggest resort, and the
+          highest elevation ski resort in Utah. Just 20 minutes from Beaver,
+          Utah and a few hours North of Las Vegas, Nevada, our condos in Eagle
+          Point provide the perfect mountain escape to clean air, endless
+          adventure, splendid nature, and just the right amount of peace and
+          relaxation.
+          <br />
+          Mountain Cabins Utah owns/manages 6 ski-in-ski-out condominiums here, situated
+          right on the resort.
+          <br />
+          Plan your Southern Utah Winter or Summer mountain vacation now.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  section {
+    padding: var(--section-padding) 0;
+    background-image: url(/img/overlay.png);
+    padding-top: 4.5rem;
+  }
+
+  .wrapper > div {
+    margin-bottom: 2rem;
+  }
+
+  h2,
+  h4 {
+    text-align: left;
+    margin-bottom: 1em;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  .sundance,
+  .eagle-point {
+    display: flex;
+    gap: 2em;
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .sundance,
+    .eagle-point {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .eagle-point {
+      flex-direction: column-reverse;
+    }
+
+    .sundance > div,
+    .eagle-point > div {
+      width: 100%;
+    }
+
+    .sundance > img,
+    .eagle-point > img {
+      width: 100%;
+      max-width: 500px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    section {
+      padding-top: 6.5rem;
+    }
+  }
+</style>
