@@ -1,126 +1,125 @@
 <div class="cabins">
-    <div class="header">
-        <h2>Our Cabins</h2>
-        <h4>“The Mountains Are Calling, And I must Go” ~John Muir</h4>
-    </div>
+  <div class="header">
+    <h2>Our Cabins</h2>
+    <h4>“The Mountains Are Calling, And I must Go” ~John Muir</h4>
+  </div>
 
-    <div class="list">
-        <div class="cabin-item">
-            <img src="/img/cabin.png" alt="">
-            <div class="text">
-                <h3>North</h3>
-                <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
-                <p>Nightly Rate From $139</p>
-            </div>
-        </div>
-        <div class="cabin-item">
-            <img src="/img/cabin.png" alt="">
-            <div class="text">
-                <h3>South</h3>
-                <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
-                <p>Nightly Rate From $139</p>
-            </div>
-        </div>
+  <div class="list">
+    <div class="cabin-item">
+      <img src="/img/cabin.png" alt="" />
+      <div class="text">
+        <h3>North</h3>
+        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
+        <p>Nightly Rate From $139</p>
+      </div>
     </div>
+    <div class="cabin-item">
+      <img src="/img/cabin.png" alt="" />
+      <div class="text">
+        <h3>South</h3>
+        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
+        <p>Nightly Rate From $139</p>
+      </div>
+    </div>
+  </div>
 
-    <button class="btn-more">See More</button>
+  <button class="btn-more">See More</button>
 </div>
 
 <style>
-    .cabins{
-        /* Auto layout */
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 64px 0px;
-        gap: 64px;
-    }
+  .cabins {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 0px;
+    gap: 64px;
+  }
 
-    .cabins .header{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 16px;
-    }
+  .cabins .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
 
-    .cabins .list{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: flex-start;
-        gap: 16px;
+  .cabins .list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
 
-        padding: 0px 24px;
-        max-width: 1120px;
-    }
+    padding: 0px 24px;
+    max-width: 1120px;
+  }
 
-    h3,
-    h4{
+  h3,
+  h4 {
     text-align: left;
-    }
+  }
 
-    .list .cabin-item{
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: start;
-        gap: 24px;
-    }
+  .list .cabin-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap: 24px;
+  }
 
-    .cabin-item img{
-        height: 200px;
-    }
+  .cabin-item img {
+    height: 200px;
+  }
 
-    .cabin-item .text{
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 16px;
-    }
+  .cabin-item .text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
 
-    .btn-more {
-        background-color: var(--brown);
-        color: var(--light);
-    }
+  .btn-more {
+    background-color: var(--brown);
+    color: var(--light);
+  }
 
-    .btn-more:hover {
-        background-color: var(--text-heading);
-    }
+  .btn-more:hover {
+    background-color: var(--text-heading);
+  }
 
-    /* RESPONSIVE */
+  /* RESPONSIVE */
   @media only screen and (max-width: 1024px) {
-    .cabins .list{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 16px;
+    .cabins .list {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
 
-        padding: 0px 32px;
+      padding: 0px 32px;
     }
   }
 
   @media only screen and (max-width: 550px) {
-    .cabins .list{
-        gap: 48px;
+    .cabins .list {
+      gap: 48px;
 
-        padding: 0px 32px;
+      padding: 0px 32px;
     }
 
-    .list .cabin-item{
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
+    .list .cabin-item {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
     }
 
-    .cabin-item .text{
-        gap: 8px;
+    .cabin-item .text {
+      gap: 8px;
     }
 
-    .header h4{
-        text-align: center;
-        padding: 0px 8px;
+    .header h4 {
+      text-align: center;
+      padding: 0px 8px;
     }
   }
-
 </style>
