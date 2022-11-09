@@ -2,8 +2,7 @@
 ---
 
 <div class="host">
-  <div class="mountain"></div>
-  <div class="img-text">
+  <div class="img-text wrapper">
     <img src="/img/host.png" alt="Pamela & Lynn" />
     <div class="content">
       <h3>About Your Hosts</h3>
@@ -50,7 +49,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 56px 120px;
+    padding: 56px 0px;
   }
 
   .host .img-text {
@@ -62,7 +61,7 @@
   }
 
   .img-text img {
-    width: 500px;
+    min-width: 40%;
   }
   .host .mountain {
     position: absolute;
@@ -96,5 +95,35 @@
     font-size: 20px;
 
     width: fit-content;
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .host .img-text {
+      gap: 0px;
+    }
+  }
+
+  @media only screen and (max-width: 920px) {
+    .host .img-text {
+      flex-direction: column;
+      padding: 56px 40px;
+      gap: 32px;
+    }
+
+    .img-text img {
+      width: 45%;
+      min-width: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 460px) {
+    .host .img-text {
+      flex-direction: column;
+      padding: 56px 24px;
+    }    
+
+    .host .content {
+      padding: 0px;
+    }
   }
 </style>
