@@ -41,9 +41,9 @@ export async function getAllCabins({
 
   const allCabins = await Promise.all(
     propertiesUids.map(async (uid) => {
-      return await getCabin(uid);
+      return await getCabin({ id: uid, cached });
     })
   );
 
-  return allCabins;
+  return allCabins.filter((cabin) => cabin !== undefined) as Cabin[];
 }

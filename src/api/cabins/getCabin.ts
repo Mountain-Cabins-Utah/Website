@@ -1,7 +1,10 @@
 import { getApiKey } from "../../utils/consts";
+import cachedCabins from "../../data/cabins.json";
 
-export interface Cabin {
-  pricingRules: PricingRules;
+export type Cabin = CabinT & ExtraData;
+
+export interface CabinT {
+  pricingRules: PricingRules | null;
   bedCount: number;
   bedTypes: { [key: string]: number };
   type: string;
@@ -28,8 +31,8 @@ export interface Cabin {
   acceptInstantBook: boolean;
   acceptBookingRequest: boolean;
   availabilityCalendarUrl: string;
-  rentalCondition: null;
-  cancellationPolicy: null;
+  rentalCondition: string | null;
+  cancellationPolicy: string | null;
   floor: number;
   areaSize: number;
   areaSizeUnit: string;
@@ -43,7 +46,7 @@ export interface Cabin {
   currencySymbol: string;
   panoramicDataUrl: null;
   propertyURL: string;
-  guideBookUrl: string;
+  guideBookUrl: string | null;
   weekEndRatePercentAdjustment: number;
   bookingWindow: number;
   bookingWindowAfterCheckout: number;
@@ -65,10 +68,10 @@ export interface Cabin {
 }
 
 export interface ListingLinks {
-  airbnbUrl: string;
+  airbnbUrl: string | null;
   hostfullyUrl: string;
-  bookingDotComUrl: null;
-  homeAwayUrl: string;
+  bookingDotComUrl: string | null;
+  homeAwayUrl: string | null;
   tripAdvisorUrl: null;
   hvmiUrl: null;
 }
@@ -82,10 +85,51 @@ export interface PricingRules {
 
 export interface Reviews {
   total: number;
-  average: number;
+  average: null | number;
 }
 
-export async function getCabin(id: string): Promise<Cabin> {
+export interface ExtraData {
+  "basic-info": BasicInfo;
+  description: string;
+  amenities: Amenity[];
+  uid: string;
+}
+
+export interface BasicInfo {
+  highlight: Highlight[];
+  other: Other[];
+}
+
+export interface Highlight {
+  text: string;
+  icon: string;
+}
+
+export interface Other {
+  icon: string;
+  title: string;
+  text: string;
+}
+
+export interface Amenity {
+  icon: string;
+  title: string;
+  text: string;
+}
+
+export async function getCabin({
+  cached = true,
+  id,
+}: {
+  cached?: boolean;
+  id: string;
+}): Promise<Cabin | undefined> {
+  if (cached) {
+    // find the cabin with the matching id
+    const cabin = cachedCabins.find((cabin) => cabin.uid === id);
+    return cabin;
+  }
+
   const url = `https://api.hostfully.com/v2/properties/${id}`;
 
   const headers = {
