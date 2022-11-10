@@ -1,0 +1,55 @@
+---
+import type { Cabin } from "../../api/cabins/getCabin";
+
+interface Props {
+  cabin: Cabin;
+}
+
+const { cabin } = Astro.props;
+
+const { highlight } = cabin["basic-info"];
+---
+
+<section class="benefits">
+  <div class="wrapper">
+    <h3>What this place offers</h3>
+    <div class="list">
+      {
+        highlight.map((item) => (
+          <div class="item-list">
+            <p>{item.text}</p>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .benefits {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--tertiary-700);
+    padding: 24px;
+  }
+
+  .benefits .wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    gap: 64px;
+  }
+
+  .benefits .wrapper h3 {
+    color: var(--light);
+  }
+
+  .benefits .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+</style>

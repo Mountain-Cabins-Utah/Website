@@ -1,0 +1,79 @@
+---
+import Location from "../svgs/Location.astro";
+
+import type { Cabin } from "../../api/cabins/getCabin";
+
+interface Props {
+  cabin: Cabin;
+}
+
+const { cabin } = Astro.props;
+const { name, city, state, gallery: fullGallery } = cabin;
+
+const gallery = fullGallery.slice(0, 5);
+---
+
+<section class="header wrapper">
+  <h1>{name}</h1>
+  <div class="location">
+    <div class="icon">
+      <Location />
+    </div>
+    <p>{`${city}, ${state}`}</p>
+  </div>
+
+  <div class="gallery">
+    {
+      gallery.map((item) => (
+        <div class="item">
+          <img src={item.url} alt={item.description} />
+        </div>
+      ))
+    }
+  </div>
+</section>
+
+<style>
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .header h1 {
+    color: var(--primary-800);
+    font-size: 48px;
+    text-align: center;
+  }
+
+  .header .location {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .header .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+
+    align-self: center;
+  }
+
+  .gallery img {
+    max-width: 200px;
+    aspect-ratio: 1/1;
+  }
+
+  .location .icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--text-50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+  }
+</style>

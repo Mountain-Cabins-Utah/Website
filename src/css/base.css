@@ -141,7 +141,8 @@ span {
   font-family: inherit;
 }
 
-button {
+button,
+.btn {
   font-style: normal;
   font-weight: 700;
   font-size: 12px;

@@ -1,7 +1,19 @@
 import { getApiKey } from "../../utils/consts";
 import cachedCabins from "../../data/cabins.json";
 
-export type Cabin = CabinT & ExtraData;
+export type Cabin = CabinT & ExtraData & Gallery;
+
+export interface Gallery {
+  gallery: Picture[];
+}
+
+export interface Picture {
+  uid: string;
+  description: string | null;
+  url: string;
+  displayOrder: number;
+  airbnbRoomId: null;
+}
 
 export interface CabinT {
   pricingRules: PricingRules | null;

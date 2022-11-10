@@ -1,0 +1,45 @@
+---
+import type { Cabin } from "../../api/cabins/getCabin";
+import Check from "../svgs/Check.astro";
+
+interface Props {
+  cabin: Cabin;
+}
+
+const { cabin } = Astro.props;
+
+const basicInfo = cabin["basic-info"].other;
+---
+
+<div class="basic-info">
+  {
+    basicInfo.map((item) => (
+      <div class="item">
+        <div class="icon">
+          <Check />
+        </div>
+        <div class="text">
+          <b>{item.title}</b>
+          <p>{item.text}</p>
+        </div>
+      </div>
+    ))
+  }
+</div>
+
+<style>
+  .basic-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+  }
+
+  .basic-info .item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+  }
+</style>
