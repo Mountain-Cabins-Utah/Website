@@ -12,6 +12,7 @@ import Description from "../../components/cabinDetail/Description.astro";
 import Amenities from "../../components/cabinDetail/Amenities.astro";
 import BookingForm from "../../components/cabinDetail/BookingForm.astro";
 import OtherInfo from "../../components/cabinDetail/OtherInfo.astro";
+import Map from "../../components/Map.astro";
 
 export async function getStaticPaths() {
   const cabins = await getAllCabins();
@@ -20,7 +21,7 @@ export async function getStaticPaths() {
       name: cabin.name,
     },
     props: {
-      cabin: { ...cabin },
+      cabin,
     },
   }));
 }
@@ -41,6 +42,7 @@ const cabin = Astro.props.cabin as Cabin;
     <BookingForm cabin={cabin} />
   </div>
   <OtherInfo cabin={cabin} />
+  <Map label={cabin.map.label} url={cabin.map.url} />
   <Cabins />
   <Question />
 </BaseLayout>

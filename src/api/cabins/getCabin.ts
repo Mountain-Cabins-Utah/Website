@@ -7,6 +7,11 @@ export interface Gallery {
   gallery: Picture[];
 }
 
+export interface Map {
+  label: string;
+  url: string;
+}
+
 export interface Picture {
   uid: string;
   description: string | null;
@@ -105,6 +110,7 @@ export interface ExtraData {
   description: string;
   amenities: Amenity[];
   uid: string;
+  map: Map;
 }
 
 export interface BasicInfo {
