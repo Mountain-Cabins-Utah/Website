@@ -1,0 +1,546 @@
+---
+import { getCabin } from "../../api/cabins/getCabin";
+import Check from "../svgs/Check.astro";
+import Location from "../svgs/Location.astro";
+
+const basic = {
+  name: "Treehouse on The Stream • Sundance, Utah",
+  isActive: true,
+  city: "Sundance",
+  state: "UT",
+  baseDailyRate: 375,
+};
+const gallery = [
+  {
+    uid: "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
+    description: "The snow has melted, Spring is here!",
+    url: "https://orbirental-images.s3.amazonaws.com/2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
+    displayOrder: 0,
+    airbnbRoomId: null,
+  },
+  {
+    uid: "255a58e0-a488-4336-a939-f7c0df2b6a26",
+    description: "",
+    url: "https://orbirental-images.s3.amazonaws.com/255a58e0-a488-4336-a939-f7c0df2b6a26",
+    displayOrder: 1,
+    airbnbRoomId: null,
+  },
+  {
+    uid: "bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
+    description:
+      "Sundance band of turkey's come and visit.  They live high in the trees at night and fly down every morning.  ",
+    url: "https://orbirental-images.s3.amazonaws.com/bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
+    displayOrder: 2,
+    airbnbRoomId: null,
+  },
+  {
+    uid: "edaf7674-146c-4c07-8ed4-8764645e7fd8",
+    description: "",
+    url: "https://orbirental-images.s3.amazonaws.com/edaf7674-146c-4c07-8ed4-8764645e7fd8",
+    displayOrder: 3,
+    airbnbRoomId: null,
+  },
+  {
+    uid: "b6c24a32-9f71-4a24-a6a0-cdf43f25aaf0",
+    description: "",
+    url: "https://orbirental-images.s3.amazonaws.com/b6c24a32-9f71-4a24-a6a0-cdf43f25aaf0",
+    displayOrder: 4,
+    airbnbRoomId: null,
+  },
+  {
+    uid: "c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
+    description: "",
+    url: "https://orbirental-images.s3.amazonaws.com/c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
+    displayOrder: 5,
+    airbnbRoomId: null,
+  },
+];
+
+const other = [
+  {
+    icon: "home",
+    title: "Entire Cabin For Rent",
+    text: "8 guests   2 bedroom   7 bed   1 bath",
+  },
+  {
+    icon: "bath",
+    title: "Sparkling clean",
+    text: "Recent guests said this place was sparkling clean.",
+  },
+  {
+    icon: "map-marker",
+    title: "Great location",
+    text: "90% of recent guests gave the location a 5-star rating.",
+  },
+  {
+    icon: "trophy",
+    title: "Super Host Status",
+    text: "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc.",
+  },
+  {
+    icon: "star",
+    title: "Top Rated",
+    text: "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!",
+  },
+];
+
+const highlight = [
+  {
+    text: "Sleeps 8",
+    icon: "person-plus",
+  },
+  {
+    text: "Luxury Bathroom",
+    icon: "shower-head-water",
+  },
+  {
+    text: "Walking Distance to Sundance",
+    icon: "direction-sign",
+  },
+  {
+    text: "Mountain Activities",
+    icon: "travelling-backpack",
+  },
+  {
+    text: "Full Kitchen",
+    icon: "fork-plate-knife",
+  },
+  {
+    text: "WiFi + Cable TV",
+    icon: "basic-rss",
+  },
+];
+
+const amenities = [
+  {
+    icon: "keys",
+    title: "Very Private Cabin",
+    text: "Enjoy relaxing privacy at the Hideaway. IMPORTANT: Accessible only via 62 stairs or 4-Wheel-Drive in the summer, and only via the stairs in the winter.",
+  },
+  {
+    icon: "basic-signs",
+    title: "Parking",
+    text: "Parking is available with 4X4 right up to the front door, or regular vehicle with access via the stair case above.",
+  },
+  {
+    icon: "king-size-bed",
+    title: "1 Queen Sized Bed",
+    text: "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂",
+  },
+  {
+    icon: "king-size-bed",
+    title: "+ 6 Kids Beds",
+    text: "Kids beds include a bunk bed in the master bedroom, two twin beds and two trundle beds upstairs.",
+  },
+  {
+    icon: "skis-and-poles",
+    title: "Walk to Sundance Mountain Resort",
+    text: 'About 3 minutes easy walk from Sundance Mountain Resort, voted "Utah\'s Best Resort 2017" by Conde` Nest Traveler.',
+  },
+  {
+    icon: "trifolded-map-route",
+    title: "Local Attractions",
+    text: "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!",
+  },
+  {
+    icon: "bikini-swimsuit",
+    title: "Jacuzzi / Hot Tub",
+    text: "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi.",
+  },
+  {
+    icon: "mountains-snow",
+    title: "Amazing Views",
+    text: 'The Hideaway is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as "story book views" they can\'t believe actually exist.',
+  },
+  {
+    icon: "restaurant-dine",
+    title: "Propane BBQ Grill",
+    text: "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill a treat and dine in with your own propane BBQ grill just outside the door.",
+  },
+  {
+    icon: "instagram",
+    title: "Find More on Instagram",
+    text: "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!",
+  },
+];
+const description =
+  "The Hideaway Above The Stream is one of our favorite Sundance cabin rentals.  This is the perfect place to escape the hustle and bustle of life while enjoying all that the Sundance area has to offer.\nThe charming 2 bedroom, 1 bath cabin has been completely remodeled from head-to-toe June of 2014, making it modern and luxurious while maintaining its mountain charm.\nThe master bedroom has handmade furniture including a queen bed and twin size bunk beds. The loft bedroom features a Queen bed and a twin + trundle beds with the option to add a sleeping bag or air mattress.\nThe kitchen features high end appliances, granite countertops and all the amenities you will need. This vacation cabin has a new wood burning stove for those cold winter nights, and is located on nearly 3/4 of an acre at the top of Big Pine canyon there is plenty of room for children and adults to explore and maybe even spot a deer or some of the wild turkeys that frequent the area.\nTerraced decks overlook the North Fork of the Provo River on its journey down from the year-round glacier on Mt Timpanogos, making it the perfect place to relax and enjoy the sounds of rushing water.\nOur goal is give you an amazing mountain vacation and provide the perfect stay for you and your family when you come to the Sundance, Utah area.  We always try to make your Sundance vacation such an enjoyable experience, that you'll want to come back and stay with us again, year after year, like many of our new friends do.\nFive minutes away by car or a short walk will have you at Sundance Resort (no affiliation). Ski slopes, spa, zip line, full moon lift rides, restaurants, evening entertainment at the Owl Bar with live music on the weekends provides the opportunity to check back in when you want. As is typical for all Utah winter mountains driving, access requires 4-wheel drive & all weather or snow specific tires & chains on a 2-wheel drive vehicle.";
+const string1 = description.substring(0, 150);
+const string2 = description.substring(150, description.length);
+
+console.log(string1 + string2);
+
+const finalDescription =
+  string1 + '<span id="dots">...</span><span id="more">' + string2 + "</span>";
+---
+
+<section class="header wrapper">
+  <h1>{basic.name}</h1>
+  <div class="location">
+    <div class="icon">
+      <Location />
+    </div>
+    <p>{basic.city + ", " + basic.state}</p>
+  </div>
+
+  <div class="gallery">
+    {
+      gallery.map((item) => (
+        <div class="item">
+          <img src={item.url} alt={item.description} />
+        </div>
+      ))
+    }
+  </div>
+</section>
+
+<div class="details-booking">
+  <section class="details">
+    <div class="specification">
+      {
+        other.map((item) => (
+          <div class="item">
+            <div class="icon">
+              <Check />
+            </div>
+            <div class="text">
+              <b>{item.title}</b>
+              <p>{item.text}</p>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+    <div class="description">
+      <h2>Cabin Description</h2>
+      <p>
+        {string1}
+        <span id="dots">...</span><span id="more">{string2}</span>
+      </p>
+      <b><p onclick="myFunction()" id="myBtn">Show More</p></b>
+    </div>
+
+    <div class="amenities">
+      <h2>Amenities</h2>
+      <div class="list">
+        {
+          amenities.map((item) => (
+            <div class="amenity">
+              <div class="icon">
+                <Check />
+              </div>
+              <div class="text">
+                <b>{item.title}</b>
+                <p>{item.text}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <div class="booking">
+    <div class="price">
+      <span>${basic.baseDailyRate}/</span>
+      <span>Weeknight</span>
+    </div>
+    <div class="form">
+      <div>
+        <div class="dates">
+          <input type="date" name="" id="check-in" />
+          <input type="date" name="" id="check-out" />
+        </div>
+        <input type="number" id="guest" placeholder="Guests" />
+      </div>
+      <input type="email" name="" id="email" placeholder="Email" required />
+      <input type="text" name="" id="name" placeholder="Name" required />
+      <input type="text" placeholder="Phone" id="phone" />
+    </div>
+    <button>Reserve</button>
+  </div>
+</div>
+
+<section class="benefits">
+  <div class="wrapper">
+    <h3>What this place offers</h3>
+    <div class="list">
+      {
+        highlight.map((item) => (
+          <div class="item-list">
+            <p>{item.text}</p>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  function myFunction() {
+    var dots = document.getElementById("dots");
+    var moreText = document.getElementById("more");
+    var btnText = document.getElementById("myBtn");
+
+    if (dots.style.display === "none") {
+      dots.style.display = "inline";
+      btnText.innerHTML = "Show more";
+      moreText.style.display = "none";
+    } else {
+      dots.style.display = "none";
+      btnText.innerHTML = "Show less";
+      moreText.style.display = "inline";
+    }
+  }
+</script>
+
+<style>
+  h2 {
+    color: var(--primary-800);
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* padding: 32px 0px; */
+    gap: 16px;
+  }
+
+  .header h1 {
+    color: var(--primary-800);
+    font-size: 48px;
+    text-align: center;
+  }
+
+  .header .location {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+  }
+
+  .header .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+
+    align-self: center;
+  }
+
+  .gallery img {
+    max-width: 200px;
+    aspect-ratio: 1/1;
+  }
+
+  .details-booking {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 0px;
+    gap: 32px;
+  }
+
+  .details-booking .booking {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px 32px;
+    gap: 24px;
+
+    background: var(--primary-50);
+    border: 1px solid #696973;
+    box-shadow: var(--shadow);
+    border-radius: 4px;
+  }
+
+  .booking .form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+  }
+
+  .booking button {
+    width: 100%;
+    padding: 8px 32px;
+    color: var(--light);
+    background: var(--primary-800);
+    border-radius: 5px;
+  }
+
+  .booking button:hover {
+    background: var(--primary-900);
+  }
+
+  .form input {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    gap: 10px;
+
+    width: 100%;
+    background: var(--primary-200);
+
+    border: 0.5px solid #696973;
+    border-radius: 4px;
+  }
+
+  .form .dates {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .form .dates input {
+    width: 120px;
+  }
+
+  .form .price {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .dates #check-in {
+    border-radius: 4px 0px 0px 0px;
+  }
+
+  .dates #check-out {
+    border-radius: 0px 4px 0px 0px;
+  }
+
+  .form #guest {
+    border-radius: 0px 0px 4px 4px;
+  }
+
+  .location .icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--text-50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+  }
+  .details {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px 40px;
+    gap: 16px;
+
+    max-width: 800px;
+  }
+
+  .details .specification {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+  }
+
+  .specification .item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .description #more {
+    display: none;
+  }
+
+  .description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+  }
+
+  .amenities {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+
+    padding: 24px;
+  }
+
+  .amenities .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .amenities .list .amenity {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .benefits {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--tertiary-700);
+    padding: 24px;
+  }
+
+  .benefits .wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    gap: 64px;
+  }
+
+  .benefits .wrapper h3 {
+    color: var(--light);
+  }
+
+  .benefits .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .benefits .list .item-list {
+  }
+
+  @media only screen and (max-width: 768px) {
+    .benefits .list {
+      grid-template-columns: repeat(1, 1fr);
+      gap: 0.5rem;
+    }
+  }
+
+  @media only screen and (max-width: 658px) {
+    .amenities .list {
+      grid-template-columns: repeat(1, 1fr);
+      gap: 1rem;
+    }
+  }
+
+  @media only screen and (max-width: 460px) {
+    .benefits .wrapper {
+      flex-direction: column;
+      gap: 32px;
+    }
+    .details {
+      padding: 24px 8px;
+      gap: 16px;
+    }
+  }
+</style>
