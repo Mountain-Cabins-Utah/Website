@@ -28,7 +28,6 @@ function truncate(input: string, length: number) {
         bedrooms,
         bathrooms,
         picture,
-        propertyURL,
         isActive,
         description,
       } = cabin;
@@ -57,9 +56,9 @@ function truncate(input: string, length: number) {
               <p>{truncate(description, 200)}</p>
             </div>
 
-            <button>
-              <a href={`/cabins/${name}`}>Detail</a>
-            </button>
+            <a href={`/cabins/${name}`} class="btn">
+              Detail
+            </a>
           </div>
         </div>
       );
@@ -149,13 +148,13 @@ function truncate(input: string, length: number) {
     font-size: 12px;
   }
 
-  .cabin button {
+  .cabin a {
     border: 2px solid var(--primary-900);
     background-color: rgba(255, 255, 255, 0);
     color: var(--primary-900);
   }
 
-  .cabin button:hover {
+  .cabin a:hover {
     background-color: rgba(39, 64, 40, 0.15);
   }
 
@@ -203,7 +202,7 @@ function truncate(input: string, length: number) {
       text-align: center;
     }
 
-    .cabin button {
+    .cabin a {
       align-self: center;
     }
   }

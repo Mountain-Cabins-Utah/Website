@@ -1,0 +1,109 @@
+---
+import type { Cabin } from "../../api/cabins/getCabin";
+
+interface Props {
+  cabin: Cabin;
+}
+
+const { cabin } = Astro.props;
+
+const { baseDailyRate } = cabin;
+---
+
+<div class="details-booking">
+  <div class="booking">
+    <div class="price">
+      <span>${baseDailyRate}/</span>
+      <span>Weeknight</span>
+    </div>
+    <div class="form">
+      <div>
+        <div class="dates">
+          <input type="date" name="" id="check-in" />
+          <input type="date" name="" id="check-out" />
+        </div>
+        <input type="number" id="guest" placeholder="Guests" />
+      </div>
+      <input type="email" name="" id="email" placeholder="Email" required />
+      <input type="text" name="" id="name" placeholder="Name" required />
+      <input type="text" placeholder="Phone" id="phone" />
+    </div>
+    <button>Reserve</button>
+  </div>
+</div>
+
+<style>
+  .details-booking {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 0px;
+    gap: 32px;
+  }
+
+  .details-booking .booking {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px 32px;
+    gap: 24px;
+
+    background: var(--primary-50);
+    border: 1px solid #696973;
+    box-shadow: var(--shadow);
+    border-radius: 4px;
+    position: sticky;
+    top: 48px;
+  }
+
+  .booking .form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+  }
+
+  .booking button {
+    width: 100%;
+    padding: 8px 32px;
+    color: var(--light);
+    background: var(--primary-800);
+    border-radius: 5px;
+  }
+
+  .booking button:hover {
+    background: var(--primary-900);
+  }
+
+  .form input {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    gap: 10px;
+
+    width: 100%;
+    background: var(--primary-200);
+
+    border: 0.5px solid #696973;
+    border-radius: 4px;
+  }
+
+  .form .dates {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .form .dates input {
+    width: 120px;
+  }
+
+  .form .price {
+    display: flex;
+    flex-direction: row;
+  }
+</style>

@@ -1,0 +1,62 @@
+---
+import Check from "../svgs/Check.astro";
+
+import type { Cabin } from "../../api/cabins/getCabin";
+
+interface Props {
+  cabin: Cabin;
+}
+
+const { cabin } = Astro.props;
+
+const { amenities } = cabin;
+---
+
+{
+  amenities.length > 0 && (
+    <div class="amenities">
+      <h2>Amenities</h2>
+      <div class="list">
+        {amenities.map((item) => (
+          <div class="amenity">
+            <div class="icon">
+              <Check />
+            </div>
+            <div class="text">
+              <b>{item.title}</b>
+              <p>{item.text}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+<style>
+  h2 {
+    color: var(--primary-800);
+  }
+
+  .amenities {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+  }
+
+  .amenities .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .amenities .list .amenity {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 16px;
+  }
+</style>

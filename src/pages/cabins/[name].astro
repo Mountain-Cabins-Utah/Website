@@ -1,0 +1,52 @@
+---
+import Nav from "../../components/cabinDetail/Nav.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Question from "../../components/cabinDetail/Question.astro";
+import Cabins from "../../components/cabinDetail/Cabins.astro";
+import Header from "../../components/cabinDetail/Header.astro";
+
+import { getAllCabins } from "../../api/cabins/getAllCabins";
+import type { Cabin } from "../../api/cabins/getCabin";
+import BasicInfo from "../../components/cabinDetail/BasicInfo.astro";
+import Description from "../../components/cabinDetail/Description.astro";
+import Amenities from "../../components/cabinDetail/Amenities.astro";
+import BookingForm from "../../components/cabinDetail/BookingForm.astro";
+import OtherInfo from "../../components/cabinDetail/OtherInfo.astro";
+
+export async function getStaticPaths() {
+  const cabins = await getAllCabins();
+  return cabins.map((cabin) => ({
+    params: {
+      name: cabin.name,
+    },
+    props: {
+      cabin: { ...cabin },
+    },
+  }));
+}
+
+const { name } = Astro.params as { name: string };
+const cabin = Astro.props.cabin as Cabin;
+---
+
+<BaseLayout title={name}>
+  <Nav />
+  <Header cabin={cabin} />
+  <div class="wrapper">
+    <div class="info">
+      <BasicInfo cabin={cabin} />
+      <Description cabin={cabin} />
+      <Amenities cabin={cabin} />
+    </div>
+    <BookingForm cabin={cabin} />
+  </div>
+  <OtherInfo cabin={cabin} />
+  <Cabins />
+  <Question />
+</BaseLayout>
+
+<style>
+  .wrapper {
+    display: flex;
+  }
+</style>
