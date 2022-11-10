@@ -1,3 +1,17 @@
+---
+interface Props {
+  label?: string;
+  url?: string;
+}
+
+let { label, url } = Astro.props;
+
+label = label || "Mt Cabins Ut, 3105 Big Pine Canyon Rd, Sundance, UT 84604";
+url =
+  url ||
+  "https://maps.google.com/maps?q=Mt%20Cabins%20Ut%2C%203105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near";
+---
+
 <div class="map placeholder">
   <iframe
     frameborder="0"
@@ -5,14 +19,11 @@
     marginheight="0"
     marginwidth="0"
     loading="lazy"
-    aria-label="Mt Cabins Ut, 3105 Big Pine Canyon Rd, Sundance, UT 84604"
-  ></iframe>
+    aria-label={label}></iframe>
 </div>
 
-<script is:inline>
+<script is:inline define:vars={{ url }}>
   let loaded = false;
-  const url =
-    "https://maps.google.com/maps?q=Mt%20Cabins%20Ut%2C%203105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near";
   const map = document.querySelector(".map");
   const iframe = map.querySelector("iframe");
 
