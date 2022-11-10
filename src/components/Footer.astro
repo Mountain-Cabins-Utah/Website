@@ -50,7 +50,6 @@ const contact = [
   <div class="wrapper">
     <div class="logo">
       <h4>Our Socials</h4>
-      <hr />
       <p>
         Follow us on social media, leave a review, or see what our guests are
         saying about their stay and find all the locals tips on the area.
@@ -69,19 +68,17 @@ const contact = [
     </div>
     <div class="affiliation">
       <h4>Notice of Affiliation</h4>
-      <hr />
       <p>
         Mountain Cabins Utah is not affiliated with Sundance Mountain Resort.
         Sundance Resort guest services (such as Sundance Resort room service,
         catering, shuttle transportati on, concierge service, etc.) are not
         available to guests of Mountain Cabins Utah.
         <br />
-        Thank you.
+        <i>Thank you.</i>
       </p>
     </div>
     <div class="reviews">
       <h4>What Guests Say</h4>
-      <hr />
       <p>
         Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
         Aliquam in hendrerit ur na. Pellentesque sit amet sapien fringilla,
@@ -90,7 +87,6 @@ const contact = [
     </div>
     <div class="contact-info">
       <h4>Contact Mountain Cabins Utah</h4>
-      <hr />
       {
         contact.map((item) => (
           <div class="contact">
@@ -133,7 +129,13 @@ const contact = [
   p,
   hr,
   .contact {
-    margin-bottom: 0.5rem;
+    color: var(--light);
+    margin-bottom: 1rem;
+  }
+
+  h4 {
+    padding: 12px 0px;
+    border-bottom: 2px solid var(--light);
   }
 
   hr {

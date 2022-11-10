@@ -1,10 +1,26 @@
 ---
 import Nav from "../Nav.astro";
+import Tree from "../svgs/Tree.astro";
 ---
 
 <section>
+  <div class="trees">
+    <div class="section-tree">
+      <div class="tree-max"><Tree height="280"/></div>
+      <div class="tree-min"><Tree height="160"/></div>
+      <div class="tree"><Tree height="100"/></div>
+    </div>
+    <div class="section-tree">
+      <div class="tree"><Tree height="100"/></div>
+      <div class="tree-min"><Tree height="160"/></div>
+      <div class="tree-max"><Tree height="280"/></div>
+    </div>
+  </div>
+
   <div class="wrapper">
-    <Nav />
+    <div class="menu">
+      <Nav />
+    </div>
     <div class="content">
       <h1>Our cabins and condos</h1>
       <svg
@@ -23,12 +39,44 @@ import Nav from "../Nav.astro";
 
 <style>
   section {
-    background-image: url("img/hero-cb.png");
-    height: 340px;
+    /* background-image: url("img/hero-cb.png"); */
+    background-color: var(--tertiary-700);
+    height: 360px;
+    position: relative;
   }
 
+  .trees{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    z-index: 0;
+  }
+
+  .tree{
+    display: none;
+  }
+
+  .trees .section-tree{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+
+  .wrapper {
+    position: relative;
+    z-index: 20;
+  }
+  .wrapper .menu{
+    z-index: 30;
+  }
   .wrapper h1 {
     color: var(--light);
+    z-index: 20;
   }
 
   .content {
@@ -40,5 +88,35 @@ import Nav from "../Nav.astro";
     align-self: center;
 
     margin-top: 40px;
+  }
+
+  @media only screen and (max-width: 840px) {
+    .tree-min{
+      display: none;
+    }
+
+    .tree{
+      display: flex;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .tree-min{
+      display: flex;
+    }
+
+    .tree-max{
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 425px) {
+    .tree-min{
+      display: none;
+    }
+
+    .tree{
+      display: flex;
+    }
   }
 </style>
