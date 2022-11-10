@@ -70,11 +70,14 @@ img {
   --text-heading: #2f2d27;
 
   --primary-50: #f4f9f4;
+  --primary-200: #cee4ce;
+  --primary-800: #315131;
   --primary-900: #274028;
 
   --secondary-50: #fdf0dc;
   --secondary-200: #e1dbc7;
   --secondary-400: #bfae8a;
+  --secondary-900: #574637;
 
   --tertiary-700: #9d7231;
 
@@ -153,6 +156,7 @@ button {
   cursor: pointer;
 }
 
+textarea,
 input {
   padding: 8px;
   border-radius: 8px;
@@ -164,6 +168,7 @@ input {
   font-size: 14px;
 }
 
+textarea:focus,
 input:focus {
   border: solid 0.5px #6e6e6e;
   outline: none;
