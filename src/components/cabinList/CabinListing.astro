@@ -3,6 +3,13 @@ import { getAllCabins } from "../../api/cabins/getAllCabins";
 import Mountain from "../svgs/Mountain.astro";
 
 const cabins = await getAllCabins();
+
+function truncate(input: string, length: number) {
+  if (input.length > length) {
+    return input.substring(0, length) + "...";
+  }
+  return input;
+}
 ---
 
 <div class="separator">
@@ -14,12 +21,8 @@ const cabins = await getAllCabins();
 <div class="cabins">
   {
     cabins.map((cabin) => {
-      // console.log(cabin);
       const {
         name,
-        currencySymbol,
-        type,
-        baseDailyRate,
         maximumGuests: guestsMax,
         baseGuests: guestsMin,
         bedrooms,
@@ -27,6 +30,7 @@ const cabins = await getAllCabins();
         picture,
         propertyURL,
         isActive,
+        description,
       } = cabin;
       if (!isActive) return null;
       return (
@@ -50,17 +54,11 @@ const cabins = await getAllCabins();
                   Amazing Views
                 </p>
               </div>
-              <p>
-                Located along the historic Paiute Trail in Utah’s Tushar
-                Mountains, in the Eagle Point Ski Resort off of Hwy 153, our
-                Mountain Cabins Utah Condos are true diamonds in the most
-                spectacular rough!...
-              </p>
+              <p>{truncate(description, 200)}</p>
             </div>
 
             <button>
-              {" "}
-              <a href={propertyURL}>Detail</a>
+              <a href={`/cabins/${name}`}>Detail</a>
             </button>
           </div>
         </div>

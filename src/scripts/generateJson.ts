@@ -8,6 +8,9 @@ export async function generateJson() {
 
   const cabinsExtraData = await Promise.all(
     cabins.map(async (cabin) => {
+      if (cabin.name === "Big Cabin on Deer Run") return [];
+      if (cabin.name === "Little Cabin on Deer Run") return [];
+      if (cabin.name === "Mountain Modern on Balsam") return [];
       const gallery = await getCabinGallery(cabin.uid);
       const extra = extraData.find((e) => e.uid === cabin.uid);
       return {
@@ -18,7 +21,10 @@ export async function generateJson() {
     })
   );
 
-  await writeFile("./src/data/cabins.json", JSON.stringify(cabinsExtraData));
+  await writeFile(
+    "./src/data/cabins.json",
+    JSON.stringify(cabinsExtraData.flatMap((c) => c))
+  );
 }
 
 await generateJson();
