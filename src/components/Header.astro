@@ -21,7 +21,16 @@ import Nav from "../components/Nav.astro";
     <line x1="0.5" y1="0.5" x2="120.5" y2="0.5" stroke="#F4F9F4"></line>
   </svg>
   <button class="button-light">BOOK YOUR STAY</button>
-  <div class="search">
+  <form class="search" action="/cabins/">
+    <input type="text" name="term" placeholder="South, Utah" />
+    <select name="price">
+      <option value="">Sort by</option>
+      <option value="asc"> Price (Low to High)</option>
+      <option value="desc"> Price (High to Low)</option>
+    </select>
+    <input type="submit" class="btn btn-search" value="Search" />
+  </form>
+  <!-- <div class="search">
     <input type="text" placeholder="South, Utah" />
     <div class="days">
       <input type="date" name="" id="check-in" placeholder="Check in" />
@@ -29,7 +38,7 @@ import Nav from "../components/Nav.astro";
     </div>
     <input type="number" name="" id="" placeholder="Guests" />
     <button class="btn-search">Search</button>
-  </div>
+  </div> -->
 </div>
 <style>
   p {
