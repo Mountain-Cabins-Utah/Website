@@ -6,14 +6,14 @@ import Tree from "../svgs/Tree.astro";
 <section>
   <div class="trees">
     <div class="section-tree">
-      <div class="tree-max"><Tree height="280"/></div>
-      <div class="tree-min"><Tree height="160"/></div>
-      <div class="tree"><Tree height="100"/></div>
+      <div class="tree-max"><Tree height="280" /></div>
+      <div class="tree-min"><Tree height="160" /></div>
+      <div class="tree"><Tree height="100" /></div>
     </div>
     <div class="section-tree">
-      <div class="tree"><Tree height="100"/></div>
-      <div class="tree-min"><Tree height="160"/></div>
-      <div class="tree-max"><Tree height="280"/></div>
+      <div class="tree"><Tree height="100" /></div>
+      <div class="tree-min"><Tree height="160" /></div>
+      <div class="tree-max"><Tree height="280" /></div>
     </div>
   </div>
 
@@ -45,7 +45,7 @@ import Tree from "../svgs/Tree.astro";
     position: relative;
   }
 
-  .trees{
+  .trees {
     height: 100%;
     width: 100%;
     position: absolute;
@@ -57,11 +57,11 @@ import Tree from "../svgs/Tree.astro";
     z-index: 0;
   }
 
-  .tree{
+  .tree {
     display: none;
   }
 
-  .trees .section-tree{
+  .trees .section-tree {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
@@ -71,7 +71,7 @@ import Tree from "../svgs/Tree.astro";
     position: relative;
     z-index: 20;
   }
-  .wrapper .menu{
+  .wrapper .menu {
     z-index: 30;
   }
   .wrapper h1 {
@@ -91,31 +91,31 @@ import Tree from "../svgs/Tree.astro";
   }
 
   @media only screen and (max-width: 840px) {
-    .tree-min{
+    .tree-min {
       display: none;
     }
 
-    .tree{
+    .tree {
       display: flex;
     }
   }
 
   @media only screen and (max-width: 768px) {
-    .tree-min{
+    .tree-min {
       display: flex;
     }
 
-    .tree-max{
+    .tree-max {
       display: none;
     }
   }
 
   @media only screen and (max-width: 425px) {
-    .tree-min{
+    .tree-min {
       display: none;
     }
 
-    .tree{
+    .tree {
       display: flex;
     }
   }
