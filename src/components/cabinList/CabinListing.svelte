@@ -13,9 +13,9 @@
   $: cabins = $searchResult;
 </script>
 
-<div class="cabins">
+<div class="cabins wrapper">
   {#each cabins as { name, maximumGuests: guestsMax, baseGuests: guestsMin, bedrooms, bathrooms, picture, description, uid } (uid)}
-    <div class="cabin wrapper" in:slide out:fade>
+    <div class="cabin" in:slide out:fade>
       <img src={picture} alt={`picture of ${name}`} />
       <div class="info">
         <h3>{name}</h3>
@@ -34,7 +34,7 @@
           </div>
           <p>{truncate(description, 200)}</p>
         </div>
-        <a href={`/cabins/${name}`} class="btn"> Detail </a>
+        <a href={`/cabins/${name}`} class="btn"> See Property </a>
       </div>
     </div>
   {/each}
@@ -42,35 +42,22 @@
 
 <style>
   .cabins {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 64px 0px;
+    display: grid;
+    padding-top: 64px;
+    padding-bottom: 64px;
     gap: 64px;
   }
 
   .cabin {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(350px, 1fr) 2fr;
     flex-direction: row;
-    gap: 8px;
-  }
-
-  .cabin .detail {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
+    gap: 2em;
   }
 
   .cabin img {
-    box-sizing: border-box;
-    min-width: 400px;
-    max-width: 400px;
     aspect-ratio: 4/3;
-
     border: 12px solid #f4f9f4;
-    /* Shadow */
-
     filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2));
   }
 
@@ -78,8 +65,14 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 0 24px 24px 24px;
     gap: 16px;
+  }
+
+  .cabin .detail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
   }
 
   .info h3 {
@@ -105,60 +98,21 @@
     background-color: rgba(39, 64, 40, 0.15);
   }
 
-  /* RESPONSIVE */
-  @media only screen and (max-width: 1024px) {
-    .cabin img {
-      box-sizing: border-box;
-      min-width: 300px;
-      max-width: 300px;
-      aspect-ratio: 1/1;
-
-      border: 8px solid #f4f9f4;
-    }
-  }
-
-  @media only screen and (max-width: 845px) {
+  @media only screen and (max-width: 1023px) {
     .cabins {
-      padding: 64px 24px;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
     }
 
     .cabin {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 4px;
-
-      border: 0.5px solid var(--secondary-400);
-    }
-
-    .cabin img {
-      box-sizing: border-box;
-      min-width: 400px;
-      max-width: 400px;
-      aspect-ratio: 2/1;
-
-      border: 12px solid #f4f9f4;
-      margin-top: 24px;
-    }
-
-    .cabin .info {
-      max-width: 600px;
-    }
-
-    .info h3 {
-      text-align: center;
-    }
-
-    .cabin a {
-      align-self: center;
+      grid-template-columns: 1fr;
     }
   }
 
-  @media only screen and (max-width: 480px) {
-    .cabin img {
-      box-sizing: border-box;
-      min-width: 250px;
-      max-width: 250px;
+  @media only screen and (max-width: 767px) {
+    .cabins {
+      grid-template-columns: 1fr;
+      gap: 4em;
     }
   }
 </style>
