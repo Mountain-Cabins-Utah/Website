@@ -1,6 +1,5 @@
 <script lang="ts">
   import { fade, slide } from "svelte/transition";
-  import Mountain from "../svgs/Mountain.svelte";
 
   import { searchResult } from "../../stores/cabins";
 
@@ -47,13 +46,12 @@
     flex-direction: column;
     align-items: center;
     padding: 64px 0px;
-    gap: 40px;
+    gap: 64px;
   }
 
   .cabin {
     display: flex;
     flex-direction: row;
-    align-items: center;
     gap: 8px;
   }
 
@@ -61,7 +59,6 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-
     gap: 8px;
   }
 
@@ -81,7 +78,7 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 24px;
+    padding: 0 24px 24px 24px;
     gap: 16px;
   }
 
