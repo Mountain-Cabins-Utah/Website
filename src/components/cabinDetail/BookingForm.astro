@@ -13,8 +13,10 @@ const { baseDailyRate } = cabin;
 <div class="details-booking">
   <div class="booking">
     <div class="price">
-      <span>${baseDailyRate}/</span>
-      <span>Weeknight</span>
+      <b
+        ><span class="number">${baseDailyRate}/</span>
+        <span class="week">Weeknight</span>
+      </b>
     </div>
     <div class="form">
       <div>
@@ -98,6 +100,20 @@ const { baseDailyRate } = cabin;
     align-items: center;
   }
 
+  .dates #check-in {
+    border-right: 0.5px;
+    border-radius: 4px 0px 0px 0px;
+  }
+
+  .dates #check-out {
+    border-radius: 0px 4px 0px 0px;
+  }
+
+  #guest {
+    border-top: 0.5px;
+    border-radius: 0px 0px 4px 4px;
+  }
+
   .form .dates input {
     width: 120px;
   }
@@ -105,5 +121,23 @@ const { baseDailyRate } = cabin;
   .form .price {
     display: flex;
     flex-direction: row;
+  }
+
+  .price .number {
+    font-size: 20px;
+  }
+
+  /* RESPONSIVE */
+  @media only screen and (max-width: 740px) {
+    .details-booking .booking {
+      border-radius: 0px;
+      position: fixed;
+      bottom: 0px;
+      left: 0px;
+      width: 100%;
+
+      height: fit-content;
+      z-index: 20;
+    }
   }
 </style>

@@ -90,43 +90,17 @@ import Nav from "../components/Nav.astro";
     z-index: 999;
   }
 
-  .search .days {
-    display: flex;
-    flex-direction: row;
-    gap: 0px;
-  }
-
-  .days #check-in {
-    border-radius: 4px 0px 0px 4px;
-    border-right: 0.5px solid var(--secondary-400);
-  }
-
-  .days #check-out {
-    border-radius: 0px 4px 4px 0px;
-  }
-
   /* RESPONSIVE */
-  @media only screen and (max-width: 950px) {
+  @media only screen and (max-width: 768px) {
     .header .search {
       width: 100%;
       justify-content: space-between;
       border-radius: 0px;
-      gap: 16px;
     }
 
-    input[type="date"] {
-      width: 100px;
-    }
-  }
-  @media only screen and (max-width: 768px) {
-    input[type="text"],
-    input[type="number"] {
+    input[type="text"] {
       width: 100%;
       min-width: none;
-    }
-
-    input[type="date"] {
-      width: 80px;
     }
 
     .decorative-hero {
@@ -140,18 +114,15 @@ import Nav from "../components/Nav.astro";
       flex-direction: column;
       align-items: center;
       padding: 16px 24px;
-      gap: 4px;
+      gap: 8px;
       border-radius: 8px;
       bottom: -90px;
       width: fit-content;
     }
 
     input[type="text"],
-    input[type="number"] {
-      width: 100%;
-    }
-
-    input[type="date"] {
+    select {
+      min-width: 300px;
       width: 100%;
     }
 
@@ -161,13 +132,18 @@ import Nav from "../components/Nav.astro";
       line-height: 36px;
     }
 
-    .search button {
-      margin-top: 16px;
+    .search .btn-search {
       width: 100%;
     }
   }
 
   @media only screen and (max-width: 400px) {
+    input[type="text"],
+    select {
+      min-width: 200px;
+      width: 100%;
+    }
+
     .header {
       gap: 24px;
     }

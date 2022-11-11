@@ -4,6 +4,7 @@
   import { onMount } from "svelte";
   import Close from "../components/svgs/Close.svelte";
   import type { Cabin } from "../api/cabins/getCabin";
+  import Mountain from "../components/svgs/Mountain.svelte";
 
   let term = "";
   let priceOrder: "asc" | "desc" | "" = "";
@@ -54,6 +55,12 @@
   }
 </script>
 
+<div class="separator">
+  <div class="line" />
+  <Mountain />
+  <div class="line" />
+</div>
+<h2>All Cabins</h2>
 <div class="wrapper">
   <div class="search">
     <input
@@ -80,6 +87,23 @@
 </div>
 
 <style>
+  .separator {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+
+    padding: 0px;
+    margin: 48px 0px;
+  }
+
+  .separator .line {
+    border-bottom: 2px solid rgb(0 0 0 / 50%);
+    height: 2px;
+    width: 100%;
+  }
+
   .wrapper {
     padding: 40px 0;
     display: flex;
@@ -91,11 +115,15 @@
     position: relative;
   }
 
-  input {
+  input,
+  select {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid var(--light);
+    background-color: var(--light);
     border-radius: 5px;
     margin: 0 10px;
+
+    min-width: 300px;
   }
 
   .close {
@@ -105,5 +133,25 @@
     right: 18px;
     top: 50%;
     transform: translateY(-50%);
+  }
+
+  /* RESPONSIVE */
+  @media only screen and (max-width: 768px) {
+    input,
+    select {
+      min-width: 200px;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    .wrapper {
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    input,
+    select {
+      min-width: 300px;
+    }
   }
 </style>

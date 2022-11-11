@@ -14,12 +14,6 @@
   $: cabins = $searchResult;
 </script>
 
-<div class="separator">
-  <div class="line" />
-  <Mountain />
-  <div class="line" />
-</div>
-<h2>All Cabins</h2>
 <div class="cabins">
   {#each cabins as { name, maximumGuests: guestsMax, baseGuests: guestsMin, bedrooms, bathrooms, picture, description, uid } (uid)}
     <div class="cabin wrapper" in:slide out:fade>
@@ -48,23 +42,6 @@
 </div>
 
 <style>
-  .separator {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    gap: 24px;
-
-    padding: 0px;
-    margin: 48px 0px;
-  }
-
-  .separator .line {
-    border-bottom: 2px solid rgb(0 0 0 / 50%);
-    height: 2px;
-    width: 100%;
-  }
-
   .cabins {
     display: flex;
     flex-direction: column;
