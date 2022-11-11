@@ -16,6 +16,7 @@
   "dependencies": {
     "@astrojs/svelte": "^1.0.2",
     "astro": "^1.6.0",
+    "photoswipe": "^5.3.3",
     "svelte": "^3.53.1"
   },
   "devDependencies": {
