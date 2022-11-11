@@ -59,4 +59,11 @@ const { amenities } = cabin;
     align-items: flex-start;
     gap: 16px;
   }
+
+  @media only screen and (max-width: 980px) {
+    .amenities .list {
+      grid-template-columns: repeat(1, 1fr);
+      gap: 1rem;
+    }
+  }
 </style>
