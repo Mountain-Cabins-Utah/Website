@@ -1,20 +1,8 @@
----
-import Logo from "./svgs/Logo.astro";
----
-
 <nav class="wrapp">
   <a href="/"><img class="logo" src="/img/logo-white.png" alt="logo" /></a>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/cabins">Cabins</a></li>
-    <!-- <li>
-      <a href="/">Local Activities</a>
-      <ul>
-        <li><a class="sub-item" href="/">Our bucket List</a></li>
-        <li><a class="sub-item" href="/">Special Services</a></li>
-        <li><a class="sub-item" href="/">Meet your hosts</a></li>
-      </ul>
-    </li> -->
   </ul>
 </nav>
 
@@ -86,9 +74,22 @@ import Logo from "./svgs/Logo.astro";
   }
 
   @media only screen and (max-width: 480px) {
+    .logo {
+      height: 48px;
+    }
+
     nav > ul {
-      flex-direction: column;
-      gap: 0px;
+      gap: 8px;
+    }
+  }
+
+  @media only screen and (max-width: 350px) {
+    .logo {
+      height: 40px;
+    }
+
+    nav > ul {
+      gap: 0;
     }
   }
 </style>

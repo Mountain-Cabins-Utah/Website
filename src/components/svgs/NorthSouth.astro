@@ -5,7 +5,7 @@
       <h3>North</h3>
       <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
       <p>Nightly Rate From $139</p>
-      <button class="btn"><a href="/cabins">See More</a></button>
+      <a href="/cabins/?location=north" class="btn">See More</a>
     </div>
   </div>
   <div class="cabin-item">
@@ -14,7 +14,7 @@
       <h3>South</h3>
       <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
       <p>Nightly Rate From $139</p>
-      <button class="btn"><a href="/cabins">See More</a></button>
+      <a href="/cabins/?location=south" class="btn">See More</a>
     </div>
   </div>
 </div>
@@ -80,33 +80,38 @@
     background: rgba(49, 81, 49, 0.25);
   }
 
-  @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1023px) {
     .list {
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       gap: 24px;
-
       padding: 0px 32px;
     }
   }
 
-  @media only screen and (max-width: 550px) {
-    .cabins .list {
-      gap: 48px;
+  @media only screen and (max-width: 580px) {
+    h4 {
+      text-align: center;
+    }
 
-      padding: 0px 32px;
+    .list {
+      gap: 4em;
+      padding: 0px;
     }
 
     .list .cabin-item {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 0.5em;
     }
 
     .cabin-item .text {
-      gap: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75em;
     }
 
     .header h4 {
