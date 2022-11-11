@@ -14,8 +14,8 @@ const { baseDailyRate } = cabin;
   <div class="booking">
     <div class="price">
       <b
-        ><span class="number">${baseDailyRate}/</span>
-        <span class="week">Weeknight</span>
+        ><span class="number">${baseDailyRate}</span>
+        <span class="week">/ Weeknight</span>
       </b>
     </div>
     <div class="form">
@@ -30,7 +30,7 @@ const { baseDailyRate } = cabin;
       <input type="text" name="" id="name" placeholder="Name" required />
       <input type="text" placeholder="Phone" id="phone" />
     </div>
-    <button>Reserve</button>
+    <button>Book Now</button>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ const { baseDailyRate } = cabin;
     gap: 16px;
   }
 
-  .booking button {
+  button {
     width: 100%;
     padding: 8px 32px;
     color: var(--light);
@@ -75,11 +75,11 @@ const { baseDailyRate } = cabin;
     border-radius: 5px;
   }
 
-  .booking button:hover {
+  button:hover {
     background: var(--primary-900);
   }
 
-  .form input {
+  .booking .form input {
     /* Auto layout */
     display: flex;
     flex-direction: row;
@@ -88,13 +88,12 @@ const { baseDailyRate } = cabin;
     gap: 10px;
 
     width: 100%;
-    background: var(--primary-200);
 
     border: 0.5px solid #696973;
     border-radius: 4px;
   }
 
-  .form .dates {
+  .dates {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -118,7 +117,8 @@ const { baseDailyRate } = cabin;
     width: 120px;
   }
 
-  .form .price {
+  .form .price,
+  .formResp .prince {
     display: flex;
     flex-direction: row;
   }
@@ -127,17 +127,14 @@ const { baseDailyRate } = cabin;
     font-size: 20px;
   }
 
-  /* RESPONSIVE */
-  @media only screen and (max-width: 740px) {
-    .details-booking .booking {
-      border-radius: 0px;
-      position: fixed;
-      bottom: 0px;
-      left: 0px;
-      width: 100%;
+  .price .week {
+    font-size: 12px;
+  }
 
-      height: fit-content;
-      z-index: 20;
+  /* RESPONSIVE */
+  @media only screen and (max-width: 820px) {
+    .details-booking {
+      display: none;
     }
   }
 </style>
