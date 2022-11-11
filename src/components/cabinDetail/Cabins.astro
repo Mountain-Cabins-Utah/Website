@@ -1,3 +1,7 @@
+---
+import NorthSouth from "../svgs/NorthSouth.astro";
+---
+
 <div class="cabins">
   <div class="header">
     <h3>
@@ -5,27 +9,7 @@
       Near Sundance Mountain Resort
     </h3>
   </div>
-
-  <div class="list">
-    <div class="cabin-item">
-      <img src="/img/cabin.png" alt="" />
-      <div class="text">
-        <h3>North</h3>
-        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
-        <p>Nightly Rate From $139</p>
-        <button class="btn"><a href="/cabins">See More</a></button>
-      </div>
-    </div>
-    <div class="cabin-item">
-      <img src="/img/cabin.png" alt="" />
-      <div class="text">
-        <h3>South</h3>
-        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
-        <p>Nightly Rate From $139</p>
-        <button class="btn"><a href="/cabins">See More</a></button>
-      </div>
-    </div>
-  </div>
+  <NorthSouth />
 </div>
 
 <style>

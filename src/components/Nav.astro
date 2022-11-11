@@ -3,7 +3,7 @@ import Logo from "./svgs/Logo.astro";
 ---
 
 <nav class="wrapp">
-  <a href="/"><Logo /></a>
+  <a href="/"><img class="logo" src="/img/logo-white.png" alt="logo"/></a>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/cabins">Cabins</a></li>
@@ -22,6 +22,10 @@ import Logo from "./svgs/Logo.astro";
   .wrapp {
     max-width: 1120px;
     margin: 0 auto;
+  }
+
+  .wrapp .logo{
+    max-height:  64px;
   }
 
   nav {
@@ -75,6 +79,12 @@ import Logo from "./svgs/Logo.astro";
   }
 
   /* RESPONSIVE */
+  @media only screen and (max-width: 1150px) {
+    .wrapp {
+      padding: 24px;
+    }
+  }
+
   @media only screen and (max-width: 480px) {
     nav > ul {
       flex-direction: column;

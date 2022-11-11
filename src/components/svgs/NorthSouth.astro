@@ -1,0 +1,117 @@
+<div class="list">
+    <div class="cabin-item">
+      <img src="/img/cabin.png" alt="" />
+      <div class="text">
+        <h3>North</h3>
+        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
+        <p>Nightly Rate From $139</p>
+        <button class="btn"><a href="/cabins">See More</a></button>
+      </div>
+    </div>
+    <div class="cabin-item">
+      <img src="/img/cabin.png" alt="" />
+      <div class="text">
+        <h3>South</h3>
+        <h4>At Eagle Point Ski Resort Beaver, Utah</h4>
+        <p>Nightly Rate From $139</p>
+        <button class="btn"><a href="/cabins">See More</a></button>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .list {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 16px;
+  
+      padding: 0px 24px;
+      max-width: 1120px;
+    }
+  
+    h3 {
+      max-width: 720px;
+      text-align: left;
+      font-size: 24px;
+      line-height: 30px;
+      text-align: center;
+      letter-spacing: -0.02em;
+    }
+  
+    h4 {
+      text-align: left;
+    }
+  
+    .list .cabin-item {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: start;
+      gap: 24px;
+    }
+    .list .cabin-item {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: start;
+      gap: 24px;
+    }
+  
+    .cabin-item img {
+      height: 200px;
+    }
+  
+    .cabin-item .text {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+  
+    .text .btn {
+      border: 2px solid var(--secondary-900);
+      border-radius: 5px;
+      background-color: rgba(250, 235, 215, 0);
+    }
+  
+    .text .btn:hover {
+      background: rgba(49, 81, 49, 0.25);
+    }
+
+    @media only screen and (max-width: 1000px) {
+      .list {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+  
+        padding: 0px 32px;
+      }
+    }
+
+    @media only screen and (max-width: 550px) {
+      .cabins .list {
+        gap: 48px;
+  
+        padding: 0px 32px;
+      }
+  
+      .list .cabin-item {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+  
+      .cabin-item .text {
+        gap: 8px;
+      }
+  
+      .header h4 {
+        text-align: center;
+        padding: 0px 8px;
+      }
+    }
+  </style>
