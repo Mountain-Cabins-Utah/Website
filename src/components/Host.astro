@@ -3,59 +3,69 @@ import MountainHome from "./svgs/MountainHome.astro";
 ---
 
 <div class="host">
-  <div class="img-text wrapper">
-    <div class="img">
-      <p class="name-host host-1"><b>Pamela McCue</b></p>
-      <img src="/img/host.png" alt="Pamela & Lynn" />
-      <p class="name-host host-2"><b>Lynn Jenkins</b></p>
-    </div>
-    <div class="content">
-      <h3>About Your Hosts</h3>
-      <div class="text">
-        <p>
-          Mountain Cabins Utah, is a dream realized by Pamela McCue and Lynn
-          Jenkins. Lynn was raised in Springville Utah, enjoying time in the
-          mountains hiking and dreaming of one day building a life in Sundance.
-          Pamela, coming from Austin TX, was introduced to Sundance in 2000, and
-          immediately fell in love with the landscape and with Lynn’s vision of
-          future possibilities. Now they have both exceeded their dreams and are
-          passionate about sharing their extraordinary circumstances with those
-          around the world. Their hope is that you will come visit, experience
-          the beauty of the mountains and breathe in the splendor of Mother
-          Nature.
-        </p>
-        <p>
-          Properties that Make a Difference is an LLC that was created by Pamela
-          and Lynn, with the intention of giving back to those in need. Both
-          coming from modest means and understanding the importance of giving
-          back to the community, they are doing what they can to give a helping
-          hand. The LLC will be donating a percentage of each rental to a
-          community service or non-profit organization that focuses on education
-          and other areas that help build a strong foundation for individual and
-          community growth. The wonderful part of all this is that when you rent
-          a cabin from Pamela and Lynn, you become a part of their community in
-          creating positive change, and opportunities for a better world!
-        </p>
-        <p class="phrase">We can’t wait to meet you!</p>
+  <div class="wrapper">
+    <div class="img-text">
+      <div class="img">
+        <p class="name-host host-1"><b>Pamela McCue</b></p>
+        <img src="/img/host.png" alt="Pamela & Lynn" />
+        <p class="name-host host-2"><b>Lynn Jenkins</b></p>
+      </div>
+      <div class="content">
+        <h2>About Your Hosts</h2>
+        <div class="text">
+          <p>
+            Mountain Cabins Utah, is a dream realized by Pamela McCue and Lynn
+            Jenkins. Lynn was raised in Springville Utah, enjoying time in the
+            mountains hiking and dreaming of one day building a life in
+            Sundance. Pamela, coming from Austin TX, was introduced to Sundance
+            in 2000, and immediately fell in love with the landscape and with
+            Lynn’s vision of future possibilities. Now they have both exceeded
+            their dreams and are passionate about sharing their extraordinary
+            circumstances with those around the world. Their hope is that you
+            will come visit, experience the beauty of the mountains and breathe
+            in the splendor of Mother Nature.
+          </p>
+          <p>
+            Properties that Make a Difference is an LLC that was created by
+            Pamela and Lynn, with the intention of giving back to those in need.
+            Both coming from modest means and understanding the importance of
+            giving back to the community, they are doing what they can to give a
+            helping hand. The LLC will be donating a percentage of each rental
+            to a community service or non-profit organization that focuses on
+            education and other areas that help build a strong foundation for
+            individual and community growth. The wonderful part of all this is
+            that when you rent a cabin from Pamela and Lynn, you become a part
+            of their community in creating positive change, and opportunities
+            for a better world!
+          </p>
+          <p class="phrase">We can’t wait to meet you!</p>
+        </div>
       </div>
     </div>
-  </div>
 
-  <div class="background">
-    <MountainHome />
+    <div class="background">
+      <MountainHome />
+    </div>
   </div>
 </div>
 
 <style>
   .host {
-    position: relative;
     background-color: var(--secondary-400);
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 
+  .wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 56px 0px;
+    padding-top: 7em;
+    padding-bottom: 7em;
   }
 
   .host .background {
@@ -75,7 +85,6 @@ import MountainHome from "./svgs/MountainHome.astro";
     align-items: center;
     padding: 0px;
     gap: 64px;
-
     z-index: 20;
   }
 
@@ -159,7 +168,6 @@ import MountainHome from "./svgs/MountainHome.astro";
   @media only screen and (max-width: 920px) {
     .host .img-text {
       flex-direction: column;
-      padding: 0px 40px;
       gap: 32px;
     }
 

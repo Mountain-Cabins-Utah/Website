@@ -46,7 +46,10 @@
     padding-top: 4.5rem;
   }
 
-  .wrapper > div {
+  .sundance,
+  .eagle-point {
+    display: flex;
+    gap: 2em;
     margin-bottom: 2rem;
   }
 
@@ -58,12 +61,6 @@
 
   h4 {
     font-size: 1.25rem;
-  }
-
-  .sundance,
-  .eagle-point {
-    display: flex;
-    gap: 2em;
   }
 
   @media only screen and (max-width: 1024px) {
@@ -92,6 +89,25 @@
   @media only screen and (max-width: 600px) {
     section {
       padding-top: 6.5rem;
+    }
+  }
+
+  @media only screen and (max-width: 425px) {
+    section {
+      padding-top: 9rem;
+    }
+
+    .sundance,
+    .eagle-point {
+      gap: 1em;
+      margin-bottom: 4rem;
+    }
+
+    .sundance > div,
+    .eagle-point > div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
   }
 </style>
