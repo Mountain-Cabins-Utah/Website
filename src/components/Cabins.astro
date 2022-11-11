@@ -1,66 +1,62 @@
 ---
 import NorthSouth from "./svgs/NorthSouth.astro";
 ---
+
 <div class="cabins">
   <div class="header">
     <h2>Our Cabins</h2>
     <h4>“The Mountains Are Calling, And I must Go” ~John Muir</h4>
   </div>
   <NorthSouth />
-  </div>
-  
-  <style>
-    .cabins {
-      /* Auto layout */
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 64px 0px;
-      gap: 64px;
+</div>
+
+<style>
+  .cabins {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px 0px;
+    gap: 64px;
+  }
+
+  .cabins .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .cabins .list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+
+    padding: 0px 24px;
+    max-width: 1120px;
+  }
+
+  h3 {
+    max-width: 720px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.02em;
+  }
+
+  h4 {
+    text-align: left;
+  }
+
+  /* RESPONSIVE */
+  @media only screen and (max-width: 768px) {
+    .header h3 {
+      font-size: 20px;
+      line-height: 24px;
+      padding: 0px 32px;
     }
-  
-    .cabins .header {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 16px;
-    }
-  
-    .cabins .list {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: flex-start;
-      gap: 16px;
-  
-      padding: 0px 24px;
-      max-width: 1120px;
-    }
-  
-    h3 {
-      max-width: 720px;
-      text-align: left;
-      font-size: 24px;
-      line-height: 30px;
-      text-align: center;
-      letter-spacing: -0.02em;
-    }
-  
-    h4 {
-      text-align: left;
-    }
-  
-    
-  
-    /* RESPONSIVE */  
-    @media only screen and (max-width: 768px) {
-      .header h3 {
-        font-size: 20px;
-        line-height: 24px;
-        padding: 0px 32px;
-      }
-    }
-  
-    
-  </style>
-  
+  }
+</style>
