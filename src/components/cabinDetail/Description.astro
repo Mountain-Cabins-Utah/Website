@@ -19,7 +19,7 @@ const string2 = description.substring(700, description.length);
     {string1}
     <span id="dots">...</span><span id="more">{string2}</span>
   </p>
-  <b><p onclick="toggleDescription()" id="descriptiont-text">Show More</p></b>
+  <span onclick="toggleDescription()" id="descriptiont-text">Show More</span>
 </div>
 
 <script is:inline>
@@ -51,6 +51,10 @@ const string2 = description.substring(700, description.length);
 
   h2 {
     color: var(--primary-800);
+  }
+
+  p {
+    text-align: justify;
   }
 
   .description #more {

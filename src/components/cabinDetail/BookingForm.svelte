@@ -2,52 +2,65 @@
   import { slide, fade } from "svelte/transition";
   export let baseDailyRate;
 
-  let shown = false;
-  function show() {
-    shown = !shown;
-
-    console.log(shown);
+  let show = false;
+  function toggleForm() {
+    show = !show;
   }
 </script>
 
 <div class="form-responsive">
-  <div class="inputs">
-    <div class="price-dates">
-      <div class="price">
-        <b
-          ><span class="number">${baseDailyRate}</span>
-          <span class="week">/ Weeknight</span>
-        </b>
-      </div>
+  <div class="price-dates">
+    <div class="price">
+      <span class="number">${baseDailyRate}</span>
+      <span class="week">/ Weeknight</span>
+    </div>
+  </div>
+  {#if !show}
+    <button on:click={toggleForm}>Book now</button>
+  {:else}
+    <button on:click={toggleForm}>Close</button>
+  {/if}
+
+  {#if show}
+    <div in:slide out:slide class="form">
       <div class="dates">
         <input type="date" name="" id="check-in" />
         <input type="date" name="" id="check-out" />
       </div>
+      <input type="number" id="guest" placeholder="Guests" />
+      <input type="email" name="" id="email" placeholder="Email" required />
+      <input type="text" name="" id="name" placeholder="Name" required />
+      <input type="text" placeholder="Phone" id="phone" />
+      <button on:click={toggleForm} class:hide={!toggleForm}>Book now</button>
     </div>
-
-    {#if shown}
-      <div in:slide out:slide class="form">
-        <input type="number" id="guest" placeholder="Guests" />
-        <input type="email" name="" id="email" placeholder="Email" required />
-        <input type="text" name="" id="name" placeholder="Name" required />
-        <input type="text" placeholder="Phone" id="phone" />
-        <button class="book">Book now</button>
-      </div>
-    {/if}
-  </div>
-  <button class="show" on:click={show}>^</button>
+  {/if}
 </div>
 
 <style>
   .form-responsive {
-    display: none;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    justify-content: space-around;
+    align-items: center;
     padding: 16px 32px;
     gap: 24px;
     background: var(--primary-50);
-    /* background: var(--secondary-200); */
     box-shadow: var(--shadow);
     border: 0.5px solid #696973;
     border-radius: 4px 4px 0px 0px;
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+  }
+
+  .price-dates {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .hide {
+    display: none;
   }
 
   button {
@@ -56,16 +69,7 @@
     color: var(--light);
     background: var(--primary-800);
     border-radius: 5px;
-  }
-
-  .form-responsive .show {
-    position: absolute;
-    padding: 0px;
-    width: 25px;
-    height: 25px;
-    border-radius: 100px;
-
-    right: 10px;
+    align-self: flex-start;
   }
 
   button:hover {
@@ -73,9 +77,11 @@
   }
 
   .dates {
-    display: flex;
-    flex-direction: row;
+    display: grid;
     align-items: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    width: 100%;
   }
 
   .dates #check-in {
@@ -90,57 +96,26 @@
   .form input {
     width: 100%;
   }
-  .form .book {
-    width: 100%;
+
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-column: 1/3;
   }
 
-  /* RESPONSIVE */
-  @media only screen and (max-width: 820px) {
+  input,
+  .dates {
+    margin-bottom: 1em;
+  }
+
+  input[type="date"] {
+    margin-bottom: 0;
+  }
+
+  @media only screen and (min-width: 767px) {
     .form-responsive {
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-
-      justify-content: space-between;
-      position: sticky;
-      bottom: 0px;
-      width: 100%;
-    }
-
-    .price-dates input[type="date"] {
-      min-width: 160px;
-    }
-    .price-dates {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .form {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    button {
-      width: fit-content;
-      height: fit-content;
-      padding: 8px 32px;
-
-      align-self: flex-start;
-    }
-  }
-
-  @media only screen and (max-width: 600px) {
-    .price-dates input[type="date"] {
-      min-width: 80px;
-    }
-  }
-
-  @media only screen and (max-width: 435px) {
-    .price-dates input[type="date"] {
-      min-width: 40px;
+      display: none;
     }
   }
 </style>
