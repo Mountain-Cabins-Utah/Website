@@ -18,7 +18,7 @@
   {#if !show}
     <button on:click={toggleForm}>Book now</button>
   {:else}
-    <button on:click={toggleForm}>Close</button>
+    <div class="close" on:click={toggleForm}>X</div>
   {/if}
 
   {#if show}
@@ -63,6 +63,11 @@
     display: none;
   }
 
+  .price {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
   button {
     width: 100%;
     padding: 8px 32px;
@@ -74,6 +79,11 @@
 
   button:hover {
     background: var(--primary-900);
+  }
+
+  .close {
+    font-size: 1.125rem;
+    font-weight: bold;
   }
 
   .dates {
@@ -113,9 +123,19 @@
     margin-bottom: 0;
   }
 
-  @media only screen and (min-width: 767px) {
+  @media only screen and (min-width: 769px) {
     .form-responsive {
       display: none;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    .form-responsive {
+      gap: 1em;
+    }
+
+    .price {
+      font-size: 0.75rem;
     }
   }
 </style>
