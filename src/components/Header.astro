@@ -30,7 +30,7 @@ import Nav from "../components/Nav.astro";
         <option value="desc">High to Low</option>
       </select>
       <select name="location">
-        <option value="">Sort by Location</option>
+        <option value="">Filter by Location</option>
         <option value="north">Sundance (North)</option>
         <option value="south">Beaver (South)</option>
       </select>
@@ -47,6 +47,10 @@ import Nav from "../components/Nav.astro";
   .btn-search {
     background-color: var(--brown);
     color: var(--light);
+  }
+
+  input:focus {
+    color: var(--brown);
   }
 
   .btn-search:hover {

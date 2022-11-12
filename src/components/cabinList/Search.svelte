@@ -98,7 +98,7 @@
     <input
       type="text"
       name="search"
-      placeholder="Search"
+      placeholder="South, Utah"
       bind:value={term}
       on:input={search}
     />
@@ -107,12 +107,12 @@
     {/if}
   </div>
   <select name="" id="" bind:value={priceOrder} on:change={search}>
-    <option value="" selected={true} disabled={true}>Sort by Location</option>
+    <option value="" selected={true} disabled={true}>Sort by Price</option>
     <option value="asc"> Price (Low to High) </option>
     <option value="desc"> Price (High to Low) </option>
   </select>
   <select name="location" bind:value={location} on:change={search}>
-    <option value="" selected={true} disabled={true}>Sort by Location</option>
+    <option value="" selected={true} disabled={true}>Filter by Location</option>
     <option value="north">Sundance (North)</option>
     <option value="south">Beaver (South)</option>
   </select>
