@@ -1,5 +1,15 @@
 ---
 import type { Cabin } from "../../api/cabins/getCabin";
+import Users from "../svgs/Users.astro";
+import Shower from "../svgs/Shower.astro";
+import DirectionSign from "../svgs/DirectionSign.astro";
+import MountainIcon from "../svgs/MountainIcon.astro";
+import ForkAndKnife from "../svgs/ForkAndKnife.astro";
+import Wifi from "../svgs/Wifi.astro";
+import Ski from "../svgs/Ski.astro";
+import Fire from "../svgs/Fire.astro";
+import Globe from "../svgs/Globe.astro";
+import Tv from "../svgs/Tv.astro";
 
 interface Props {
   cabin: Cabin;
@@ -8,6 +18,33 @@ interface Props {
 const { cabin } = Astro.props;
 
 const { highlight } = cabin["basic-info"];
+
+function getIcon(icon: string) {
+  switch (icon) {
+    case "person-plus":
+      return Users;
+    case "direction-sign":
+      return DirectionSign;
+    case "shower-head-water":
+      return Shower;
+    case "fork-plate-knife":
+      return ForkAndKnife;
+    case "basic-rss":
+      return Wifi;
+    case "travelling-backpack":
+      return MountainIcon;
+    case "skis-and-poles":
+      return Ski;
+    case "heart":
+      return Fire;
+    case "globe":
+      return Globe;
+    case "camera":
+      return Tv;
+    default:
+      return MountainIcon;
+  }
+}
 ---
 
 <section class="benefits">
@@ -15,11 +52,15 @@ const { highlight } = cabin["basic-info"];
     <h3>What this place offers</h3>
     <div class="list">
       {
-        highlight.map((item) => (
-          <div class="item-list">
-            <p>{item.text}</p>
-          </div>
-        ))
+        highlight.map((item) => {
+          const Icon = getIcon(item.icon);
+          return (
+            <div class="item-list">
+              <Icon />
+              <p>{item.text}</p>
+            </div>
+          );
+        })
       }
     </div>
   </div>
@@ -27,29 +68,54 @@ const { highlight } = cabin["basic-info"];
 
 <style>
   .benefits {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: var(--tertiary-700);
-    padding: 24px;
   }
 
-  .benefits .wrapper {
+  .wrapper {
     display: flex;
-    flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     color: var(--light);
-    gap: 64px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    gap: 4em;
   }
 
-  .benefits .wrapper h3 {
+  .benefits h3 {
     color: var(--light);
+    text-align: left;
+    font-size: 2em;
   }
 
-  .benefits .list {
+  .list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    grid-template-columns: repeat(2, auto);
+    gap: 1.5rem;
+    column-gap: 2.5em;
+  }
+
+  .item-list {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+  }
+
+  .list :global(svg) {
+    width: 2em;
+    height: 2em;
+    fill: var(--light);
+  }
+
+  @media only screen and (max-width: 768px) {
+    .wrapper {
+      flex-direction: column;
+      gap: 3em;
+    }
+  }
+
+  @media only screen and (max-width: 425px) {
+    .list {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
