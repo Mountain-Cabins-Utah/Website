@@ -3,6 +3,7 @@ import CabinListing from "../../components/cabinList/CabinListing.svelte";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ListingHeader from "../../components/cabinList/ListingHeader.astro";
 import Search from "../../components/cabinList/Search.svelte";
+import Footer from "../../components/Footer.astro";
 const title =
   "Mountain Cabins Utah vacation rentals - Sundance, UT & Eagle Point Ski Resort";
 ---
@@ -11,4 +12,5 @@ const title =
   <ListingHeader />
   <Search client:load />
   <CabinListing client:load />
+  <Footer />
 </BaseLayout>

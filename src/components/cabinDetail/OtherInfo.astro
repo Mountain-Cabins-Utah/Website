@@ -73,25 +73,27 @@ function getIcon(icon: string) {
 
   .wrapper {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     color: var(--light);
-    padding-top: 2em;
-    padding-bottom: 2em;
-    gap: 4em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    gap: 3em;
   }
 
   .benefits h3 {
     color: var(--light);
     text-align: left;
-    font-size: 2em;
+    font-size: 2.5em;
   }
 
   .list {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(3, auto);
     gap: 1.5rem;
     column-gap: 2.5em;
+    width: 100%;
   }
 
   .item-list {
@@ -107,15 +109,20 @@ function getIcon(icon: string) {
   }
 
   @media only screen and (max-width: 768px) {
-    .wrapper {
-      flex-direction: column;
-      gap: 3em;
+    .list {
+      grid-template-columns: repeat(2, auto);
+      justify-content: space-around;
+    }
+
+    .benefits h3 {
+      text-align: center;
+      font-size: 2em;
     }
   }
 
   @media only screen and (max-width: 425px) {
     .list {
-      grid-template-columns: 1fr;
+      grid-template-columns: auto;
     }
   }
 </style>
