@@ -16,9 +16,11 @@
 <div class="cabins wrapper">
   {#each cabins as { name, maximumGuests: guestsMax, baseGuests: guestsMin, bedrooms, bathrooms, picture, description, uid } (uid)}
     <div class="cabin" in:slide out:fade>
-      <img src={picture} alt={`picture of ${name}`} />
+      <a href={`/cabins/${name}`}
+        ><img src={picture} alt={`picture of ${name}`} /></a
+      >
       <div class="info">
-        <h3>{name}</h3>
+        <h3><a href={`/cabins/${name}`}>{name}</a></h3>
         <div class="detail">
           <div class="basic">
             <p class="size">
@@ -88,13 +90,13 @@
     font-size: 12px;
   }
 
-  .cabin a {
+  .cabin .btn {
     border: 2px solid var(--primary-900);
     background-color: rgba(255, 255, 255, 0);
     color: var(--primary-900);
   }
 
-  .cabin a:hover {
+  .cabin .btn:hover {
     background-color: rgba(39, 64, 40, 0.15);
   }
 
