@@ -16,6 +16,7 @@ import BookingFormSvelte from "../../components/cabinDetail/BookingForm.svelte";
 import OtherInfo from "../../components/cabinDetail/OtherInfo.astro";
 import Map from "../../components/Map.astro";
 import Footer from "../../components/Footer.astro";
+import HostfullyWidget from "../../components/HostfullyWidget.astro";
 
 export async function getStaticPaths() {
   const cabins = await getAllCabins();
@@ -76,13 +77,14 @@ const cabin = Astro.props.cabin as Cabin;
       </svg>
       <Amenities cabin={cabin} />
     </div>
-    <BookingForm cabin={cabin} />
+    <HostfullyWidget propertyId={cabin.uid} />
+    <!-- <BookingForm cabin={cabin} /> -->
   </div>
   <OtherInfo cabin={cabin} />
   <Map label={cabin.map.label} url={cabin.map.url} />
   <Cabins />
   <Footer />
-  <BookingFormSvelte baseDailyRate={cabin.baseDailyRate} client:load />
+  <!-- <BookingFormSvelte baseDailyRate={cabin.baseDailyRate} client:load /> -->
 </BaseLayout>
 
 <style>
