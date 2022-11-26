@@ -7,6 +7,10 @@ import Envelop from "./svgs/Envelop.astro";
 import Phone from "./svgs/Phone.astro";
 import Location from "./svgs/Location.astro";
 
+import reviews from "../data/reviews.json";
+
+const randomReview = reviews[Math.floor(Math.random() * reviews.length)];
+
 const socials = [
   {
     url: "https://www.facebook.com/mtcabinsutah/",
@@ -79,11 +83,10 @@ const contact = [
     </div>
     <div class="reviews">
       <h4>What Guests Say</h4>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
-        Aliquam in hendrerit ur na. Pellentesque sit amet sapien fringilla,
-        mattis ligula consectetur, ultrices mauris.
-      </p>
+      <blockquote>
+        <p>{randomReview.author}:</p>
+        <cite>{randomReview.content}</cite>
+      </blockquote>
     </div>
     <div class="contact-info">
       <h4>Contact Mountain Cabins Utah</h4>
