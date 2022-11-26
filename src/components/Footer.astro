@@ -7,6 +7,8 @@ import Envelop from "./svgs/Envelop.astro";
 import Phone from "./svgs/Phone.astro";
 import Location from "./svgs/Location.astro";
 
+import SingleReview from "./SingleReview.svelte";
+
 const socials = [
   {
     url: "https://www.facebook.com/mtcabinsutah/",
@@ -79,11 +81,7 @@ const contact = [
     </div>
     <div class="reviews">
       <h4>What Guests Say</h4>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.
-        Aliquam in hendrerit ur na. Pellentesque sit amet sapien fringilla,
-        mattis ligula consectetur, ultrices mauris.
-      </p>
+      <SingleReview client:load />
     </div>
     <div class="contact-info">
       <h4>Contact Mountain Cabins Utah</h4>
