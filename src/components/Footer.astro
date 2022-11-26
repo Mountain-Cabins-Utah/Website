@@ -7,9 +7,7 @@ import Envelop from "./svgs/Envelop.astro";
 import Phone from "./svgs/Phone.astro";
 import Location from "./svgs/Location.astro";
 
-import reviews from "../data/reviews.json";
-
-const randomReview = reviews[Math.floor(Math.random() * reviews.length)];
+import SingleReview from "./SingleReview.svelte";
 
 const socials = [
   {
@@ -83,10 +81,7 @@ const contact = [
     </div>
     <div class="reviews">
       <h4>What Guests Say</h4>
-      <blockquote>
-        <p>{randomReview.author}:</p>
-        <cite>{randomReview.content}</cite>
-      </blockquote>
+      <SingleReview client:load />
     </div>
     <div class="contact-info">
       <h4>Contact Mountain Cabins Utah</h4>
