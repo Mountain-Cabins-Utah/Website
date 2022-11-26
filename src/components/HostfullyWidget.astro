@@ -16,11 +16,35 @@ const { propertyId } = Astro.props;
   src="https://platform.hostfully.com/assets/js/leadCaptureWidget_2.0.js"
 ></script>
 
-<div id="leadWidget"></div>
+<div class="widget-wrapper">
+  <div class="booking-btn">
+    <button>BOOK NOW</button><div class="close hide">X</div>
+  </div>
+  <div id="leadWidget"></div>
+</div>
 
 <script is:inline define:vars={{ propertyId }}>
+  const currentDate = new Date();
+  const currentYear = currentDate.getFullYear();
+
+  const bookingBtn = document.querySelector(".booking-btn button");
+  const closeBtn = document.getElementsByClassName("close")[0];
+  const leadWidget = document.getElementsByClassName("widget-wrapper")[0];
+
+  bookingBtn.addEventListener("click", () => {
+    leadWidget.classList.toggle("active");
+    bookingBtn.classList.add("hide");
+    closeBtn.classList.remove("hide");
+  });
+
+  closeBtn.addEventListener("click", () => {
+    leadWidget.classList.toggle("active");
+    bookingBtn.classList.remove("hide");
+    closeBtn.classList.add("hide");
+  });
+
   const widget = new Widget("leadWidget", propertyId, {
-    maximun_availability: "2025-11-24T15:58:08.187Z",
+    maximun_availability: `${currentYear + 3}-11-24T15:58:08.187Z`,
     type: "agency",
     fields: [],
     showAvailability: true,
@@ -32,11 +56,11 @@ const { propertyId } = Astro.props;
     emailClient: true,
     saveCookie: true,
     showDynamicMinStay: true,
-    backgroundColor: "#f4f9f4",
-    buttonSubmit: { backgroundColor: "#274028" },
+    backgroundColor: "var(--primary-50)",
+    buttonSubmit: { backgroundColor: "var(--primary-800)" },
     showPriceDetailsLink: false,
     showGetQuoteLink: false,
-    labelColor: "#100f1b",
+    labelColor: "var(--text-primary)",
     showTotalWithoutSD: true,
     redirectURL: false,
     showDiscount: true,
@@ -56,13 +80,41 @@ const { propertyId } = Astro.props;
 </script>
 
 <style>
-  #leadWidget {
-    display: flex;
+  .widget-wrapper {
     height: 100%;
     position: sticky;
     z-index: 999;
     top: 40px;
     margin-bottom: 40px;
+    min-width: 290px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .widget-wrapper.active {
+    transform: translateY(0);
+  }
+
+  .widget-wrapper .hide {
+    display: none;
+  }
+
+  .booking-btn {
+    display: none;
+  }
+
+  #leadWidget {
+    display: flex;
+    height: 100%;
+    font-family: inherit;
+  }
+
+  .close {
+    display: none;
+    font-size: 1.125rem;
+    font-weight: 700;
+    position: relative;
+    top: 10px;
+    right: 16px;
   }
 
   #leadWidget :global(form) {
@@ -71,6 +123,7 @@ const { propertyId } = Astro.props;
     padding: 16px 24px 32px;
     border: 1px solid #696973;
     box-shadow: var(--shadow);
+    gap: 1rem;
   }
 
   #leadWidget :global(div),
@@ -82,7 +135,95 @@ const { propertyId } = Astro.props;
     margin: 0;
   }
 
-  #leadWidget :global(.orbirental-capture-widget-totalnights) {
+  #leadWidget :global(.orbirental-capture-widget-price-option) {
+    display: flex;
+  }
+
+  #leadWidget :global(.orbirental-capture-widget-price-option br) {
     display: none;
+  }
+
+  #leadWidget :global(.orbirental-capture-widget-price-option) {
+    font-size: inherit;
+  }
+
+  #leadWidget :global(.orbirental-capture-widget-totalnights) {
+    text-align: left;
+    font-size: inherit;
+  }
+
+  #leadWidget :global(form.orbirental-capture-widget-form > div) {
+    padding: 0 !important;
+  }
+
+  #leadWidget :global(.orbirental-capture-widget-form button) {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    align-items: center;
+    padding: 8px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    border-style: none;
+  }
+
+  #leadWidget :global(.orbirental-capture-widget-form input),
+  #leadWidget :global(.orbirental-capture-widget-form select) {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    gap: 10px;
+    width: 100%;
+    border: 0.5px solid #696973;
+    border-radius: 4px;
+    background-color: var(--secondary-200);
+    outline: none;
+    font-size: 14px;
+    height: auto;
+    font-family: var(--font-body);
+  }
+
+  @media only screen and (max-width: 768px) {
+    .widget-wrapper {
+      position: fixed;
+      width: 100%;
+      left: 0;
+      bottom: 0;
+      height: auto;
+      margin-bottom: 0;
+      transform: translateY(89%);
+      top: auto;
+    }
+
+    .booking-btn {
+      display: block;
+    }
+
+    #leadWidget {
+      width: 100%;
+    }
+
+    .booking-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+
+    button {
+      width: 100%;
+      padding: 8px 32px;
+      color: var(--light);
+      background: var(--primary-800);
+      border-radius: 5px;
+      align-self: flex-start;
+    }
+
+    .close {
+      display: block;
+    }
   }
 </style>

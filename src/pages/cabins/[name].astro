@@ -78,13 +78,11 @@ const cabin = Astro.props.cabin as Cabin;
       <Amenities cabin={cabin} />
     </div>
     <HostfullyWidget propertyId={cabin.uid} />
-    <!-- <BookingForm cabin={cabin} /> -->
   </div>
   <OtherInfo cabin={cabin} />
   <Map label={cabin.map.label} url={cabin.map.url} />
   <Cabins />
   <Footer />
-  <!-- <BookingFormSvelte baseDailyRate={cabin.baseDailyRate} client:load /> -->
 </BaseLayout>
 
 <style>
