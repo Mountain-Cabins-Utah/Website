@@ -1,7 +1,7 @@
 ---
 import Check from "../svgs/Check.astro";
 
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin } from "../../types/cabin";
 
 interface Props {
   cabin: Cabin;
@@ -13,7 +13,7 @@ const { amenities } = cabin;
 ---
 
 {
-  amenities.length > 0 && (
+  amenities && amenities.length > 0 && (
     <div class="amenities">
       <h2>Amenities</h2>
       <div class="list">
@@ -24,7 +24,7 @@ const { amenities } = cabin;
             </div>
             <div class="text">
               <b>{item.title}</b>
-              <p>{item.text}</p>
+              <p>{item.description}</p>
             </div>
           </div>
         ))}

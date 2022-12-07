@@ -1,0 +1,81 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+local_backend: true
+
+publish_mode: editorial_workflow
+
+media_folder: "src/assets" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "cabins" # Used in routes, e.g., /admin/collections/blog
+    label: "cabins" # Used in the UI
+    label_singular: "cabin"
+    folder: "src/data/cms" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    summary: "{{name}}" # Summary for the collection and each document
+    format: "json"
+    identifier_field: "uuid"
+    extension: "json"
+    fields: # The fields for each document, usually in front matter
+      - { label: "uuid", name: "uid", widget: "hidden" }
+      - { label: "name", name: "name", widget: "hidden" }
+      - {
+          label: "map",
+          name: "map",
+          widget: "object",
+          collapsed: false,
+          fields:
+            [
+              { label: "Label", name: "label", widget: "string" },
+              { label: "url", name: "url", widget: "string" },
+            ],
+        }
+      - {
+          label: "description list",
+          label_singular: "item",
+          name: "description info",
+          widget: "list",
+          allow_add: true,
+          collapsed: false,
+          fields:
+            [
+              { label: "title", name: "title", widget: "string" },
+              { label: "description", name: "description", widget: "string" },
+            ],
+        }
+      - {
+          label: "amenities",
+          label_singular: "amenity",
+          name: "amenities",
+          widget: "list",
+          allow_add: true,
+          collapsed: false,
+          fields:
+            [
+              { label: "title", name: "title", widget: "string" },
+              { label: "description", name: "description", widget: "string" },
+            ],
+        }
+      - {
+          label: "footer list",
+          label_singular: "item",
+          name: "footer info",
+          widget: "list",
+          allow_add: true,
+          collapsed: false,
+          summary: "{{text}}",
+          fields:
+            [
+              {
+                label: "icon",
+                name: "icon",
+                widget: "select",
+                options: ["people", "shower", "signs", "bed", "wifi", "tv"],
+              },
+              { label: "text", name: "text", widget: "string" },
+            ],
+        }

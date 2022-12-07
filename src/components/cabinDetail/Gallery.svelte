@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from "svelte";
   import "photoswipe/style.css";
-  import type { Picture } from "../../api/cabins/getCabin";
+  import type { Picture } from "../../types/cabin";
 
   export let fullGallery: Picture[];
   let galleryID = "gallery-ps";

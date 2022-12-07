@@ -1,25 +1,21 @@
 ---
 import Nav from "../../components/cabinDetail/Nav.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Question from "../../components/cabinDetail/Question.astro";
 import Cabins from "../../components/cabinDetail/Cabins.astro";
 import HeaderSvelte from "../../components/cabinDetail/Header.svelte";
 
-import { getAllCabins } from "../../api/cabins/getAllCabins";
-import type { Cabin } from "../../api/cabins/getCabin";
+import cabins from "../../data/cabins.json";
 import BasicInfo from "../../components/cabinDetail/BasicInfo.astro";
 import Description from "../../components/cabinDetail/Description.astro";
 import Amenities from "../../components/cabinDetail/Amenities.astro";
-import BookingForm from "../../components/cabinDetail/BookingForm.astro";
-import BookingFormSvelte from "../../components/cabinDetail/BookingForm.svelte";
 
 import OtherInfo from "../../components/cabinDetail/OtherInfo.astro";
 import Map from "../../components/Map.astro";
 import Footer from "../../components/Footer.astro";
 import HostfullyWidget from "../../components/HostfullyWidget.astro";
+import type { Cabin } from "../../types/cabin";
 
 export async function getStaticPaths() {
-  const cabins = await getAllCabins();
   return cabins.map((cabin) => ({
     params: {
       name: cabin.name,
@@ -30,7 +26,7 @@ export async function getStaticPaths() {
   }));
 }
 
-const { name } = Astro.params as { name: string };
+const { name } = Astro.params;
 const cabin = Astro.props.cabin as Cabin;
 ---
 
@@ -80,7 +76,8 @@ const cabin = Astro.props.cabin as Cabin;
     <HostfullyWidget propertyId={cabin.uid} />
   </div>
   <OtherInfo cabin={cabin} />
-  <Map label={cabin.map.label} url={cabin.map.url} />
+  <!-- TODO: HANDLE UNDEFINED -->
+  <Map label={cabin.map?.label} url={cabin.map?.url} />
   <Cabins />
   <Footer />
 </BaseLayout>

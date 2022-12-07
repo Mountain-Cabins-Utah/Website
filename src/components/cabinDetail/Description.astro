@@ -1,5 +1,5 @@
 ---
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin } from "../../types/cabin";
 
 interface Props {
   cabin: Cabin;
@@ -9,8 +9,9 @@ const { cabin } = Astro.props;
 
 const { description } = cabin;
 
-const string1 = description.substring(0, 700);
-const string2 = description.substring(700, description.length);
+const summary = description.summary || "";
+const string1 = summary.substring(0, 700);
+const string2 = summary.substring(700, summary.length);
 ---
 
 <div class="description">

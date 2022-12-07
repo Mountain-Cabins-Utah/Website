@@ -1,5 +1,5 @@
 ---
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin } from "../../types/cabin";
 import Check from "../svgs/Check.astro";
 
 interface Props {
@@ -8,22 +8,23 @@ interface Props {
 
 const { cabin } = Astro.props;
 
-const basicInfo = cabin["basic-info"].other;
+const basicInfo = cabin["description info"];
 ---
 
 <div class="basic-info">
   {
-    basicInfo.map((item) => (
-      <div class="item">
-        <div class="icon">
-          <Check />
+    basicInfo &&
+      basicInfo.map((item) => (
+        <div class="item">
+          <div class="icon">
+            <Check />
+          </div>
+          <div class="text">
+            <b>{item.title}</b>
+            <p>{item.description}</p>
+          </div>
         </div>
-        <div class="text">
-          <b>{item.title}</b>
-          <p>{item.text}</p>
-        </div>
-      </div>
-    ))
+      ))
   }
 </div>
 

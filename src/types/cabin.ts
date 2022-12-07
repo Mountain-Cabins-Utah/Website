@@ -1,15 +1,27 @@
-import { getApiKey } from "../../utils/consts";
-import cachedCabins from "../../data/cabins.json";
+export type Cabin = HostfullyData & CMSData;
 
-export type Cabin = CabinT & ExtraData & Gallery;
+export type HostfullyData = HostfullyProperty &
+  HostfullyPropertyGallery &
+  HostfullyDescription;
 
-export interface Gallery {
-  gallery: Picture[];
+export interface HostfullyDescription {
+  description: {
+    name: string;
+    shortSummary: string;
+    summary: string;
+    notes: string;
+    access: string;
+    transit: string;
+    interaction: string;
+    neighbourhood: string;
+    space: string;
+    houseManual: string;
+    locale: string;
+  };
 }
 
-export interface Map {
-  label: string;
-  url: string;
+export interface HostfullyPropertyGallery {
+  gallery: Picture[];
 }
 
 export interface Picture {
@@ -20,7 +32,7 @@ export interface Picture {
   airbnbRoomId: null;
 }
 
-export interface CabinT {
+interface HostfullyProperty {
   pricingRules: PricingRules | null;
   bedCount: number;
   bedTypes: { [key: string]: number };
@@ -84,7 +96,7 @@ export interface CabinT {
   uid: string;
 }
 
-export interface ListingLinks {
+interface ListingLinks {
   airbnbUrl: string | null;
   hostfullyUrl: string;
   bookingDotComUrl: string | null;
@@ -93,73 +105,43 @@ export interface ListingLinks {
   hvmiUrl: null;
 }
 
-export interface PricingRules {
+interface PricingRules {
   increaseRate: number;
   increaseRateLowerBound: number;
   decreaseRate: number;
   decreaseRateHigherBound: number;
 }
 
-export interface Reviews {
+interface Reviews {
   total: number;
   average: null | number;
 }
 
-export interface ExtraData {
-  "basic-info": BasicInfo;
-  description: string;
-  amenities: Amenity[];
+export interface CMSData {
   uid: string;
-  map: Map;
+  name: string;
+  "description info"?: BasicInfo[];
+  amenities?: Amenities[];
+  "footer info"?: FooterInfo[];
+  map?: Map;
 }
 
-export interface BasicInfo {
-  highlight: Highlight[];
-  other: Other[];
-}
-
-export interface Highlight {
-  text: string;
-  icon: string;
-}
-
-export interface Other {
-  icon: string;
+interface BasicInfo {
   title: string;
-  text: string;
+  description: string;
 }
 
-export interface Amenity {
-  icon: string;
+interface Amenities {
   title: string;
+  description: string;
+}
+
+interface FooterInfo {
+  icon: "people" | "bed" | "bathtub" | "map" | "highlight" | "other";
   text: string;
 }
 
-export async function getCabin({
-  cached = true,
-  id,
-}: {
-  cached?: boolean;
-  id: string;
-}): Promise<Cabin | undefined> {
-  if (cached) {
-    // find the cabin with the matching id
-    const cabin = cachedCabins.find((cabin) => cabin.uid === id);
-    return cabin;
-  }
-
-  const url = `https://api.hostfully.com/v2/properties/${id}`;
-
-  const headers = {
-    "Content-Type": "application/json",
-    "X-HOSTFULLY-APIKEY": getApiKey(),
-  };
-
-  const response = await fetch(url, {
-    method: "GET",
-    headers,
-  });
-
-  const data = await response.json();
-  return data;
+interface Map {
+  label: string;
+  url: string;
 }

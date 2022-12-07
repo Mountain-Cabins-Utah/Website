@@ -1,0 +1,297 @@
+{
+  "pricingRules": {
+    "increaseRate": 0,
+    "increaseRateLowerBound": 0,
+    "decreaseRate": 0,
+    "decreaseRateHigherBound": 0
+  },
+  "bedCount": 8,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 2,
+    "doubleBed": 0,
+    "singleBed": 5,
+    "sofaBed": 1,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "HOUSE",
+  "name": "Nº17 Snowflake at Eagle Point Ski Resort",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 11,
+  "baseDailyRate": 170,
+  "city": "Beaver",
+  "state": "UT",
+  "address1": "Snowflake Nº17",
+  "address2": "Eagle Point Ski Resort",
+  "postalCode": "84713",
+  "countryCode": "US",
+  "bedrooms": 3,
+  "bathrooms": "2",
+  "picture": "https://orbirental-images.s3.amazonaws.com/77cf1fd0-70b9-4719-a2fb-824219b897ca",
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/23489/eagle-point-resort-%E2%80%A2-wooded-ridge-n%C2%BA8-%E2%80%A2-beaver%2C-ut",
+  "cleaningFeeAmount": 75,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": "",
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/24475.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": null,
+  "floor": 2,
+  "areaSize": 1200,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 38.3203245,
+  "longitude": -112.3838562,
+  "airBnBID": "38701676",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24475/n%C2%BA17-snowflake-at-eagle-point-ski-resort-",
+  "guideBookUrl": "https://hostful.ly/gjwpkgl",
+  "weekEndRatePercentAdjustment": 47.0588,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "",
+  "wifiPassword": "",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 2,
+    "average": 5
+  },
+  "createdDate": 1567619065000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/38701676",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/24475/n%C2%BA17-snowflake-at-eagle-point-ski-resort-",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": "https://www.vrbo.com/2254281",
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "f2f3d52b-8372-4c62-91f7-ab098c3da747",
+  "gallery": [
+    {
+      "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
+      "description": "Sofa sleeper in the living room",
+      "url": "https://orbirental-images.s3.amazonaws.com/bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3368c375-0b0e-4528-8b1f-db8d152c35b1",
+      "description": "Living room and sliding door to covered deck",
+      "url": "https://orbirental-images.s3.amazonaws.com/3368c375-0b0e-4528-8b1f-db8d152c35b1",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c5c507d7-e8c2-4d2a-9468-67c9617c1469",
+      "description": "Kitchen",
+      "url": "https://orbirental-images.s3.amazonaws.com/c5c507d7-e8c2-4d2a-9468-67c9617c1469",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
+      "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "bbda616d-71a1-442a-b79e-1ea7e3e58144",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/bbda616d-71a1-442a-b79e-1ea7e3e58144",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cfb9530b-6d0e-4a83-b55f-656eeac9768e",
+      "description": "Five Twin Beds including Trundle Bed.",
+      "url": "https://orbirental-images.s3.amazonaws.com/cfb9530b-6d0e-4a83-b55f-656eeac9768e",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a89115c7-c21c-46c3-9de1-ab1a36976eec",
+      "description": "Bathroom with jetted tub and shower",
+      "url": "https://orbirental-images.s3.amazonaws.com/a89115c7-c21c-46c3-9de1-ab1a36976eec",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d37982b9-d3ae-42ee-99d7-c742e41f90c1",
+      "description": "Comfy bed and cozy sheets",
+      "url": "https://orbirental-images.s3.amazonaws.com/d37982b9-d3ae-42ee-99d7-c742e41f90c1",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
+      "description": "Well stocked kitchen.  Just bring food.",
+      "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e3edb0f5-d31c-4b98-9ece-f528454060f8",
+      "description": "Queen sized bed in the bedroom on second floor",
+      "url": "https://orbirental-images.s3.amazonaws.com/e3edb0f5-d31c-4b98-9ece-f528454060f8",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
+      "description": "Full-sized bathrooms with bathtubs and showers",
+      "url": "https://orbirental-images.s3.amazonaws.com/d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1bc33ae4-794d-4769-8531-51f4b02016de",
+      "description": "In house washer & dryer",
+      "url": "https://orbirental-images.s3.amazonaws.com/1bc33ae4-794d-4769-8531-51f4b02016de",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "09e18cd1-da47-4c67-b870-7bdc59aedf76",
+      "description": "Fishing at Puffer Lake – minutes from Snowflake 17",
+      "url": "https://orbirental-images.s3.amazonaws.com/09e18cd1-da47-4c67-b870-7bdc59aedf76",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "94b07487-1f29-4ea9-98f0-7712cb9c97e8",
+      "description": "Beautiful Puffer Lake",
+      "url": "https://orbirental-images.s3.amazonaws.com/94b07487-1f29-4ea9-98f0-7712cb9c97e8",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "52085792-9d6f-49e2-87e5-194e664aca44",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/52085792-9d6f-49e2-87e5-194e664aca44",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "355514b8-66c7-4b87-84c9-564c1a058f5b",
+      "description": "If Norman Rockwell were at Eagle Point Ski Resort...",
+      "url": "https://orbirental-images.s3.amazonaws.com/355514b8-66c7-4b87-84c9-564c1a058f5b",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d88f2802-9661-4ea1-90e5-24b0cdb47476",
+      "description": "Canyonside Lodge at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/d88f2802-9661-4ea1-90e5-24b0cdb47476",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3afa24cd-01e6-491d-879c-8a53ccb93eb0",
+      "description": "Canyonside Lift in moonlight",
+      "url": "https://orbirental-images.s3.amazonaws.com/3afa24cd-01e6-491d-879c-8a53ccb93eb0",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "54231bba-ed7c-46fb-b3e3-923d2c3e6ea6",
+      "description": "Twilight at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/54231bba-ed7c-46fb-b3e3-923d2c3e6ea6",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "39148674-76e9-4055-8459-aab2bd626bab",
+      "description": "Happy Camper!",
+      "url": "https://orbirental-images.s3.amazonaws.com/39148674-76e9-4055-8459-aab2bd626bab",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f179bfce-f26c-4ef4-a89c-b4f9d6726ef2",
+      "description": "Canyonside Lodge at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/f179bfce-f26c-4ef4-a89c-b4f9d6726ef2",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f99aff70-a189-4503-8633-884e087641f2",
+      "description": "Canyonside Lodge at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/f99aff70-a189-4503-8633-884e087641f2",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7148a5ea-b9ba-434d-9f5b-b681f02970ff",
+      "description": "Bike & ski rentals are done here at the shop on the Upper Mountain",
+      "url": "https://orbirental-images.s3.amazonaws.com/7148a5ea-b9ba-434d-9f5b-b681f02970ff",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c000eb27-b7d4-4d2d-bd5d-6ace9ef7aa18",
+      "description": "Bike & ski rentals are done here at the shop on the Upper Mountain",
+      "url": "https://orbirental-images.s3.amazonaws.com/c000eb27-b7d4-4d2d-bd5d-6ace9ef7aa18",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b5cfa60d-4b78-4bbe-ba4d-f4e151a35220",
+      "description": "It's so fresh at 10,000 feet!",
+      "url": "https://orbirental-images.s3.amazonaws.com/b5cfa60d-4b78-4bbe-ba4d-f4e151a35220",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "95296696-dfa9-40ac-91bd-6df399ef4ecf",
+      "description": "Wide-open spaces and spectacular views",
+      "url": "https://orbirental-images.s3.amazonaws.com/95296696-dfa9-40ac-91bd-6df399ef4ecf",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Nº17 Snowflake at Eagle Point Ski Resort ",
+    "shortSummary": "Nº17 Snowflake at Eagle Point Ski Resort ",
+    "summary": "Updated but true to that traditional charm that will take you back to when you were a kid visiting Grandpa's mountain cabin.  Located in a resort that takes you back to a time when fun was plentiful, lift lines were minimal or non-existent, and nature was more valuable than electronics.\r\n\r\nLocated along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\r\nOur Snowflake #17 is a beautiful ski-in/ski-out 2 bedroom, two-bath condo with a loft that sleeps 11 people.  A  Queen bed in each of the bedrooms, a corner unit bunk bed system in the loft sleeps 5 (including a trundle) plus a sleeper sofa for 2 in the living room!.  Everybody has a place to sleep.   Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   \r\n\r\nFully equipped kitchen including cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \r\n\r\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "notes": "",
+    "access": "",
+    "transit": "",
+    "interaction": "",
+    "neighbourhood": "Eagle Point Resort & Area:  Any time of year, there’s no better place to escape the crowds than by booking a Mountain Cabins Utah Condo at Eagle Point Ski Resort. Located in the Fish Lake National Forest, at over 9,000’ above sea level, you can escape the heat of summer and breathe the cleanest air surrounded by tall quakie aspens and pine trees.  In the fall, come and watch the trees turn yellow and feel the crispness of the changing seasons.  In winter the solitude and beauty of the snow is like being in the movies. \r\n\r\nSummertime:  Our Mountain Cabins Utah Condos provide untethered access to bucket list hiking, world-class fishing, clear water kayaking, paddle-boarding, mind-blowing mountain biking and miles and miles of ATV trails for exploration, all within minutes of your front door.  Try frisbee golf or enjoy golf or tennis in Beaver, just 20 minutes down the mountain.  Do you have horses?  Bring them up and ride the trails.  We have space for horse trailers and areas for you to tether them.   \r\n\r\nFires:  Open flame fires are not permitted anywhere on the property.  Be very mindful of the level of forest fire danger. Remember Smokey the Bear - ONLY YOU can prevent forest fires.  \r\n\r\nWintertime: World-class skiing and snowboarding on the greatest snow on earth at Eagle Point Ski Resort is hard to beat. With access to 650 skiable acres and 40 named runs, ranging from tree-lined groomers to the steepest, most challenging runs in southern Utah, Eagle Point’s 5 lifts will provide each skill level of skier or snowboarder in your group with a fun-filled, action-packed day.  From the base elevation of 9,100’ to the summit elevation of 10,600’ there’s 1,500’ of elevation.  The small crowds, reasonable lift pricing, expert terrain, and spectacular views are unbeatable. \r\n\r\nThe national forest lands surrounding Eagle Point Ski Resort are your playground for snowmobiling, timber sledding, and snow biking.  (Not permitted within the boundaries of the Resort). \r\n\r\nEndless trails for snowshoeing or cross-country skiing are also right outside the condos.  Take the little ones out for sledding, make snow angels, make a snowman or engage in a good old-fashioned snowball fight.   Bring your family and teach them how to ski and also get in plenty of verticals for yourself.\r\n\r\nThe addition of new snow-making equipment in 2019, created five different jumps and twelve rail features.  Come and try those tricks you saw on television and were told not to try at home.  Well, you’re not at home now, are you?  However, a bit of prudence and common sense might be a good rule of thumb. \r\n\r\nAfter a day on the slopes, enjoy a cup of hot cocoa by the warm fireplace (wood supplied) as you look out over the resort and let the memories you’re building really sink in and find a permanent home in your heart.  \r\n\r\nWinter Survival:  It is absolutely mandatory to drive vehicles with four-wheel or all-wheel drive, or you must have chains that you know how to put on.   In your parking space in front of the condo with your front-facing into the parking lot for easy exit.  Put your windshield wipers up away from the window for easier cleaning.  The snow plows usually come once a day in the morning.  HINT:  Remember in heavy snow, do not try to power your way out if you sense you are getting stuck.  Move forward a few inches, then backward a few inches.  Slow and steady.  Never come up the mountain without a full tank of gas.  Never. \r\n\r\nFalling Snow and Ice:  Look up and be aware of what’s over your head.  Stairs can be very slippery and dangerous.  Wear appropriate shoes and clothing.  \r\n\r\nAt Your Condo:  Please do your part to conserve water and electricity that isn’t being used.  Please keep the doors and windows or screens closed to ensure the wildlife stays wild and you don’t.\r\n\r\nTrash: If you have a lot of trash there is a dumpster on the left as you head to upper Eagle Point Lodge. There is also a dumpster available to the public near the mouth of Beaver Canyon.\r\n\r\nPlease, NO SMOKING in the Condos.\r\n\r\nEntertainment:  While there is internet and satellite TV in Wooded Ridge #6, we find that most guests come here to unplug and be entertained by the real greatest show on earth, Mother Nature.  Your home away from home has family games and books.  A Blue-Ray Player is available so bring your favorite movies to watch or that book you’ve wanted to read.  Cuddle up on the couch with a blanket and pillow and take an hour or two for yourself.  \r\n\r\nCell service is spotty so you’ll want to enable WiFi calling if you need to keep in touch with the world below.\r\n\r\nLocal Attractions:  Puffer Lake, 1.5 miles from the condo, is the nearest of nine lakes near the condo.  Plenty of fishing is available in the lakes or the many streams and rivers that flow through the area.  A half-day driving excursion on FR 135 off of Hwy 135 will acquaint you with all nine lakes and get you out in the stunningly beautiful forest and meadows. \r\n\r\nGroceries and Supplies:  Mike’s Food Town, is located at 270 N Main Street in Beaver. Stock up on essentials at Mike’s before you come up the mountain. SUGGESTION:  Stop at bigger stores for your specialty items in Cedar City if you’re coming from the south or Spanish Fork if coming from the north or do your major shopping at home.  Mike and his family have been the local grocer since 1980. \r\n\r\nAdult Beverage:  Beaver Spirits, is located at 710 N Main Street in Beaver.  Small but nice wine selection and also have great t-shirts for sale.  \r\n\r\nFavorite Shops:   \r\n***Sherwood Forest Candle & Gift Shop, (435) 438-0211\r\n31 N Main Street, Beaver, Utah 84713\r\n\r\n***This is where you can purchase the \"Cup of Fire\" fire starters used in our condo.\r\n\r\nBeaver Sport and Pawn, (435) 438-0211\r\n91 N Main St, Beaver, UT 84713\r\nThis is a “just because you have to see it”\r\n\r\n\r\nThe Creamery, (833) 796-4551\r\n165 South 500 West, Beaver, UT 84713\r\nGifts, ice cream, cheese and more\r\n\r\nRestaurants:\r\nOn the mountain:  \r\n\r\nThe Canyonside Bar & Grill serves Friday dinner service and Saturday lunch and dinner service mid June through Labor Day Weekend.  \r\n\r\nBeaver Area:  Maria’s Cocina (17 miles away at 1419 E Canyon Rd. - 435-438-5654) is our absolute favorite, must try restaurant.  Opens Memorial Day Weekend through Labor Day Weekend.   Quaint Mexican Restaurant with Maria, herself, cooking in the back. Have to try it.  \r\n\r\nOur Local Favorites: Beaver Taco, Craigo’s Pizza , the Timberline - for nice dine-in, Mel’s Diner for great burgers and shakes and The Creamery Cheese Factory.  And don’t forget Dairy Queen for desert! \r\n\r\nGatherings:   Mountain Cabins Utah Condos own a total of six condominiums in Eagle Point Ski Resort.  For your larger gatherings of groups or family and friends, consider renting multiple condos to sleep a total of 38 people in a total of 19 beds (including sleeper sofas).\r\n\r\nLarger groups are no problem, just let us know and we’ll arrange everything for you.  How about that big family reunion waiting to happen, a beautiful destination wedding, corporate retreats/events, church functions, group trail rides, and hikes.  The ideas are endless but you can count on Mountain Cabins Utah Condos and Eagle Point Ski Resort to help you facilitate your biggest dreams.  ",
+    "space": "",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}

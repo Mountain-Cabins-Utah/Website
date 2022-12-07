@@ -1,5 +1,5 @@
 ---
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin } from "../../types/cabin";
 import Users from "../svgs/Users.astro";
 import Shower from "../svgs/Shower.astro";
 import DirectionSign from "../svgs/DirectionSign.astro";
@@ -17,7 +17,7 @@ interface Props {
 
 const { cabin } = Astro.props;
 
-const { highlight } = cabin["basic-info"];
+const highlight = cabin["footer info"];
 
 function getIcon(icon: string) {
   switch (icon) {
@@ -52,15 +52,16 @@ function getIcon(icon: string) {
     <h3>What this place offers</h3>
     <div class="list">
       {
-        highlight.map((item) => {
-          const Icon = getIcon(item.icon);
-          return (
-            <div class="item-list">
-              <Icon />
-              <p>{item.text}</p>
-            </div>
-          );
-        })
+        highlight &&
+          highlight.map((item) => {
+            const Icon = getIcon(item.icon);
+            return (
+              <div class="item-list">
+                <Icon />
+                <p>{item.text}</p>
+              </div>
+            );
+          })
       }
     </div>
   </div>

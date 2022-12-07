@@ -70,10 +70,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 115,
-      "average": 4.939130434782609
-    },
+    "reviews": { "total": 115, "average": 4.939130434782609 },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -86,6 +83,89 @@
       "hvmiUrl": null
     },
     "uid": "2a05c85d-b138-45fa-8f78-9f0bbfb9441f",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 2+2", "icon": "person-plus" },
+        { "text": "Luxury Shower", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Full Kitchen", "icon": "fork-plate-knife" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "4 guests   1 bedroom   1 bed + sofa sleeper   1 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "14 recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "The Carriage House on The Stream in Sundance, Utah is a unique vacation rental cabin just minutes from I-15, yet a world away! This is the most romantic/creative/professional, luxury cabin rental at this price in all of Sundance. Whether you're looking for a honeymoon suite, a place to spark your creativity again, or an executive get away that's conveniently close, but still offers the privacy & relaxation you need to stay centered & effective, The Carriage House just what you're looking for.\nA short drive from Provo or Orem brings you to a magical little slice of heaven called Sundance, Utah. Invite your colleagues to dinner at one of the world class restaurants at the nearby Sundance Mountain Resort, or meet at the Owl Bar for a beverage and conversation around the fire.\nYour drive \"home\" will be three minutes to our Carriage House Suite and Office. The private entrance off the driveway enters the Carriage House. Follow your carpeted walkway up the stairs, use your door key code and you're \"home\" for the night!\nThe common room features a very comfortable couch, with reading light and access to one of two decks overlooking the stream. A butler kitchen in the closet has a small sink and microwave plus serving ware and glassware. Next to the armoire is a stocked Keurig coffee maker, a variety of teas, a toaster oven and a mini refrigerator.  A supply of sweeteners and creamers, silverware and napkins are there as well.\nOpen the armoire to reveal a fully equipped office, customizable to your preference for a stand up or sit down desk with chairs to match. Wireless printer, scanner and copier plus office supplies are available for your use. Just bring your computer or laptop and hook up. Get that work done, then go play!\nThe private bedroom features a queen bed with adjustable bed platform, cozy linens, flat screen tv with satellite programming, USB charging stations for all your devices, a dresser and mini closet and you'll be tempted to stay in bed all day.\nThe larger deck will draw you out to watch the stars at night or for those phone calls that require \"pacing\". The bathroom with its one-of-a-kind petrified wood sink, granite counter tops, big mirror and ample drawer space features radiant heated floors in the cooler months and a large walk-in shower and comfortable robes for your use.\nThis is a unique and very comfortable place to stay whether you're here on business or just looking for that little quiet place to get away from it all and do a little work - or not!\nPlease ask about the availability of use for hot tub and outside shower.\nIf you're visit is less business, more pleasure, you'll enjoy our love bridge over the stream, your Instagram worthy staircase great for those epic photos that capture the memories that will last a lifetime, and the total privacy, comfort, and luxury you will find throughout the Carriage House. In addition, you're just walking distance from some of the best restaurants in Utah, so you can enjoy a romantic walk and great food + a romantic Moonlight Lift Ride at Sundance, if time things just right. Come stay at the best cabin rentals Utah!\nFive minutes away by car or a short 15 minute walk will have you at Sundance Resort (no affiliation). Ski slopes, spa, zip line, full moon lift rides, restaurants, evening entertainment at the Owl Bar with live music on the weekends provides the opportunity to check back in when you want. As is typical for all Utah winter mountains driving, access requires 4-wheel drive & all weather or snow specific tires & chains on a 2-wheel drive vehicle.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Cabin",
+        "text": "Enjoy complete, romantic privacy to the Carriage House in it's own quite little canyon on a private lane along the stream."
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Easy private parking is provided at the Carriage House and is paved and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 Queen Sized Bed +1 Sleeper Sofa",
+        "text": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The Carriage House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "3105 Big Pine Canyon Rd, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
@@ -353,20 +433,7 @@
         "displayOrder": 37,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "CarriageHouse on The Stream, Sundance UT",
-      "shortSummary": "CarriageHouse on The Stream, Sundance UT",
-      "summary": "Business bringing you to our area?  Need a couples getaway?   Want a personal timeout?  This is the place.  Fresh mountain air, a stream, comfortable bedding, and essentials are all here!  Come spend a little time with us.  A short drive up Provo Canyon brings you to the little slice of heaven in Big Pine Canyon at Sundance.  The world-class restaurants at the Resort or Owl Bar provide gathering places for your business or pleasure dining & entertainment - and your drive is 3 minutes.   :)",
-      "notes": "Walking distance to Sundance Mountain Resort\n",
-      "access": "This upstairs suite is entirely available for your use including the two outside decks.  There is a hot tub and outside shower at the main house - 30 yards away and is available for your private use.  The laundry facilities are on the main floor and available for you to use as well.",
-      "transit": "The best form of transportation to have here in Sundance is your own vehicle.  Winter travel (November thru April) requires four wheel, all wheel or chains.",
-      "interaction": "We live here on the mountain and in the main house on this property.   \r\nWe are always available by phone or text for any questions, recommendations and assistance you might need.",
-      "neighbourhood": "A three minute drive or a ten minute walk to Sundance Resort and the award winning restaurants to satisfy all your dining needs.  The Foundry Grill, breakfast, lunch and dinner; the TreeRoom, dinner only for that special event; the Owl Bar with burgers and great bar food and the best staff  ever (music on weekends - adults only); and the Deli for sandwiches, soup, coffee, smoothies and yummy cookies and pastries.  ",
-      "space": "Private entrance, up the stairs and you are in your own one bedroom suite.  Designated office space is hidden in the armoire for your convenience and necessary office time.  Check your email, work on presentations all the while looking out at the stream!",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": null,
@@ -439,10 +506,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 44,
-      "average": 4.931818181818182
-    },
+    "reviews": { "total": 44, "average": 4.931818181818182 },
     "createdDate": 1562259452000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -455,6 +519,100 @@
       "hvmiUrl": null
     },
     "uid": "1f0d6ea4-23e1-43a4-ad38-a7e9f5370071",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 14", "icon": "person-plus" },
+        { "text": "Full Bathroom", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Full Kitchen", "icon": "fork-plate-knife" },
+        { "text": "WiFi + Cable TV", "icon": "basic-rss" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "14 guests   3 bedroom   10 bed   1 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "10 recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "The Cottage on the Stream in Sundance, Utah is a Kid Friendly, Pet Friendly, Family Friendly, vacation rental cabin within walking distance of the most magical Mountain Resort in Northern Utah!\nThe meadow and the property are big enough to let the kids roam outside and play. Bring along your well behaved canine companion* and everyone can have a great play day together.\nThe Cottage is a comfortable place to stay with lots of seating, sleeping and space. The living room has two, new La-Z-Boy power leather recliners plus a very comfortable leather couch, and a couch from the 60's that everyone loves.\nThe wood burning, efficient fireplace provides the heat, sights, sounds and scents without all the work of an open fireplace. The kitchen is small but mighty. The window looks directly out onto the stream and the deck. Coffee maker, citrus juicer, griddle for blueberry pancakes, blender, crock pot, pots, pans and dishes are all provided. Spices and pantry essentials are also provided.\nThe family room has a trundle bed plus a sleeper sofa and is a great place to watch a movie under the snugglies. A table for eating or playing games, plus a cabinet of books, movies, puzzles and games will keep everyone entertained. Lots of windows let in natural light so you feel like you are living outdoors and the back door leads right to the redwood deck. The entire upstairs area is devoted to sleeping locations. The Queen's Space has a queen bed of course and a window that overlooks the stream and allows the sounds of the stream to lull you to sleep.\nThe middle section is affectionately called the Bedroom of the Six Dwarfs. Six twin beds are arranged so kids and not so little kids can be close enough for midnight whispers but not so close that they are cramped.\nThe King Den features a king size bed, a rocking chair by the window and a baby crib if needed. Two windows bring in the morning sun, the nighttime moon and the sounds of the stream.\nThe new redwood deck with the top rail designed for dining, plus the tables and chairs give everyone space to eat together or meander around while dinner is cooking on the propane grill.\nFive minutes away by car or a short walk will have you at Sundance Resort (no affiliation). Ski slopes, spa, zip line, full moon lift rides, restaurants, evening entertainment at the Owl Bar with live music on the weekends provides the opportunity to check back in when you want. As is typical for all Utah winter mountains driving, access requires 4-wheel drive & all weather or snow specific tires & chains on a 2-wheel drive vehicle.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Cabin",
+        "text": "Enjoy relaxing privacy at the Cottage on The Stream."
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Ample parking is provided at the Cottage on The Stream near Sundance Mountain Resort."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 King, 1 Queen, 1 Bunk Bed +",
+        "text": "Plenty of sleeping room for 14 guests in this charming little Cottage on The Stream between our Hideaway, and our Log Cabin, & Treehouse, if need even more space."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "7 Single Beds, 1 Sofa Bed, 1 Baby Crib",
+        "text": "Just remember, the Cottage only has 1 bathroom and a small kitchen, but it's still a great place to lay your head after a long day in the great outdoors!"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "trifolded-map-route",
+        "title": "Local Attractions",
+        "text": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The Cottage is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "3349 East Old Bridge Road, Sundance, UT 84606",
+      "url": "https://maps.google.com/maps?q=3349%20East%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084606&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
@@ -666,20 +824,7 @@
         "displayOrder": 29,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Cottage On The Stream • Sundance, Utah",
-      "shortSummary": "Cottage On The Stream • Sundance, Utah",
-      "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and it's charm.  Great space for families and friends to gather.  Children and pet friendly with room to play and run and have a great time. (Pet fees apply).\r\n\r\nLocated at the end of a private road, you're nestled between the stream, tall majestic pine trees and solitude - yet you are five minutes from the Resort at Sundance, the ski lift, hiking, biking, zip line and don't forget the Spa!  Good restaurants.  ",
-      "notes": "When you walk to the entrance of The Cottage you will see two trees growing side by side by the front door. Under the front windows in the spring the day lilies are like a sea of yellow gently blowing in the gentle breezes.  There is a bench by the front door and the meadow is alive with creatures big and small.  The turkeys meander through the property pecking at who knows what every day. In the spring the babies hustle behind their mommas.  The deer drink from the stream, hanging out and then disappear in the trees. In the spring the meadow twinkles with butterflies of all colors and the hummingbirds begin looking for nectar.  The plastic flowers in the window box are reminiscent of times and people passed that were the guardians of this place.  ",
-      "access": "This entire cabin plus the beautiful deck overlooking the stream are yours to enjoy.",
-      "transit": "Sundance Resor is a mere 1.2 miles away.  A super quick drive or nice walk in the summer.  November through April requires four wheel or all wheel drive vehicles.  Please check with the hosts.\r\n\r\nDriveway parks two comfortably and space directly in front of Cabin is available.  \r\nRespectfully request no parking at neighborhing cabins  or in the road.  ",
-      "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
-      "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while gorgeous pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
-      "space": "The Cottage on the Stream sits at the end of Old Bridge Road amidst the tall pine trees, next to the stream overlooking a meadow. How sweet is that? Secluded in the forest, no main road with traffic or sounds of traffic, you have the illusion of being far, far away.\r\n\r\nThe meadow and the property are big enough to let the kids roam outside and play. Bring along your well behaved canine companion* and everyone have a great play day together. (Read pet guidelines for safety of your pet and compliance with the property and Sundance guidelines).\r\n\r\nThe Cottage is a comfortable place to stay.  The living room has two new Laz-E-Boy power leather recliners plus a very comfortable leather couch, and a couch from the 60s that everyone loves. The wood burning, super efficient fireplace provides the primary heat source and you will enjoy its sights, sounds, heat and warmth without all the work of an open fireplace.  Super easy to start your fire and then keep it going.   Your wood is provided plus instructions for building your fire.  \r\n\r\nThe kitchen is small but mighty. The kitchen window looks directly out onto the stream and multiple tables allow for kid tables, adult tables, outside tables and rail dining. Coffee maker, citrus juicer, griddle for blueberry pancakes, blender, crock pot, pots and pans, dishes are all provided. (Paper plates also). Spices and pantry essentials are also provided. \r\n\r\nThe family room has a twin size day bed/trundle for sleeping 2 and a sleeper sofa.  This is a great place to watch a movie under the snugglies. A table for eating or playing games, plus a cabinet of books, movies, puzzles and games will keep everyone entertained. Lots of windows let in natural light so you feel like you are living outdoors and the back door leads right to the redwood deck. \r\n\r\nUpstairs is amazing. The entire area is devoted to sleeping locations. It is dormitory style (no doors) - see pictures for clarity.  The Queen's Space has a queen bed, with a window at the head of the bed overlooking  the stream.  The middle section is affectionately called the Bedroom of the Six Dwarfs with six twin beds arranged.  Six twin beds are arranged so kids and not so little kids can be close enough for midnight whispers but not so close they are cramped. The King Den features a king size bed, a rocking chair by the window and a baby crib if needed. Two windows brings in the morning sun, the nighttime moon and the sounds of the stream. \r\n\r\nThe redwood deck with the top rail designed for dining,  tables and chairs and the hot tub give everyone space be together.   There's a mini bridge for crossing the stream plus a fallen tree that invites you to walk across or sit in the middle and contemplate. \r\n\r\nThe Cottage is minutes by car and walking distance to Sundance Resort and the ski slopes, spa, restaurants and evening entertainment at the Owl Bar. A list of ongoing and current events at Sundance will be provided to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts, you are 45 minutes to Park City, Deer Valley and The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude. \r\n\r\nThe property has plenty of parking. \r\n\r\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-whell drive vehicle between November 1st and March 31st.  \r\n\r\nCancellation Policy: If written notice of cancellation is received by 5:00 MST, 30 days prior to reservation check in date, we will refund a full deposit less a $50 cancellation fee and a 3.4% processing fee. No refunds are offered for cancellations with less than 30 days notification, or 60 days for the winter holiday seasonal pricing. Check outs prior to the reserved dates are not eligible for a refund. A valid credit card will be kept on file for any damages, missing items or excessive cleaning.",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": null,
@@ -752,10 +897,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 140,
-      "average": 4.9714285714285715
-    },
+    "reviews": { "total": 140, "average": 4.9714285714285715 },
     "createdDate": 1562259471000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -768,6 +910,100 @@
       "hvmiUrl": null
     },
     "uid": "b2338448-19e9-4f19-9263-16d3f51454f9",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 8", "icon": "person-plus" },
+        { "text": "Luxury Bathroom", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Full Kitchen", "icon": "fork-plate-knife" },
+        { "text": "WiFi + Cable TV", "icon": "basic-rss" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "8 guests   2 bedroom   7 bed   1 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "The Hideaway Above The Stream is one of our favorite Sundance cabin rentals.  This is the perfect place to escape the hustle and bustle of life while enjoying all that the Sundance area has to offer.\nThe charming 2 bedroom, 1 bath cabin has been completely remodeled from head-to-toe June of 2014, making it modern and luxurious while maintaining its mountain charm.\nThe master bedroom has handmade furniture including a queen bed and twin size bunk beds. The loft bedroom features a Queen bed and a twin + trundle beds with the option to add a sleeping bag or air mattress.\nThe kitchen features high end appliances, granite countertops and all the amenities you will need. This vacation cabin has a new wood burning stove for those cold winter nights, and is located on nearly 3/4 of an acre at the top of Big Pine canyon there is plenty of room for children and adults to explore and maybe even spot a deer or some of the wild turkeys that frequent the area.\nTerraced decks overlook the North Fork of the Provo River on its journey down from the year-round glacier on Mt Timpanogos, making it the perfect place to relax and enjoy the sounds of rushing water.\nOur goal is give you an amazing mountain vacation and provide the perfect stay for you and your family when you come to the Sundance, Utah area.  We always try to make your Sundance vacation such an enjoyable experience, that you'll want to come back and stay with us again, year after year, like many of our new friends do.\nFive minutes away by car or a short walk will have you at Sundance Resort (no affiliation). Ski slopes, spa, zip line, full moon lift rides, restaurants, evening entertainment at the Owl Bar with live music on the weekends provides the opportunity to check back in when you want. As is typical for all Utah winter mountains driving, access requires 4-wheel drive & all weather or snow specific tires & chains on a 2-wheel drive vehicle.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Very Private Cabin",
+        "text": "Enjoy relaxing privacy at the Hideaway. IMPORTANT: Accessible only via 62 stairs or 4-Wheel-Drive in the summer, and only via the stairs in the winter."
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Parking is available with 4X4 right up to the front door, or regular vehicle with access via the stair case above."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 Queen Sized Bed",
+        "text": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "+ 6 Kids Beds",
+        "text": "Kids beds include a bunk bed in the master bedroom, two twin beds and two trundle beds upstairs."
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "trifolded-map-route",
+        "title": "Local Attractions",
+        "text": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The Hideaway is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill a treat and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "8982 N Timphaven Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=8982%20N%20Timphaven%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "4f2d8438-9213-4e99-80e0-71e8279323e3",
@@ -1182,20 +1418,7 @@
         "displayOrder": 58,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Hideaway Above The Stream • Sundance, UT",
-      "shortSummary": "Secluded, hidden & private.",
-      "summary": "In the winter, take a five minute drive to Sundance Ski Resort and ride the new hi-speed quad lift to the top of the mountain for skiing and snowboarding down beautiful runs.  Stop for lunch at the Outlook Restaurant for BBQ, burgers, salads and a beverage before heading back up for a few more runs for the day.  Night skiing is also available certain nights here in Sundance.    AND, weathr permittin,  winter ziplining is available.   \r\n\r\nIn summer, a short ten minute walk will take you to the same ski lift for a ride to the top of the mountain for a panaoramic 360 view, lunch at BearClaw where you can chill out and take it all in.    In summer you can go ziplining, mountain biking, fly fishing, hiking, horseback riding, enjoy summer music events and outdoor theater!   \r\n\r\nYou’ll love the solitude and quiet of this cabin.  The sound of the stream below, watching the meadow for deer, squirrels, wild turkeys, raccoons and birds.  Come Hideaway - a forest retreat.",
-      "notes": "Ultimate privacy for anyone who really wants to get away!  Accessible only via 59 step staircase in winter, and All Wheel Drive to front door in Summer.  Not ideal if you have trouble with stars, but please check out our other properties for easy access.",
-      "access": "",
-      "transit": "",
-      "interaction": "",
-      "neighbourhood": "",
-      "space": "",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -1273,10 +1496,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 43,
-      "average": 4.953488372093023
-    },
+    "reviews": { "total": 43, "average": 4.953488372093023 },
     "createdDate": 1562259485000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -1289,6 +1509,90 @@
       "hvmiUrl": null
     },
     "uid": "27f19808-e262-46cf-84c3-f93d693e7402",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 16", "icon": "person-plus" },
+        { "text": "3 Showers/Bathrooms", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Full Kitchen", "icon": "fork-plate-knife" },
+        { "text": "WiFi + Cable TV", "icon": "basic-rss" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "16 guests   5 bedroom   9 bed   3 bath  8 Additional Areas  1 Man Cave/Game Room"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings for our Sundance, Utah cabins, on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "Mountain Cabins Utah's Stunning Log Cabin on The Stream in Sundance, Utah is Perfect for Retreats, Family Reunions and Group Gatherings!\nFeaturing a Streamside Hot Tub, Man Cave, Pinball Machine, 3 Fireplaces, Decks, and so much more. The 5 bedroom / 3 bathroom log cabin has plenty of rambling room and space to park cars.\nThe large great room features a huge wood burning fireplace and a couch big enough for the crowd. There's a dining table for 12 and kitchen counter seating for 4. The kitchen is equipped to easily feed a crowd with top of the line cabinets, dishwasher, two ovens, microwave, popcorn popper, Smores maker, electric skillet, coffee maker, crock pot, pots and pans.\nThe main level offers a covered deck with a wood burning fireplace and seating, and is THE place to roast marshmallows and sip hot chocolate. The top level bedroom features skylights for looking at the stars at night or watching it snow and a queen bed plus twin bed with trundle for keeping the little ones near.\nA balcony and outside door to the upper deck lets you view the outdoors or let the fresh air in. The adjacent bathroom with tub/shower has granite counter tops and a vanity mirror. The main level bedroom features a window seat for reading your favorite book and exterior door to the upper deck, direct access to bathroom, television, queen size bed and a delightful wood burning fire stove should you want to be extra, extra warm.\nA large walk in closet plus adjacent bathroom is very convenient and includes one of the sets of washer/dryers. The first bedroom on the lower level has two queen beds plus two closets and plenty of space for clothes. It features three large ground level windows. The second bedroom downstairs has two twin beds, ground level windows, large closet and is adjacent to the cozy reading nook by the bookcase and the bathroom. The third bedroom downstairs has a California King size bed for you extra tall folks, a television, two chairs for relaxing and an exterior door leading to the hot tub. Size and easy access make this a \"favorite\" room.\nDownstairs also offers another set of laundry facilities And then there's the Man Cave. A wood burning fireplace, television, pool table, dartboard, Pinball machine and game table make this hideaway really fun place. Need more room? Book the nearby Tree House on the Stream, Cottage on the Stream and/or Hideaway Above the Stream, too. Contact us about multiple cabin bookings for your bigger events.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Cabin",
+        "text": "Plus, your own private grounds right on the river including several decks, a pavilion, & hot tub."
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Easy private parking is provided at the Log Cabin located on a private lane."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 King, 4 Queen, 4 Single Beds, 1 Sleeper Sofa",
+        "text": "Plenty of room for family, friends, or corporate retreats in 5 rooms with 10 beds. If that's not enough room, consider booking our cabins next door on either side."
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The Log Cabin is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "3049 East Old Bridge Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3049%20East%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "473f703c-5b33-4d9f-b298-93082db8617e",
@@ -1500,20 +1804,7 @@
         "displayOrder": 29,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Log Cabin On The Stream • Sundance, Utah",
-      "shortSummary": "Five minutes to Sundance Ski Resort",
-      "summary": "This Log Cabin is a classic.  A great room with wood burning fireplace (wood provided), a large kitchen for meal creations, dining area for all, 5 bedrooms,  3 bathrooms, a Man Cave and a Hot Tub over the creek plus a Gazebo for lounging.   Tall skylights and windows bring the outside in.  All of this is for you to enjoy.  During the summer, the horseshoe pit and corn hole games in the common area to the right of the cabin is yours to enjoy.  You will have room to park up to six vehicles and should you need more, contact Pamela to arrange.  \r\n\r\n\r\nThe kitchen has top of the line cabinets, dishwasher, two ovens, microwave and The whimsical under stairs “mud room” features coat hooks at all levels to keep outside gear in one place for people of all sizes. The main level covered deck has seating and is a great gathering place to talk and drink hot chocolate.  \r\n\r\nEvery bedroom has a little something different. Top level bedroom features skylights for looking at the stars at night or watching it snow and has a queen bed plus twin bed with a trundle for keeping the little ones near. A balcony and outside door to upper deck lets you view the outdoors or let the fresh air in. The adjacent bathroom with tub/shower has granite counter tops and vanity mirror.\r\n \r\nMain level bedroom features a window seat for reading the novel you brought along, an exterior door to the upper deck, direct access to bathroom, television, queen size bed.  A large walk in closet plus adjacent bathroom is very convenient.  In the closet is one set of washer/dryers in the cabin.  Second set downstairs.  \r\n\r\nOne bedroom on the lower level has two queen beds plus two closets and plenty of space for clothes. This room is fun for sleep-over style for teenagers. This window is on ground level with three larges windows for lots of light.\r\n\r\nSecond bedroom downstairs has two twin beds, ground level windows and large closet and is adjacent to the exterior door on ground level.  \r\n\r\nThe master bedroom has a California King size bed, television, two chairs for relaxing and an exterior door leading to the hot tub and the bathroom is across the hall.  Size and easy access make this a “favorite” room.\r\n\r\nAnd then there’s the Man Cave. Television, pool table, card table and the ever popular Monopoly pinball machine make this a favorite gathering spot.  wo exterior doors, one to to the outside lower decks, gazebo and hot tub and the second for bringing in food and beverages makes this an easy room to entertain in.\r\n\r\n",
-      "notes": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.\r\n",
-      "access": "During the winter (Nov through March) four wheel or all wheel drive vehicles are required. Summer  - just come and stay.  ",
-      "transit": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.  Plan to drive a vehicle as Uber and other services are not readily available.  ",
-      "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.  512-413-4380.  Pamela prefers to keep in touch via text message for quick communication about local events.  Road closures, weather conditions or other \"need to know\" information witll be messaged to you via text.  ",
-      "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while gorgeous pine trees are everywhere you look.  Take a seat next to stream, take in the mountain air and relax.  Summer months brings music, theatre, ziplining, hiking, biking, horseback riding to our back door.  Winter brings skiing, snowboarding, (both day and night) and snow shoeing on trails at the Nordic Center.  This is a great community far enough away to be far away but yet close enough to little towns and other activities.  ",
-      "space": "",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -1591,10 +1882,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 11,
-      "average": 4.636363636363637
-    },
+    "reviews": { "total": 11, "average": 4.636363636363637 },
     "createdDate": 1563214561000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -1607,6 +1895,92 @@
       "hvmiUrl": null
     },
     "uid": "6877b2c9-b2de-44aa-b8ce-b7e1fb89cc46",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 8", "icon": "person-plus" },
+        { "text": "2 Bath", "icon": "shower-head-water" },
+        { "text": "Ski In Ski Out", "icon": "skis-and-poles" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Fully Stocked Kitchen", "icon": "fork-plate-knife" },
+        { "text": "Fireplace", "icon": "heart" },
+        { "text": "Internet", "icon": "globe" },
+        { "text": "Satellite TV", "icon": "camera" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "8 guests   3 bedroom   3 bed + 1 sofa sleeper   2 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "Recent guests gave this location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+        }
+      ]
+    },
+    "description": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\nOur Wooded Ridge #10 is a beautiful ski-in/ski-out one bedroom, plus loft, two-bath condo that sleeps six people.  Queen bed in the main level bedroom, king bed upstairs in the loft and a queen size sleeper sofa in the living room. Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable. A real wood burning fireplace with dry wood and fire starters makes things extra cozy and convenient. There’s floor space for an extra person should they want to bring a sleeping bag.\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher and microwave. You’ll find a starter supply of paper towels, dish soap, dishwasher soap and trash bags for your use. Look for the charging station in the kitchen to keep your mobile devices charged and ready to go.\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Entrance",
+        "text": "Enjoy comfort and privacy in your own Wooded Ridge Condominum"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Wooded Ridge parking is paved and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "text": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "text": "Your Wooded Ridge Condo is literally situated on Eagle Point Mountain Resort ski and snowboard runs"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Full kitchen and dinning table for 6"
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "abca6445-da47-4db4-a420-0260dc82ba69",
@@ -1832,20 +2206,7 @@
         "displayOrder": 31,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
-      "shortSummary": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
-      "summary": "This ski-in/ski-out, 2 bedroom + loft bedroom, 2 bath condo sleeps 8.  Kid's play cubby upstairs.\r\n\r\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\r\n\r\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\r\n\r\nWalking distance to lodge.",
-      "notes": "",
-      "access": "",
-      "transit": "You'll be enjoying the peace and serenity of the mountains about 20 minutes away from Beaver, Utah.  Be sure to fill your gas tank in town before coming up the mountains all-wheel-drive + snow tires and a set of chains, just in case, are highly recommended in winter.",
-      "interaction": "We're available by phone and by text throughout the week, and on-site personnel will always be assigned on the weekends.",
-      "neighbourhood": "Located in the Tusher Mountains of Southern Utah, along the historic Paiute Trail, Eagle Point Ski Resort is a true diamond in the rough, with no end to great experiences for every member of the family to unplug and build cherished mountain memories to last a lifetime!",
-      "space": "Eagle Point Ski Resort is located along the historic Paiute Trail so bring your hiking boots, ATVs, or horses if you're visiting in the Summer season.  Plus, remember your fishing gear, photography equipment and golf clubs!",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -1923,10 +2284,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 4,
-      "average": 4.5
-    },
+    "reviews": { "total": 4, "average": 4.5 },
     "createdDate": 1567620903000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -1939,6 +2297,92 @@
       "hvmiUrl": null
     },
     "uid": "8769cdbf-c178-4dc4-a410-767889fdc5a5",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 10", "icon": "person-plus" },
+        { "text": "2 Bath", "icon": "shower-head-water" },
+        { "text": "Ski In Ski Out", "icon": "skis-and-poles" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Fully Stocked Kitchen", "icon": "fork-plate-knife" },
+        { "text": "Fireplace", "icon": "heart" },
+        { "text": "Internet", "icon": "globe" },
+        { "text": "Satellite TV", "icon": "camera" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "10 guests   2 bedrooms + Loft   7 beds   2 bathrooms"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "Recent guests gave this location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+        }
+      ]
+    },
+    "description": "Updated but true to that traditional charm that will take you back to when you were a kid visiting Grandpa's mountain cabin. Located in a resort that takes you back to a time when fun was plentiful, lift lines were minimal or non-existent, and nature was more valuable than electronics.\nLocated along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\nOur Snowflake #15 is a beautiful ski-in/ski-out 2 bedroom, plus loft, two-bath condo that sleeps 10 people. 2 Queen beds, 4 Twin beds upstairs in the loft and a sleeper sofa for 2 in the living room. Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable. A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient. There’s floor space for an extra person should they want to bring a sleeping bag.\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave. You’ll find a starter supply of paper towels, dish soap, dishwasher soap and trash bags for your use. Look for the charging station in the kitchen to keep your mobile devices charged and ready to go.\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Entrance",
+        "text": "Enjoy comfort and privacy in your own Ski-in/Ski-out Snowflake Condominium"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Snowflake parking is next to the main lodge and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "2 Queen Bed, 1 Sofa Bed, 4 Twin beds",
+        "text": "Sleep 10 comfortably on 2 Queen sized beds, one Queen sofa bed and 4 Twin bunk beds"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "text": "Your Snowflake Condo is literally situated on the ski and snowboard runs at Eagle Point Ski Resort"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "Look out directly onto Eagle Point Ski Resort from every window and from your own private balcony"
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Full kitchen and dinning table for 6"
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
@@ -2185,20 +2629,7 @@
         "displayOrder": 34,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Nº15 Snowflake at Eagle Point Ski Resort ",
-      "shortSummary": "Nº15 Snowflake at Eagle Point Ski Resort  ",
-      "summary": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\r\n\r\nOur Snowflake #15 is a beautiful ski-in/ski-out 2 bedroom, two bath, plus loft condo that sleeps 10 people.  A Queen bed in each bedroom, two twin bed bunk beds in the loft, and a sleeper sofa for 2 in the living room.  Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   There’s floor space for an extra person should they want to bring a sleeping bag.  \r\n\r\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \r\n\r\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
-      "notes": "",
-      "access": "",
-      "transit": "",
-      "interaction": "",
-      "neighbourhood": "Eagle Point Resort & Area: \r\n Any time of year, there’s no better place to escape the crowds than by booking a Mountain Cabins Utah Condo at Eagle Point Ski Resort. Located in the Fish Lake National Forest, at over 9,000’ above sea level, you can escape the heat of summer and breathe the cleanest air surrounded by tall quakie aspens and pine trees.  In the fall, come and watch the trees turn yellow and feel the crispness of the changing seasons.  In winter the solitude and beauty of the snow is like being in the movies. \r\n\r\nSummertime:  \r\nOur Mountain Cabins Utah Condos provide untethered access to bucket list hiking, world-class fishing, clear water kayaking, paddle-boarding, mind-blowing mountain biking, and miles and miles of ATV trails for exploration, all within minutes of your front door.  Try frisbee golf or paintball at the Upper Eagle Point Lodge or enjoy golf or tennis in Beaver, just 20 minutes down the mountain.  Do you have horses?  Bring them up and ride the trails.  We have space for horse trailers and areas for you to tether them.   \r\n\r\nDon’t forget your camera equipment because this is one of the most Instagram-worthy experiences you’ll ever find.  There’s truly no shortage of amazing sights and experiences to share with your followers over your Mountain Cabins Utah Condo and Eagle Point Ski Resort vacation (tag us @mtcabinsut and show other guests around using #mtcabinsutguest and #mtcabinsutguide)\r\n\r\n\r\nFires:  \r\nOpen flame fires are not permitted anywhere on the property.  Be very mindful of the level of forest fire danger. Remember Smokey the Bear - ONLY YOU can prevent forest fires.  \r\n\r\nWintertime: World-class skiing and snowboarding on the greatest snow on earth at Eagle Point Ski Resort is hard to beat. With access to 650 skiable acres and 40 named runs, ranging from tree-lined groomers to the steepest, most challenging runs in southern Utah, Eagle Point’s 5 lifts will provide each skill level of skier or snowboarder in your group with a fun-filled, action-packed day.  From the base elevation of 9,100’ to the summit elevation of 10,600’ there’s 1,500’ of elevation.  The small crowds, reasonable lift pricing, expert terrain, and spectacular views are unbeatable. \r\n\r\nThe national forest lands surrounding Eagle Point Ski Resort are your playground for snowmobiling, timber sledding, and snow biking.  (Not permitted within the boundaries of the Resort). \r\n\r\nEndless trails for snowshoeing or cross-country skiing are also right outside the condos.  Take the little ones out for sledding, make snow angels, make a snowman or engage in a good old-fashioned snowball fight.   Bring your family and teach them how to ski and also get in plenty of verticals for yourself.\r\n\r\nThe Terrain Park, located by the Monarch Triple Chair Lift, is an ever-evolving creation of our residential Tzar of Creation, Mongo.  The addition of new snow-making equipment in 2019, created five different jumps and twelve rail features.  Come and try those tricks you saw on television and were told not to try at home.  Well, you’re not at home now, are you?  However, a bit of prudence and common sense might be a good rule of thumb. \r\n\r\nAfter a day on the slopes, enjoy a cup of hot cocoa by the warm fireplace (wood supplied) as you look out over the resort and let the memories you’re building really sink in and find a permanent home in your heart.  Or, let someone else do all the work and simply go to the Canyon Side Lodge to enjoy a fantastic meal with the family or a quiet wine or beverage in the bar. \r\n\r\nWinter Survival:  It is absolutely mandatory to drive vehicles with four-wheel or all-wheel drive, or you must have chains that you know how to put on.   In your parking space in front of the condo with your front-facing into the parking lot for easy exit.  Put your windshield wipers up away from the window for easier cleaning.  The snowplows usually come once a day in the morning.  HINT:  Remember in heavy snow, do not try to power your way out if you sense you are getting stuck.  Move forward a few inches, then back a few inches.  Slow and steady.  Never come up the mountain without a full tank of gas.  Never. \r\n\r\nFalling Snow and Ice:  Look up and be aware of what’s over your head.  Stairs can be very slippery and dangerous.  Wear appropriate shoes and clothing.  \r\n\r\nAt Your Condo:  Please do your part to conserve water and electricity that isn’t being used.  Please keep the doors and windows or screens closed to ensure the wildlife stays wild and you don’t.\r\n\r\nTrash: If you have a lot of trash there is a dumpster on the left as you head to upper Eagle Point Lodge. There is also a dumpster available to the public near the mouth of Beaver Canyon.\r\n\r\nPlease, NO SMOKING in the Condos.\r\n\r\nEntertainment:  While there is internet and satellite TV in Snowflake 15, we find that most guests come here to unplug and be entertained by the real greatest show on earth, Mother Nature.  Your home away from home has family games and books.  A Blue-Ray Player is available so bring your favorite movies to watch or that book you’ve wanted to read.  Cuddle up on the couch with a blanket and pillow and take an hour or two for yourself.  \r\n\r\nCell service is spotty so you’ll want to enable WiFi calling if you need to keep in touch with the world below.\r\n\r\nLocal Attractions:  Puffer Lake, 1.5 miles from the condo, is the nearest of nine lakes near the condo.  Plenty of fishing is available in the lakes or the many streams and rivers that flow through the area.  A half-day driving excursion on FR 135 off of Hwy 135 will acquaint you with all nine lakes and get you out in the stunningly beautiful forest and meadows. \r\n\r\nGroceries and Supplies:  Mike’s Food Town, is located at 270 N Main Street in Beaver. Stock up on essentials at Mike’s before you come up the mountain. SUGGESTION:  Stop at bigger stores for your specialty items in Cedar City if you’re coming from the south or Spanish Fork if coming from the north or do your major shopping at home.  Mike and his family have been the local grocer since 1980. \r\n\r\nAdult Beverage:  Beaver Spirits, is located at 710 N Main Street in Beaver.  Small but nice wine selection and also have great t-shirts for sale.  \r\n\r\nFavorite Shops:   \r\n***Sherwood Forest Candle & Gift Shop, (435) 438-0211\r\n31 N Main Street, Beaver, Utah 84713\r\n\r\n***This is where you can purchase the \"Cup of Fire\" fire starters used in our condo.\r\n\r\nBeaver Sport and Pawn, (435) 438-0211\r\n91 N Main St, Beaver, UT 84713\r\nThis is a “just because you have to see it”\r\n\r\n\r\nThe Creamery, (833) 796-4551\r\n165 South 500 West, Beaver, UT 84713\r\nGifts, ice cream, cheese and more\r\n\r\nRestaurants:\r\nOn the mountain:  \r\n\r\nThe Canyonside Bar & Grill serves Friday dinner service and Saturday lunch and dinner service mid-June through Labor Day Weekend.  \r\n\r\nBeaver Area:  Maria’s Cocina (17 miles away at 1419 E Canyon Rd. - 435-438-5654) is our absolute favorite, must-try restaurant.  Opens Memorial Day Weekend through Labor Day Weekend.   Quaint Mexican Restaurant with Maria, herself, cooking in the back. Have to try it.  \r\n\r\nOur Local Favorites: Beaver Taco, Craigo’s Pizza , the Timberline - for nice dine-in, Mel’s Diner for great burgers and shakes and The Creamery Cheese Factory.  And don’t forget Dairy Queen for dessert! \r\n\r\nGatherings:   Mountain Cabins Utah Condos own a total of six condominiums in Eagle Point Ski Resort.  For your larger gatherings of groups or family and friends, consider renting multiple condos to sleep a total of 38 people in a total of 19 beds (including sleeper sofas).\r\n\r\nLarger groups are no problem, just let us know and we’ll arrange everything for you.  How about that big family reunion waiting to happen, a beautiful destination wedding, corporate retreats/events, church functions, group trail rides, and hikes.  The ideas are endless but you can count on Mountain Cabins Utah Condos and Eagle Point Ski Resort to help you facilitate your biggest dreams.  ",
-      "space": "",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -2276,10 +2707,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 2,
-      "average": 5
-    },
+    "reviews": { "total": 2, "average": 5 },
     "createdDate": 1567619065000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -2292,6 +2720,92 @@
       "hvmiUrl": null
     },
     "uid": "f2f3d52b-8372-4c62-91f7-ab098c3da747",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 11", "icon": "person-plus" },
+        { "text": "2 Bath", "icon": "shower-head-water" },
+        { "text": "Ski In Ski Out", "icon": "skis-and-poles" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Fully Stocked Kitchen", "icon": "fork-plate-knife" },
+        { "text": "Fireplace", "icon": "heart" },
+        { "text": "Internet", "icon": "globe" },
+        { "text": "Satellite TV", "icon": "camera" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "11 guests   2 bedrooms + Loft   8 beds   2 bathrooms"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "Recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "Updated but true to that traditional charm that will take you back to when you were a kid visiting Grandpa's mountain cabin. Located in a resort that takes you back to a time when fun was plentiful, lift lines were minimal or non-existent, and nature was more valuable than electronics.\nLocated along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\nOur Snowflake #17 is a beautiful ski-in/ski-out 2 bedroom, plus loft, two-bath condo that sleeps 11 people. 2 Queen beds, 5 Twin beds upstairs in the loft and a sleeper sofa for 2 in the living room. Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable. A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient. There’s floor space for an extra person should they want to bring a sleeping bag.\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave. You’ll find a starter supply of paper towels, dish soap, dishwasher soap and trash bags for your use. Look for the charging station in the kitchen to keep your mobile devices charged and ready to go.\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Entrance",
+        "text": "Enjoy comfort and privacy in your own Ski-in/Ski-out Snowflake Condominium"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Snowflake parking is next to the main lodge and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "2 Queen Beds, 1 Sleeper Sofa, 5 Twin beds",
+        "text": "Sleep 11 comfortably on 2 Queen sized beds, 1 Queen sized sofa bed and 5 twin sized bunk/trundle beds"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "text": "Your Snowflake Condo is literally situated on the ski and snowboard runs at Eagle Point Mountain Resort"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "Look out directly onto Eagle Point Ski Resort from every window and from your own private balcony"
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Full kitchen and dinning table for 6"
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
@@ -2482,20 +2996,7 @@
         "displayOrder": 26,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Nº17 Snowflake at Eagle Point Ski Resort ",
-      "shortSummary": "Nº17 Snowflake at Eagle Point Ski Resort ",
-      "summary": "Updated but true to that traditional charm that will take you back to when you were a kid visiting Grandpa's mountain cabin.  Located in a resort that takes you back to a time when fun was plentiful, lift lines were minimal or non-existent, and nature was more valuable than electronics.\r\n\r\nLocated along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\r\nOur Snowflake #17 is a beautiful ski-in/ski-out 2 bedroom, two-bath condo with a loft that sleeps 11 people.  A  Queen bed in each of the bedrooms, a corner unit bunk bed system in the loft sleeps 5 (including a trundle) plus a sleeper sofa for 2 in the living room!.  Everybody has a place to sleep.   Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   \r\n\r\nFully equipped kitchen including cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \r\n\r\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
-      "notes": "",
-      "access": "",
-      "transit": "",
-      "interaction": "",
-      "neighbourhood": "Eagle Point Resort & Area:  Any time of year, there’s no better place to escape the crowds than by booking a Mountain Cabins Utah Condo at Eagle Point Ski Resort. Located in the Fish Lake National Forest, at over 9,000’ above sea level, you can escape the heat of summer and breathe the cleanest air surrounded by tall quakie aspens and pine trees.  In the fall, come and watch the trees turn yellow and feel the crispness of the changing seasons.  In winter the solitude and beauty of the snow is like being in the movies. \r\n\r\nSummertime:  Our Mountain Cabins Utah Condos provide untethered access to bucket list hiking, world-class fishing, clear water kayaking, paddle-boarding, mind-blowing mountain biking and miles and miles of ATV trails for exploration, all within minutes of your front door.  Try frisbee golf or enjoy golf or tennis in Beaver, just 20 minutes down the mountain.  Do you have horses?  Bring them up and ride the trails.  We have space for horse trailers and areas for you to tether them.   \r\n\r\nFires:  Open flame fires are not permitted anywhere on the property.  Be very mindful of the level of forest fire danger. Remember Smokey the Bear - ONLY YOU can prevent forest fires.  \r\n\r\nWintertime: World-class skiing and snowboarding on the greatest snow on earth at Eagle Point Ski Resort is hard to beat. With access to 650 skiable acres and 40 named runs, ranging from tree-lined groomers to the steepest, most challenging runs in southern Utah, Eagle Point’s 5 lifts will provide each skill level of skier or snowboarder in your group with a fun-filled, action-packed day.  From the base elevation of 9,100’ to the summit elevation of 10,600’ there’s 1,500’ of elevation.  The small crowds, reasonable lift pricing, expert terrain, and spectacular views are unbeatable. \r\n\r\nThe national forest lands surrounding Eagle Point Ski Resort are your playground for snowmobiling, timber sledding, and snow biking.  (Not permitted within the boundaries of the Resort). \r\n\r\nEndless trails for snowshoeing or cross-country skiing are also right outside the condos.  Take the little ones out for sledding, make snow angels, make a snowman or engage in a good old-fashioned snowball fight.   Bring your family and teach them how to ski and also get in plenty of verticals for yourself.\r\n\r\nThe addition of new snow-making equipment in 2019, created five different jumps and twelve rail features.  Come and try those tricks you saw on television and were told not to try at home.  Well, you’re not at home now, are you?  However, a bit of prudence and common sense might be a good rule of thumb. \r\n\r\nAfter a day on the slopes, enjoy a cup of hot cocoa by the warm fireplace (wood supplied) as you look out over the resort and let the memories you’re building really sink in and find a permanent home in your heart.  \r\n\r\nWinter Survival:  It is absolutely mandatory to drive vehicles with four-wheel or all-wheel drive, or you must have chains that you know how to put on.   In your parking space in front of the condo with your front-facing into the parking lot for easy exit.  Put your windshield wipers up away from the window for easier cleaning.  The snow plows usually come once a day in the morning.  HINT:  Remember in heavy snow, do not try to power your way out if you sense you are getting stuck.  Move forward a few inches, then backward a few inches.  Slow and steady.  Never come up the mountain without a full tank of gas.  Never. \r\n\r\nFalling Snow and Ice:  Look up and be aware of what’s over your head.  Stairs can be very slippery and dangerous.  Wear appropriate shoes and clothing.  \r\n\r\nAt Your Condo:  Please do your part to conserve water and electricity that isn’t being used.  Please keep the doors and windows or screens closed to ensure the wildlife stays wild and you don’t.\r\n\r\nTrash: If you have a lot of trash there is a dumpster on the left as you head to upper Eagle Point Lodge. There is also a dumpster available to the public near the mouth of Beaver Canyon.\r\n\r\nPlease, NO SMOKING in the Condos.\r\n\r\nEntertainment:  While there is internet and satellite TV in Wooded Ridge #6, we find that most guests come here to unplug and be entertained by the real greatest show on earth, Mother Nature.  Your home away from home has family games and books.  A Blue-Ray Player is available so bring your favorite movies to watch or that book you’ve wanted to read.  Cuddle up on the couch with a blanket and pillow and take an hour or two for yourself.  \r\n\r\nCell service is spotty so you’ll want to enable WiFi calling if you need to keep in touch with the world below.\r\n\r\nLocal Attractions:  Puffer Lake, 1.5 miles from the condo, is the nearest of nine lakes near the condo.  Plenty of fishing is available in the lakes or the many streams and rivers that flow through the area.  A half-day driving excursion on FR 135 off of Hwy 135 will acquaint you with all nine lakes and get you out in the stunningly beautiful forest and meadows. \r\n\r\nGroceries and Supplies:  Mike’s Food Town, is located at 270 N Main Street in Beaver. Stock up on essentials at Mike’s before you come up the mountain. SUGGESTION:  Stop at bigger stores for your specialty items in Cedar City if you’re coming from the south or Spanish Fork if coming from the north or do your major shopping at home.  Mike and his family have been the local grocer since 1980. \r\n\r\nAdult Beverage:  Beaver Spirits, is located at 710 N Main Street in Beaver.  Small but nice wine selection and also have great t-shirts for sale.  \r\n\r\nFavorite Shops:   \r\n***Sherwood Forest Candle & Gift Shop, (435) 438-0211\r\n31 N Main Street, Beaver, Utah 84713\r\n\r\n***This is where you can purchase the \"Cup of Fire\" fire starters used in our condo.\r\n\r\nBeaver Sport and Pawn, (435) 438-0211\r\n91 N Main St, Beaver, UT 84713\r\nThis is a “just because you have to see it”\r\n\r\n\r\nThe Creamery, (833) 796-4551\r\n165 South 500 West, Beaver, UT 84713\r\nGifts, ice cream, cheese and more\r\n\r\nRestaurants:\r\nOn the mountain:  \r\n\r\nThe Canyonside Bar & Grill serves Friday dinner service and Saturday lunch and dinner service mid June through Labor Day Weekend.  \r\n\r\nBeaver Area:  Maria’s Cocina (17 miles away at 1419 E Canyon Rd. - 435-438-5654) is our absolute favorite, must try restaurant.  Opens Memorial Day Weekend through Labor Day Weekend.   Quaint Mexican Restaurant with Maria, herself, cooking in the back. Have to try it.  \r\n\r\nOur Local Favorites: Beaver Taco, Craigo’s Pizza , the Timberline - for nice dine-in, Mel’s Diner for great burgers and shakes and The Creamery Cheese Factory.  And don’t forget Dairy Queen for desert! \r\n\r\nGatherings:   Mountain Cabins Utah Condos own a total of six condominiums in Eagle Point Ski Resort.  For your larger gatherings of groups or family and friends, consider renting multiple condos to sleep a total of 38 people in a total of 19 beds (including sleeper sofas).\r\n\r\nLarger groups are no problem, just let us know and we’ll arrange everything for you.  How about that big family reunion waiting to happen, a beautiful destination wedding, corporate retreats/events, church functions, group trail rides, and hikes.  The ideas are endless but you can count on Mountain Cabins Utah Condos and Eagle Point Ski Resort to help you facilitate your biggest dreams.  ",
-      "space": "",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -2573,10 +3074,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 4,
-      "average": 5
-    },
+    "reviews": { "total": 4, "average": 5 },
     "createdDate": 1563214565000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -2589,6 +3087,92 @@
       "hvmiUrl": null
     },
     "uid": "2041981a-9a23-4eab-9c82-c9dbeb87c593",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 6", "icon": "person-plus" },
+        { "text": "2 Bath", "icon": "shower-head-water" },
+        { "text": "Ski In Ski Out", "icon": "skis-and-poles" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Fully Stocked Kitchen", "icon": "fork-plate-knife" },
+        { "text": "Fireplace", "icon": "heart" },
+        { "text": "Internet", "icon": "globe" },
+        { "text": "Satellite TV", "icon": "camera" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Condo For Rent",
+          "text": "6 guests   1 bedroom+Loft   3 bed + sofa sleeper   2 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "Recent guests gave this location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+        }
+      ]
+    },
+    "description": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\nOur Wooded Ridge #6 is a beautiful ski-in/ski-out one bedroom, plus loft, two-bath condo that sleeps six people.  Queen bed in the main level bedroom, king bed upstairs in the loft and a queen size sleeper sofa in the living room.  Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable. A real wood burning fireplace with dry wood and fire starters makes things extra cozy and convenient. There’s floor space for an extra person should they want to bring a sleeping bag.\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher and microwave. You’ll find a starter supply of paper towels, dish soap, dishwasher soap and trash bags for your use. Look for the charging station in the kitchen to keep your mobile devices charged and ready to go.\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Entrance",
+        "text": "Enjoy comfort and privacy in your own Wooded Ridge Condominum"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Wooded Ridge parking is paved and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "text": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "text": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Dining Table Seats 6",
+        "text": "Full kitchen and dinning table for 6"
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=11&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "f419692c-0d1c-4222-b10f-b912aae5c1d6",
@@ -2786,20 +3370,7 @@
         "displayOrder": 27,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": " Nº6 Wooded Ridge @ Eagle Point Ski Resort",
-      "shortSummary": " Nº6 Wooded Ridge @ Eagle Point Ski Resort",
-      "summary": "This ski-in/ski-out, 2 bedroom, plus loft bedroom sleeps 8.  Two bathrooms - one up one down.  Queen bed in the main level bedroom, king bed in the loft  bedroom, queen bed in second bedroom upstairs plus a queen size sleeper sofa in the living room.  WiFi, satellite TV, & blu-ray.   Wood burning fireplace with free wood & firestarters.\r\n\r\nThe kitchen provides everything you need to make yourself at home including a smartphone charging station, coffeemaker, pots and pans, serving ware, microwave, toaster and blender.  \r\n\r\nThe deck provides plenty of room to sit outside and enjoy spectacular views of the slopes and watch the sunset or look at the stars at night.  ",
-      "notes": "",
-      "access": "",
-      "transit": "",
-      "interaction": "We're available by phone and by text throughout the week, and on-site personnel will always be assigned on the weekends.",
-      "neighbourhood": "",
-      "space": "Eagle Point Ski Resort is located along the historic Paiute Trail so bring your hiking boots, ATVs, or horses if you're visiting in the Summer season.  Plus, remember your fishing gear, photography equipment and",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": {
@@ -2877,10 +3448,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 6,
-      "average": 5
-    },
+    "reviews": { "total": 6, "average": 5 },
     "createdDate": 1563214551000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -2893,6 +3461,92 @@
       "hvmiUrl": null
     },
     "uid": "b12b93d2-f3db-4d1d-9275-923cb99f1de8",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 8", "icon": "person-plus" },
+        { "text": "2 Bath", "icon": "shower-head-water" },
+        { "text": "Ski In Ski Out", "icon": "skis-and-poles" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Fully Stocked Kitchen", "icon": "fork-plate-knife" },
+        { "text": "Fireplace", "icon": "heart" },
+        { "text": "Internet", "icon": "globe" },
+        { "text": "Satellite TV", "icon": "camera" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "8 guests   3 bedroom   3 bed + sofa sleeper   2 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "Recent guests gave this location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+        }
+      ]
+    },
+    "description": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\nOur Wooded Ridge #8 is a beautiful ski-in/ski-out one bedroom, plus loft, two-bath condo that sleeps six people. Queen bed in the main level bedroom, king bed upstairs in the loft and a queen size sleeper sofa in the living room. Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable. A real wood burning fireplace with dry wood and fire starters makes things extra cozy and convenient. There’s floor space for an extra person should they want to bring a sleeping bag.\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher and microwave. You’ll find a starter supply of paper towels, dish soap, dishwasher soap and trash bags for your use. Look for the charging station in the kitchen to keep your mobile devices charged and ready to go.\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Entrance",
+        "text": "Enjoy comfort and privacy in your own Wooded Ridge Condominum"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Wooded Ridge parking is paved and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "text": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "text": "Your Wooded Ridge Condo is literally situated on Eagle Point Mountain Resort ski and snowboard runs"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Full kitchen and dinning table for 6"
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "65e1f63c-8b78-4019-abb7-f1f515d1e498",
@@ -3125,20 +3779,7 @@
         "displayOrder": 32,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Nº8 Wooded Ridge at Eagle Point Ski Resort ",
-      "shortSummary": "Nº8 Wooded Ridge at Eagle Point Ski Resort ",
-      "summary": "This ski-in/ski-out, 2 bedroom + 1 loft bedroom, 2 bath condo sleeps 8.  Kid's cubby upstairs.\r\n\r\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\r\n\r\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\r\n\r\nWalking distance to lodge.",
-      "notes": "",
-      "access": "",
-      "transit": "You'll be enjoying the peace and serenity of the mountains about 20 minutes away from Beaver, Utah.  Be sure to fill your gas tank in town before coming up the mountains all-wheel-drive + snow tires and a set of chains, just in case, are highly recommended in winter.",
-      "interaction": "We're available by phone and by text throughout the week, and on-site personnel will always be assigned on the weekends.",
-      "neighbourhood": "Located in the Tusher Mountains of Southern Utah, along the historic Paiute Trail, Eagle Point Ski Resort is a true diamond in the rough, with no end to great experiences for every member of the family to unplug and build cherished mountain memories to last a lifetime!",
-      "space": "Eagle Point Ski Resort is located along the historic Paiute Trail so bring your hiking boots, ATVs, or horses if you're visiting in the Summer season.  Plus, remember your fishing gear, photography equipment and Golf clubs!",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": null,
@@ -3211,10 +3852,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 0,
-      "average": null
-    },
+    "reviews": { "total": 0, "average": null },
     "createdDate": 1633480630000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -3227,6 +3865,51 @@
       "hvmiUrl": null
     },
     "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 10", "icon": "person-plus" },
+        { "text": "Hot Tub", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        {
+          "text": "Kitchen | Microwave | Coffee Machine",
+          "icon": "fork-plate-knife"
+        }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "10 guests   5 bedrooms   6 beds   4 bathrooms"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "14 recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "Stream Song is an exceptionally warm, inviting cabin for reconnecting with family and friends. Take it easy here. Play games at the dining room table, watch a movie on the Smart TV, make a meal with friends or just sit on the deck and listen to the year-round song of the stream below. Breathe the fresh mountain air. For a treat, take a drink of our fresh out of the faucet drinking water! Crystal clean.\nThis 5 Bedroom, 4 Bathroom home is a two-minute drive to the ski slopes, restaurants, and spa at the Sundance Resort. Centered in the middle of the open concept entry way, living room, dining room and kitchen is a large propane fireplace making everything so cozy. The chic, mountain cabin furnishings are comfortable and invite relaxation.\nThe wonderful floor to ceiling windows allows natural light in and showcases the views of the forest, majestic Mt. Timpanogas, gorgeous skies and the natural abundance of beauty this little slice of heaven here in Sundance, Utah, provides.\nA well-appointed kitchen has updated appliances with counter space. It is a joy to cook and prepare meals.\nTwo bedrooms on the main level feature queen beds with windows for light. One bedroom has a workstation desk, with direct access to one of two bathrooms closely situated. The second bedroom has a ladder that accesses a quiet reading space when you might just want to \"hide out\". A full-size washer and dryer are located on this floor for your convenience.\nUpstairs is the master suite with king size bed, private fireplace, outside balcony and a bathroom with a window walled tub overlooking the landscape. The Nap Nook is on this level as well. Great excuse to take a nap!\nThe lower level is an open area featuring twin beds at one end for the kids and a workout area with stationary bike, free weights, a bench, and a TV. A second private bedroom on this floor has an adjacent bathroom featuring a queen bed and sitting area.\nThe main level deck features (weather permitting) a dining table, Adirondack chairs and a propane BBQ for grilling. At the opposite end of the deck is the covered hot tub with a separate entrance from the house to make winter access easy.\nWe would love to share this magical place with you. Come make Stream Song your home away from home for your next get away.\nNO PETS – NO PARTIES OR EVENTS\nDRIVEWAY PARKING FOR FIVE CARS.",
+    "amenities": [],
+    "map": {
+      "label": "8984 Timphaven Rd, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=8984%20Timphaven%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
@@ -3578,20 +4261,7 @@
         "displayOrder": 49,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "8984 Timphaven Road",
-      "shortSummary": "Stream Song - Relax, Rejuvinate and Reconnect",
-      "summary": "Stream Song is an exceptionally warm, inviting cabin for reconnecting with family and friends.  Take it easy here.  Play games at the dining room table, watch a movie on the Smart TV, make a meal with friends or just sit on the deck and listen to the year-round song of the stream below.  Breathe the fresh mountain air.  For a treat, take a drink of our fresh out of the faucet drinking water!  Crystal clean.  \r\n\r\nThis five bedroom, four bathroom home is a two-minute drive to the ski slopes, restaurants, and spa at  the Resort.  Centered in the middle of the open concept entry way, living room, dining room and kitchen is a large propane fireplace making everything so cozy.  The chic, mountain cabin furnishings are comfortable and invite relaxation.  \r\n\r\nThe wonderful floor to ceiling windows allows natural light in and showcases the views of the forest, majestic Mt. Timpanogas, gorgeous skies and the natural abundance of beauty this little slice of heaven here in Sundance, Utah, provides.   A well-appointed kitchen has updated appliances with counter space.  It is a joy to cook and prepare meals.  \r\n\r\n Two bedrooms on the main level feature queen beds with windows for light. One bedroom has a workstation desk, with direct access to one of two bathrooms closely situated.  The second bedroom has a ladder that accesses a quiet reading space when you might just want to \"hide out\".  A full-size washer and dryer are located on this floor for your convenience. \r\n\r\nUpstairs is the master suite with king size bed, private fireplace, outside balcony and a bathroom with a window walled tub overlooking the landscape. The Nap Nook is on this level as well. Great excuse to take a nap! \r\n\r\nThe lower level is an open area featuring twin beds at one end for the kids and a workout area with stationary bike, free weights, a bench, and a TV.  A second private bedroom on this floor has an adjacent bathroom featuring a queen bed and sitting area.  \r\n\r\nThe main level deck features (weather permitting) a dining table, Adirondack chairs and a propane BBQ for grilling.  At the opposite end of the deck is the covered hot tub with a separate entrance from the house to make winter access easy. \r\n\r\nWe would love to share this magical place with you.  Come make Stream Song your home away from home for your next get away.\r\n\r\nNO PETS – NO PARTIES OR EVENTS\r\nDRIVEWAY PARKING FOR FIVE CARS.   \r\n",
-      "notes": "",
-      "access": "",
-      "transit": "",
-      "interaction": "",
-      "neighbourhood": "",
-      "space": "",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": null,
@@ -3664,10 +4334,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 4,
-      "average": 5
-    },
+    "reviews": { "total": 4, "average": 5 },
     "createdDate": 1644187187000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -3680,6 +4347,92 @@
       "hvmiUrl": null
     },
     "uid": "897cf246-c783-4df0-a5ff-faf3241b6d9a",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 2+2", "icon": "person-plus" },
+        { "text": "Luxury Shower", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        {
+          "text": " Microwave | Coffee Machine | Kitchenet",
+          "icon": "fork-plate-knife"
+        }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "4 guests   2 bedroom   1 bed + sofa sleeper   2.5 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "14 recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "90% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "TimpCreek on the Stream is convenient to both nature and amenities and is the perfect choice for a romantic getaway or for the business traveler. Once you arrive, you can park, unload and then forget the car. An easy 3 minute walk by the creek and through the trees brings you to the base of the ski lift, the restaurants, the bar, gift shop, art gallery, meeting rooms or by going in the opposite direction up the stairs, is the Spa. This is where you want to be.\nWe are a privately owned and operated vacation property within the Sundance Resort. Although we are not affiliated with the Resort itself, all activities and amenities are available for your use.\nTimpCreek is not a private stand alone structure and has another rental attached to it. Each unit has it’s own very separate private entrance and all TimpCreek’s decks and space are wholly yours to use.\nTime away is so very important and we commit to do everything to make your time stressfree.\nPrior to your arrival we make sure to not only make TimpCreek on the Stream is comfortable inside but will provide any information you need prior to your arrival.\nAfter your booking, Pamela, your mountain contact, will send you a text for easier comminication and to make sure that any time an urgent message during your stay, we can reach you.\nAs you walk out the path from the cabin, turn left and and on your walk to the Resort, you have two options, both same distance. When you get to the fork, go left and you will pass the Glass Blowers (seasonal), and the Art Gallery for great gifts or drop in and sign up for any of their classes such as pottery, jewelry making, journal making or shop for great gifts.\nTurn right at the fork, and you wll walk past the Private Screening Room, the pond with beautiful 18″ inch trout and then walk over to the base of the Outlaw Ski Lift.\nFor a visit to the Spa, as you come out of the cabin turn to your right and walk up the stairs to Timphaven Road. The Spa is located just a short walk on the right side of Timphaven.\nUpon arrival at TimpCreek, the building will be to your right and your disignated parking spot is the one to the right. There is room for one car. Should you need an additional space, please contact your host.\nHand peeled logs, rustic beams, cozy fireplace, timber planked floors, and is so quaint and full of fun collections reflective of Sundance plus the warmth of furnishings from a time long past welcome you to this 2 bedroom, 2.5 bath santuary. Set apart, but not remote, TimpCreek on the Stream has easy all year access.\nCurl up in front of the fireplace for a cozy conversation or to read a book. Prepare a meal in the kitchen, dine at the adjacent dining room table, or work at the desk for doing a bit of business before going out to play.\nOnce you arrive, you are walking distance to the Resorts amenities. However, should you want to explore off mountain you will want to rent or drive a car. Be mindful from November 1st until March 31st you will need to drive a four wheel or all wheel vehicle.\nThere are no grocery stores or gas stations at Sundance however in the directions, we give the location of the stores closest to us.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Cabin",
+        "text": "Enjoy complete, romantic privacy to the House in it's own quite little canyon on a private lane along the stream."
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Easy private parking is provided at the TimpCreek House and is paved and maintained year round."
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "3 Queen Sized Beds",
+        "text": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Double Deck / Patio",
+        "text": "Relax on a Patio over looking Sundance Mountain and all the hikes, biking, skiing, fly fishing and sights in the area"
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The TimpCreek House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "(40.394780, -111.589190)",
+      "url": "https://maps.google.com/maps?q=%2840.394780%2C%20-111.589190%29&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
@@ -3954,20 +4707,7 @@
         "displayOrder": 38,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "TimpCreek Cottage on the Stream",
-      "shortSummary": "TimpCreek Cottage on the Stream ",
-      "summary": "TimpCreek on the Stream is convenient to both nature and amenities and is the perfect choice for a romantic getaway or for the business traveler.  Once you arrive, you can park, unload and then forget the car.  An easy 3 minute walk by the creek and through the trees brings you to the base of the ski lift, the restaurants, the bar,  gift shop, art gallery, meeting rooms or by going in the opposite direction up the stairs, is the Spa.  This is where you want to be.",
-      "notes": "We are a privately owned and operated vacation property within the  Sundance Resort.  Although we are not affiliated with the Resort itself, all activities and amenities are available for your use.  \r\n\r\nTimpCreek is not a private stand alone structure and has another rental attached to it.  Each unit has it's own very separate private entrance and all TimpCreek’s decks, hot tub and space are all yours to use.",
-      "access": "Upon arrival at TimpCreek, the building will be to your right and your disignated parking spot is the one to the right.  There is room for one car.  Should you need an additional space, please contact your host.",
-      "transit": "Once you arrive, you are walking distance to the Resorts amenities.  However, should you want to explore off mountain you will want to rent or drive a car.  Be mindful from November 1st until March 31st you will need to drive a four wheel or all wheel vehicle.  \r\n\r\nThere are no grocery stores or gas stations at Sundance however in the directions, we give the location of the stores closest to us.",
-      "interaction": "Time away is so very important and we commit to do everything to make your time stressfree.  \r\nPrior to your arrival we make sure to not only make TimpCreek on the Stream is comfortable inside but will provide any information you need prior to your arrival.    \r\n\r\nAfter your booking, Pamela, your mountain contact, will send you a text for easier comminication and to make sure that any time an urgent message during your stay, we can reach you.  \r\n\r\n\r\n\r\n",
-      "neighbourhood": "As you walk out the path from the cabin, turn left and and on your walk to the Resort, you have two options, both same distance.  When you get to the fork, go left and you will pass the Glass Blowers (seasonal), and the Art Gallery for great gifts or drop in and sign up for any of their classes such as pottery,  jewelry making, journal making or shop for great gifts.   \r\n\r\nTurn right at the fork, and you wll walk past the Private Screening Room, the pond with beautiful 18\" inch trout and then walk over to the base of the Outlaw Ski Lift.\r\n\r\nFor a visit to the Spa, as you come out of the cabin turn to your right and walk up the stairs to Timphaven Road.  The Spa is located just a short walk on the right side of Timphaven.",
-      "space": "Hand peeled logs, rustic beams, cozy fireplace, timber planked floors, and is so quaint and full of fun collections reflective of Sundance plus the warmth of furnishings from a time long past welcome you to this 2 bedroom, 2.5 bath santuary.  Set apart, but not remote, TimpCreek on the  Stream has easy all year access.  \r\n\r\nCurl up in front of the fireplace for a cozy conversation or to read a book.  Prepare a meal in the kitchen, dine at the adjacent dining room table, or work at the desk for doing a bit of business before going out to play.   \r\n\r\nThe kitchen offers a full size refrigerator, full size stove and oven, dishwasher, microwave, coffee maker.  The kitchen deck with BBQ and table is perfect for outdoor dining.  \r\n\r\nMain bedroom upstairs has direct access to a private deck in the trees overlooking the stream to enjoy your morning beverage or afternoon quiet respite.  The  adjacent full bath features a soaking tub.\r\n\r\nThe loft contains the second sleeping area with two extra long twin beds, and half bath that includes the  new washer and dryer.    \r\n\r\nNo matter what season you come to visit,  whether it's for the spring meadows laced with wild flowers, the smells and activities of summer,  the magnificence of authumn colors, or a blanket of the greatest snow on earth, every season invites you to return and stay one more time.  Make this your come back to desitination.",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   },
   {
     "pricingRules": null,
@@ -4040,10 +4780,7 @@
     "rentalLicenseNumber": "",
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 62,
-      "average": 4.82258064516129
-    },
+    "reviews": { "total": 62, "average": 4.82258064516129 },
     "createdDate": 1562259461000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
@@ -4056,6 +4793,100 @@
       "hvmiUrl": null
     },
     "uid": "53ef1805-0602-47aa-8b10-b2b25af243b8",
+    "basic-info": {
+      "highlight": [
+        { "text": "Sleeps 11", "icon": "person-plus" },
+        { "text": "2", "icon": "shower-head-water" },
+        { "text": "Walking Distance to Sundance", "icon": "direction-sign" },
+        { "text": "Mountain Activities", "icon": "travelling-backpack" },
+        { "text": "Full Kitchen", "icon": "fork-plate-knife" },
+        { "text": "WiFi + Cable TV", "icon": "basic-rss" }
+      ],
+      "other": [
+        {
+          "icon": "home",
+          "title": "Entire Cabin For Rent",
+          "text": "11 guests   3 bedroom   4 bed   2 bath"
+        },
+        {
+          "icon": "bath",
+          "title": "Sparkling clean",
+          "text": "Recent guests said this place was sparkling clean."
+        },
+        {
+          "icon": "map-marker",
+          "title": "Great location",
+          "text": "100% of recent guests gave the location a 5-star rating."
+        },
+        {
+          "icon": "trophy",
+          "title": "Super Host Status",
+          "text": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+        },
+        {
+          "icon": "star",
+          "title": "Top Rated",
+          "text": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+        }
+      ]
+    },
+    "description": "Down a private winding road, past the horse pasture and around the bend, you will find the Treehouse on the Stream - the essence of mountain lodging in Sundance, Utah.\nA perfect stream-side spot for your Rustic, Mountain Wedding or Family Reunion.** The Treehouse has two separate levels with their own entrances so it functions well for couples traveling together or for kids who want their own space. The upper level has beds for five and a sleeper sofa for two more, a real wood burning fireplace, a fully equipped kitchen, washer/dryer, televisions with satellite service and large windows to bring the forest inside.\nThe kitchen deck invites you to enjoy your morning beverage outside in the quiet while watching the birds on the feeder. The main deck allows for dining al fresco overlooking the stream or watching the stars at night.\nThe lower level has a separate entrance and a gas fireplace with a thermostat and remote control. The living room features a cozy, comfortable sleeper sofa where it’s fun to watch a movie on HD TV.\nThe big windows look out onto the deck and lawn. The kitchenette area is equipped with a mini fridge and toaster/convection oven. The queen size bed sits beside a large window and looks out into the forest at ground level. Great for catching the squirrels at play, wild turkeys on their daily treks and even deer that wander close to the house.\nGot kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! The lower level deck has a porch swing for watching the kids swing or play in their own tree house.\nTrails meander through the property or to take you up the hills and into the woods for exploring. There’s room to throw a ball, play hide and seek or just find a rock to sit on - you can do it all at the Tree House property.\nFive minutes away by car or a short walk will have you at Sundance Resort. Ski slopes, spa, zip line, full moon lift rides, restaurants, evening entertainment at the Owl Bar with live music on the weekends provides the opportunity to check back in when you want. As is typical for all Utah winter mountains driving, access requires 4-wheel drive & all weather or snow specific tires & chains on a 2-wheel drive vehicle.\n**Event Fees apply.",
+    "amenities": [
+      {
+        "icon": "keys",
+        "title": "Private Cabin",
+        "text": "Enjoy relaxing privacy at the Tree House on The Stream"
+      },
+      {
+        "icon": "basic-signs",
+        "title": "Parking",
+        "text": "Ample parking is provided at the Tree House on The Stream at Sundance, Utah"
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "3 Queen Sized Beds",
+        "text": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "icon": "king-size-bed",
+        "title": "+ Kids Beds",
+        "text": "Kids beds include a bunk bed in the 2nd bedroom, and sofa sleeper downstairs."
+      },
+      {
+        "icon": "skis-and-poles",
+        "title": "Walk to Sundance Mountain Resort",
+        "text": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "icon": "trifolded-map-route",
+        "title": "Local Attractions",
+        "text": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "icon": "bikini-swimsuit",
+        "title": "Jacuzzi / Hot Tub",
+        "text": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "icon": "mountains-snow",
+        "title": "Amazing Views",
+        "text": "The Tree House is surrounded by Big Pines and a beautiful, year round steam + our one of a kind 12,000lb stone picnic table."
+      },
+      {
+        "icon": "restaurant-dine",
+        "title": "Propane BBQ Grill",
+        "text": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "icon": "instagram",
+        "title": "Find More on Instagram",
+        "text": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "map": {
+      "label": "3303 E Old Bridge Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3303%20E%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "1224d84c-6db8-447c-ac17-29af9ef0e50d",
@@ -4281,19 +5112,6 @@
         "displayOrder": 31,
         "airbnbRoomId": null
       }
-    ],
-    "description": {
-      "name": "Treehouse on The Stream • Sundance, Utah",
-      "shortSummary": "Treehouse On The Stream - 3 Bd, 2 Ba,. Great yard!  Walking distance to Mountain Resort",
-      "summary": "STREAM SIDE CABIN -   Down a private windy road, past the horse pasture and around the bend, you will find The Treehouse on the Stream - the essence of mountain lodging.   The creek alongside the back yard with swings, a bridge and a small tree loft for the kids and a lower deck with a porch swing for quiet contemplation.    In the yard is an amazing  stone table with stone benches for your outside dining.   Seven minute walk or five minute drive to Sundance Resort.  Quiet, secluded with downstairs apartment to give everyone their own space.  The mountain beckons - Come and Stay\r\n\r\nFor additional housing, ask about our neighboring cabins.  ",
-      "notes": "",
-      "access": "You'll have access to the entire space including both floors of The Treehouse, the lawn and the stream.",
-      "transit": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.",
-      "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
-      "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while tall pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
-      "space": "The Treehouse has separate levels and functions well for couples traveling together or for kids who want their own space. Upper level has beds for five and a sleeper sofa for two. The lower level has a queen bed for two plus sleeper sofa. Total sleeping space in beds is seven, eleven including sleeper sofas. \r\n\r\nThe main level has a real wood burning fireplace, fully equipped kitchen, washer/dryer with ample closets and televisions with satellite service including premium movie channels. The large windows and decks look through the trees at the steam. The kitchen deck invites you to enjoy early morning beverages in the peace and quiet while you breathe in the fresh mountain air to start your day or sip a cocktail in the evening and ponder the stars at night. The main deck allows for all day lounging and listening to the stream, or watching the kids enjoy the swings and play in their own treehouse during the summer or make snow angels or snowball fight in the winter. There is plenty of room for exploring the area and letting the kids be kids. After all, a cabin is just a cabin, but combined with room to go outside and play is a great treat. \r\n\r\nThe master bedroom has a full size closet and a dresser to provide plenty of room for unpacking, leading to a feeling of belonging not afforded by living out of a suitcase. \r\n\r\nThe second bedroom bunk beds feature a full size bed on the bottom and a twin on top. An armoire with large drawers allows you to unpack and feel at home. This bedroom contains the washer/dryer closet and shelves housing extra towels and household supplies. \r\n\r\nThe lower level has a separate entrance with a gas fireplace with a thermostat and remote control. The living room features one of the best sleeper sofas and is cozy, comfortable and fun. The big windows look out onto the deck and lawn. The kitchenette area is equipped with mini fridge, toaster/convection oven, two burner hot plate, microwave, pots and pans and serving ware. The queen size bed sits beside a large window looking out into the forest at ground level. Great for catching the squirrels at play, turkeys on their daily treks and even deer that wander close to the house. Got kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! \r\n\r\nThe lower level deck has an Instagram worthy porch swing, you'll enjoy reconnecting with each other in, while. the living room has HD TV with satellite programming including premium movies, so you'll have the best of all options. \r\n\r\nThe treehouse has board games and more. For your convenience, we supply paper towels, toilet paper, Kleenix, bath soap, shampoo & conditioner, dishwasher detergent and laundry detergent.\r\n\r\nThe Treehouse has a large grassy area for walking to the edge of the stream to cool your feet after a hike in the summer or laying on your back looking at the clouds roll by. We affectionately call this beachfront property! In the winter, this same area covered with snow is perfect for making snow angels, building snowmen or watching the creation of beautiful ice masterpieces in the stream. The bridge crossing the stream is enjoyable either season and is great place to stage those memorable photos of your family and friends. \r\n\r\nTrails that never leave the property or meander up the hills and through the woods, room to throw a ball and play hide and seek or just find a rock to sit on - you can do it at the Treehouse property. No main roads mean no traffic or traffic sounds and affords you the sounds of the forest. \r\n\r\nThe Treehouse is minutes by car and within walking distance of Sundance Resort. Ski slopes, spa, restaurants, evening entertainment at the Owl Bar with live music on weekend nights provides the opportunity to check back in when you want. A list of ongoing and current events at Sundance is available  to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts you are 45 minutes to Park City, Deer Valley & The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude.\r\n\r\nThis property has plenty of parking and if you want to bring along Aunt Suzy and Uncle Bill and their RV, ask about the availability of our RV space. This space is only steps from the main house and has access to the stream and room for private space as well. \r\n\r\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-wheel drive vehicle.",
-      "houseManual": "",
-      "locale": "en_US"
-    }
+    ]
   }
 ]

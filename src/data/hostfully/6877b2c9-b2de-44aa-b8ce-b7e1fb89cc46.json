@@ -1,0 +1,332 @@
+{
+  "pricingRules": {
+    "increaseRate": 0,
+    "increaseRateLowerBound": 0,
+    "decreaseRate": 0,
+    "decreaseRateHigherBound": 0
+  },
+  "bedCount": 4,
+  "bedTypes": {
+    "kingBed": 1,
+    "queenBed": 2,
+    "doubleBed": 0,
+    "singleBed": 0,
+    "sofaBed": 1,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CONDO",
+  "name": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 8,
+  "baseDailyRate": 170,
+  "city": "Beaver",
+  "state": "UT",
+  "address1": "Wooded Ridge",
+  "address2": "Nº10",
+  "postalCode": "84713",
+  "countryCode": "US",
+  "bedrooms": 3,
+  "bathrooms": "2",
+  "picture": "https://orbirental-images.s3.amazonaws.com/abca6445-da47-4db4-a420-0260dc82ba69",
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/23490/eagle-point-resort-%E2%80%A2-wooded-ridge-n%C2%BA10-%E2%80%A2-beaver-ut",
+  "cleaningFeeAmount": 75,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": "",
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/23490.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": null,
+  "floor": 2,
+  "areaSize": 0,
+  "areaSizeUnit": "SQUARE_METERS",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 38.322121,
+  "longitude": -112.381104,
+  "airBnBID": "35459510",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
+  "guideBookUrl": "https://hostful.ly/gkgxwjc",
+  "weekEndRatePercentAdjustment": 23.529,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "",
+  "wifiPassword": "",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 11,
+    "average": 4.636363636363637
+  },
+  "createdDate": 1563214561000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/35459510",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": "https://www.vrbo.com/2254277",
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "6877b2c9-b2de-44aa-b8ce-b7e1fb89cc46",
+  "gallery": [
+    {
+      "uid": "abca6445-da47-4db4-a420-0260dc82ba69",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/abca6445-da47-4db4-a420-0260dc82ba69",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b0639c03-ab43-4d62-8f2e-1378f9419831",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/b0639c03-ab43-4d62-8f2e-1378f9419831",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c7bf5699-86eb-405f-aa23-dbcc8121a99a",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/c7bf5699-86eb-405f-aa23-dbcc8121a99a",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2d74f246-f8cb-429d-a2e4-58a3077e223f",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/2d74f246-f8cb-429d-a2e4-58a3077e223f",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "715ee3ca-d2a0-477c-bc79-c73c4c15647a",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/715ee3ca-d2a0-477c-bc79-c73c4c15647a",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "82d7bf55-184e-45c5-8df1-869bd3173b52",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/82d7bf55-184e-45c5-8df1-869bd3173b52",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ac97b5f1-5ddd-49c8-a8ed-db133dc143c2",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/ac97b5f1-5ddd-49c8-a8ed-db133dc143c2",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "469ab029-b49c-4892-971a-a081e77296b3",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/469ab029-b49c-4892-971a-a081e77296b3",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b45beb93-75f5-4bce-bff0-cd48f4eb2e9f",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/b45beb93-75f5-4bce-bff0-cd48f4eb2e9f",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "33874f57-bda7-41cb-8db6-525429166bf4",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/33874f57-bda7-41cb-8db6-525429166bf4",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d9b8149a-03ce-4d47-8c12-a0bfefad434f",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/d9b8149a-03ce-4d47-8c12-a0bfefad434f",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fa3cb325-b6af-4bf7-8ede-cd768cb3997d",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/fa3cb325-b6af-4bf7-8ede-cd768cb3997d",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "563cac4e-e674-4634-8205-32846322f918",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/563cac4e-e674-4634-8205-32846322f918",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9327bd36-79f6-41e3-955b-8b413ad5e7bb",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/9327bd36-79f6-41e3-955b-8b413ad5e7bb",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a531d56f-d349-48c8-8417-9269d65d8bb7",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/a531d56f-d349-48c8-8417-9269d65d8bb7",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fdde8cd2-58d8-4266-a9a6-b34a7553d601",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/fdde8cd2-58d8-4266-a9a6-b34a7553d601",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4c3199ba-33af-495e-9b53-4812203ca827",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/4c3199ba-33af-495e-9b53-4812203ca827",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fe346337-726f-40e8-a74e-61b3469e58c7",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/fe346337-726f-40e8-a74e-61b3469e58c7",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "8992bc53-deb1-4222-af96-0efdf2329d26",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/8992bc53-deb1-4222-af96-0efdf2329d26",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "75243e2d-5988-4abb-bc56-e96bc6f8cfa0",
+      "description": "Plenty of exploring to do in the canyon and around the resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/75243e2d-5988-4abb-bc56-e96bc6f8cfa0",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3d3b9967-a271-44e8-ac9b-87bb0fa4cc3c",
+      "description": "Plenty of exploring to do in the canyon and around the resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/3d3b9967-a271-44e8-ac9b-87bb0fa4cc3c",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3de08c6a-e4b8-4f48-aac6-458acbf5c391",
+      "description": "The kids loved this shallow cave",
+      "url": "https://orbirental-images.s3.amazonaws.com/3de08c6a-e4b8-4f48-aac6-458acbf5c391",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6526d43a-4369-4652-bfb2-efd91284b826",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/6526d43a-4369-4652-bfb2-efd91284b826",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9abab001-fc79-4177-99d2-f0edf7c16229",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/9abab001-fc79-4177-99d2-f0edf7c16229",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "74455b2d-d6cf-4995-a6a8-d8dcf00519e4",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/74455b2d-d6cf-4995-a6a8-d8dcf00519e4",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "72b454d3-d00c-474e-96f0-b94f98aaf780",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/72b454d3-d00c-474e-96f0-b94f98aaf780",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fd203791-8cd4-4dd7-843d-abaf5263876d",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/fd203791-8cd4-4dd7-843d-abaf5263876d",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "076e4ea2-a06a-4109-afb2-5f79bc16fd60",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/076e4ea2-a06a-4109-afb2-5f79bc16fd60",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "92642461-b5cd-42c5-aef0-f384618db493",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/92642461-b5cd-42c5-aef0-f384618db493",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "27c74e35-42bc-4779-a707-72ac0069b100",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/27c74e35-42bc-4779-a707-72ac0069b100",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a7345b24-1f2c-4578-b145-25abb9db5b01",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/a7345b24-1f2c-4578-b145-25abb9db5b01",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e140ca7e-3da9-400e-b373-22d85abfff66",
+      "description": "Close to Bryce Canyon National Park",
+      "url": "https://orbirental-images.s3.amazonaws.com/e140ca7e-3da9-400e-b373-22d85abfff66",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+    "shortSummary": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+    "summary": "This ski-in/ski-out, 2 bedroom + loft bedroom, 2 bath condo sleeps 8.  Kid's play cubby upstairs.\r\n\r\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\r\n\r\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\r\n\r\nWalking distance to lodge.",
+    "notes": "",
+    "access": "",
+    "transit": "You'll be enjoying the peace and serenity of the mountains about 20 minutes away from Beaver, Utah.  Be sure to fill your gas tank in town before coming up the mountains all-wheel-drive + snow tires and a set of chains, just in case, are highly recommended in winter.",
+    "interaction": "We're available by phone and by text throughout the week, and on-site personnel will always be assigned on the weekends.",
+    "neighbourhood": "Located in the Tusher Mountains of Southern Utah, along the historic Paiute Trail, Eagle Point Ski Resort is a true diamond in the rough, with no end to great experiences for every member of the family to unplug and build cherished mountain memories to last a lifetime!",
+    "space": "Eagle Point Ski Resort is located along the historic Paiute Trail so bring your hiking boots, ATVs, or horses if you're visiting in the Summer season.  Plus, remember your fishing gear, photography equipment and golf clubs!",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}
