@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && run generate:json",
+    "build": "run generate:json && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "generate:json": "tsx ./src/scripts/generateJson.ts && npm run format:json",
