@@ -86,5 +86,9 @@
       "icon": "fork-plate-knife",
       "text": "Full Kitchen"
     }
-  ]
+  ],
+  "map": {
+    "label": "3105 Big Pine Canyon Rd, Sundance, UT 84604",
+    "url": "https://maps.google.com/maps?q=3105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+  }
 }

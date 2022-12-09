@@ -90,5 +90,9 @@
       "text": "Satellite TV",
       "icon": "tv"
     }
-  ]
+  ],
+  "map": {
+    "label": "38.322055, -112.381064",
+    "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=11&output=embed&iwloc=near"
+  }
 }

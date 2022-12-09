@@ -172,6 +172,10 @@
         "text": "Full Kitchen"
       }
     ],
+    "map": {
+      "label": "3105 Big Pine Canyon Rd, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
@@ -623,6 +627,10 @@
         "text": "WiFi + Cable TV"
       }
     ],
+    "map": {
+      "label": "3349 East Old Bridge Road, Sundance, UT 84606",
+      "url": "https://maps.google.com/maps?q=3349%20East%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084606&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
@@ -1026,6 +1034,10 @@
         "icon": "wifi"
       }
     ],
+    "map": {
+      "label": "8982 N Timphaven Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=8982%20N%20Timphaven%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "4f2d8438-9213-4e99-80e0-71e8279323e3",
@@ -1629,6 +1641,10 @@
         "icon": "wifi"
       }
     ],
+    "map": {
+      "label": "3049 East Old Bridge Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3049%20East%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "473f703c-5b33-4d9f-b298-93082db8617e",
@@ -2037,6 +2053,10 @@
         "icon": "tv"
       }
     ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "abca6445-da47-4db4-a420-0260dc82ba69",
@@ -2459,6 +2479,10 @@
         "icon": "tv"
       }
     ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
@@ -2902,6 +2926,10 @@
         "icon": "tv"
       }
     ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
@@ -3289,6 +3317,10 @@
         "icon": "tv"
       }
     ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=11&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "f419692c-0d1c-4222-b10f-b912aae5c1d6",
@@ -3683,6 +3715,10 @@
         "icon": "tv"
       }
     ],
+    "map": {
+      "label": "38.322055, -112.381064",
+      "url": "https://maps.google.com/maps?q=38.322055%2C%20-112.381064&t=m&z=15&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "65e1f63c-8b78-4019-abb7-f1f515d1e498",
@@ -4062,6 +4098,10 @@
         "icon": "fork-plate-knife"
       }
     ],
+    "map": {
+      "label": "8984 Timphaven Rd, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=8984%20Timphaven%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
@@ -4593,6 +4633,10 @@
         "icon": "fork-plate-knife"
       }
     ],
+    "map": {
+      "label": "(40.394780, -111.589190)",
+      "url": "https://maps.google.com/maps?q=%2840.394780%2C%20-111.589190%29&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
@@ -5059,6 +5103,10 @@
         "icon": "wifi"
       }
     ],
+    "map": {
+      "label": "3303 E Old Bridge Road, Sundance, UT 84604",
+      "url": "https://maps.google.com/maps?q=3303%20E%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
+    },
     "gallery": [
       {
         "uid": "1224d84c-6db8-447c-ac17-29af9ef0e50d",
