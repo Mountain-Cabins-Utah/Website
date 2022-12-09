@@ -1,15 +1,21 @@
 ---
 interface Props {
-  label?: string;
-  url?: string;
+  map?: {
+    label?: string;
+    url?: string;
+  };
 }
 
-let { label, url } = Astro.props;
+const { map } = Astro.props;
 
-label = label || "Mt Cabins Ut, 3105 Big Pine Canyon Rd, Sundance, UT 84604";
-url =
-  url ||
+let label = "Mt Cabins Ut, 3105 Big Pine Canyon Rd, Sundance, UT 84604";
+let url =
   "https://maps.google.com/maps?q=Mt%20Cabins%20Ut%2C%203105%20Big%20Pine%20Canyon%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=15&output=embed&iwloc=near";
+
+if (map && map.label && map.url) {
+  label = map.label;
+  url = map.url;
+}
 ---
 
 <div class="map placeholder">
@@ -27,24 +33,26 @@ url =
   const map = document.querySelector(".map");
   const iframe = map.querySelector("iframe");
 
-  // intersection observer
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting && !loaded) {
-          iframe.src = url;
-          loaded = true;
-        }
-      });
-    },
-    {
-      rootMargin: "0px",
-      threshold: 0.1,
-    }
-  );
+  if (map && iframe) {
+    // intersection observer
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting && !loaded) {
+            iframe.src = url;
+            loaded = true;
+          }
+        });
+      },
+      {
+        rootMargin: "0px",
+        threshold: 0.1,
+      }
+    );
 
-  // observe
-  observer.observe(map);
+    // observe
+    observer.observe(map);
+  }
 </script>
 
 <style>

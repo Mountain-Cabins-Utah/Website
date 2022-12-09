@@ -78,5 +78,9 @@
       "text": "Microwave | Coffee Machine | Kitchenet",
       "icon": "fork-plate-knife"
     }
-  ]
+  ],
+  "map": {
+    "label": "(40.394780, -111.589190)",
+    "url": "https://maps.google.com/maps?q=%2840.394780%2C%20-111.589190%29&t=m&z=10&output=embed&iwloc=near"
+  }
 }

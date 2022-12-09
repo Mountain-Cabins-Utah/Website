@@ -16,7 +16,7 @@
     "generate:json": "tsx ./src/scripts/generateJson.ts && npm run format:json",
     "format": "prettier --write .",
     "check:format": "prettier --check .",
-    "format:json": "prettier --write ./src/data/*.json"
+    "format:json": "prettier --write ./src/data/**/*.json"
   },
   "dependencies": {
     "@astrojs/svelte": "^1.0.2",

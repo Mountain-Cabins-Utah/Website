@@ -82,5 +82,9 @@
       "icon": "wifi",
       "text": "WiFi + Cable TV"
     }
-  ]
+  ],
+  "map": {
+    "label": "3349 East Old Bridge Road, Sundance, UT 84606",
+    "url": "https://maps.google.com/maps?q=3349%20East%20Old%20Bridge%20Road%2C%20Sundance%2C%20UT%2084606&t=m&z=15&output=embed&iwloc=near"
+  }
 }

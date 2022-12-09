@@ -45,8 +45,7 @@ const cabin = Astro.props.cabin as Cabin;
     <HostfullyWidget propertyId={cabin.uid} />
   </div>
   <OtherInfo cabin={cabin} />
-  <!-- TODO: HANDLE UNDEFINED -->
-  <Map label={cabin.map?.label} url={cabin.map?.url} />
+  <Map map={cabin.map} />
   <Cabins />
   <Footer />
 </BaseLayout>
