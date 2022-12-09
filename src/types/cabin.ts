@@ -136,8 +136,20 @@ interface Amenities {
   description: string;
 }
 
+export type Icons =
+  | "person-plus"
+  | "direction-sign"
+  | "shower-head-water"
+  | "fork-plate-knife"
+  | "wifi"
+  | "mountain"
+  | "skis-and-poles"
+  | "fire"
+  | "globe"
+  | "tv";
+
 interface FooterInfo {
-  icon: "people" | "bed" | "bathtub" | "map" | "highlight" | "other";
+  icon: Icons;
   text: string;
 }
 

@@ -71,8 +71,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 115,
-      "average": 4.939130434782609
+      "total": 116,
+      "average": 4.939655172413793
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
@@ -126,6 +126,50 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "4 guests   1 bedroom   1 bed + sofa sleeper   1 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "14 recent guests said this place was sparkling clean."
+      },
+      {
+        "title": " Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 2+2"
+      },
+      {
+        "icon": "shower-head-water",
+        "text": "Luxury Shower"
+      },
+      {
+        "icon": "direction-sign",
+        "text": "Walking Distance to Sundance"
+      },
+      {
+        "icon": "mountain",
+        "text": "Mountain Activities"
+      },
+      {
+        "icon": "fork-plate-knife",
+        "text": "Full Kitchen"
       }
     ],
     "gallery": [
@@ -531,6 +575,54 @@
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
       }
     ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "14 guests   3 bedroom   10 bed   1 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "10 recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 14"
+      },
+      {
+        "icon": "shower-head-water",
+        "text": "Full Bathroom"
+      },
+      {
+        "text": "Walking Distance to Sundance",
+        "icon": "direction-sign"
+      },
+      {
+        "icon": "mountain",
+        "text": "Mountain Activities"
+      },
+      {
+        "icon": "fork-plate-knife",
+        "text": "Full Kitchen"
+      },
+      {
+        "icon": "wifi",
+        "text": "WiFi + Cable TV"
+      }
+    ],
     "gallery": [
       {
         "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
@@ -884,6 +976,54 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "8 guests   2 bedroom   7 bed   1 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 8",
+        "icon": "person-plus"
+      },
+      {
+        "text": "Luxury Bathroom",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Walking Distance to Sundance",
+        "icon": "direction-sign"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Full Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "text": "WiFi + Cable TV",
+        "icon": "wifi"
       }
     ],
     "gallery": [
@@ -1392,8 +1532,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 43,
-      "average": 4.953488372093023
+      "total": 44,
+      "average": 4.954545454545454
     },
     "createdDate": 1562259485000,
     "percentUponReservation": 50,
@@ -1439,6 +1579,54 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "16 guests   5 bedroom   9 bed   3 bath  8 Additional Areas  1 Man Cave/Game Room"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings for our Sundance, Utah cabins, on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 16",
+        "icon": "person-plus"
+      },
+      {
+        "text": "3 Showers/Bathrooms",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Walking Distance to Sundance",
+        "icon": "direction-sign"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Full Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "text": "WiFi + Cable TV",
+        "icon": "wifi"
       }
     ],
     "gallery": [
@@ -1791,6 +1979,62 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "8 guests   3 bedroom   3 bed + 1 sofa sleeper   2 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "Recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 8"
+      },
+      {
+        "text": "2 Baths",
+        "icon": "shower-head-water"
+      },
+      {
+        "icon": "skis-and-poles",
+        "text": "Ski In Ski Out"
+      },
+      {
+        "icon": "mountain",
+        "text": "Mountain Activities"
+      },
+      {
+        "icon": "fork-plate-knife",
+        "text": "Fully Stocked Kitchen"
+      },
+      {
+        "text": "Fireplace",
+        "icon": "fire"
+      },
+      {
+        "icon": "globe",
+        "text": "Internet"
+      },
+      {
+        "text": "Satellite TV",
+        "icon": "tv"
       }
     ],
     "gallery": [
@@ -2157,6 +2401,62 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "10 guests   2 bedrooms + Loft   7 beds   2 bathrooms"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "Recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 10",
+        "icon": "person-plus"
+      },
+      {
+        "text": "2 Bath2",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Ski In Ski Out",
+        "icon": "skis-and-poles"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Fully Stocked Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "icon": "fire",
+        "text": "Fireplace"
+      },
+      {
+        "text": "Internet",
+        "icon": "globe"
+      },
+      {
+        "text": "Satellite TV",
+        "icon": "tv"
       }
     ],
     "gallery": [
@@ -2546,6 +2846,62 @@
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
       }
     ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "11 guests   2 bedrooms + Loft   8 beds   2 bathrooms"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "Recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 11"
+      },
+      {
+        "text": "2 Baths",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Ski In Ski Out",
+        "icon": "skis-and-poles"
+      },
+      {
+        "icon": "mountain",
+        "text": "Mountain Activities"
+      },
+      {
+        "text": "Fully Stocked Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "text": "Fireplace",
+        "icon": "fire"
+      },
+      {
+        "text": "Internet",
+        "icon": "globe"
+      },
+      {
+        "text": "Satellite TV",
+        "icon": "tv"
+      }
+    ],
     "gallery": [
       {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
@@ -2875,6 +3231,62 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Condo For Rent",
+        "description": "6 guests   1 bedroom+Loft   3 bed + sofa sleeper   2 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "Recent guests gave this location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": " Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 6",
+        "icon": "person-plus"
+      },
+      {
+        "text": "2 Bath",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Ski In Ski Out",
+        "icon": "skis-and-poles"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Fully Stocked Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "icon": "fire",
+        "text": "Fireplace"
+      },
+      {
+        "icon": "globe",
+        "text": "Internet"
+      },
+      {
+        "text": "Satellite TV",
+        "icon": "tv"
       }
     ],
     "gallery": [
@@ -3215,6 +3627,62 @@
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
       }
     ],
+    "description info": [
+      {
+        "title": "Entire Condo For Rent",
+        "description": "8 guests   3 bedroom   3 bed + sofa sleeper   2 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "Recent guests gave this location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 8",
+        "icon": "person-plus"
+      },
+      {
+        "text": "2 Baths",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Ski In Ski Out",
+        "icon": "skis-and-poles"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Fully Stocked Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "text": "Fireplace",
+        "icon": "fire"
+      },
+      {
+        "text": "Internet",
+        "icon": "globe"
+      },
+      {
+        "text": "Satellite TV",
+        "icon": "tv"
+      }
+    ],
     "gallery": [
       {
         "uid": "65e1f63c-8b78-4019-abb7-f1f515d1e498",
@@ -3550,6 +4018,50 @@
     },
     "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
     "amenities": [],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "10 guests   5 bedrooms   6 beds   4 bathrooms"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "14 recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "text": "Sleeps 10",
+        "icon": "person-plus"
+      },
+      {
+        "text": "Hot Tub",
+        "icon": "shower-head-water"
+      },
+      {
+        "text": "Walking Distance to Sundance",
+        "icon": "direction-sign"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Kitchen | Microwave | Coffee Machine",
+        "icon": "fork-plate-knife"
+      }
+    ],
     "gallery": [
       {
         "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
@@ -4037,6 +4549,50 @@
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
       }
     ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "4 guests   2 bedroom   1 bed + sofa sleeper   2.5 bath"
+      },
+      {
+        "description": "14 recent guests said this place was sparkling clean.",
+        "title": "Sparkling clean"
+      },
+      {
+        "title": "Great location",
+        "description": "90% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 2+2"
+      },
+      {
+        "icon": "shower-head-water",
+        "text": "Luxury Shower"
+      },
+      {
+        "text": "Walking Distance to Sundance",
+        "icon": "direction-sign"
+      },
+      {
+        "text": "Mountain Activities",
+        "icon": "mountain"
+      },
+      {
+        "text": "Microwave | Coffee Machine | Kitchenet",
+        "icon": "fork-plate-knife"
+      }
+    ],
     "gallery": [
       {
         "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
@@ -4453,6 +5009,54 @@
       {
         "title": "Find More on Instagram",
         "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
+    "description info": [
+      {
+        "title": "Entire Cabin For Rent",
+        "description": "11 guests   3 bedroom   4 bed   2 bath"
+      },
+      {
+        "title": "Sparkling clean",
+        "description": "Recent guests said this place was sparkling clean."
+      },
+      {
+        "title": "Great location",
+        "description": "100% of recent guests gave the location a 5-star rating."
+      },
+      {
+        "title": "Super Host Status",
+        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+      },
+      {
+        "title": "Top Rated",
+        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+      }
+    ],
+    "footer info": [
+      {
+        "icon": "person-plus",
+        "text": "Sleeps 11"
+      },
+      {
+        "icon": "shower-head-water",
+        "text": "2 baths"
+      },
+      {
+        "icon": "direction-sign",
+        "text": "Walking Distance to Sundance"
+      },
+      {
+        "icon": "mountain",
+        "text": "Mountain Activities"
+      },
+      {
+        "text": "Full Kitchen",
+        "icon": "fork-plate-knife"
+      },
+      {
+        "text": "WiFi + Cable TV",
+        "icon": "wifi"
       }
     ],
     "gallery": [
