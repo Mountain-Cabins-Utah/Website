@@ -9,25 +9,27 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build:astro": "astro build",
+    "build": "npm run generate:json && npm run build:astro",
     "preview": "astro preview",
     "astro": "astro",
-    "generate:json": "tsx ./src/scripts/generateJson.ts",
+    "generate:json": "tsx ./src/scripts/generateJson.ts && npm run format:json",
     "format": "prettier --write .",
-    "check:format": "prettier --check ."
+    "check:format": "prettier --check .",
+    "format:json": "prettier --write ./src/data/*.json"
   },
   "dependencies": {
     "@astrojs/svelte": "^1.0.2",
-    "astro": "^1.6.7",
-    "photoswipe": "^5.3.3",
-    "svelte": "^3.53.1"
+    "astro": "^1.6.13",
+    "photoswipe": "^5.3.4",
+    "svelte": "^3.54.0"
   },
   "devDependencies": {
     "dotenv": "^16.0.3",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.0",
     "prettier-plugin-astro": "^0.7.0",
-    "prettier-plugin-svelte": "^2.8.0",
-    "tsx": "^3.12.0",
-    "typescript": "^4.8.4"
+    "prettier-plugin-svelte": "^2.8.1",
+    "tsx": "^3.12.1",
+    "typescript": "^4.9.3"
   }
 }

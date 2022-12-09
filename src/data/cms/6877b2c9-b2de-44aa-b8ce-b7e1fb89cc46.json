@@ -1,0 +1,94 @@
+{
+  "uid": "6877b2c9-b2de-44aa-b8ce-b7e1fb89cc46",
+  "name": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+  "amenities": [
+    {
+      "title": "Private Entrance",
+      "description": "Enjoy comfort and privacy in your own Wooded Ridge Condominum"
+    },
+    {
+      "title": "Parking",
+      "description": "Wooded Ridge parking is paved and maintained year round."
+    },
+    {
+      "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+      "description": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+    },
+    {
+      "title": "Ski-In-Ski-Out Access to Resort",
+      "description": "Your Wooded Ridge Condo is literally situated on Eagle Point Mountain Resort ski and snowboard runs"
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+    },
+    {
+      "title": "Amazing Views",
+      "description": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Full kitchen and dinning table for 6"
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ],
+  "description info": [
+    {
+      "title": "Entire Cabin For Rent",
+      "description": "8 guests   3 bedroom   3 bed + 1 sofa sleeper   2 bath"
+    },
+    {
+      "title": "Sparkling clean",
+      "description": "Recent guests said this place was sparkling clean."
+    },
+    {
+      "title": "Great location",
+      "description": "Recent guests gave the location a 5-star rating."
+    },
+    {
+      "title": "Super Host Status",
+      "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
+    },
+    {
+      "title": "Top Rated",
+      "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
+    }
+  ],
+  "footer info": [
+    {
+      "icon": "person-plus",
+      "text": "Sleeps 8"
+    },
+    {
+      "text": "2 Baths",
+      "icon": "shower-head-water"
+    },
+    {
+      "icon": "skis-and-poles",
+      "text": "Ski In Ski Out"
+    },
+    {
+      "icon": "mountain",
+      "text": "Mountain Activities"
+    },
+    {
+      "icon": "fork-plate-knife",
+      "text": "Fully Stocked Kitchen"
+    },
+    {
+      "text": "Fireplace",
+      "icon": "fire"
+    },
+    {
+      "icon": "globe",
+      "text": "Internet"
+    },
+    {
+      "text": "Satellite TV",
+      "icon": "tv"
+    }
+  ]
+}

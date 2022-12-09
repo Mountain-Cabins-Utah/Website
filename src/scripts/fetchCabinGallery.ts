@@ -1,16 +1,9 @@
-import { getApiKey } from "../../utils/consts";
+import type { HostfullyPropertyGallery } from "../types/cabin";
+import { getApiKey } from "../utils/consts";
 
-export type Gallery = Picture[];
-
-export interface Picture {
-  uid: string;
-  description: string;
-  url: string;
-  displayOrder: number;
-  airbnbRoomId: null;
-}
-
-export async function getCabinGallery(uid: string): Promise<Gallery> {
+export async function fetchCabinGallery(
+  uid: string
+): Promise<HostfullyPropertyGallery> {
   const url = `https://api.hostfully.com/v2/photos?propertyUid=${uid}`;
   const headers = {
     "Content-Type": "application/json",

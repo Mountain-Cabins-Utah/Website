@@ -1,0 +1,369 @@
+{
+  "pricingRules": null,
+  "bedCount": 2,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 1,
+    "doubleBed": 0,
+    "singleBed": 0,
+    "sofaBed": 1,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "CarriageHouse on The Stream, Sundance UT",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 4,
+  "baseDailyRate": 245,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "3105 -B Big Pine Canyon Road",
+  "address2": "Carriage House",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 1,
+  "bathrooms": "1",
+  "picture": "https://orbirental-images.s3.amazonaws.com/5189d3e6-a958-450f-9ff0-80b8301b3ce4",
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-above-the-stream",
+  "cleaningFeeAmount": 75,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": "",
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22906.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid, minus 5%  to cover credit  card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50% minus 5% to cover processing fees. Otherwise, they won't get a refund.",
+  "floor": 0,
+  "areaSize": 650,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.393913,
+  "longitude": -111.585716,
+  "airBnBID": "18105837",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream%2C-sundance-ut",
+  "guideBookUrl": "https://hostful.ly/CarriageHouseStream",
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "CarriageHouse",
+  "wifiPassword": "Carriage5013",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 116,
+    "average": 4.939655172413793
+  },
+  "createdDate": 1562259446000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/18105837",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream%2C-sundance-ut",
+    "bookingDotComUrl": "https://booking.com/hotel/us/carriage-house-above-the-stream.en.html",
+    "homeAwayUrl": "https://www.vrbo.com/955170",
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "2a05c85d-b138-45fa-8f78-9f0bbfb9441f",
+  "gallery": [
+    {
+      "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
+      "description": "The Carriage House.  A beautiful place to come to.  A covered place to park your car and a beautiful circular stairway lthat eads up to the entrance to your home away from home!  Welcome.  \n ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ae712a73-af19-41fa-aae9-9270017ed9b5",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "76bee241-15a3-4e92-ad68-a404485c0226",
+      "description": "Queen size adjustable bed with access to outside covered large deck.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/76bee241-15a3-4e92-ad68-a404485c0226",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1e8ac7b6-c837-49b4-a219-eeda2e92b5b7",
+      "description": "Common area, bedroom and bathroom plus butler's kitchen. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/1e8ac7b6-c837-49b4-a219-eeda2e92b5b7",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "44a49c18-0197-40ad-ba97-c96e1bb703b6",
+      "description": "Hidden office in the armoire, mini fridge, Keurig coffee maker, microwave and toaster oven.  Or how about an electric hot water kettle for tea!",
+      "url": "https://orbirental-images.s3.amazonaws.com/44a49c18-0197-40ad-ba97-c96e1bb703b6",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
+      "description": "Cozy and well equipped to meet your needs.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9c60028b-c9d1-4893-89bb-14dd3f6298f8",
+      "description": "Stand up or sit down desk, wireless printer, scanner, copier and office supplies for you.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/9c60028b-c9d1-4893-89bb-14dd3f6298f8",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "16723ad4-3924-4538-882a-c6ae54ecad24",
+      "description": "Close up the armoire and leave work for the day.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/16723ad4-3924-4538-882a-c6ae54ecad24",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "bace21c1-11d6-4bdd-aa5e-f715b9bad7cd",
+      "description": "Take a break from work, cat nap on the couch and listen to the stream.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/bace21c1-11d6-4bdd-aa5e-f715b9bad7cd",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "db009ec5-ddbf-49c8-9270-a59aa3973d6b",
+      "description": "Large walk in shower with plenty of hot water, towels and cozy robes for you.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/db009ec5-ddbf-49c8-9270-a59aa3973d6b",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
+      "description": "Bathroom features large walk in shower, counter space, large mirror,  petrified wood sink and   radiant heated floors in the cooler months.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4e1d8142-c170-46ec-98fe-8e6c215f9795",
+      "description": "Satellite television programming, comfortable linens and lots of usb charging ports for all your devices. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/4e1d8142-c170-46ec-98fe-8e6c215f9795",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
+      "description": "Natural light from multiple windows, wooden window blinds with black out drapes for a good nights sleep.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "90f0059f-dcaf-4943-b4f0-cd5117c8ca17",
+      "description": "Small deck off common area room. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/90f0059f-dcaf-4943-b4f0-cd5117c8ca17",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "87fdff3f-bba5-4640-8f57-0f62ce09824c",
+      "description": "Stream side walk to shared hot tub.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/87fdff3f-bba5-4640-8f57-0f62ce09824c",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
+      "description": "Covered deck to park your car with a  circular staircase up to the entrance.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "886f84ab-7536-430c-97f9-bfed67367a10",
+      "description": "Two covered decks provide comfortable access to the fresh mountain air",
+      "url": "https://orbirental-images.s3.amazonaws.com/886f84ab-7536-430c-97f9-bfed67367a10",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c1e28eb3-10ea-424c-b5ed-5d7f0d6eb625",
+      "description": "Our custom spiral staircase provides truly Instagram worthy photo ops & an extra access point to the Carriage House",
+      "url": "https://orbirental-images.s3.amazonaws.com/c1e28eb3-10ea-424c-b5ed-5d7f0d6eb625",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cd54b467-cbca-47d3-a0b2-d818297c89bc",
+      "description": "Great views to wake up to",
+      "url": "https://orbirental-images.s3.amazonaws.com/cd54b467-cbca-47d3-a0b2-d818297c89bc",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d4682eab-a895-431c-ac4e-6fe145e59345",
+      "description": "Your second deck with propane fire pit is great for making smores or just telling stories and enjoying each other.",
+      "url": "https://orbirental-images.s3.amazonaws.com/d4682eab-a895-431c-ac4e-6fe145e59345",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "647c7c83-3e0c-4a03-b1a6-eaa485aea761",
+      "description": "Want to really enjoy the steam?  We have a bench for that...",
+      "url": "https://orbirental-images.s3.amazonaws.com/647c7c83-3e0c-4a03-b1a6-eaa485aea761",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e7c4c06f-0a86-4127-9657-9973989e5eb0",
+      "description": "Your view from the bed.  You won't find anything better than this for less!",
+      "url": "https://orbirental-images.s3.amazonaws.com/e7c4c06f-0a86-4127-9657-9973989e5eb0",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "758a0216-7717-4cc4-a6b0-2a4993a37824",
+      "description": "The best part of waking up in the mountains is all of this!",
+      "url": "https://orbirental-images.s3.amazonaws.com/758a0216-7717-4cc4-a6b0-2a4993a37824",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f4a2ce5f-eacd-4cc8-a9ab-0d85bea1d7cb",
+      "description": "Enjoy your morning beverage of choice overlooking the stream",
+      "url": "https://orbirental-images.s3.amazonaws.com/f4a2ce5f-eacd-4cc8-a9ab-0d85bea1d7cb",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5e46606b-36d2-433d-858a-72a502592032",
+      "description": "Unplug & reconnect",
+      "url": "https://orbirental-images.s3.amazonaws.com/5e46606b-36d2-433d-858a-72a502592032",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6c353143-1c4a-48c4-aa6d-896b8033d110",
+      "description": "Outdoor shower",
+      "url": "https://orbirental-images.s3.amazonaws.com/6c353143-1c4a-48c4-aa6d-896b8033d110",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d94f0712-3888-4f01-97b1-c63d481793fc",
+      "description": "Hot tub over the stream",
+      "url": "https://orbirental-images.s3.amazonaws.com/d94f0712-3888-4f01-97b1-c63d481793fc",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e05ee094-3f8a-481a-8f6b-65939ad53597",
+      "description": "Enjoy unlimited access to the hot tub just across the stream from the Carriage House.",
+      "url": "https://orbirental-images.s3.amazonaws.com/e05ee094-3f8a-481a-8f6b-65939ad53597",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "46c77186-b30b-4647-94e3-ae5203dce3da",
+      "description": "Enjoy a steaming outdoor shower after your relaxing soak in the hot tub",
+      "url": "https://orbirental-images.s3.amazonaws.com/46c77186-b30b-4647-94e3-ae5203dce3da",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7e40ff54-5b62-4c99-845e-2cb93fc83a90",
+      "description": "Ascend the one of a kind circularstaircase to get to the larger deck and bedroom.",
+      "url": "https://orbirental-images.s3.amazonaws.com/7e40ff54-5b62-4c99-845e-2cb93fc83a90",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ea3e949d-5016-441c-b4ae-f4709fecb24e",
+      "description": "With two covered decks to choose from, you'll find a new favorite sitting spot every day!",
+      "url": "https://orbirental-images.s3.amazonaws.com/ea3e949d-5016-441c-b4ae-f4709fecb24e",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "98c2f9fa-7a6f-4837-b210-276ff47f98ac",
+      "description": "Bring your marshmallows, chocolate, and gram crackers to make s'mores on the fire.",
+      "url": "https://orbirental-images.s3.amazonaws.com/98c2f9fa-7a6f-4837-b210-276ff47f98ac",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f10650e8-77ea-464b-9508-8587118c3fc9",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/f10650e8-77ea-464b-9508-8587118c3fc9",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "56312881-1697-4c95-b507-a1f563c7dd7e",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/56312881-1697-4c95-b507-a1f563c7dd7e",
+      "displayOrder": 32,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c35be1dd-34a8-4af5-828e-803e76eb2b2b",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/c35be1dd-34a8-4af5-828e-803e76eb2b2b",
+      "displayOrder": 33,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "28bfc46e-cff2-449e-8d60-9eedd9c44dd5",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/28bfc46e-cff2-449e-8d60-9eedd9c44dd5",
+      "displayOrder": 34,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
+      "description": "Enjoy the fire, the soothing stream, and the gourmet air of the mountains just outside on one of two private decks.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
+      "displayOrder": 35,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f84d7bbe-9bba-4912-9226-ee04d5f42076",
+      "description": "Your breakfast nook is a cozy breakfast deck that looks out the hot tub and Big Pine Lodge.",
+      "url": "https://orbirental-images.s3.amazonaws.com/f84d7bbe-9bba-4912-9226-ee04d5f42076",
+      "displayOrder": 36,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "be7cb986-7da8-463d-8083-95820d45e5b6",
+      "description": "Can you picture yourself watching the lights from the Carriage House glimmer on the stream?",
+      "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
+      "displayOrder": 37,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "CarriageHouse on The Stream, Sundance UT",
+    "shortSummary": "CarriageHouse on The Stream, Sundance UT",
+    "summary": "Business bringing you to our area?  Need a couples getaway?   Want a personal timeout?  This is the place.  Fresh mountain air, a stream, comfortable bedding, and essentials are all here!  Come spend a little time with us.  A short drive up Provo Canyon brings you to the little slice of heaven in Big Pine Canyon at Sundance.  The world-class restaurants at the Resort or Owl Bar provide gathering places for your business or pleasure dining & entertainment - and your drive is 3 minutes.   :)",
+    "notes": "Walking distance to Sundance Mountain Resort\n",
+    "access": "This upstairs suite is entirely available for your use including the two outside decks.  There is a hot tub and outside shower at the main house - 30 yards away and is available for your private use.  The laundry facilities are on the main floor and available for you to use as well.",
+    "transit": "The best form of transportation to have here in Sundance is your own vehicle.  Winter travel (November thru April) requires four wheel, all wheel or chains.",
+    "interaction": "We live here on the mountain and in the main house on this property.   \r\nWe are always available by phone or text for any questions, recommendations and assistance you might need.",
+    "neighbourhood": "A three minute drive or a ten minute walk to Sundance Resort and the award winning restaurants to satisfy all your dining needs.  The Foundry Grill, breakfast, lunch and dinner; the TreeRoom, dinner only for that special event; the Owl Bar with burgers and great bar food and the best staff  ever (music on weekends - adults only); and the Deli for sandwiches, soup, coffee, smoothies and yummy cookies and pastries.  ",
+    "space": "Private entrance, up the stairs and you are in your own one bedroom suite.  Designated office space is hidden in the armoire for your convenience and necessary office time.  Check your email, work on presentations all the while looking out at the stream!",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}

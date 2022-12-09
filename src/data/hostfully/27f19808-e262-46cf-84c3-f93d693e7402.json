@@ -1,0 +1,318 @@
+{
+  "pricingRules": {
+    "increaseRate": 0,
+    "increaseRateLowerBound": 0,
+    "decreaseRate": 0,
+    "decreaseRateHigherBound": 0
+  },
+  "bedCount": 9,
+  "bedTypes": {
+    "kingBed": 1,
+    "queenBed": 4,
+    "doubleBed": 0,
+    "singleBed": 4,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "Log Cabin On The Stream • Sundance, Utah",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 16,
+  "baseDailyRate": 675,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "3347 E Old Bridge Rd",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 5,
+  "bathrooms": "3",
+  "picture": "https://orbirental-images.s3.amazonaws.com/628063e2-0845-4c87-b026-4b1c176dd460",
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream",
+  "cleaningFeeAmount": 250,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 500,
+  "externalID": "",
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22910.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50%. minus 5% credit card processing fees.  Otherwise, they won't get a refund.",
+  "floor": 3,
+  "areaSize": 3000,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.395237,
+  "longitude": -111.587112,
+  "airBnBID": "12361119",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream-%E2%80%A2-sundance%2C-utah",
+  "guideBookUrl": "https://hostful.ly/gncvlnv",
+  "weekEndRatePercentAdjustment": 0.272,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "",
+  "wifiPassword": "",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 44,
+    "average": 4.954545454545454
+  },
+  "createdDate": 1562259485000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/12361119",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream-%E2%80%A2-sundance%2C-utah",
+    "bookingDotComUrl": "https://booking.com/hotel/us/log-cabin-on-the-stream.en.html",
+    "homeAwayUrl": "https://www.vrbo.com/801597",
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "27f19808-e262-46cf-84c3-f93d693e7402",
+  "gallery": [
+    {
+      "uid": "473f703c-5b33-4d9f-b298-93082db8617e",
+      "description": "The Log Cabin at Twilight",
+      "url": "https://orbirental-images.s3.amazonaws.com/473f703c-5b33-4d9f-b298-93082db8617e",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b48c8917-a393-46e8-9de3-f01aefc9d621",
+      "description": "Log Cabin basking in the sun.",
+      "url": "https://orbirental-images.s3.amazonaws.com/b48c8917-a393-46e8-9de3-f01aefc9d621",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "895b00c6-90ef-415a-9dfa-e9c214d440e1",
+      "description": "Fabulous cabin for a groups winter getaway, reunion or wedding on the deck.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/895b00c6-90ef-415a-9dfa-e9c214d440e1",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ecbc3ebe-6936-4b52-8bd7-6cf6dafb1cd0",
+      "description": "Your lounge chair is ready.",
+      "url": "https://orbirental-images.s3.amazonaws.com/ecbc3ebe-6936-4b52-8bd7-6cf6dafb1cd0",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0c113ca7-f87b-47f2-8af5-cdc397e1cb88",
+      "description": "This is the life.",
+      "url": "https://orbirental-images.s3.amazonaws.com/0c113ca7-f87b-47f2-8af5-cdc397e1cb88",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "54309ff3-df81-4dc5-ba46-4b6a48cbf20e",
+      "description": "Your own bridge and gazebo!",
+      "url": "https://orbirental-images.s3.amazonaws.com/54309ff3-df81-4dc5-ba46-4b6a48cbf20e",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e3b3a677-f96b-4eed-a642-1ef3f9d9af7b",
+      "description": "Great fireplace and comfy couch for the crowd.",
+      "url": "https://orbirental-images.s3.amazonaws.com/e3b3a677-f96b-4eed-a642-1ef3f9d9af7b",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b5528915-7d1e-4d56-bbc6-3001d03a8c37",
+      "description": "The Great Room for gathering.",
+      "url": "https://orbirental-images.s3.amazonaws.com/b5528915-7d1e-4d56-bbc6-3001d03a8c37",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "81f4495b-4286-4474-93db-2a97fa224436",
+      "description": "Living room view up the stairs to the game room.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/81f4495b-4286-4474-93db-2a97fa224436",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cb075833-2d37-441f-b97f-1918c82e04f0",
+      "description": "View from upper level.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/cb075833-2d37-441f-b97f-1918c82e04f0",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "11d412d0-c408-42ca-92fd-18c0703dd242",
+      "description": "Double Ovens, Dishwasher, Exterior balcony and window over the sink.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/11d412d0-c408-42ca-92fd-18c0703dd242",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "92220f04-8cf5-4b96-9c5c-cbe433ec83a0",
+      "description": "Roomy kitchen great for cooking for a crowd.\n",
+      "url": "https://orbirental-images.s3.amazonaws.com/92220f04-8cf5-4b96-9c5c-cbe433ec83a0",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "770def8f-7b39-4bf5-bd72-99a3869b93f0",
+      "description": "Upper Level Bedroom with balcony.",
+      "url": "https://orbirental-images.s3.amazonaws.com/770def8f-7b39-4bf5-bd72-99a3869b93f0",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d3898bed-d360-4000-b579-2c08dccfc222",
+      "description": "Trundle bed in upper bedroom keeps the little ones close",
+      "url": "https://orbirental-images.s3.amazonaws.com/d3898bed-d360-4000-b579-2c08dccfc222",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6f65330e-9008-4c74-9291-e56aa4ea5632",
+      "description": "Upper level game area features skylights, game table and a desk.",
+      "url": "https://orbirental-images.s3.amazonaws.com/6f65330e-9008-4c74-9291-e56aa4ea5632",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ee09d49d-f86e-42cc-8255-8832ada313f9",
+      "description": "Game table, and the famous Monopoly pin ball machine.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ee09d49d-f86e-42cc-8255-8832ada313f9",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "492ff8bc-2bb6-4034-8aa1-aedcc59cdc0f",
+      "description": "Main level master features a window seat and balcony.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/492ff8bc-2bb6-4034-8aa1-aedcc59cdc0f",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "34334ffd-8776-4f0d-a643-074f82d18651",
+      "description": "Main level master features a window seat ",
+      "url": "https://orbirental-images.s3.amazonaws.com/34334ffd-8776-4f0d-a643-074f82d18651",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ce056d3a-7fa9-4461-91ae-54e5afb08908",
+      "description": "Ground level bedroom features double queens, two closets and dresser space.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ce056d3a-7fa9-4461-91ae-54e5afb08908",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "938467e3-ae9f-4691-87e9-00bf7c972d04",
+      "description": "Bathrooms feature granite counter tops, tub/shower combinations.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/938467e3-ae9f-4691-87e9-00bf7c972d04",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0cc332b7-c92e-4913-b12e-b893f2e91407",
+      "description": "Twin beds, closet and bureau space for unpacking and feeling at home.",
+      "url": "https://orbirental-images.s3.amazonaws.com/0cc332b7-c92e-4913-b12e-b893f2e91407",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c96e6950-e0f0-4a54-bcab-a4713f273f3e",
+      "description": "California King bed with access to hot tub and courtyard.",
+      "url": "https://orbirental-images.s3.amazonaws.com/c96e6950-e0f0-4a54-bcab-a4713f273f3e",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "86b14a1f-8e70-4a53-8148-65f925395210",
+      "description": "The Man Cave with access to the hot tub.",
+      "url": "https://orbirental-images.s3.amazonaws.com/86b14a1f-8e70-4a53-8148-65f925395210",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "94547e39-8c12-4fbf-abd3-3b92984d17e9",
+      "description": "Mount Timpanogas says hi.",
+      "url": "https://orbirental-images.s3.amazonaws.com/94547e39-8c12-4fbf-abd3-3b92984d17e9",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9918aba3-f0c5-46e7-bd63-50a01955cac9",
+      "description": "The man cave has a place for the spectators.",
+      "url": "https://orbirental-images.s3.amazonaws.com/9918aba3-f0c5-46e7-bd63-50a01955cac9",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "44374f19-555a-4e7e-bced-73df6b2cc536",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/44374f19-555a-4e7e-bced-73df6b2cc536",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e7cddf60-b3ba-4654-8e4c-dafb2910067a",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/e7cddf60-b3ba-4654-8e4c-dafb2910067a",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1a3a7d31-6844-4454-b482-0e744145f530",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/1a3a7d31-6844-4454-b482-0e744145f530",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "725a6d0e-204d-4731-9789-71bd960902ea",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/725a6d0e-204d-4731-9789-71bd960902ea",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "444410e9-a7b1-444c-bf47-715785d8bc42",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/444410e9-a7b1-444c-bf47-715785d8bc42",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Log Cabin On The Stream • Sundance, Utah",
+    "shortSummary": "Five minutes to Sundance Ski Resort",
+    "summary": "This Log Cabin is a classic.  A great room with wood burning fireplace (wood provided), a large kitchen for meal creations, dining area for all, 5 bedrooms,  3 bathrooms, a Man Cave and a Hot Tub over the creek plus a Gazebo for lounging.   Tall skylights and windows bring the outside in.  All of this is for you to enjoy.  During the summer, the horseshoe pit and corn hole games in the common area to the right of the cabin is yours to enjoy.  You will have room to park up to six vehicles and should you need more, contact Pamela to arrange.  \r\n\r\n\r\nThe kitchen has top of the line cabinets, dishwasher, two ovens, microwave and The whimsical under stairs “mud room” features coat hooks at all levels to keep outside gear in one place for people of all sizes. The main level covered deck has seating and is a great gathering place to talk and drink hot chocolate.  \r\n\r\nEvery bedroom has a little something different. Top level bedroom features skylights for looking at the stars at night or watching it snow and has a queen bed plus twin bed with a trundle for keeping the little ones near. A balcony and outside door to upper deck lets you view the outdoors or let the fresh air in. The adjacent bathroom with tub/shower has granite counter tops and vanity mirror.\r\n \r\nMain level bedroom features a window seat for reading the novel you brought along, an exterior door to the upper deck, direct access to bathroom, television, queen size bed.  A large walk in closet plus adjacent bathroom is very convenient.  In the closet is one set of washer/dryers in the cabin.  Second set downstairs.  \r\n\r\nOne bedroom on the lower level has two queen beds plus two closets and plenty of space for clothes. This room is fun for sleep-over style for teenagers. This window is on ground level with three larges windows for lots of light.\r\n\r\nSecond bedroom downstairs has two twin beds, ground level windows and large closet and is adjacent to the exterior door on ground level.  \r\n\r\nThe master bedroom has a California King size bed, television, two chairs for relaxing and an exterior door leading to the hot tub and the bathroom is across the hall.  Size and easy access make this a “favorite” room.\r\n\r\nAnd then there’s the Man Cave. Television, pool table, card table and the ever popular Monopoly pinball machine make this a favorite gathering spot.  wo exterior doors, one to to the outside lower decks, gazebo and hot tub and the second for bringing in food and beverages makes this an easy room to entertain in.\r\n\r\n",
+    "notes": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.\r\n",
+    "access": "During the winter (Nov through March) four wheel or all wheel drive vehicles are required. Summer  - just come and stay.  ",
+    "transit": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.  Plan to drive a vehicle as Uber and other services are not readily available.  ",
+    "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.  512-413-4380.  Pamela prefers to keep in touch via text message for quick communication about local events.  Road closures, weather conditions or other \"need to know\" information witll be messaged to you via text.  ",
+    "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while gorgeous pine trees are everywhere you look.  Take a seat next to stream, take in the mountain air and relax.  Summer months brings music, theatre, ziplining, hiking, biking, horseback riding to our back door.  Winter brings skiing, snowboarding, (both day and night) and snow shoeing on trails at the Nordic Center.  This is a great community far enough away to be far away but yet close enough to little towns and other activities.  ",
+    "space": "",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { Picture } from "../../api/cabins/getCabin";
+  import type { Picture } from "../../types/cabin";
   import Location from "../svgs/Location.svelte";
   import Gallery from "./Gallery.svelte";
 

@@ -34,7 +34,7 @@
               <b>Amenities</b> Parking • Jacuzzi • Private Entrance • Amazing Views
             </p>
           </div>
-          <p>{truncate(description, 200)}</p>
+          <p>{truncate(description.summary, 200)}</p>
         </div>
         <a href={`/cabins/${name}`} class="btn"> See Property </a>
       </div>

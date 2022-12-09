@@ -1,0 +1,313 @@
+{
+  "pricingRules": null,
+  "bedCount": 10,
+  "bedTypes": {
+    "kingBed": 1,
+    "queenBed": 1,
+    "doubleBed": 0,
+    "singleBed": 8,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "COTTAGE",
+  "name": "Cottage On The Stream • Sundance, Utah",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 10,
+  "baseDailyRate": 295,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "3349 Old Bridge Road",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 3,
+  "bathrooms": "1",
+  "picture": "https://orbirental-images.s3.amazonaws.com/6a61788e-3322-46f6-b5e5-84fae1bffe97",
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/22907/cozy%2C-rustic-cottage-on-the-stream",
+  "cleaningFeeAmount": 150,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": "",
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22907.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid, minus 5% credit card processing fees.  If they cancel between 14 and 30 days before check-in, they'll get back 50% minus 5% credit card processing fees.  Otherwise, they won't get a refund.",
+  "floor": 2,
+  "areaSize": 1500,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.395054,
+  "longitude": -111.586929,
+  "airBnBID": "7329716",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22907/cottage-on-the-stream-%E2%80%A2-sundance%2C-utah",
+  "guideBookUrl": "https://hostful.ly/gqdrgkt",
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "",
+  "wifiPassword": "",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 44,
+    "average": 4.931818181818182
+  },
+  "createdDate": 1562259452000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/7329716",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22907/cottage-on-the-stream-%E2%80%A2-sundance%2C-utah",
+    "bookingDotComUrl": "https://booking.com/hotel/us/cottage-on-the-stream.en.html",
+    "homeAwayUrl": "https://www.vrbo.com/660934",
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "1f0d6ea4-23e1-43a4-ad38-a7e9f5370071",
+  "gallery": [
+    {
+      "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
+      "description": "Front of The Cottage",
+      "url": "https://orbirental-images.s3.amazonaws.com/f3b1a3e2-834f-4de5-9285-0072b10b7e78",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "81b13599-e9ed-44b4-b9fd-a58542754471",
+      "description": "Plenty of room for lounging, eating and enjoying the mountain air",
+      "url": "https://orbirental-images.s3.amazonaws.com/81b13599-e9ed-44b4-b9fd-a58542754471",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a3815805-c5d5-4280-9994-7307187b6766",
+      "description": "Comfy couch.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a3815805-c5d5-4280-9994-7307187b6766",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "971a0998-020b-45a2-b3da-4149dc1a606e",
+      "description": "The Cottage at night.  Magical.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/971a0998-020b-45a2-b3da-4149dc1a606e",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c7da3f19-d7dc-435e-9c76-41c1460dc8d4",
+      "description": "The essence of a creek side cabin!",
+      "url": "https://orbirental-images.s3.amazonaws.com/c7da3f19-d7dc-435e-9c76-41c1460dc8d4",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a9782e3d-2959-4446-9c60-ecfbd2937f75",
+      "description": "The snowy Cottage is calling you.",
+      "url": "https://orbirental-images.s3.amazonaws.com/a9782e3d-2959-4446-9c60-ecfbd2937f75",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "52f45e1c-ea2d-472d-ac6a-6274c8a75c9f",
+      "description": "The Hot Tub Awaits.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/52f45e1c-ea2d-472d-ac6a-6274c8a75c9f",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "360bee2d-dfc1-49d3-926b-d5a43e828ca6",
+      "description": "What a wonderful place to enjoy your morning ",
+      "url": "https://orbirental-images.s3.amazonaws.com/360bee2d-dfc1-49d3-926b-d5a43e828ca6",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "87751d5b-fd19-4a55-b25a-3450cd99e931",
+      "description": "Welcome to the Cottage on the Stream. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/87751d5b-fd19-4a55-b25a-3450cd99e931",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "eff9267a-19a6-49aa-807b-dd2b83bd4600",
+      "description": "Wood burning fireplace, La-Z-Boy power recliners and comfy couches for TV time. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/eff9267a-19a6-49aa-807b-dd2b83bd4600",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7ad9ae23-33cb-4836-97ab-b3e3ccbb7d7b",
+      "description": "Kitchen with all you need - we did Thanksgiving for 40!",
+      "url": "https://orbirental-images.s3.amazonaws.com/7ad9ae23-33cb-4836-97ab-b3e3ccbb7d7b",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e490631c-8fd0-451a-9a20-e8354640a649",
+      "description": "This kitchen cooked Thanksgiving for 40.",
+      "url": "https://orbirental-images.s3.amazonaws.com/e490631c-8fd0-451a-9a20-e8354640a649",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6a881c68-d187-40e4-a95a-3967fa200f90",
+      "description": "The cabinets were hand painted by Roni.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/6a881c68-d187-40e4-a95a-3967fa200f90",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a00c9153-5a54-4f1f-9698-fb6d1a543a86",
+      "description": "Bright, light family room. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a00c9153-5a54-4f1f-9698-fb6d1a543a86",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f81c70f3-1769-456b-9cb4-9f03720578ef",
+      "description": "Family room with exit to the deck.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/f81c70f3-1769-456b-9cb4-9f03720578ef",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5b70dc85-be12-41bf-8d8e-b33b946cd92a",
+      "description": "The Queens room.",
+      "url": "https://orbirental-images.s3.amazonaws.com/5b70dc85-be12-41bf-8d8e-b33b946cd92a",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3925ffe1-1365-4e61-9b40-94ac6450cfe2",
+      "description": "Sleeping for six.  New mattresses and fun bedding. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3925ffe1-1365-4e61-9b40-94ac6450cfe2",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b58036d5-ca17-475a-a492-6cae20072927",
+      "description": "Sleeping loft with lots of light.",
+      "url": "https://orbirental-images.s3.amazonaws.com/b58036d5-ca17-475a-a492-6cae20072927",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7fdc598f-d607-4f33-8c58-926f8284f4a6",
+      "description": "Stream Side Hot Tub soothes the body and the mind.  \n",
+      "url": "https://orbirental-images.s3.amazonaws.com/7fdc598f-d607-4f33-8c58-926f8284f4a6",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "570acf75-3272-46be-8ad7-99befc3628a8",
+      "description": "View from the \"bridge\" across the creek.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/570acf75-3272-46be-8ad7-99befc3628a8",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "148ce06d-8f95-4cda-92d4-fdb42d741b1a",
+      "description": "Turkeys sometimes use this bridge and so can you!",
+      "url": "https://orbirental-images.s3.amazonaws.com/148ce06d-8f95-4cda-92d4-fdb42d741b1a",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
+      "description": "A beautiful place to relax and enjoy this beautiful place.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d19550e5-dd22-46ca-ae73-542c6218f355",
+      "description": "Soft green grass for your toes.",
+      "url": "https://orbirental-images.s3.amazonaws.com/d19550e5-dd22-46ca-ae73-542c6218f355",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fb663d88-b5e5-4cb1-9ecf-794a68e0a71e",
+      "description": "The daily march of the turkeys. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/fb663d88-b5e5-4cb1-9ecf-794a68e0a71e",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d1f5d2c8-3a9a-4a5a-b301-d2686a8d58f0",
+      "description": "Mount Timpanogas says hi.",
+      "url": "https://orbirental-images.s3.amazonaws.com/d1f5d2c8-3a9a-4a5a-b301-d2686a8d58f0",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "dcfb4053-7557-4bc8-91b9-9e65abcd9367",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/dcfb4053-7557-4bc8-91b9-9e65abcd9367",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c844f3e8-b7d3-4c74-986c-abd63507e8b0",
+      "description": "Fall here in Sundance is spectacular.  Another face of Mount Timpanogos.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/c844f3e8-b7d3-4c74-986c-abd63507e8b0",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f0f57abd-a47c-4e30-b3c6-b3ca5c94a442",
+      "description": "Here's another view of Mount Timpanogos - another face.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/f0f57abd-a47c-4e30-b3c6-b3ca5c94a442",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c5d96fb5-02f9-4d83-9240-42e93bdc0d4d",
+      "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
+      "url": "https://orbirental-images.s3.amazonaws.com/c5d96fb5-02f9-4d83-9240-42e93bdc0d4d",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "db21b4e9-a992-4415-9c05-44691f0132c4",
+      "description": "Sometimes the face of Mount Timpanogos expresses to us how powerful the mountain is are and it's to be respected.  Stunning view for sure.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/db21b4e9-a992-4415-9c05-44691f0132c4",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Cottage On The Stream • Sundance, Utah",
+    "shortSummary": "Cottage On The Stream • Sundance, Utah",
+    "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and it's charm.  Great space for families and friends to gather.  Children and pet friendly with room to play and run and have a great time. (Pet fees apply).\r\n\r\nLocated at the end of a private road, you're nestled between the stream, tall majestic pine trees and solitude - yet you are five minutes from the Resort at Sundance, the ski lift, hiking, biking, zip line and don't forget the Spa!  Good restaurants.  ",
+    "notes": "When you walk to the entrance of The Cottage you will see two trees growing side by side by the front door. Under the front windows in the spring the day lilies are like a sea of yellow gently blowing in the gentle breezes.  There is a bench by the front door and the meadow is alive with creatures big and small.  The turkeys meander through the property pecking at who knows what every day. In the spring the babies hustle behind their mommas.  The deer drink from the stream, hanging out and then disappear in the trees. In the spring the meadow twinkles with butterflies of all colors and the hummingbirds begin looking for nectar.  The plastic flowers in the window box are reminiscent of times and people passed that were the guardians of this place.  ",
+    "access": "This entire cabin plus the beautiful deck overlooking the stream are yours to enjoy.",
+    "transit": "Sundance Resor is a mere 1.2 miles away.  A super quick drive or nice walk in the summer.  November through April requires four wheel or all wheel drive vehicles.  Please check with the hosts.\r\n\r\nDriveway parks two comfortably and space directly in front of Cabin is available.  \r\nRespectfully request no parking at neighborhing cabins  or in the road.  ",
+    "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
+    "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while gorgeous pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
+    "space": "The Cottage on the Stream sits at the end of Old Bridge Road amidst the tall pine trees, next to the stream overlooking a meadow. How sweet is that? Secluded in the forest, no main road with traffic or sounds of traffic, you have the illusion of being far, far away.\r\n\r\nThe meadow and the property are big enough to let the kids roam outside and play. Bring along your well behaved canine companion* and everyone have a great play day together. (Read pet guidelines for safety of your pet and compliance with the property and Sundance guidelines).\r\n\r\nThe Cottage is a comfortable place to stay.  The living room has two new Laz-E-Boy power leather recliners plus a very comfortable leather couch, and a couch from the 60s that everyone loves. The wood burning, super efficient fireplace provides the primary heat source and you will enjoy its sights, sounds, heat and warmth without all the work of an open fireplace.  Super easy to start your fire and then keep it going.   Your wood is provided plus instructions for building your fire.  \r\n\r\nThe kitchen is small but mighty. The kitchen window looks directly out onto the stream and multiple tables allow for kid tables, adult tables, outside tables and rail dining. Coffee maker, citrus juicer, griddle for blueberry pancakes, blender, crock pot, pots and pans, dishes are all provided. (Paper plates also). Spices and pantry essentials are also provided. \r\n\r\nThe family room has a twin size day bed/trundle for sleeping 2 and a sleeper sofa.  This is a great place to watch a movie under the snugglies. A table for eating or playing games, plus a cabinet of books, movies, puzzles and games will keep everyone entertained. Lots of windows let in natural light so you feel like you are living outdoors and the back door leads right to the redwood deck. \r\n\r\nUpstairs is amazing. The entire area is devoted to sleeping locations. It is dormitory style (no doors) - see pictures for clarity.  The Queen's Space has a queen bed, with a window at the head of the bed overlooking  the stream.  The middle section is affectionately called the Bedroom of the Six Dwarfs with six twin beds arranged.  Six twin beds are arranged so kids and not so little kids can be close enough for midnight whispers but not so close they are cramped. The King Den features a king size bed, a rocking chair by the window and a baby crib if needed. Two windows brings in the morning sun, the nighttime moon and the sounds of the stream. \r\n\r\nThe redwood deck with the top rail designed for dining,  tables and chairs and the hot tub give everyone space be together.   There's a mini bridge for crossing the stream plus a fallen tree that invites you to walk across or sit in the middle and contemplate. \r\n\r\nThe Cottage is minutes by car and walking distance to Sundance Resort and the ski slopes, spa, restaurants and evening entertainment at the Owl Bar. A list of ongoing and current events at Sundance will be provided to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts, you are 45 minutes to Park City, Deer Valley and The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude. \r\n\r\nThe property has plenty of parking. \r\n\r\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-whell drive vehicle between November 1st and March 31st.  \r\n\r\nCancellation Policy: If written notice of cancellation is received by 5:00 MST, 30 days prior to reservation check in date, we will refund a full deposit less a $50 cancellation fee and a 3.4% processing fee. No refunds are offered for cancellations with less than 30 days notification, or 60 days for the winter holiday seasonal pricing. Check outs prior to the reserved dates are not eligible for a refund. A valid credit card will be kept on file for any damages, missing items or excessive cleaning.",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}

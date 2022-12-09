@@ -1,45 +1,33 @@
 ---
-import Location from "../svgs/Location.astro";
-
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin, Picture } from "../../types/cabin";
+import Location from "../svgs/Location.svelte";
+import Gallery from "./Gallery.svelte";
 
 interface Props {
   cabin: Cabin;
+  fullGallery: Picture[];
 }
 
-const { cabin } = Astro.props;
-const { name, city, state, gallery: fullGallery } = cabin;
-
-const gallery = fullGallery.slice(0, 5);
+const { cabin, fullGallery } = Astro.props;
 ---
 
 <section class="header wrapper">
-  <h1>{name}</h1>
+  <h1>{cabin.name}</h1>
   <div class="location">
     <div class="icon">
       <Location />
     </div>
-    <p>{`${city}, ${state}`}</p>
+    <p>{`${cabin.city}, ${cabin.state}`}</p>
   </div>
-
-  <div class="gallery">
-    {
-      gallery.map((item) => (
-        <div class="item">
-          <img src={item.url} alt={item.description} />
-        </div>
-      ))
-    }
-  </div>
+  <Gallery fullGallery={fullGallery} client:load />
 </section>
 
 <style>
-  .header {
+  .wrapper.header {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 16px;
-
     margin-bottom: 48px;
   }
 
@@ -56,19 +44,6 @@ const gallery = fullGallery.slice(0, 5);
     gap: 8px;
   }
 
-  .header .gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-
-    align-self: center;
-  }
-
-  .gallery img {
-    max-width: 200px;
-    aspect-ratio: 1/1;
-  }
-
   .location .icon {
     width: 1.5rem;
     height: 1.5rem;
@@ -77,5 +52,11 @@ const gallery = fullGallery.slice(0, 5);
     align-items: center;
     justify-content: center;
     padding: 0.25rem;
+  }
+
+  @media only screen and (max-width: 425px) {
+    .header h1 {
+      font-size: 2em;
+    }
   }
 </style>

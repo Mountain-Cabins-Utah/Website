@@ -1,0 +1,453 @@
+{
+  "pricingRules": null,
+  "bedCount": 6,
+  "bedTypes": {
+    "kingBed": 1,
+    "queenBed": 3,
+    "doubleBed": 0,
+    "singleBed": 2,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "Stream Song • Sundance, Utah",
+  "isActive": true,
+  "baseGuests": 10,
+  "maximumGuests": 10,
+  "baseDailyRate": 895,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "8984 Timphaven Road",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 5,
+  "bathrooms": "4",
+  "picture": "https://orbirental-images.s3.amazonaws.com/793695a7-2592-4e94-b559-64adc4fcae03",
+  "webLink": "",
+  "cleaningFeeAmount": 250,
+  "minimumStay": 5,
+  "maximumStay": 0,
+  "securityDepositAmount": 500,
+  "externalID": "",
+  "acceptInstantBook": false,
+  "acceptBookingRequest": true,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/45403.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": null,
+  "floor": 3,
+  "areaSize": 4043,
+  "areaSizeUnit": "SQUARE_METERS",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.394763,
+  "longitude": -111.587451,
+  "airBnBID": "",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/45403/8984-timphaven-road",
+  "guideBookUrl": null,
+  "weekEndRatePercentAdjustment": 6.145251,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": "",
+  "wifiPassword": "",
+  "rentalLicenseNumber": "",
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 0,
+    "average": null
+  },
+  "createdDate": 1633480630000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": null,
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/45403/8984-timphaven-road",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": null,
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
+  "gallery": [
+    {
+      "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
+      "description": "Living Room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "00de55f5-b32e-40f9-a850-d9280583776c",
+      "description": "Entry Way ",
+      "url": "https://orbirental-images.s3.amazonaws.com/00de55f5-b32e-40f9-a850-d9280583776c",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c3348517-0337-4557-b0d5-6eadb127f2f7",
+      "description": "Entry with stairs to second floor",
+      "url": "https://orbirental-images.s3.amazonaws.com/c3348517-0337-4557-b0d5-6eadb127f2f7",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c876f023-59b1-4ac9-980f-721e35e4ee44",
+      "description": "The best fireplace ever",
+      "url": "https://orbirental-images.s3.amazonaws.com/c876f023-59b1-4ac9-980f-721e35e4ee44",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "679d8d03-cbaf-428d-aec3-3729619f667d",
+      "description": "Cozy sitting area",
+      "url": "https://orbirental-images.s3.amazonaws.com/679d8d03-cbaf-428d-aec3-3729619f667d",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5e674f8f-3138-4102-bd99-61aa6daafcba",
+      "description": "Living area is big for the whole family",
+      "url": "https://orbirental-images.s3.amazonaws.com/5e674f8f-3138-4102-bd99-61aa6daafcba",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9321e7f4-fce3-4a22-a028-ddb529816347",
+      "description": "Stairs up and down",
+      "url": "https://orbirental-images.s3.amazonaws.com/9321e7f4-fce3-4a22-a028-ddb529816347",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "252b4561-7e3d-4c1d-bf9e-e26d9ed3d565",
+      "description": "Pristine outside cabins",
+      "url": "https://orbirental-images.s3.amazonaws.com/252b4561-7e3d-4c1d-bf9e-e26d9ed3d565",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "44d2070f-0f25-44e6-b3ec-e0b7487aec63",
+      "description": "Entry ",
+      "url": "https://orbirental-images.s3.amazonaws.com/44d2070f-0f25-44e6-b3ec-e0b7487aec63",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f39c501f-3de5-4e50-8b61-2334deee2687",
+      "description": "Front of the Cabin",
+      "url": "https://orbirental-images.s3.amazonaws.com/f39c501f-3de5-4e50-8b61-2334deee2687",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "124f0897-94cb-44fd-aeac-5f58bbe034b6",
+      "description": "Driveway has room for parking",
+      "url": "https://orbirental-images.s3.amazonaws.com/124f0897-94cb-44fd-aeac-5f58bbe034b6",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "92989b3a-3754-4fb4-99e7-f11062d7f7c6",
+      "description": "Covered entry way deck and big covered back deck",
+      "url": "https://orbirental-images.s3.amazonaws.com/92989b3a-3754-4fb4-99e7-f11062d7f7c6",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "78bb8594-ecec-4535-98a0-e1566e2eb3b8",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/78bb8594-ecec-4535-98a0-e1566e2eb3b8",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "77140c5a-610e-42f6-9cf3-1bd581307cc9",
+      "description": "Main deck ",
+      "url": "https://orbirental-images.s3.amazonaws.com/77140c5a-610e-42f6-9cf3-1bd581307cc9",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b041195b-8620-4a2c-8b28-7a721327f5c8",
+      "description": "Deck with a view",
+      "url": "https://orbirental-images.s3.amazonaws.com/b041195b-8620-4a2c-8b28-7a721327f5c8",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
+      "description": "Hot Tub for your use",
+      "url": "https://orbirental-images.s3.amazonaws.com/09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "533b3e35-65c4-42a6-925b-eef16207695d",
+      "description": "covered hot tub",
+      "url": "https://orbirental-images.s3.amazonaws.com/533b3e35-65c4-42a6-925b-eef16207695d",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b4360058-d253-4dd3-9d90-bf08d160cb57",
+      "description": "Summer dining",
+      "url": "https://orbirental-images.s3.amazonaws.com/b4360058-d253-4dd3-9d90-bf08d160cb57",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2733f02a-c81b-4511-9252-922318cda26d",
+      "description": "Summer dining",
+      "url": "https://orbirental-images.s3.amazonaws.com/2733f02a-c81b-4511-9252-922318cda26d",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9fd8bd1e-59b9-4fcb-a388-e15bf34ddbb8",
+      "description": "Te majestic mountains",
+      "url": "https://orbirental-images.s3.amazonaws.com/9fd8bd1e-59b9-4fcb-a388-e15bf34ddbb8",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c420b8fc-0b50-48c6-8211-8b86487c99d5",
+      "description": "Large dining room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/c420b8fc-0b50-48c6-8211-8b86487c99d5",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3feb647c-eff5-4201-afe8-6b89aa050fb6",
+      "description": "Dining room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3feb647c-eff5-4201-afe8-6b89aa050fb6",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5fe4c821-6180-48bd-a361-e6032534f00d",
+      "description": "Kitchen island",
+      "url": "https://orbirental-images.s3.amazonaws.com/5fe4c821-6180-48bd-a361-e6032534f00d",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3303ec76-d170-4f86-bba7-7be14c164c82",
+      "description": "Kitchen",
+      "url": "https://orbirental-images.s3.amazonaws.com/3303ec76-d170-4f86-bba7-7be14c164c82",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "82c4bf52-362a-4a46-a91f-ce1a1aac1837",
+      "description": "Great space to cook and gather",
+      "url": "https://orbirental-images.s3.amazonaws.com/82c4bf52-362a-4a46-a91f-ce1a1aac1837",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1a1eda94-b284-43e9-8d49-5a1993065b83",
+      "description": "Dining with a view",
+      "url": "https://orbirental-images.s3.amazonaws.com/1a1eda94-b284-43e9-8d49-5a1993065b83",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "78bd4945-97ad-490b-baef-942d438681fb",
+      "description": "Mountains",
+      "url": "https://orbirental-images.s3.amazonaws.com/78bd4945-97ad-490b-baef-942d438681fb",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a412054b-bd42-4d71-a8b4-11015f844626",
+      "description": "Front yard from entry way",
+      "url": "https://orbirental-images.s3.amazonaws.com/a412054b-bd42-4d71-a8b4-11015f844626",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
+      "description": "The Little Free ibrary.  Take a book.  Leave a book. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2f8de625-42ef-45ac-bc3f-d9379597c389",
+      "description": "Master bedroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/2f8de625-42ef-45ac-bc3f-d9379597c389",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0906ef16-b024-4e02-9c06-ffad4d5cdb7e",
+      "description": "Master bedroom with fireplace",
+      "url": "https://orbirental-images.s3.amazonaws.com/0906ef16-b024-4e02-9c06-ffad4d5cdb7e",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d6ace96a-ef6f-42ae-902a-6f6a8db60d1f",
+      "description": "Master bedroom with views",
+      "url": "https://orbirental-images.s3.amazonaws.com/d6ace96a-ef6f-42ae-902a-6f6a8db60d1f",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "8e4dc16c-4b0f-42d6-9871-2b5630223d15",
+      "description": "The Nap Nook",
+      "url": "https://orbirental-images.s3.amazonaws.com/8e4dc16c-4b0f-42d6-9871-2b5630223d15",
+      "displayOrder": 32,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "41b0a98d-6bd6-4c79-b13c-162f43379b50",
+      "description": "Nappy Nook",
+      "url": "https://orbirental-images.s3.amazonaws.com/41b0a98d-6bd6-4c79-b13c-162f43379b50",
+      "displayOrder": 33,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
+      "description": "Great hot tub with views",
+      "url": "https://orbirental-images.s3.amazonaws.com/d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
+      "displayOrder": 34,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4397e6a5-c58c-4e66-b3e8-a2ff1a78fc67",
+      "description": "Big bathrom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/4397e6a5-c58c-4e66-b3e8-a2ff1a78fc67",
+      "displayOrder": 35,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "33b1e194-7fa6-4755-b1d0-22943f80fe1a",
+      "description": "Shower for two ",
+      "url": "https://orbirental-images.s3.amazonaws.com/33b1e194-7fa6-4755-b1d0-22943f80fe1a",
+      "displayOrder": 36,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c306cc72-ba0f-4877-98b9-9fbe6bb18762",
+      "description": "Upstairs landing ",
+      "url": "https://orbirental-images.s3.amazonaws.com/c306cc72-ba0f-4877-98b9-9fbe6bb18762",
+      "displayOrder": 37,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4f9391bf-5ac8-4782-ad56-b8d15bfde4f7",
+      "description": "Main Level Bedroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/4f9391bf-5ac8-4782-ad56-b8d15bfde4f7",
+      "displayOrder": 38,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
+      "description": "Main floor bedroom with desk for working",
+      "url": "https://orbirental-images.s3.amazonaws.com/b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
+      "displayOrder": 39,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cb27032d-6ede-404b-8acd-2626e6abb23f",
+      "description": "Washer and dryer in main level bathroom",
+      "url": "https://orbirental-images.s3.amazonaws.com/cb27032d-6ede-404b-8acd-2626e6abb23f",
+      "displayOrder": 40,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e0fa8240-9486-4390-a93d-977cb359f063",
+      "description": "Main level bathroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/e0fa8240-9486-4390-a93d-977cb359f063",
+      "displayOrder": 41,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ac53ebb6-8141-4afa-8429-4b33d5ac2d55",
+      "description": "Bathroom main level",
+      "url": "https://orbirental-images.s3.amazonaws.com/ac53ebb6-8141-4afa-8429-4b33d5ac2d55",
+      "displayOrder": 42,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ccc6d850-7edb-40dd-a230-173b187f31e3",
+      "description": "Second bedroom main level",
+      "url": "https://orbirental-images.s3.amazonaws.com/ccc6d850-7edb-40dd-a230-173b187f31e3",
+      "displayOrder": 43,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0396fd08-28d7-4e69-b6b0-b32def5c6e3f",
+      "description": "The cozy hiding place from second bedroom on main level",
+      "url": "https://orbirental-images.s3.amazonaws.com/0396fd08-28d7-4e69-b6b0-b32def5c6e3f",
+      "displayOrder": 44,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "98b0c787-6fb5-4984-a6e3-b37fb2345875",
+      "description": "Bathroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/98b0c787-6fb5-4984-a6e3-b37fb2345875",
+      "displayOrder": 45,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
+      "description": "Downstiars private bedroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
+      "displayOrder": 46,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2c8c1212-01a3-4387-9f75-fdc0e7bd0362",
+      "description": "Downstairs private bedroom with seating area",
+      "url": "https://orbirental-images.s3.amazonaws.com/2c8c1212-01a3-4387-9f75-fdc0e7bd0362",
+      "displayOrder": 47,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3ee395ce-1b5d-4e7b-8e32-3cde35fdd682",
+      "description": "Work our area",
+      "url": "https://orbirental-images.s3.amazonaws.com/3ee395ce-1b5d-4e7b-8e32-3cde35fdd682",
+      "displayOrder": 48,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "06a260aa-cfa6-4da6-9079-8d165321ea60",
+      "description": "Second bedroom downstairs with two twin beds",
+      "url": "https://orbirental-images.s3.amazonaws.com/06a260aa-cfa6-4da6-9079-8d165321ea60",
+      "displayOrder": 49,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "8984 Timphaven Road",
+    "shortSummary": "Stream Song - Relax, Rejuvinate and Reconnect",
+    "summary": "Stream Song is an exceptionally warm, inviting cabin for reconnecting with family and friends.  Take it easy here.  Play games at the dining room table, watch a movie on the Smart TV, make a meal with friends or just sit on the deck and listen to the year-round song of the stream below.  Breathe the fresh mountain air.  For a treat, take a drink of our fresh out of the faucet drinking water!  Crystal clean.  \r\n\r\nThis five bedroom, four bathroom home is a two-minute drive to the ski slopes, restaurants, and spa at  the Resort.  Centered in the middle of the open concept entry way, living room, dining room and kitchen is a large propane fireplace making everything so cozy.  The chic, mountain cabin furnishings are comfortable and invite relaxation.  \r\n\r\nThe wonderful floor to ceiling windows allows natural light in and showcases the views of the forest, majestic Mt. Timpanogas, gorgeous skies and the natural abundance of beauty this little slice of heaven here in Sundance, Utah, provides.   A well-appointed kitchen has updated appliances with counter space.  It is a joy to cook and prepare meals.  \r\n\r\n Two bedrooms on the main level feature queen beds with windows for light. One bedroom has a workstation desk, with direct access to one of two bathrooms closely situated.  The second bedroom has a ladder that accesses a quiet reading space when you might just want to \"hide out\".  A full-size washer and dryer are located on this floor for your convenience. \r\n\r\nUpstairs is the master suite with king size bed, private fireplace, outside balcony and a bathroom with a window walled tub overlooking the landscape. The Nap Nook is on this level as well. Great excuse to take a nap! \r\n\r\nThe lower level is an open area featuring twin beds at one end for the kids and a workout area with stationary bike, free weights, a bench, and a TV.  A second private bedroom on this floor has an adjacent bathroom featuring a queen bed and sitting area.  \r\n\r\nThe main level deck features (weather permitting) a dining table, Adirondack chairs and a propane BBQ for grilling.  At the opposite end of the deck is the covered hot tub with a separate entrance from the house to make winter access easy. \r\n\r\nWe would love to share this magical place with you.  Come make Stream Song your home away from home for your next get away.\r\n\r\nNO PETS – NO PARTIES OR EVENTS\r\nDRIVEWAY PARKING FOR FIVE CARS.   \r\n",
+    "notes": "",
+    "access": "",
+    "transit": "",
+    "interaction": "",
+    "neighbourhood": "",
+    "space": "",
+    "houseManual": "",
+    "locale": "en_US"
+  }
+}

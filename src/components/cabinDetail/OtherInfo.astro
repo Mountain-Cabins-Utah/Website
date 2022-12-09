@@ -1,5 +1,5 @@
 ---
-import type { Cabin } from "../../api/cabins/getCabin";
+import type { Cabin, Icons } from "../../types/cabin";
 import Users from "../svgs/Users.astro";
 import Shower from "../svgs/Shower.astro";
 import DirectionSign from "../svgs/DirectionSign.astro";
@@ -17,9 +17,9 @@ interface Props {
 
 const { cabin } = Astro.props;
 
-const { highlight } = cabin["basic-info"];
+const highlight = cabin["footer info"];
 
-function getIcon(icon: string) {
+function getIcon(icon: Icons) {
   switch (icon) {
     case "person-plus":
       return Users;
@@ -29,17 +29,17 @@ function getIcon(icon: string) {
       return Shower;
     case "fork-plate-knife":
       return ForkAndKnife;
-    case "basic-rss":
+    case "wifi":
       return Wifi;
-    case "travelling-backpack":
+    case "mountain":
       return MountainIcon;
     case "skis-and-poles":
       return Ski;
-    case "heart":
+    case "fire":
       return Fire;
     case "globe":
       return Globe;
-    case "camera":
+    case "tv":
       return Tv;
     default:
       return MountainIcon;
@@ -47,31 +47,33 @@ function getIcon(icon: string) {
 }
 ---
 
-<section class="benefits">
-  <div class="wrapper">
-    <h3>What this place offers</h3>
-    <div class="list">
-      {
-        highlight.map((item) => {
-          const Icon = getIcon(item.icon);
-          return (
-            <div class="item-list">
-              <Icon />
-              <p>{item.text}</p>
-            </div>
-          );
-        })
-      }
-    </div>
-  </div>
-</section>
+{
+  highlight && highlight.length > 0 && (
+    <section class="benefits">
+      <div class="wrapper">
+        <h3>What this place offers</h3>
+        <div class="list">
+          {highlight.map((item) => {
+            const Icon = getIcon(item.icon);
+            return (
+              <div class="item-list">
+                <Icon />
+                <p>{item.text}</p>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )
+}
 
 <style>
   .benefits {
     background-color: var(--tertiary-700);
   }
 
-  .wrapper {
+  .benefits .wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
