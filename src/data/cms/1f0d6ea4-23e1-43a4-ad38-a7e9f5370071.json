@@ -1,4 +1,38 @@
 {
   "uid": "1f0d6ea4-23e1-43a4-ad38-a7e9f5370071",
-  "name": "Cottage On The Stream • Sundance, Utah"
+  "name": "Cottage On The Stream • Sundance, Utah",
+  "amenities": [
+    {
+      "title": "Private Cabin",
+      "description": "Enjoy complete, romantic privacy to the Carriage House in it's own quite little canyon on a private lane along the stream."
+    },
+    {
+      "title": "Parking",
+      "description": "Easy private parking is provided at the Carriage House and is paved and maintained year round."
+    },
+    {
+      "title": "1 Queen Sized Bed +1 Sleeper Sofa",
+      "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+    },
+    {
+      "title": "Walk to Sundance Mountain Resort",
+      "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+    },
+    {
+      "title": "Amazing Views",
+      "description": "The Carriage House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }

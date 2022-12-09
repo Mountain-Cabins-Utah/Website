@@ -1,4 +1,46 @@
 {
   "uid": "b2338448-19e9-4f19-9263-16d3f51454f9",
-  "name": "Hideaway Above The Stream • Sundance, UT"
+  "name": "Hideaway Above The Stream • Sundance, UT",
+  "amenities": [
+    {
+      "title": "Very Private Cabin",
+      "description": "Enjoy relaxing privacy at the Hideaway. IMPORTANT: Accessible only via 62 stairs or 4-Wheel-Drive in the summer, and only via the stairs in the winter."
+    },
+    {
+      "title": "Parking",
+      "description": "Parking is available with 4X4 right up to the front door, or regular vehicle with access via the stair case above."
+    },
+    {
+      "title": "1 Queen Sized Bed",
+      "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+    },
+    {
+      "title": "6 Kids Beds",
+      "description": "Kids beds include a bunk bed in the master bedroom, two twin beds and two trundle beds upstairs."
+    },
+    {
+      "title": "Walk to Sundance Mountain Resort",
+      "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+    },
+    {
+      "title": "Local Attractions",
+      "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+    },
+    {
+      "title": "Amazing Views",
+      "description": "The Hideaway is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill a treat and dine in with your own propane BBQ grill just outside the door."
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }

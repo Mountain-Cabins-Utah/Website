@@ -1,5 +1,5 @@
 ---
-import type { Cabin } from "../../types/cabin";
+import type { BasicInfo, Cabin } from "../../types/cabin";
 import Check from "../svgs/Check.astro";
 
 interface Props {
@@ -8,23 +8,47 @@ interface Props {
 
 const { cabin } = Astro.props;
 
-const basicInfo = cabin["description info"];
+let descriptionInfo: BasicInfo[];
+
+if (cabin["description info"]) {
+  descriptionInfo = cabin["description info"];
+} else {
+  descriptionInfo = [
+    {
+      title: "Sparkling clean",
+      description: "14 recent guests said this place was sparkling clean.",
+    },
+    {
+      title: "Great location",
+      description: "90% of recent guests gave the location a 5-star rating.",
+    },
+    {
+      title: "Super Host Status",
+      description:
+        "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc.",
+    },
+    {
+      title: "Top Rated",
+      description:
+        "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!",
+    },
+  ];
+}
 ---
 
 <div class="basic-info">
   {
-    basicInfo &&
-      basicInfo.map((item) => (
-        <div class="item">
-          <div class="icon">
-            <Check />
-          </div>
-          <div class="text">
-            <b>{item.title}</b>
-            <p>{item.description}</p>
-          </div>
+    descriptionInfo.map((item) => (
+      <div class="item">
+        <div class="icon">
+          <Check />
         </div>
-      ))
+        <div class="text">
+          <b>{item.title}</b>
+          <p>{item.description}</p>
+        </div>
+      </div>
+    ))
   }
 </div>
 

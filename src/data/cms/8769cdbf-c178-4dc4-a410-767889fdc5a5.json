@@ -1,4 +1,38 @@
 {
   "uid": "8769cdbf-c178-4dc4-a410-767889fdc5a5",
-  "name": "Nº15 Snowflake at Eagle Point Ski Resort"
+  "name": "Nº15 Snowflake at Eagle Point Ski Resort",
+  "amenities": [
+    {
+      "title": "Private Entrance",
+      "description": "Enjoy comfort and privacy in your own Ski-in/Ski-out Snowflake Condominium"
+    },
+    {
+      "title": "Parking",
+      "description": "Snowflake parking is next to the main lodge and maintained year round."
+    },
+    {
+      "title": "2 Queen Bed, 1 Sofa Bed, 4 Twin beds",
+      "description": "Sleep 10 comfortably on 2 Queen sized beds, one Queen sofa bed and 4 Twin bunk beds"
+    },
+    {
+      "title": "Ski-In-Ski-Out Access to Resort",
+      "description": "Your Snowflake Condo is literally situated on the ski and snowboard runs at Eagle Point Ski Resort"
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+    },
+    {
+      "title": "Amazing Views",
+      "description": "Look out directly onto Eagle Point Ski Resort from every window and from your own private balcony"
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Full kitchen and dinning table for 6"
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }

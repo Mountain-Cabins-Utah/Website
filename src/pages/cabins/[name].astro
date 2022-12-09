@@ -2,11 +2,11 @@
 import Nav from "../../components/cabinDetail/Nav.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Cabins from "../../components/cabinDetail/Cabins.astro";
-import HeaderSvelte from "../../components/cabinDetail/Header.svelte";
+import Header from "../../components/cabinDetail/Header.astro";
 
 import cabins from "../../data/cabins.json";
 import BasicInfo from "../../components/cabinDetail/BasicInfo.astro";
-import Description from "../../components/cabinDetail/Description.astro";
+import Description from "../../components/cabinDetail/Description.svelte";
 import Amenities from "../../components/cabinDetail/Amenities.astro";
 
 import OtherInfo from "../../components/cabinDetail/OtherInfo.astro";
@@ -14,6 +14,7 @@ import Map from "../../components/Map.astro";
 import Footer from "../../components/Footer.astro";
 import HostfullyWidget from "../../components/HostfullyWidget.astro";
 import type { Cabin } from "../../types/cabin";
+import HorizontalLine from "../../components/svgs/HorizontalLine.astro";
 
 export async function getStaticPaths() {
   return cabins.map((cabin) => ({
@@ -32,45 +33,13 @@ const cabin = Astro.props.cabin as Cabin;
 
 <BaseLayout title={name}>
   <Nav />
-  <HeaderSvelte
-    name={cabin.name}
-    state={cabin.state}
-    city={cabin.city}
-    fullGallery={cabin.gallery}
-    client:load
-  />
+  <Header cabin={cabin} fullGallery={cabin.gallery} />
   <div class="wrapper">
     <div class="info">
       <BasicInfo cabin={cabin} />
-      <svg
-        width="100%"
-        height="2"
-        viewBox="0 0 716 2"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <line
-          y1="1.0167"
-          x2="716"
-          y2="1.0167"
-          stroke="#2F2D27"
-          stroke-width="0.2"></line>
-      </svg>
-      <Description cabin={cabin} />
-      <svg
-        width="100%"
-        height="2"
-        viewBox="0 0 716 2"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <line
-          y1="1.0167"
-          x2="716"
-          y2="1.0167"
-          stroke="#2F2D27"
-          stroke-width="0.2"></line>
-      </svg>
+      <HorizontalLine />
+      <Description cabin={cabin} client:load />
+      <HorizontalLine />
       <Amenities cabin={cabin} />
     </div>
     <HostfullyWidget propertyId={cabin.uid} />

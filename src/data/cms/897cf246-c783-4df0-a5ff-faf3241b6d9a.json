@@ -1,4 +1,38 @@
 {
   "uid": "897cf246-c783-4df0-a5ff-faf3241b6d9a",
-  "name": "TimpCreek Cottage on the Stream"
+  "name": "TimpCreek Cottage on the Stream",
+  "amenities": [
+    {
+      "title": "Private Cabin",
+      "description": "Enjoy complete, romantic privacy to the House in it's own quite little canyon on a private lane along the stream."
+    },
+    {
+      "title": "Parking",
+      "description": "Easy private parking is provided at the TimpCreek House and is paved and maintained year round."
+    },
+    {
+      "title": "3 Queen Sized Beds",
+      "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+    },
+    {
+      "title": "Walk to Sundance Mountain Resort",
+      "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+    },
+    {
+      "title": "Double Deck / Patio",
+      "description": "Relax on a Patio over looking Sundance Mountain and all the hikes, biking, skiing, fly fishing and sights in the area."
+    },
+    {
+      "title": "Amazing Views",
+      "description": "The TimpCreek House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }

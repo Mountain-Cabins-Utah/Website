@@ -30,8 +30,13 @@ collections:
           collapsed: false,
           fields:
             [
-              { label: "Label", name: "label", widget: "string" },
-              { label: "url", name: "url", widget: "string" },
+              {
+                label: "Label",
+                name: "label",
+                widget: "string",
+                required: false,
+              },
+              { label: "url", name: "url", widget: "string", required: false },
             ],
         }
       - {

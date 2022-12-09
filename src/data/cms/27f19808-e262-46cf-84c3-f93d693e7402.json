@@ -1,4 +1,38 @@
 {
   "uid": "27f19808-e262-46cf-84c3-f93d693e7402",
-  "name": "Log Cabin On The Stream • Sundance, Utah"
+  "name": "Log Cabin On The Stream • Sundance, Utah",
+  "amenities": [
+    {
+      "title": "Private Cabin",
+      "description": "Plus, your own private grounds right on the river including several decks, a pavilion, & hot tub."
+    },
+    {
+      "title": "Parking",
+      "description": "Easy private parking is provided at the Log Cabin located on a private lane."
+    },
+    {
+      "title": "1 King, 4 Queen, 4 Single Beds, 1 Sleeper Sofa",
+      "description": "Plenty of room for family, friends, or corporate retreats in 5 rooms with 10 beds. If that's not enough room, consider booking our cabins next door on either side."
+    },
+    {
+      "title": "Walk to Sundance Mountain Resort",
+      "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+    },
+    {
+      "title": "Amazing Views",
+      "description": "The Log Cabin is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+    },
+    {
+      "title": "Propane BBQ Grill",
+      "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }

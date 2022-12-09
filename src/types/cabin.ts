@@ -126,7 +126,7 @@ export interface CMSData {
   map?: Map;
 }
 
-interface BasicInfo {
+export interface BasicInfo {
   title: string;
   description: string;
 }

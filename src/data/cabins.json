@@ -86,6 +86,48 @@
       "hvmiUrl": null
     },
     "uid": "2a05c85d-b138-45fa-8f78-9f0bbfb9441f",
+    "amenities": [
+      {
+        "title": "Private Cabin",
+        "description": "Enjoy relaxing privacy at the Cottage on The Stream."
+      },
+      {
+        "title": "Parking",
+        "description": "Ample parking is provided at the Cottage on The Stream near Sundance Mountain Resort."
+      },
+      {
+        "title": "1 King, 1 Queen, 1 Bunk Bed ",
+        "description": "Plenty of sleeping room for 14 guests in this charming little Cottage on The Stream between our Hideaway, and our Log Cabin, & Treehouse, if need even more space."
+      },
+      {
+        "title": "7 Single Beds, 1 Sofa Bed, 1 Baby Crib",
+        "description": "Just remember, the Cottage only has 1 bathroom and a small kitchen, but it's still a great place to lay your head after a long day in the great outdoors!"
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Local Attractions",
+        "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The Cottage is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
@@ -455,6 +497,40 @@
       "hvmiUrl": null
     },
     "uid": "1f0d6ea4-23e1-43a4-ad38-a7e9f5370071",
+    "amenities": [
+      {
+        "title": "Private Cabin",
+        "description": "Enjoy complete, romantic privacy to the Carriage House in it's own quite little canyon on a private lane along the stream."
+      },
+      {
+        "title": "Parking",
+        "description": "Easy private parking is provided at the Carriage House and is paved and maintained year round."
+      },
+      {
+        "title": "1 Queen Sized Bed +1 Sleeper Sofa",
+        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The Carriage House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
@@ -768,6 +844,48 @@
       "hvmiUrl": null
     },
     "uid": "b2338448-19e9-4f19-9263-16d3f51454f9",
+    "amenities": [
+      {
+        "title": "Very Private Cabin",
+        "description": "Enjoy relaxing privacy at the Hideaway. IMPORTANT: Accessible only via 62 stairs or 4-Wheel-Drive in the summer, and only via the stairs in the winter."
+      },
+      {
+        "title": "Parking",
+        "description": "Parking is available with 4X4 right up to the front door, or regular vehicle with access via the stair case above."
+      },
+      {
+        "title": "1 Queen Sized Bed",
+        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "title": "6 Kids Beds",
+        "description": "Kids beds include a bunk bed in the master bedroom, two twin beds and two trundle beds upstairs."
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Local Attractions",
+        "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The Hideaway is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill a treat and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "4f2d8438-9213-4e99-80e0-71e8279323e3",
@@ -1289,6 +1407,40 @@
       "hvmiUrl": null
     },
     "uid": "27f19808-e262-46cf-84c3-f93d693e7402",
+    "amenities": [
+      {
+        "title": "Private Cabin",
+        "description": "Plus, your own private grounds right on the river including several decks, a pavilion, & hot tub."
+      },
+      {
+        "title": "Parking",
+        "description": "Easy private parking is provided at the Log Cabin located on a private lane."
+      },
+      {
+        "title": "1 King, 4 Queen, 4 Single Beds, 1 Sleeper Sofa",
+        "description": "Plenty of room for family, friends, or corporate retreats in 5 rooms with 10 beds. If that's not enough room, consider booking our cabins next door on either side."
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The Log Cabin is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "473f703c-5b33-4d9f-b298-93082db8617e",
@@ -1607,6 +1759,40 @@
       "hvmiUrl": null
     },
     "uid": "6877b2c9-b2de-44aa-b8ce-b7e1fb89cc46",
+    "amenities": [
+      {
+        "title": "Private Entrance",
+        "description": "Enjoy comfort and privacy in your own Wooded Ridge Condominum"
+      },
+      {
+        "title": "Parking",
+        "description": "Wooded Ridge parking is paved and maintained year round."
+      },
+      {
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "description": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+      },
+      {
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "description": "Your Wooded Ridge Condo is literally situated on Eagle Point Mountain Resort ski and snowboard runs"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "title": "Amazing Views",
+        "description": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Full kitchen and dinning table for 6"
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "abca6445-da47-4db4-a420-0260dc82ba69",
@@ -1939,6 +2125,40 @@
       "hvmiUrl": null
     },
     "uid": "8769cdbf-c178-4dc4-a410-767889fdc5a5",
+    "amenities": [
+      {
+        "title": "Private Entrance",
+        "description": "Enjoy comfort and privacy in your own Ski-in/Ski-out Snowflake Condominium"
+      },
+      {
+        "title": "Parking",
+        "description": "Snowflake parking is next to the main lodge and maintained year round."
+      },
+      {
+        "title": "2 Queen Bed, 1 Sofa Bed, 4 Twin beds",
+        "description": "Sleep 10 comfortably on 2 Queen sized beds, one Queen sofa bed and 4 Twin bunk beds"
+      },
+      {
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "description": "Your Snowflake Condo is literally situated on the ski and snowboard runs at Eagle Point Ski Resort"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "title": "Amazing Views",
+        "description": "Look out directly onto Eagle Point Ski Resort from every window and from your own private balcony"
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Full kitchen and dinning table for 6"
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
@@ -2292,6 +2512,40 @@
       "hvmiUrl": null
     },
     "uid": "f2f3d52b-8372-4c62-91f7-ab098c3da747",
+    "amenities": [
+      {
+        "title": "Private Entrance",
+        "description": "Enjoy comfort and privacy in your own Ski-in/Ski-out Snowflake Condominium."
+      },
+      {
+        "title": "Parking",
+        "description": "Snowflake parking is next to the main lodge and maintained year round."
+      },
+      {
+        "title": "2 Queen Beds, 1 Sleeper Sofa, 5 Twin beds",
+        "description": "Sleep 11 comfortably on 2 Queen sized beds, 1 Queen sized sofa bed and 5 twin sized bunk/trundle beds."
+      },
+      {
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "description": "Your Snowflake Condo is literally situated on the ski and snowboard runs at Eagle Point Mountain Resort."
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "Look out directly onto Eagle Point Ski Resort from every window and from your own private balcony."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Full kitchen and dinning table for 6."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
@@ -2589,6 +2843,40 @@
       "hvmiUrl": null
     },
     "uid": "2041981a-9a23-4eab-9c82-c9dbeb87c593",
+    "amenities": [
+      {
+        "title": "Private Entrance",
+        "description": "Enjoy comfort and privacy in your own Wooded Ridge Condominium"
+      },
+      {
+        "title": "Parking",
+        "description": "Wooded Ridge parking is paved and maintained year round"
+      },
+      {
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "description": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+      },
+      {
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+      },
+      {
+        "title": "Amazing Views",
+        "description": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+      },
+      {
+        "title": "Dining Table Seats 6",
+        "description": "Full kitchen and dinning table for 6"
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "f419692c-0d1c-4222-b10f-b912aae5c1d6",
@@ -2893,6 +3181,40 @@
       "hvmiUrl": null
     },
     "uid": "b12b93d2-f3db-4d1d-9275-923cb99f1de8",
+    "amenities": [
+      {
+        "title": "Private Entrance",
+        "description": "Enjoy comfort and privacy in your own Wooded Ridge Condominium."
+      },
+      {
+        "title": "Parking",
+        "description": "Wooded Ridge parking is paved and maintained year round."
+      },
+      {
+        "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+        "description": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa."
+      },
+      {
+        "title": "Ski-In-Ski-Out Access to Resort",
+        "description": "Your Wooded Ridge Condo is literally situated on Eagle Point Mountain Resort ski and snowboard runs"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Full kitchen and dinning table for 6."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "65e1f63c-8b78-4019-abb7-f1f515d1e498",
@@ -3227,6 +3549,7 @@
       "hvmiUrl": null
     },
     "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
+    "amenities": [],
     "gallery": [
       {
         "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
@@ -3680,6 +4003,40 @@
       "hvmiUrl": null
     },
     "uid": "897cf246-c783-4df0-a5ff-faf3241b6d9a",
+    "amenities": [
+      {
+        "title": "Private Cabin",
+        "description": "Enjoy complete, romantic privacy to the House in it's own quite little canyon on a private lane along the stream."
+      },
+      {
+        "title": "Parking",
+        "description": "Easy private parking is provided at the TimpCreek House and is paved and maintained year round."
+      },
+      {
+        "title": "3 Queen Sized Beds",
+        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Double Deck / Patio",
+        "description": "Relax on a Patio over looking Sundance Mountain and all the hikes, biking, skiing, fly fishing and sights in the area."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The TimpCreek House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
@@ -4056,6 +4413,48 @@
       "hvmiUrl": null
     },
     "uid": "53ef1805-0602-47aa-8b10-b2b25af243b8",
+    "amenities": [
+      {
+        "title": "Private Cabin",
+        "description": "Enjoy relaxing privacy at the Tree House on The Stream"
+      },
+      {
+        "title": "Parking",
+        "description": "Ample parking is provided at the Tree House on The Stream at Sundance, Utah"
+      },
+      {
+        "title": "3 Queen Sized Beds",
+        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+      },
+      {
+        "title": "Kids Beds",
+        "description": "Kids beds include a bunk bed in the 2nd bedroom, and sofa sleeper downstairs."
+      },
+      {
+        "title": "Walk to Sundance Mountain Resort",
+        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Local Attractions",
+        "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+      },
+      {
+        "title": "Jacuzzi / Hot Tub",
+        "description": "Spend the days exploring Sundance Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in your own, private hot tub jacuzzi."
+      },
+      {
+        "title": "Amazing Views",
+        "description": "The Tree House is surrounded by Big Pines and a beautiful, year round steam + our one of a kind 12,000lb stone picnic table."
+      },
+      {
+        "title": "Propane BBQ Grill",
+        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
+      },
+      {
+        "title": "Find More on Instagram",
+        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+      }
+    ],
     "gallery": [
       {
         "uid": "1224d84c-6db8-447c-ac17-29af9ef0e50d",

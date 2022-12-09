@@ -1,4 +1,38 @@
 {
   "uid": "2041981a-9a23-4eab-9c82-c9dbeb87c593",
-  "name": "Nº6 Wooded Ridge @ Eagle Point Ski Resort"
+  "name": "Nº6 Wooded Ridge @ Eagle Point Ski Resort",
+  "amenities": [
+    {
+      "title": "Private Entrance",
+      "description": "Enjoy comfort and privacy in your own Wooded Ridge Condominium"
+    },
+    {
+      "title": "Parking",
+      "description": "Wooded Ridge parking is paved and maintained year round"
+    },
+    {
+      "title": "1 Queen Bed, 1 King Bed, 1 Sleeper Sofa",
+      "description": "Sleep 6 comfortably on one King sized bed, one Queen sized bed and one pull out sleeper sofa"
+    },
+    {
+      "title": "Ski-In-Ski-Out Access to Resort",
+      "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+    },
+    {
+      "title": "Jacuzzi / Hot Tub",
+      "description": "Spend the days exploring Eagle Point Mountain Resort and all the hikes, biking, skiing, fly fishing and sights in the area, then relax those tired muscles in at the Hot Tub Garden just feet away"
+    },
+    {
+      "title": "Amazing Views",
+      "description": "Look out directly onto Eagle Point Mountain Resort from every window and from your own private balcony"
+    },
+    {
+      "title": "Dining Table Seats 6",
+      "description": "Full kitchen and dinning table for 6"
+    },
+    {
+      "title": "Find More on Instagram",
+      "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
+    }
+  ]
 }
