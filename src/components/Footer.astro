@@ -39,11 +39,6 @@ const contact = [
     url: "tel:5124134380",
     icon: Phone,
   },
-  {
-    text: "Location",
-    url: "https://maps.google.com/maps?ll=40.393874,-111.585663&z=15&t=m&hl=en&gl=US&cid=14288954003391505973",
-    icon: Location,
-  },
 ];
 ---
 
@@ -120,7 +115,7 @@ const contact = [
   .wrapper {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
+    gap: 2rem;
   }
 
   h4,
@@ -129,6 +124,10 @@ const contact = [
   .contact {
     color: var(--light);
     margin-bottom: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   h4 {
@@ -144,6 +143,7 @@ const contact = [
   .socials {
     display: flex;
     gap: 1rem;
+    justify-content: center;
   }
 
   .icon {

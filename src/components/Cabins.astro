@@ -2,15 +2,21 @@
 import NorthSouth from "./svgs/NorthSouth.astro";
 ---
 
-<div class="cabins wrapper">
-  <div class="header">
-    <h2>Our Cabins</h2>
-    <h4>“The Mountains Are Calling, And I must Go” ~John Muir</h4>
+<section>
+  <div class="cabins wrapper">
+    <div class="header">
+      <h2>Our Cabins</h2>
+      <h4>“The Mountains Are Calling, And I must Go” ~John Muir</h4>
+    </div>
+    <NorthSouth />
   </div>
-  <NorthSouth />
-</div>
+</section>
 
 <style>
+  section {
+    background-image: url(/img/overlay.png);
+  }
+
   .cabins {
     /* Auto layout */
     display: flex;
