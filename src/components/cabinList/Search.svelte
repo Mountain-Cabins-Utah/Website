@@ -87,7 +87,7 @@
   }
 </script>
 
-<div class="separator">
+<div class="separator" id="cabins">
   <div class="line" />
   <Mountain />
   <div class="line" />

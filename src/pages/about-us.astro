@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ListingHeader from "../components/cabinList/ListingHeader.astro";
+import Host from "../components/Host.astro";
+import Footer from "../components/Footer.astro";
+import Nav from "../components/cabinDetail/Nav.astro";
+
+const title =
+  "Mountain Cabins Utah vacation rentals - Sundance, UT & Eagle Point Ski Resort";
+---
+
+<BaseLayout title={title}>
+  <Nav currentPath="about-us" />
+  <Host />
+  <Footer />
+</BaseLayout>

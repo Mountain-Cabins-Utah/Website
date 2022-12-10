@@ -32,7 +32,7 @@ const cabin = Astro.props.cabin as Cabin;
 ---
 
 <BaseLayout title={name}>
-  <Nav />
+  <Nav currentPath="cabins" />
   <Header cabin={cabin} fullGallery={cabin.gallery} />
   <div class="wrapper">
     <div class="info">

@@ -12,6 +12,7 @@ const { cabin, fullGallery } = Astro.props;
 ---
 
 <section class="header wrapper">
+  <a class="all-cabins" href="/cabins#cabins">← See all cabins</a>
   <h1>{cabin.name}</h1>
   <div class="location">
     <div class="icon">
@@ -23,12 +24,16 @@ const { cabin, fullGallery } = Astro.props;
 </section>
 
 <style>
+  .all-cabins {
+    margin-top: 1rem;
+  }
+
   .wrapper.header {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 16px;
-    margin-bottom: 48px;
+    gap: 1rem;
+    padding-bottom: 3rem;
   }
 
   .header h1 {
