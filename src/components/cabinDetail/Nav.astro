@@ -1,20 +1,28 @@
 ---
-import Nav from "../Nav.astro";
+import Nav, { routes } from "../Nav.astro";
+
+export interface Props {
+  currentPath: routes;
+}
+
+const { currentPath } = Astro.props;
 ---
 
 <div class="menu">
-  <Nav />
+  <div class="wrapper">
+    <Nav currentPath={currentPath} />
+  </div>
 </div>
 
 <style>
   .menu {
+    background: var(--tertiary-700);
+  }
+
+  .wrapper {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    background: var(--tertiary-700);
-
-    margin-bottom: 32px;
   }
 </style>

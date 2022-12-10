@@ -1,10 +1,16 @@
 ---
-import Nav from "../components/Nav.astro";
+import Nav, { routes } from "../components/Nav.astro";
+
+export interface Props {
+  currentPath: routes;
+}
+
+const { currentPath } = Astro.props;
 ---
 
 <div class="header">
   <div class="wrapper">
-    <Nav />
+    <Nav currentPath={currentPath} />
     <h1>Plan your perfect <br /> mountain vacation</h1>
     <p>
       Book Luxury Cabins In Northern Utah

@@ -1,8 +1,29 @@
+---
+export interface Props {
+  currentPath: routes;
+}
+
+const { currentPath } = Astro.props;
+
+export type routes = "/" | "cabins" | "about-us";
+
+function activeClass(activePath: routes, path: routes) {
+  return activePath === path ? "active" : "";
+}
+---
+
 <nav class="wrapp">
   <a href="/"><img class="logo" src="/img/logo-white.png" alt="logo" /></a>
   <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/cabins">Cabins</a></li>
+    <li><a href="/" class={activeClass(currentPath, "/")}>Home</a></li>
+    <li>
+      <a href="/cabins" class={activeClass(currentPath, "cabins")}>Cabins</a>
+    </li>
+    <li>
+      <a href="/about-us" class={activeClass(currentPath, "about-us")}
+        >About us</a
+      >
+    </li>
   </ul>
 </nav>
 
@@ -45,6 +66,10 @@
     text-decoration: none;
     padding: 8px 8px;
     display: block;
+  }
+
+  nav li a.active {
+    text-decoration: underline;
   }
 
   nav li ul {
