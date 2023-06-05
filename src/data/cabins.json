@@ -1,6 +1,11 @@
 [
   {
-    "pricingRules": null,
+    "pricingRules": {
+      "increaseRate": 0,
+      "increaseRateLowerBound": 0,
+      "decreaseRate": 0,
+      "decreaseRateHigherBound": 0
+    },
     "bedCount": 2,
     "bedTypes": {
       "kingBed": 0,
@@ -19,11 +24,11 @@
       "couch": 0
     },
     "type": "CABIN",
-    "name": "CarriageHouse on The Stream, Sundance UT",
+    "name": "CarriageHouse on The Stream • Sundance UT",
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 4,
-    "baseDailyRate": 245,
+    "baseDailyRate": 255,
     "city": "Sundance",
     "state": "UT",
     "address1": "3105 -B Big Pine Canyon Road",
@@ -36,7 +41,7 @@
     "webLink": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-above-the-stream",
     "cleaningFeeAmount": 75,
     "minimumStay": 2,
-    "maximumStay": 0,
+    "maximumStay": 30,
     "securityDepositAmount": 0,
     "externalID": "",
     "acceptInstantBook": true,
@@ -56,7 +61,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream%2C-sundance-ut",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/CarriageHouseStream",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
@@ -71,15 +76,15 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 116,
-      "average": 4.939655172413793
+      "total": 143,
+      "average": 4.951048951048951
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/18105837",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream%2C-sundance-ut",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22906/carriagehouse-on-the-stream-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": "https://booking.com/hotel/us/carriage-house-above-the-stream.en.html",
       "homeAwayUrl": "https://www.vrbo.com/955170",
       "tripAdvisorUrl": null,
@@ -445,9 +450,9 @@
       }
     ],
     "description": {
-      "name": "CarriageHouse on The Stream, Sundance UT",
-      "shortSummary": "CarriageHouse on The Stream, Sundance UT",
-      "summary": "Business bringing you to our area?  Need a couples getaway?   Want a personal timeout?  This is the place.  Fresh mountain air, a stream, comfortable bedding, and essentials are all here!  Come spend a little time with us.  A short drive up Provo Canyon brings you to the little slice of heaven in Big Pine Canyon at Sundance.  The world-class restaurants at the Resort or Owl Bar provide gathering places for your business or pleasure dining & entertainment - and your drive is 3 minutes.   :)",
+      "name": "CarriageHouse on The Stream • Sundance, Utah",
+      "shortSummary": "CarriageHouse on The Stream • Sundance Utah",
+      "summary": "Time for a couple's getaway, a personal timeout or attend business meetings?  This is where you want to be.  Fresh mountain air, a stream, comfortable bedding, and essentials are all here!  A short drive up Provo Canyon brings you to the little slice of heaven in Big Pine Canyon in Sundance, Utah.  The world-class restaurants at the Resort or Owl Bar provide gathering places for your business or pleasure dining & entertainment - and your drive is 3 minutes.      ",
       "notes": "Walking distance to Sundance Mountain Resort\n",
       "access": "This upstairs suite is entirely available for your use including the two outside decks.  There is a hot tub and outside shower at the main house - 30 yards away and is available for your private use.  The laundry facilities are on the main floor and available for you to use as well.",
       "transit": "The best form of transportation to have here in Sundance is your own vehicle.  Winter travel (November thru April) requires four wheel, all wheel or chains.",
@@ -493,7 +498,7 @@
     "bathrooms": "1",
     "picture": "https://orbirental-images.s3.amazonaws.com/6a61788e-3322-46f6-b5e5-84fae1bffe97",
     "webLink": "https://platform.hostfully.com/vacation-rental-property/22907/cozy%2C-rustic-cottage-on-the-stream",
-    "cleaningFeeAmount": 150,
+    "cleaningFeeAmount": 185,
     "minimumStay": 2,
     "maximumStay": 0,
     "securityDepositAmount": 0,
@@ -530,8 +535,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 44,
-      "average": 4.931818181818182
+      "total": 55,
+      "average": 4.945454545454545
     },
     "createdDate": 1562259452000,
     "percentUponReservation": 50,
@@ -846,7 +851,7 @@
     "description": {
       "name": "Cottage On The Stream • Sundance, Utah",
       "shortSummary": "Cottage On The Stream • Sundance, Utah",
-      "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and it's charm.  Great space for families and friends to gather.  Children and pet friendly with room to play and run and have a great time. (Pet fees apply).\r\n\r\nLocated at the end of a private road, you're nestled between the stream, tall majestic pine trees and solitude - yet you are five minutes from the Resort at Sundance, the ski lift, hiking, biking, zip line and don't forget the Spa!  Good restaurants.  ",
+      "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and its charm with great space for families and friends to gather.  Room to roam and play outside & have a wonderful time.   \n\nLocated at the end of a private road, you are nestled between the stream, tall, majestic pine trees, and solitude - yet you are five minutes from the Resort at Sundance, ski lift, hiking, biking, zip line and do not forget the Spa and the amazing restaurants.   \n\n",
       "notes": "When you walk to the entrance of The Cottage you will see two trees growing side by side by the front door. Under the front windows in the spring the day lilies are like a sea of yellow gently blowing in the gentle breezes.  There is a bench by the front door and the meadow is alive with creatures big and small.  The turkeys meander through the property pecking at who knows what every day. In the spring the babies hustle behind their mommas.  The deer drink from the stream, hanging out and then disappear in the trees. In the spring the meadow twinkles with butterflies of all colors and the hummingbirds begin looking for nectar.  The plastic flowers in the window box are reminiscent of times and people passed that were the guardians of this place.  ",
       "access": "This entire cabin plus the beautiful deck overlooking the stream are yours to enjoy.",
       "transit": "Sundance Resor is a mere 1.2 miles away.  A super quick drive or nice walk in the summer.  November through April requires four wheel or all wheel drive vehicles.  Please check with the hosts.\r\n\r\nDriveway parks two comfortably and space directly in front of Cabin is available.  \r\nRespectfully request no parking at neighborhing cabins  or in the road.  ",
@@ -906,7 +911,7 @@
     "areaSize": 1000,
     "areaSizeUnit": "SQUARE_FEET",
     "extraGuestFee": 0,
-    "taxationRate": 11.76,
+    "taxationRate": 11.8,
     "latitude": 40.394657,
     "longitude": -111.586838,
     "airBnBID": "14109370",
@@ -914,9 +919,9 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-ut",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gjfslmg",
-    "weekEndRatePercentAdjustment": 0,
+    "weekEndRatePercentAdjustment": 4.62,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -929,15 +934,15 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 140,
-      "average": 4.9714285714285715
+      "total": 153,
+      "average": 4.934640522875817
     },
     "createdDate": 1562259471000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/14109370",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-ut",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": "https://booking.com/hotel/us/hideaway-above-the-stream.en.html",
       "homeAwayUrl": "https://www.vrbo.com/888772",
       "tripAdvisorUrl": null,
@@ -1369,94 +1374,87 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "c25910da-cdd4-4ba8-8a5f-595066c7018c",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/c25910da-cdd4-4ba8-8a5f-595066c7018c",
-        "displayOrder": 47,
-        "airbnbRoomId": null
-      },
-      {
         "uid": "eed436e4-3bfb-4cb4-bbba-e457371cbf64",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/eed436e4-3bfb-4cb4-bbba-e457371cbf64",
-        "displayOrder": 48,
+        "displayOrder": 47,
         "airbnbRoomId": null
       },
       {
         "uid": "94a7842a-61c2-464e-9a52-25bd8387cc7d",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/94a7842a-61c2-464e-9a52-25bd8387cc7d",
-        "displayOrder": 49,
+        "displayOrder": 48,
         "airbnbRoomId": null
       },
       {
         "uid": "986abc82-70c2-4649-8bd8-87242bb5ce23",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/986abc82-70c2-4649-8bd8-87242bb5ce23",
-        "displayOrder": 50,
+        "displayOrder": 49,
         "airbnbRoomId": null
       },
       {
         "uid": "17fca8fd-6058-4cce-853c-b705eb30d3dd",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/17fca8fd-6058-4cce-853c-b705eb30d3dd",
-        "displayOrder": 51,
+        "displayOrder": 50,
         "airbnbRoomId": null
       },
       {
         "uid": "b847349d-5ded-468d-84a5-8a714bd84422",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/b847349d-5ded-468d-84a5-8a714bd84422",
-        "displayOrder": 52,
+        "displayOrder": 51,
         "airbnbRoomId": null
       },
       {
         "uid": "ed02a504-d8d2-41ef-9280-bb75c1c76d71",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/ed02a504-d8d2-41ef-9280-bb75c1c76d71",
-        "displayOrder": 53,
+        "displayOrder": 52,
         "airbnbRoomId": null
       },
       {
         "uid": "a67df874-d0c2-467a-9c12-8600ef25e668",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/a67df874-d0c2-467a-9c12-8600ef25e668",
-        "displayOrder": 54,
+        "displayOrder": 53,
         "airbnbRoomId": null
       },
       {
         "uid": "2d25c04e-0d0a-45c6-943e-6ed134190642",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/2d25c04e-0d0a-45c6-943e-6ed134190642",
-        "displayOrder": 55,
+        "displayOrder": 54,
         "airbnbRoomId": null
       },
       {
         "uid": "ec28d2ef-f8e5-4b49-a527-984b42d9ced0",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/ec28d2ef-f8e5-4b49-a527-984b42d9ced0",
-        "displayOrder": 56,
+        "displayOrder": 55,
         "airbnbRoomId": null
       },
       {
         "uid": "b3f9dde1-7c93-490a-8a9b-945254cfd9da",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/b3f9dde1-7c93-490a-8a9b-945254cfd9da",
-        "displayOrder": 57,
+        "displayOrder": 56,
         "airbnbRoomId": null
       },
       {
         "uid": "697f8c1b-cec3-4eb2-b1ca-0d8b352b3281",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/697f8c1b-cec3-4eb2-b1ca-0d8b352b3281",
-        "displayOrder": 58,
+        "displayOrder": 57,
         "airbnbRoomId": null
       }
     ],
     "description": {
-      "name": "Hideaway Above The Stream • Sundance, UT",
-      "shortSummary": "Secluded, hidden & private.",
-      "summary": "In the winter, take a five minute drive to Sundance Ski Resort and ride the new hi-speed quad lift to the top of the mountain for skiing and snowboarding down beautiful runs.  Stop for lunch at the Outlook Restaurant for BBQ, burgers, salads and a beverage before heading back up for a few more runs for the day.  Night skiing is also available certain nights here in Sundance.    AND, weathr permittin,  winter ziplining is available.   \r\n\r\nIn summer, a short ten minute walk will take you to the same ski lift for a ride to the top of the mountain for a panaoramic 360 view, lunch at BearClaw where you can chill out and take it all in.    In summer you can go ziplining, mountain biking, fly fishing, hiking, horseback riding, enjoy summer music events and outdoor theater!   \r\n\r\nYou’ll love the solitude and quiet of this cabin.  The sound of the stream below, watching the meadow for deer, squirrels, wild turkeys, raccoons and birds.  Come Hideaway - a forest retreat.",
+      "name": "Hideaway Above The Stream • Sundance, Utah",
+      "shortSummary": "Hideaway Above The Stream • Sundance, Utah",
+      "summary": "Take the stairs down from the parking area and enjoy the seclusion, privacy, and solitude of the Hideaway.  The stream below flows year-round.  Sit on the deck in the summer and watch the wildlife in the meadow or  sit in the hot tub in the winter and watch the snow fall.      \n\nOnly five minutes to the Resort's ski lifts, hiking & biking trails, zip line, and do not forget the Spa and the amazing restaurants, and, only a five minute drive.  ",
       "notes": "Ultimate privacy for anyone who really wants to get away!  Accessible only via 59 step staircase in winter, and All Wheel Drive to front door in Summer.  Not ideal if you have trouble with stars, but please check out our other properties for easy access.",
       "access": "",
       "transit": "",
@@ -1464,6 +1462,417 @@
       "neighbourhood": "",
       "space": "",
       "houseManual": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "pricingRules": null,
+    "bedCount": 9,
+    "bedTypes": {
+      "kingBed": 4,
+      "queenBed": 1,
+      "doubleBed": 0,
+      "singleBed": 4,
+      "sofaBed": 0,
+      "futonBed": 0,
+      "floorMattress": 0,
+      "bunkBed": 0,
+      "toddlerBed": 0,
+      "crib": 0,
+      "hammockBed": 0,
+      "airMattress": 0,
+      "waterBed": 0,
+      "couch": 0
+    },
+    "type": "CABIN",
+    "name": "Little Cabin on Deer Run",
+    "isActive": true,
+    "baseGuests": 12,
+    "maximumGuests": 12,
+    "baseDailyRate": 995,
+    "city": "Sundance",
+    "state": "UT",
+    "address1": "3093 Deer Run ",
+    "address2": "",
+    "postalCode": "84604",
+    "countryCode": "US",
+    "bedrooms": 7,
+    "bathrooms": "4",
+    "picture": "https://orbirental-images.s3.amazonaws.com/00e8762b-5141-4cb3-88ad-97a8bf8376a7_1-28-23+-+3.jpg",
+    "webLink": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
+    "cleaningFeeAmount": 500,
+    "minimumStay": 2,
+    "maximumStay": 40,
+    "securityDepositAmount": 500,
+    "externalID": "",
+    "acceptInstantBook": true,
+    "acceptBookingRequest": false,
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/52565.ics?itp=1",
+    "rentalCondition": "GENERAL PROPERTY CONDITIONS ---- There are differences in our Northern Properties and Southern Properties.  Dependent upon the property rented determines the Rental Conditions listed herein.  \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled and money would not be refundable.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-in’s or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nBEFORE DEPARTING:  Please do the following before departing the property:  \n•\tFurniture - If you moved it, please put it back. \n•\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n•\tNetflix - if you signed into Netflix, remember to sign out.  \n•\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n•\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds.\n•\tTowels - leave used towels in the bathtub, shower or on the floor.\n•\tLights, fans, and appliances should be turned off. \n•\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n•\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n•\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\n\nNORTHERN PROPERTIES located in Sundance, Utah - Carriage House Above the Stream, Hideaway Above the Stream, Treehouse on the Stream, Cottage on the Stream, Log Cabin on the Stream\nMINIMUM STAY:  A two-night minimum stay is required.  Longer minimum stays may be required during holiday periods or special events.  \nPETS:  Well behaved adult dogs are considered.  No cats.  $100.00 pet fee will be charged plus a pet deposit.  \nPET EXCEPTION: Carriage House Above the Stream is NOT pet friendly.  No pets at this property.  \nRESTRICTIONS NORTHERN PROPERTY:   The following activities are not permitted within the boundaries of the residential community or resort:  \n•\tATVs or snowmobiles*\n•\tDischarge of firearms or use of archery tackle*\n•\tHunting or trapping*\n•\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n•\tExcessive noise that disrupts, disturbs, annoys or offends neighbors*\n•\tSound curfew is 9:00 pm*\n•\tLarge recreational vehicles or large trailers (The roads are too narrow) *\n•\tParking anywhere except designated cabin parking.  No street parking or parking in neighboring cabins*\n*\tFines of up to $1,000.00 may be assessed for prohibited activities.  \n**\tOpen fires are restricted outside and will be fined $2,500 by the County.\n\nSOUTHERN PROPERTIES located in Beaver, Utah - Wooded Ridge 6, Wooded Ridge 8, Wooded Ridge 10, Snowflake 15, Snowflake 17\nMINIMUM STAY:  A one-night minimum stay is required.  Longer minimum stays may be required during holiday periods or special events.  \nPETS:  Well behaved adult dogs are considered.  No cats.  $100.00 pet fee will be charged plus a pet deposit.  \nRESTRICTIONS SOUTHERN PROPERTY:   The following activities are not permitted within the boundaries of the community or resort:  \n•\tDischarge of firearms or use of archery tackle*\n•\tHunting or trapping*\n•\tOutside fires, fireworks or any combustible substance is prohibited**\n•\tExcessive noise that disrupts, disturbs, annoys or offends neighbors*\n•\tSound curfew is 9:00 pm*\n•\tParking anywhere except designated parking.  \n*\t       Fines of up to $1,000.00 may be assessed for prohibited activities.  \n**\tOpen fires are restricted outside and will be fined $2,500 by the County.",
+    "cancellationPolicy": null,
+    "floor": 3,
+    "areaSize": 3098,
+    "areaSizeUnit": "SQUARE_FEET",
+    "extraGuestFee": 0,
+    "taxationRate": 11.76,
+    "latitude": 40.38711480000001,
+    "longitude": -111.5860962,
+    "airBnBID": "826912898418052793",
+    "homeAwayID": null,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "panoramicDataUrl": null,
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
+    "guideBookUrl": "https://hostful.ly/gmdqhrx",
+    "weekEndRatePercentAdjustment": 0,
+    "bookingWindow": -1,
+    "bookingWindowAfterCheckout": -1,
+    "turnOverDays": 0,
+    "bookingLeadTime": 24,
+    "defaultCheckinTime": 16,
+    "defaultCheckoutTime": 11,
+    "wifiNetwork": "",
+    "wifiPassword": "",
+    "rentalLicenseNumber": "",
+    "rentalLicenseNumberExpirationDate": null,
+    "minimumWeekendStay": 0,
+    "reviews": {
+      "total": 2,
+      "average": 4.5
+    },
+    "createdDate": 1646947716000,
+    "percentUponReservation": 50,
+    "fullPaymentTiming": 30,
+    "listingLinks": {
+      "airbnbUrl": "https://airbnb.com/rooms/826912898418052793",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
+      "bookingDotComUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3260119",
+      "tripAdvisorUrl": null,
+      "hvmiUrl": null
+    },
+    "uid": "742117b6-5fc2-46a9-b713-4d982d6363d6",
+    "gallery": [
+      {
+        "uid": "f9d80536-0c07-488e-834d-cebbd4cbd2a2",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/f9d80536-0c07-488e-834d-cebbd4cbd2a2",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "11d5d6de-0bea-4038-83d5-7ffd4672dc45",
+        "description": "Main entrance.",
+        "url": "https://orbirental-images.s3.amazonaws.com/11d5d6de-0bea-4038-83d5-7ffd4672dc45",
+        "displayOrder": 1,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "3bb65eb9-892f-4944-b026-9e91b809d924",
+        "description": "This is your view as you walk in the front door.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/3bb65eb9-892f-4944-b026-9e91b809d924",
+        "displayOrder": 2,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "56df00c3-e278-4afe-a0d9-55234c6ffc7b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/56df00c3-e278-4afe-a0d9-55234c6ffc7b",
+        "displayOrder": 3,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b3f7fedd-f68e-4650-8fa4-68c1b3972005",
+        "description": "Main level living room. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/b3f7fedd-f68e-4650-8fa4-68c1b3972005",
+        "displayOrder": 4,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "acd7fbe0-7ed2-453f-aacb-46f7f49db410",
+        "description": "Looking from the windows back to the front door.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/acd7fbe0-7ed2-453f-aacb-46f7f49db410",
+        "displayOrder": 5,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d11d4d64-7420-41cd-978b-cb84ad05ebab",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d11d4d64-7420-41cd-978b-cb84ad05ebab",
+        "displayOrder": 6,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7b8d3823-8887-4eb1-bc48-46d23fc8f5c8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/7b8d3823-8887-4eb1-bc48-46d23fc8f5c8",
+        "displayOrder": 7,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7d486dc0-d417-48ca-a008-5467941db657",
+        "description": "Main level kitchen.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/7d486dc0-d417-48ca-a008-5467941db657",
+        "displayOrder": 8,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "2fa415de-e5df-4b96-9d02-8e54fca137f3",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/2fa415de-e5df-4b96-9d02-8e54fca137f3",
+        "displayOrder": 9,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "cbb4fd0d-e1d7-437e-aace-b1637a95405b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/cbb4fd0d-e1d7-437e-aace-b1637a95405b",
+        "displayOrder": 10,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "bb56cb59-baa6-4853-a41f-eb89a55afd35",
+        "description": "Dining area and pool table.  And, by the winow is a sit down Ms. PacMan machine!",
+        "url": "https://orbirental-images.s3.amazonaws.com/bb56cb59-baa6-4853-a41f-eb89a55afd35",
+        "displayOrder": 11,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "298aff10-6c49-41ed-9513-a8291695662c",
+        "description": " Dining room table seats eight plus bar seating for four.  BBQ is out on the deck.",
+        "url": "https://orbirental-images.s3.amazonaws.com/298aff10-6c49-41ed-9513-a8291695662c",
+        "displayOrder": 12,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "ea234690-053a-4511-b466-c6953b164f8a",
+        "description": "Main level game room near kitchen. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/ea234690-053a-4511-b466-c6953b164f8a",
+        "displayOrder": 13,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "81072da1-e067-4beb-b0ad-345b77fe24e3",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/81072da1-e067-4beb-b0ad-345b77fe24e3",
+        "displayOrder": 14,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "dd204d53-12a2-4d76-babd-5dffe946f90d",
+        "description": "Sitting area by pool table",
+        "url": "https://orbirental-images.s3.amazonaws.com/dd204d53-12a2-4d76-babd-5dffe946f90d",
+        "displayOrder": 15,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "905f80d1-4eab-465a-9821-3f393ade4e86",
+        "description": "Bedroom #2 - Main Level Master with adjoining bathroom.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/905f80d1-4eab-465a-9821-3f393ade4e86",
+        "displayOrder": 16,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e00139b6-fe73-4918-b61e-5b7c61b2789a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/e00139b6-fe73-4918-b61e-5b7c61b2789a",
+        "displayOrder": 17,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "bcca5373-d6a9-468d-9994-f43a932cdaec",
+        "description": "Loft play area near entrance.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/bcca5373-d6a9-468d-9994-f43a932cdaec",
+        "displayOrder": 18,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f6c0e6d4-e4aa-471f-9ce6-da6c192d1c73",
+        "description": "Loft Bedroom #6 - Upstairs - Climp the stairs  and find a great place to hide and sleep.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/f6c0e6d4-e4aa-471f-9ce6-da6c192d1c73",
+        "displayOrder": 19,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "fc0e5dc9-f85d-4433-84a1-c66dc39de2ff",
+        "description": "Master Bath - Main level - Extra Long Soaking Tub and adjoinging shower.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/fc0e5dc9-f85d-4433-84a1-c66dc39de2ff",
+        "displayOrder": 20,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "537872e9-b1a6-4825-aa94-b59b38c64502",
+        "description": "Main level master bath with laundry facilities access.",
+        "url": "https://orbirental-images.s3.amazonaws.com/537872e9-b1a6-4825-aa94-b59b38c64502",
+        "displayOrder": 21,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5639ec29-4443-4bb8-815f-e9f6c7e00b4b",
+        "description": "Main level master bathroom.  Extra long soaking tub.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/5639ec29-4443-4bb8-815f-e9f6c7e00b4b",
+        "displayOrder": 22,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "06c2d51a-f629-4cdf-a49e-b446d8c69e1d",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/06c2d51a-f629-4cdf-a49e-b446d8c69e1d",
+        "displayOrder": 23,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7ba534f1-00bc-403c-913a-098ee5092a4e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/7ba534f1-00bc-403c-913a-098ee5092a4e",
+        "displayOrder": 24,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "944d69ed-3d1c-4832-8cd1-dd71dc7b9261",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/944d69ed-3d1c-4832-8cd1-dd71dc7b9261",
+        "displayOrder": 25,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7eaa27c2-3c25-4dc3-9ad4-79a15fc46a4a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/7eaa27c2-3c25-4dc3-9ad4-79a15fc46a4a",
+        "displayOrder": 26,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "3eb97062-ab5f-40d9-94dc-328f26789fcd",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/3eb97062-ab5f-40d9-94dc-328f26789fcd",
+        "displayOrder": 27,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1cfe0d29-c966-4d2c-ac34-dbb0a5338152",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/1cfe0d29-c966-4d2c-ac34-dbb0a5338152",
+        "displayOrder": 28,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b8efe3cd-ac36-489d-8029-33903172a92d",
+        "description": "Downstairs living room with kitchen.",
+        "url": "https://orbirental-images.s3.amazonaws.com/b8efe3cd-ac36-489d-8029-33903172a92d",
+        "displayOrder": 29,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "48590c01-86c1-4882-964e-8092a87edbf1",
+        "description": "Downstairs kitchen.",
+        "url": "https://orbirental-images.s3.amazonaws.com/48590c01-86c1-4882-964e-8092a87edbf1",
+        "displayOrder": 30,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "bd054102-8fdf-47ad-8586-fd61485d6164",
+        "description": "Lower level living room with kitchen ",
+        "url": "https://orbirental-images.s3.amazonaws.com/bd054102-8fdf-47ad-8586-fd61485d6164",
+        "displayOrder": 31,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "95dd6d6e-ffb7-458f-a137-e7c4af5a4f3d",
+        "description": "Downstairs living room, fireplace and TV.",
+        "url": "https://orbirental-images.s3.amazonaws.com/95dd6d6e-ffb7-458f-a137-e7c4af5a4f3d",
+        "displayOrder": 32,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "bb0faa9e-7bd1-40d6-80dc-05ddf772575e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/bb0faa9e-7bd1-40d6-80dc-05ddf772575e",
+        "displayOrder": 33,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4be5d50e-fe95-4e9d-be95-11c105bc6910",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4be5d50e-fe95-4e9d-be95-11c105bc6910",
+        "displayOrder": 34,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c92ca22f-aacb-49b6-a59e-4eaf8cad59b2",
+        "description": "Lower level main queen bedroom with hot tub access.",
+        "url": "https://orbirental-images.s3.amazonaws.com/c92ca22f-aacb-49b6-a59e-4eaf8cad59b2",
+        "displayOrder": 35,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "73ccbf3c-8617-4d41-a374-fba74fe951b1",
+        "description": "Bedroom #3 - Lower level Queen room - shared bath with outside access.",
+        "url": "https://orbirental-images.s3.amazonaws.com/73ccbf3c-8617-4d41-a374-fba74fe951b1",
+        "displayOrder": 36,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5a42450f-add6-48e8-865d-e05488733a69",
+        "description": "Bedroom #3 - Lower level queen, shared bath with outside access.",
+        "url": "https://orbirental-images.s3.amazonaws.com/5a42450f-add6-48e8-865d-e05488733a69",
+        "displayOrder": 37,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "28620561-eba6-477a-b933-471383e95529",
+        "description": "Lower level bedroom with queen bed.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/28620561-eba6-477a-b933-471383e95529",
+        "displayOrder": 38,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "6c3bd3ea-c871-4287-95e6-b517b07bbd70",
+        "description": "Downsyairs laundry.",
+        "url": "https://orbirental-images.s3.amazonaws.com/6c3bd3ea-c871-4287-95e6-b517b07bbd70",
+        "displayOrder": 39,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f85884b5-56a0-4d8c-8dc8-d53efefe110c",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/f85884b5-56a0-4d8c-8dc8-d53efefe110c",
+        "displayOrder": 40,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c9610782-dedc-4150-a24a-069c56b6b557",
+        "description": "Ski In - Ski Out - Walk up the road 300 feet and drop down Mid-Mountain and then ski down with your ski pass and ride the lift up to the higher trails.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/c9610782-dedc-4150-a24a-069c56b6b557",
+        "displayOrder": 41,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7a9b2072-43e0-4bc8-8920-2a03a890d624",
+        "description": "Back of house with propane fire pit - summer only",
+        "url": "https://orbirental-images.s3.amazonaws.com/7a9b2072-43e0-4bc8-8920-2a03a890d624",
+        "displayOrder": 42,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b2b6daed-7351-48bf-bfea-e3b3fbfe9aa9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/b2b6daed-7351-48bf-bfea-e3b3fbfe9aa9",
+        "displayOrder": 43,
+        "airbnbRoomId": null
+      }
+    ],
+    "description": {
+      "name": "Little Cabin on Deer Run",
+      "shortSummary": "Little Cabin on Deer Run ",
+      "summary": "Little Cabin on Deer Run is anything but little.  We've just always called it that.  Take this opportuity to come and visit. \nThe updated and spacious design encourages gathering everyone together upstairs or downstairs while affording everyone their own personal, quiet retreats.\n\nMain level kitchen is fully stocked and all you need for meal preparation is food.  Downstairs kitchen stocked and ready for cooking pizza or popcorn at night while watching movies.  \n\nGas fireplaces, flat screen TV’s,  comfortable seating creates a cozy, relaxed place to get in touch with your family and friends or simply re-center yourself.  \n\nFour bedrooms with king beds, one bedroom with a queen bed and two sleeping lofts with two twin beds afford lots of sleeping options.   Two separate laundry stations  with full size washer and dryers with laundry supplies are a plus.  \n\nHot Tub on the covered deck for relaxing soaks in the cold air is a treat by itself. \n\nActivities are abundant in the area and can fill up your days dependant on the time of year.  Winter beckons you to grab your skis, your ski pass and walk to the  end of the road and drop down mid-mountain to the slopes.   Ski down and then ride the lift back to the higher trails.  In the summer , walk the roadway loop for a magnificent view of Mt. Timpanogoas.   Go moountain biking, zip lining, hiking , horseback riding....... So much to do.  Or do nothing at all but enjoy the Little Cabin.  \n\nCAR CHARGING STATIONS ARE AVAILABLE IN THE UPPER PARKING LOT OF SUDANCE.\nNO EVENTS HOSTED AT THIS PROPERTY.  \nNO PETS.\nWINTERS (November through March) REQUIRE FOUR WHEEL OR ALL WHEEL DRIVE VEHICLES. \n\n\n",
+      "notes": "",
+      "access": "",
+      "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  ",
+      "interaction": "Pamela and Lynn live here on the mountain and are always available by phone or text for any questiions, recommndations and assistance you might need.  \n",
+      "neighbourhood": "Located in a gated community within a five minute drive to the  Sundance Resort.  There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The  TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies.  The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two.  If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.  ",
+      "space": "Entire cabin is yours to use.  ",
+      "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nPET EXCEPTIONS:  \n1.\tNorthern Properties - NO PETS – Carriage House on the Stream, Cuckcoo’s Nest, Mid-Mountain Retreat, Little Cabin, Big Cabin\n2.\tSouthern Properties - NO PETS – Wooded Ridge #9 and Wooded Ridge #13\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
       "locale": "en_US"
     }
   },
@@ -1507,7 +1916,7 @@
     "bathrooms": "3",
     "picture": "https://orbirental-images.s3.amazonaws.com/628063e2-0845-4c87-b026-4b1c176dd460",
     "webLink": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream",
-    "cleaningFeeAmount": 250,
+    "cleaningFeeAmount": 300,
     "minimumStay": 2,
     "maximumStay": 0,
     "securityDepositAmount": 500,
@@ -1531,7 +1940,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gncvlnv",
-    "weekEndRatePercentAdjustment": 0.272,
+    "weekEndRatePercentAdjustment": 17.77,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -1544,8 +1953,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 44,
-      "average": 4.954545454545454
+      "total": 56,
+      "average": 4.928571428571429
     },
     "createdDate": 1562259485000,
     "percentUponReservation": 50,
@@ -1872,6 +2281,319 @@
     }
   },
   {
+    "pricingRules": null,
+    "bedCount": 10,
+    "bedTypes": {
+      "kingBed": 3,
+      "queenBed": 1,
+      "doubleBed": 0,
+      "singleBed": 2,
+      "sofaBed": 0,
+      "futonBed": 0,
+      "floorMattress": 0,
+      "bunkBed": 4,
+      "toddlerBed": 0,
+      "crib": 0,
+      "hammockBed": 0,
+      "airMattress": 0,
+      "waterBed": 0,
+      "couch": 0
+    },
+    "type": "CABIN",
+    "name": "Mid Mountain Retreat",
+    "isActive": true,
+    "baseGuests": 4,
+    "maximumGuests": 14,
+    "baseDailyRate": 995,
+    "city": "Sundance",
+    "state": "UT",
+    "address1": "3070 East Stewart Road",
+    "address2": "",
+    "postalCode": "84604",
+    "countryCode": "US",
+    "bedrooms": 6,
+    "bathrooms": "3.5",
+    "picture": "https://orbirental-images.s3.amazonaws.com/bebe8c7f-2b4b-4154-a6f7-c94bbdbfbc93_Exterior+%286%29+%28Large%29.jpg",
+    "webLink": null,
+    "cleaningFeeAmount": 350,
+    "minimumStay": 2,
+    "maximumStay": 0,
+    "securityDepositAmount": 500,
+    "externalID": null,
+    "acceptInstantBook": false,
+    "acceptBookingRequest": true,
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/79174.ics?itp=1",
+    "rentalCondition": "GENERAL PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \n\nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \n\nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \n\nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \n\nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \n\nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \n\nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \n\nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \n\nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \n\nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \n\nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \n\nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \n\nARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Guests  occupancy.   \n\nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nPET EXCEPTIONS:  \n1.\tNorthern Properties - NO PETS – Carriage House on the Stream, Cuckcoo’s Nest, MidMountain, Little Cabin, Big Cabin\n2.\tSouthern Properties - NO PETS – Wooded Ridge #9 and Wooded Ridge #13\n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\n\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n\n\n\n___________________________________________________________________Renter Name\n\n___________________________________________________________________Billing Address\n\n___________________________________________________________________Mailing Address\n\n\n",
+    "cancellationPolicy": null,
+    "floor": 3,
+    "areaSize": 2454,
+    "areaSizeUnit": "SQUARE_FEET",
+    "extraGuestFee": 0,
+    "taxationRate": 11.76,
+    "latitude": 40.3869711,
+    "longitude": -111.5855211,
+    "airBnBID": "855211384059873912",
+    "homeAwayID": null,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "panoramicDataUrl": null,
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/79174/mid-mountain-retreat%2C-sundance%2C-utah",
+    "guideBookUrl": null,
+    "weekEndRatePercentAdjustment": 0,
+    "bookingWindow": 730,
+    "bookingWindowAfterCheckout": -1,
+    "turnOverDays": 0,
+    "bookingLeadTime": 24,
+    "defaultCheckinTime": 4,
+    "defaultCheckoutTime": 11,
+    "wifiNetwork": null,
+    "wifiPassword": null,
+    "rentalLicenseNumber": null,
+    "rentalLicenseNumberExpirationDate": null,
+    "minimumWeekendStay": 0,
+    "reviews": {
+      "total": 0,
+      "average": null
+    },
+    "createdDate": 1677702577000,
+    "percentUponReservation": 50,
+    "fullPaymentTiming": 30,
+    "listingLinks": {
+      "airbnbUrl": "https://airbnb.com/rooms/855211384059873912",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/79174/mid-mountain-retreat%2C-sundance%2C-utah",
+      "bookingDotComUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3339224",
+      "tripAdvisorUrl": null,
+      "hvmiUrl": null
+    },
+    "uid": "1b9d5afa-a614-4e2b-b5a9-9c44b802b266",
+    "gallery": [
+      {
+        "uid": "bc0088c1-2904-4214-98c5-dda25c79b643",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/bc0088c1-2904-4214-98c5-dda25c79b643",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "10d927eb-8558-4323-9acc-41eab7c8c0e7",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/10d927eb-8558-4323-9acc-41eab7c8c0e7",
+        "displayOrder": 1,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "34ddddb5-89a7-488f-800e-c4a943576c4a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/34ddddb5-89a7-488f-800e-c4a943576c4a",
+        "displayOrder": 2,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "99290adf-d4ff-48f5-bd8e-05d16db409e0",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/99290adf-d4ff-48f5-bd8e-05d16db409e0",
+        "displayOrder": 3,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "07744b87-cac4-48da-b31d-4d123a6cef53",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/07744b87-cac4-48da-b31d-4d123a6cef53",
+        "displayOrder": 4,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "ffb4cfde-a209-4d05-846e-7bacb956009a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ffb4cfde-a209-4d05-846e-7bacb956009a",
+        "displayOrder": 5,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4426d36e-fcb2-4af6-bb45-507f9a6a4e62",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4426d36e-fcb2-4af6-bb45-507f9a6a4e62",
+        "displayOrder": 6,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5e6d53b7-75fa-4b95-8c90-ed9cf7ff992b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/5e6d53b7-75fa-4b95-8c90-ed9cf7ff992b",
+        "displayOrder": 7,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b12facdf-4981-4c61-be1e-ef50c26b8068",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/b12facdf-4981-4c61-be1e-ef50c26b8068",
+        "displayOrder": 8,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "a7c447b6-5dab-45c5-8fed-ab71b4a6caf9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/a7c447b6-5dab-45c5-8fed-ab71b4a6caf9",
+        "displayOrder": 9,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "47f87843-2185-4540-9e36-a6dfa36bd0ac",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/47f87843-2185-4540-9e36-a6dfa36bd0ac",
+        "displayOrder": 10,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "945833ca-1e0f-477c-b20d-433b5fdfd1c8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/945833ca-1e0f-477c-b20d-433b5fdfd1c8",
+        "displayOrder": 11,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "344cf89d-9b61-46ac-a7d9-caa0f4ccc741",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/344cf89d-9b61-46ac-a7d9-caa0f4ccc741",
+        "displayOrder": 12,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "de4b56e5-2347-4402-8caf-13a1a92e1660",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/de4b56e5-2347-4402-8caf-13a1a92e1660",
+        "displayOrder": 13,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f9eeff16-0f20-4301-a0b0-1e1f71063a72",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/f9eeff16-0f20-4301-a0b0-1e1f71063a72",
+        "displayOrder": 14,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "87ac8280-587a-49fc-8a37-fb48eb2b6a1d",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/87ac8280-587a-49fc-8a37-fb48eb2b6a1d",
+        "displayOrder": 15,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "771ae568-6641-403d-9845-ee3179579750",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/771ae568-6641-403d-9845-ee3179579750",
+        "displayOrder": 16,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e0d1bb83-caf9-4697-95ec-db8cb05d984a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/e0d1bb83-caf9-4697-95ec-db8cb05d984a",
+        "displayOrder": 17,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "3c5f5474-727e-41c9-bcba-073503a93004",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/3c5f5474-727e-41c9-bcba-073503a93004",
+        "displayOrder": 18,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "40e778ba-be02-4408-af7a-31557a4b28a4",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/40e778ba-be02-4408-af7a-31557a4b28a4",
+        "displayOrder": 19,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1754ebce-4afb-4db1-a144-72c72436fd88",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/1754ebce-4afb-4db1-a144-72c72436fd88",
+        "displayOrder": 20,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1fec85ae-8198-4f8e-9d60-7e05282acca4",
+        "description": "Lower Level Master Bedroom\n",
+        "url": "https://orbirental-images.s3.amazonaws.com/1fec85ae-8198-4f8e-9d60-7e05282acca4",
+        "displayOrder": 21,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c351eb43-76d7-4d0e-9d69-148d427ab792",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c351eb43-76d7-4d0e-9d69-148d427ab792",
+        "displayOrder": 22,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "14ac9fcb-6d29-4b12-9d20-2915e6a4c77e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/14ac9fcb-6d29-4b12-9d20-2915e6a4c77e",
+        "displayOrder": 23,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "6e61cc2e-ffc1-48d6-b194-4e32bb6ea86c",
+        "description": "Upstairs Queen Nook Bedroom ",
+        "url": "https://orbirental-images.s3.amazonaws.com/6e61cc2e-ffc1-48d6-b194-4e32bb6ea86c",
+        "displayOrder": 24,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "9623ce96-9d89-4af9-a559-4d4a6580ce15",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/9623ce96-9d89-4af9-a559-4d4a6580ce15",
+        "displayOrder": 25,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "314660ac-1730-4e43-84cd-fd80df37cd5a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/314660ac-1730-4e43-84cd-fd80df37cd5a",
+        "displayOrder": 26,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1d94cbf9-7068-40bb-a8f3-b0aa908f2797",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/1d94cbf9-7068-40bb-a8f3-b0aa908f2797",
+        "displayOrder": 27,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8871998f-ed11-43ca-857e-70e01e3c07bc",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/8871998f-ed11-43ca-857e-70e01e3c07bc",
+        "displayOrder": 28,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5ff84a8a-6998-4f2d-aedd-4d0ed876a760",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/5ff84a8a-6998-4f2d-aedd-4d0ed876a760",
+        "displayOrder": 29,
+        "airbnbRoomId": null
+      }
+    ],
+    "description": {
+      "name": "Mid-Mountain Retreat, Sundance, Utah",
+      "shortSummary": "Spacious Family Home  with Views, Hot Tub , Fireplaces, Decks and a Kid Cubby",
+      "summary": "Mid-Mountain Retreat’s quick, easy access to ski runs in the winter and hiking trails in the summer invites you to go out and play.   Multi generations can enjoy the cabin at the same time.  Kid cubby to hide from adults, ping pong, shuffleboard, pool table for big kids, well-appointed kitchen  for cooking, quiet bedrooms for relaxing and the hot tub on the deck for relaxing soak.  Large living room for movies or sports games.  Come stay in this magical place and make some new memories.  \n\n\n\n\nCAR CHARGING STATIONS ARE AVAILABLE IN THE UPPER PARKING LOT OF SUDANCE RESORT.  \nNO EVENTS HOSTED AT THIS PROPERTY.  \nNO PETS.\n \n",
+      "notes": "The bedroom with the four twin beds has the pool table in the middle.  This is  not a private bedroom with doors.  \n\nThe Kid Cubby Loft is the bedroom with two single beds.  It has a kid size entrance  that opens into a space for kids to play and sleep or watch tv in main living room from their perch.  \n\nNO EVENTS HOSTED AT THIS PROPERTY.  \nNO PETS.\n \n\n",
+      "access": "\n\n",
+      "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  \n\nCAR CHARGING STATIONS ARE AVAILABLE IN THE UPPER PARKING LOT OF SUDANCE RESORT.  ",
+      "interaction": "Pamela and Lynn live here on the mountain and are always available by phone or text for any questiions, recommndations and assistance you might need.  \n\n",
+      "neighbourhood": "Located in a gated community within a five minute drive to the Sundance Resort. There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies. The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two. If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.",
+      "space": "Entire cabin is yours to use.  ",
+      "houseManual": "GENERAL PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nPET EXCEPTIONS:  \n1.\tNorthern Properties - NO PETS – Carriage House on the Stream, Cuckcoo’s Nest, Mid-Mountain Retreat, Little Cabin, Big Cabin\n2.\tSouthern Properties - NO PETS – Wooded Ridge #9 and Wooded Ridge #13\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
+      "locale": "en_US"
+    }
+  },
+  {
     "pricingRules": {
       "increaseRate": 0,
       "increaseRateLowerBound": 0,
@@ -1900,11 +2622,11 @@
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 8,
-    "baseDailyRate": 170,
+    "baseDailyRate": 160,
     "city": "Beaver",
     "state": "UT",
-    "address1": "Wooded Ridge",
-    "address2": "Nº10",
+    "address1": "ut-153",
+    "address2": "",
     "postalCode": "84713",
     "countryCode": "US",
     "bedrooms": 3,
@@ -1926,8 +2648,8 @@
     "areaSizeUnit": "SQUARE_METERS",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 38.322121,
-    "longitude": -112.381104,
+    "latitude": 38.3221,
+    "longitude": -112.38124,
     "airBnBID": "35459510",
     "homeAwayID": null,
     "currency": "USD",
@@ -1935,7 +2657,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/gkgxwjc",
-    "weekEndRatePercentAdjustment": 23.529,
+    "weekEndRatePercentAdjustment": 31.25,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -2298,6 +3020,116 @@
     }
   },
   {
+    "pricingRules": null,
+    "bedCount": 2,
+    "bedTypes": {
+      "kingBed": 0,
+      "queenBed": 1,
+      "doubleBed": 0,
+      "singleBed": 0,
+      "sofaBed": 1,
+      "futonBed": 0,
+      "floorMattress": 0,
+      "bunkBed": 0,
+      "toddlerBed": 0,
+      "crib": 0,
+      "hammockBed": 0,
+      "airMattress": 0,
+      "waterBed": 0,
+      "couch": 0
+    },
+    "type": "CONDO",
+    "name": "Nº13 Wooded Ridge at Eagle Point Ski Resort",
+    "isActive": true,
+    "baseGuests": 4,
+    "maximumGuests": 4,
+    "baseDailyRate": 139,
+    "city": "Beaver",
+    "state": "UT",
+    "address1": "UT-153",
+    "address2": "",
+    "postalCode": "84713",
+    "countryCode": "US",
+    "bedrooms": 1,
+    "bathrooms": "1",
+    "picture": "https://platform.hostfully.com/img/littlehouse.png",
+    "webLink": null,
+    "cleaningFeeAmount": 0,
+    "minimumStay": 2,
+    "maximumStay": 0,
+    "securityDepositAmount": 0,
+    "externalID": null,
+    "acceptInstantBook": false,
+    "acceptBookingRequest": false,
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/77777.ics?itp=1",
+    "rentalCondition": null,
+    "cancellationPolicy": null,
+    "floor": 0,
+    "areaSize": 0,
+    "areaSizeUnit": "SQUARE_METERS",
+    "extraGuestFee": 0,
+    "taxationRate": 11.76,
+    "latitude": 38.3221,
+    "longitude": 112.3812,
+    "airBnBID": null,
+    "homeAwayID": null,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "panoramicDataUrl": null,
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
+    "guideBookUrl": null,
+    "weekEndRatePercentAdjustment": 0,
+    "bookingWindow": -1,
+    "bookingWindowAfterCheckout": -1,
+    "turnOverDays": 0,
+    "bookingLeadTime": 48,
+    "defaultCheckinTime": 15,
+    "defaultCheckoutTime": 11,
+    "wifiNetwork": null,
+    "wifiPassword": null,
+    "rentalLicenseNumber": null,
+    "rentalLicenseNumberExpirationDate": null,
+    "minimumWeekendStay": 0,
+    "reviews": {
+      "total": 0,
+      "average": null
+    },
+    "createdDate": 1675382239000,
+    "percentUponReservation": 50,
+    "fullPaymentTiming": 45,
+    "listingLinks": {
+      "airbnbUrl": null,
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
+      "bookingDotComUrl": null,
+      "homeAwayUrl": null,
+      "tripAdvisorUrl": null,
+      "hvmiUrl": null
+    },
+    "uid": "38718849-ef01-45e0-a50f-ab7ebb8d6f9a",
+    "gallery": [
+      {
+        "uid": "db5b362a-a729-4bea-86cb-12a802c9238e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/db5b362a-a729-4bea-86cb-12a802c9238e",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      }
+    ],
+    "description": {
+      "name": "Nº13 Wooded Ridge at Eagle Point Ski Resort",
+      "shortSummary": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+      "summary": "When you come to Eagle Point Ski Resort,  this is the place you will want to stay.  \n\nParking space in front of the condo with enough room in the summer to bring and park your trailer of toys.  \n\nOne of a kind designer floors will capture your immediate attention as will the spaciousness of this one bedroom, one bath condo.  The living area has beautiful windows overlooking the ski lifts, the trees and  the spectacular sunsets or the stars at night.  In the living room area, an electric fireplace (no hauling wood) will mesmerize you and keep you toasty. \n while you watch your favorite television shows or movies on the 65” smart TV.  The sleeper/sofa is not only comfortable for sitting but is so easy to open into a queen size bed you’ll be surprised.  (Sheets, blankets and pillows are provided).  A bistro table with two chairs welcomes you to drink coffee in the morning, work on your laptop (if needed) or just have a conversation with someone while looking out at the mountain side.  \n\nNew carpet in the bedroom has a queen size bed, night stands with dual USB ports for charging your devices, sliding glass doors to the deck (with light darkening draperies) with linens, pillows and blankets provided.  Then there’s the bathroom…..heated radiant floors, heated towel rack, lit and dimmable vanity mirror with de-fogger, hair dryer, gives this a spa feel while you soak in the tub after a days adventure in the outdoors \n\nThen there’s the kitchen.  Fully stocked with serving ware, silverware, pots and pans, spices – just bring your food.  Open underlit shelving, farm house sink, dishwasher, refrigerator/freezer, electric stove with two ovens, plus microwave, toaster, blender and of course a coffee pot.  Designer cabinets and drawers are stocked and utilize space for a pull out for trash container and the corner unit holds all the pots and pans.  Truly a dream of a kitchen.  New stackable washer and dryer for your use.  \n\nDuring the winter this is a ski in/ski out condo or bring your snow toys or summer toy trailers and have room to park those as well.  You'll be happy to explore the miles of  terrain.   In summer the 275 miles of the Paiute Trail, plus fishing, rock climbing, hiking, mountain biking, stargazing etc.  So much to do, you better add one more day to your visit.  \n\n",
+      "notes": null,
+      "access": null,
+      "transit": null,
+      "interaction": null,
+      "neighbourhood": null,
+      "space": null,
+      "houseManual": null,
+      "locale": "en_US"
+    }
+  },
+  {
     "pricingRules": {
       "increaseRate": 0,
       "increaseRateLowerBound": 0,
@@ -2321,7 +3153,7 @@
       "waterBed": 0,
       "couch": 0
     },
-    "type": "HOUSE",
+    "type": "CONDO",
     "name": "Nº15 Snowflake at Eagle Point Ski Resort",
     "isActive": true,
     "baseGuests": 1,
@@ -2329,8 +3161,8 @@
     "baseDailyRate": 170,
     "city": "Beaver",
     "state": "UT",
-    "address1": "Snowflake Nº17",
-    "address2": "Eagle Point Ski Resort",
+    "address1": "150 SW Valley Circle",
+    "address2": "",
     "postalCode": "84713",
     "countryCode": "US",
     "bedrooms": 3,
@@ -2352,8 +3184,8 @@
     "areaSizeUnit": "SQUARE_FEET",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 38.3203245,
-    "longitude": -112.3838562,
+    "latitude": 38.31951,
+    "longitude": -112.38365,
     "airBnBID": "38702025",
     "homeAwayID": null,
     "currency": "USD",
@@ -2361,7 +3193,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24476/n%C2%BA15-snowflake-at-eagle-point-ski-resort-",
     "guideBookUrl": "https://hostful.ly/gpddxfw",
-    "weekEndRatePercentAdjustment": 47.0588,
+    "weekEndRatePercentAdjustment": 47.06,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -2776,8 +3608,8 @@
     "baseDailyRate": 170,
     "city": "Beaver",
     "state": "UT",
-    "address1": "Snowflake Nº17",
-    "address2": "Eagle Point Ski Resort",
+    "address1": "150 S W Valley Circle",
+    "address2": "",
     "postalCode": "84713",
     "countryCode": "US",
     "bedrooms": 3,
@@ -2799,8 +3631,8 @@
     "areaSizeUnit": "SQUARE_FEET",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 38.3203245,
-    "longitude": -112.3838562,
+    "latitude": 38.31951,
+    "longitude": -112.38365,
     "airBnBID": "38701676",
     "homeAwayID": null,
     "currency": "USD",
@@ -3164,11 +3996,11 @@
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 6,
-    "baseDailyRate": 170,
+    "baseDailyRate": 160,
     "city": "Beaver",
     "state": "UT",
-    "address1": "Eagle Point Resort, 150 South West Village Circle",
-    "address2": "Wooded Ridge Nº6",
+    "address1": "UT 153",
+    "address2": "",
     "postalCode": "84713",
     "countryCode": "US",
     "bedrooms": 3,
@@ -3180,7 +4012,7 @@
     "maximumStay": 0,
     "securityDepositAmount": 0,
     "externalID": "",
-    "acceptInstantBook": false,
+    "acceptInstantBook": true,
     "acceptBookingRequest": false,
     "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/23491.ics?itp=1",
     "rentalCondition": null,
@@ -3190,8 +4022,8 @@
     "areaSizeUnit": "SQUARE_METERS",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 38.321922,
-    "longitude": -112.381538,
+    "latitude": 38.3221,
+    "longitude": -112.38124,
     "airBnBID": "35222391",
     "homeAwayID": null,
     "currency": "USD",
@@ -3199,7 +4031,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge-%40-eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/grwltml",
-    "weekEndRatePercentAdjustment": 23.529,
+    "weekEndRatePercentAdjustment": 31.25,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -3562,11 +4394,11 @@
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 8,
-    "baseDailyRate": 170,
+    "baseDailyRate": 160,
     "city": "Beaver",
     "state": "UT",
-    "address1": "Wooded Ridge",
-    "address2": "Nº 8",
+    "address1": "UT-153",
+    "address2": "",
     "postalCode": "84713",
     "countryCode": "US",
     "bedrooms": 3,
@@ -3588,8 +4420,8 @@
     "areaSizeUnit": "SQUARE_METERS",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 38.321861,
-    "longitude": -112.381783,
+    "latitude": 38.3221,
+    "longitude": -112.38124,
     "airBnBID": "35459553",
     "homeAwayID": null,
     "currency": "USD",
@@ -3597,7 +4429,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge-at-eagle-point-ski-resort-",
     "guideBookUrl": "https://hostful.ly/gbzpvpz",
-    "weekEndRatePercentAdjustment": 23.529,
+    "weekEndRatePercentAdjustment": 31.25,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -4470,6 +5302,494 @@
   },
   {
     "pricingRules": null,
+    "bedCount": 8,
+    "bedTypes": {
+      "kingBed": 1,
+      "queenBed": 5,
+      "doubleBed": 0,
+      "singleBed": 2,
+      "sofaBed": 0,
+      "futonBed": 0,
+      "floorMattress": 0,
+      "bunkBed": 0,
+      "toddlerBed": 0,
+      "crib": 0,
+      "hammockBed": 0,
+      "airMattress": 0,
+      "waterBed": 0,
+      "couch": 0
+    },
+    "type": "CABIN",
+    "name": "The Cuckoo's Nest",
+    "isActive": true,
+    "baseGuests": 14,
+    "maximumGuests": 14,
+    "baseDailyRate": 1395,
+    "city": "Sundance",
+    "state": "UT",
+    "address1": "3048 East Ridge Top Road",
+    "address2": "",
+    "postalCode": "84604",
+    "countryCode": "US",
+    "bedrooms": 7,
+    "bathrooms": "7.5",
+    "picture": "https://orbirental-images.s3.amazonaws.com/c24ef405-92f4-4fe9-954b-18e0e5c9167e_The+Cuckoo%E2%80%99s+Nest.jpg",
+    "webLink": null,
+    "cleaningFeeAmount": 500,
+    "minimumStay": 2,
+    "maximumStay": 0,
+    "securityDepositAmount": 500,
+    "externalID": null,
+    "acceptInstantBook": true,
+    "acceptBookingRequest": false,
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/78231.ics?itp=1",
+    "rentalCondition": "GENERAL PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \n\nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \n\nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \n\nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \n\nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \n\nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \n\nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \n\nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \n\nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \n\nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \n\nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \n\nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \n\nARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Guests  occupancy.   \n\nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nPET EXCEPTIONS:  \n1.\tNorthern Properties - NO PETS – Carriage House on the Stream, Cuckcoo’s Nest, MidMountain, Little Cabin, Big Cabin\n2.\tSouthern Properties - NO PETS – Wooded Ridge #9 and Wooded Ridge #13\n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\n\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n\n\n\n___________________________________________________________________Renter Name\n\n___________________________________________________________________Billing Address\n\n___________________________________________________________________Mailing Address\n\n\n",
+    "cancellationPolicy": null,
+    "floor": 3,
+    "areaSize": 0,
+    "areaSizeUnit": "SQUARE_METERS",
+    "extraGuestFee": 0,
+    "taxationRate": 11.76,
+    "latitude": 40.3879034,
+    "longitude": -111.587121,
+    "airBnBID": "867438031304977601",
+    "homeAwayID": null,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "panoramicDataUrl": null,
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest-",
+    "guideBookUrl": null,
+    "weekEndRatePercentAdjustment": 0,
+    "bookingWindow": 730,
+    "bookingWindowAfterCheckout": -1,
+    "turnOverDays": 0,
+    "bookingLeadTime": 24,
+    "defaultCheckinTime": 4,
+    "defaultCheckoutTime": 11,
+    "wifiNetwork": null,
+    "wifiPassword": null,
+    "rentalLicenseNumber": null,
+    "rentalLicenseNumberExpirationDate": null,
+    "minimumWeekendStay": 0,
+    "reviews": {
+      "total": 0,
+      "average": null
+    },
+    "createdDate": 1676323298000,
+    "percentUponReservation": 50,
+    "fullPaymentTiming": 46,
+    "listingLinks": {
+      "airbnbUrl": "https://airbnb.com/rooms/867438031304977601",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest-",
+      "bookingDotComUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3350728",
+      "tripAdvisorUrl": null,
+      "hvmiUrl": null
+    },
+    "uid": "25b4376f-9b66-4729-8420-45818d1d4773",
+    "gallery": [
+      {
+        "uid": "49f9c68f-fa1e-4fe7-9469-36075bfd7e7b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/49f9c68f-fa1e-4fe7-9469-36075bfd7e7b",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "85123273-b545-4bb2-b3fb-5a3caee5ba5f",
+        "description": "Expansive and light filled entry",
+        "url": "https://orbirental-images.s3.amazonaws.com/85123273-b545-4bb2-b3fb-5a3caee5ba5f",
+        "displayOrder": 1,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e934a21e-caad-4deb-9d21-38347fa0f2b7",
+        "description": "The windows and views are amazing.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/e934a21e-caad-4deb-9d21-38347fa0f2b7",
+        "displayOrder": 2,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "6bfc5416-bbc3-4c18-97de-d263e84acc10",
+        "description": "Let all that light in.",
+        "url": "https://orbirental-images.s3.amazonaws.com/6bfc5416-bbc3-4c18-97de-d263e84acc10",
+        "displayOrder": 3,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "2a0e417d-9215-4b47-83b0-85995b22b2df",
+        "description": "Parlor Room for conversations.",
+        "url": "https://orbirental-images.s3.amazonaws.com/2a0e417d-9215-4b47-83b0-85995b22b2df",
+        "displayOrder": 4,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d8b9b43a-b48e-4920-ae51-4a57ddcc6155",
+        "description": "Deck to the outside joins kitchen deck. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/d8b9b43a-b48e-4920-ae51-4a57ddcc6155",
+        "displayOrder": 5,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "6b5e9f92-ab05-48a2-a592-a4566d6b8b02",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/6b5e9f92-ab05-48a2-a592-a4566d6b8b02",
+        "displayOrder": 6,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "7fbf2b8b-0e53-4dd6-b781-00dae6aba390",
+        "description": "Beautiful tall fireplace.  Wood burning.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/7fbf2b8b-0e53-4dd6-b781-00dae6aba390",
+        "displayOrder": 7,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "413516e0-75fb-42c6-8dba-387f0c067385",
+        "description": "Breakfast coffee nook. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/413516e0-75fb-42c6-8dba-387f0c067385",
+        "displayOrder": 8,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "3fb71516-f206-4d29-a94a-538695b6eb34",
+        "description": "Entry way powder room.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/3fb71516-f206-4d29-a94a-538695b6eb34",
+        "displayOrder": 9,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "fc7f319e-32d0-4bc5-8339-6c67097b88a5",
+        "description": "Beautifully appointed kitchen.  Commercial grade appliances. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/fc7f319e-32d0-4bc5-8339-6c67097b88a5",
+        "displayOrder": 10,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f9238181-b11e-482b-a31a-0d6544de5602",
+        "description": "Spacious kitchen to stay in touch with your group.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/f9238181-b11e-482b-a31a-0d6544de5602",
+        "displayOrder": 11,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b06e98a9-dea7-4bef-8cd7-d838e5a5011c",
+        "description": "Large pantry with microwave, convestion oven.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/b06e98a9-dea7-4bef-8cd7-d838e5a5011c",
+        "displayOrder": 12,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4dc9ee68-0fbd-487c-897e-316c87fa32bc",
+        "description": "Extra serving ware, glassware and extras for your larger gatherings.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/4dc9ee68-0fbd-487c-897e-316c87fa32bc",
+        "displayOrder": 13,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f7bfb736-7cc4-4622-882b-e12b431cd213",
+        "description": "Kitchen deck with BBQ for summer events.",
+        "url": "https://orbirental-images.s3.amazonaws.com/f7bfb736-7cc4-4622-882b-e12b431cd213",
+        "displayOrder": 14,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5021b487-7c0f-4b88-9bac-b5b4d7bfbbf6",
+        "description": "Dining room table seats eight overlooking the deck and ski lift on the mountain.",
+        "url": "https://orbirental-images.s3.amazonaws.com/5021b487-7c0f-4b88-9bac-b5b4d7bfbbf6",
+        "displayOrder": 15,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8edea1e6-8b43-433d-a216-f112471c2c25",
+        "description": "More decks to have private moments. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/8edea1e6-8b43-433d-a216-f112471c2c25",
+        "displayOrder": 16,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "2fa1fae9-7370-48e4-8fcd-4095de6967f6",
+        "description": "Master Suite - wood burning fireplace, deck and views of outside. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/2fa1fae9-7370-48e4-8fcd-4095de6967f6",
+        "displayOrder": 17,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "52fa2061-d208-47a6-9399-77f0c6c1f779",
+        "description": "Recline in the chair by the windows and relax with a long anticipated reading of a great book.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/52fa2061-d208-47a6-9399-77f0c6c1f779",
+        "displayOrder": 18,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e4745d77-b395-4ff6-8a79-270e67e9cc20",
+        "description": "Crawl into this amazing bathtub and soak an hour or two.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/e4745d77-b395-4ff6-8a79-270e67e9cc20",
+        "displayOrder": 19,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8acc5005-bc2f-4914-9c75-220b842f69d4",
+        "description": "Beautifully appointed bathroom.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/8acc5005-bc2f-4914-9c75-220b842f69d4",
+        "displayOrder": 20,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "13441a5d-f087-4b0a-a2c3-a162be076544",
+        "description": "Closets and private space off the master suite. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/13441a5d-f087-4b0a-a2c3-a162be076544",
+        "displayOrder": 21,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "ced81051-dcf9-4b96-b603-c4547f77fda9",
+        "description": "Guest Bedroom with signature Cuckoo's Nest circular window.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/ced81051-dcf9-4b96-b603-c4547f77fda9",
+        "displayOrder": 22,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "872998c6-6577-416d-a69b-cf1876782532",
+        "description": "Guest Bedroom with large closet, television and reading chair.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/872998c6-6577-416d-a69b-cf1876782532",
+        "displayOrder": 23,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "0c578f34-24a7-457a-b4a3-536bd690a4a5",
+        "description": "Guest bedroom ensuire bathroom with large shower.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/0c578f34-24a7-457a-b4a3-536bd690a4a5",
+        "displayOrder": 24,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f5e9618d-c88f-455b-bf78-7fd75a9550ae",
+        "description": "North lower level bedroom - Great for kids away from upstairs adults.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/f5e9618d-c88f-455b-bf78-7fd75a9550ae",
+        "displayOrder": 25,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c7409083-3888-4f51-9ecc-76fdc6435286",
+        "description": "North Lower level bedroom with deck, television and queen bed.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/c7409083-3888-4f51-9ecc-76fdc6435286",
+        "displayOrder": 26,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "42d621d4-e2d0-446a-8d70-14cbe3e21936",
+        "description": "Ensuite north lower level bathroom. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/42d621d4-e2d0-446a-8d70-14cbe3e21936",
+        "displayOrder": 27,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8eb92105-5c12-4a7c-b0a7-8d8221f69233",
+        "description": "Northwest lower level bedroom with twin beds, study desk and television.  Great for the kids.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/8eb92105-5c12-4a7c-b0a7-8d8221f69233",
+        "displayOrder": 28,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "373b809a-be3b-4d84-81ac-b3a8abbfecfc",
+        "description": "Northwest lower level bedroom - Two bedrooms on this level make a great place for the kids to gather away from the adults.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/373b809a-be3b-4d84-81ac-b3a8abbfecfc",
+        "displayOrder": 29,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "823e1ae3-5482-48dc-b518-0d63af2abf8a",
+        "description": "Ensuite bathroom for the kids room with a tub.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/823e1ae3-5482-48dc-b518-0d63af2abf8a",
+        "displayOrder": 30,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e7c48531-67ad-4fd5-8fde-0aa88f07e6aa",
+        "description": "Tub for bathing the little ones.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/e7c48531-67ad-4fd5-8fde-0aa88f07e6aa",
+        "displayOrder": 31,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "da06dde4-a9c1-4e3d-96d4-a311554c3363",
+        "description": "Cabinets in laundry facilities.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/da06dde4-a9c1-4e3d-96d4-a311554c3363",
+        "displayOrder": 32,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "15aa271c-18f2-456d-8dcc-c11bd49a689d",
+        "description": "Downstairs laundry facilities. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/15aa271c-18f2-456d-8dcc-c11bd49a689d",
+        "displayOrder": 33,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "51d76679-392a-495c-ac82-ee01f30d1cd7",
+        "description": "Door from kitchen leads to hot tub and to the entrance to the Guest House.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/51d76679-392a-495c-ac82-ee01f30d1cd7",
+        "displayOrder": 34,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1d592443-15fb-48ff-97d5-c7c5fdad1235",
+        "description": "Nothing like a soak in the hot tub morning, noon or night. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/1d592443-15fb-48ff-97d5-c7c5fdad1235",
+        "displayOrder": 35,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "a1737cee-a5fc-4621-9ee0-44755f9ebd17",
+        "description": "Past the hot tub to the adjacent separate apartments.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/a1737cee-a5fc-4621-9ee0-44755f9ebd17",
+        "displayOrder": 36,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "2231f29e-b8cb-4a2f-89a8-0d0c117fbd0f",
+        "description": "Stunning views of surrounding beaty. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/2231f29e-b8cb-4a2f-89a8-0d0c117fbd0f",
+        "displayOrder": 37,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5e42b9cc-bb69-4ebb-b22a-7c9253cd9877",
+        "description": "Deck for Guest House Upper Bedroom. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/5e42b9cc-bb69-4ebb-b22a-7c9253cd9877",
+        "displayOrder": 38,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b41406b1-6df3-444f-894d-1ff18e42c6ba",
+        "description": "Guest House Upper Bedroom.  A short walk from the kitchen past the hot tub and upstairs takes you to this first little sanctuary.  Deck, queen bed and reading chair.  A private space just for you.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/b41406b1-6df3-444f-894d-1ff18e42c6ba",
+        "displayOrder": 39,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d39955e7-5774-4329-9a00-dc567c91e6b3",
+        "description": "Guest House Upper Bedroom.  Very quiet, full of light and private.  Sometimes that's what you need.  Close the door, take a nap.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/d39955e7-5774-4329-9a00-dc567c91e6b3",
+        "displayOrder": 40,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c3d395ec-945f-47e3-90b0-3c30b3c43bc9",
+        "description": "Guest House Upper Bedroom - Great shower and vanity ensuite.",
+        "url": "https://orbirental-images.s3.amazonaws.com/c3d395ec-945f-47e3-90b0-3c30b3c43bc9",
+        "displayOrder": 41,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "48a0c1e4-47ee-46e3-9787-a6e00b1469bc",
+        "description": "Decks are everywhere.",
+        "url": "https://orbirental-images.s3.amazonaws.com/48a0c1e4-47ee-46e3-9787-a6e00b1469bc",
+        "displayOrder": 42,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d9632b5f-0688-45d8-94d2-4c22f12456e2",
+        "description": "Guest House Bottom Bedroom    The same short walk from the kitchen takes you to the second private space for you to seek santuary in your own private, quiet space with television, ensuite bathroom and comfy queen bed awaits you.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/d9632b5f-0688-45d8-94d2-4c22f12456e2",
+        "displayOrder": 43,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "24fb3e8f-4f3e-4a6a-8390-97f478c5fb4c",
+        "description": "Guest House Bottom Bedroom  includes a very comfy chair for reading or or a great bed for watching a movies.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/24fb3e8f-4f3e-4a6a-8390-97f478c5fb4c",
+        "displayOrder": 44,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "32de4cce-1d59-4329-a9b7-d1c5f0ca3c26",
+        "description": "Guest House Bottom Bedroom.  Come and get away for awhile.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/32de4cce-1d59-4329-a9b7-d1c5f0ca3c26",
+        "displayOrder": 45,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "1eb4732b-d000-4a51-92ad-819d3e312a36",
+        "description": "Guest House Bottom ensuite bathroom.  You never have to leave!",
+        "url": "https://orbirental-images.s3.amazonaws.com/1eb4732b-d000-4a51-92ad-819d3e312a36",
+        "displayOrder": 46,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e05d530a-f9f6-4825-9d39-04771094efe8",
+        "description": "Bright white shower and lavoratory ensuite for Guest House ensuite bathroom. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/e05d530a-f9f6-4825-9d39-04771094efe8",
+        "displayOrder": 47,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d75017bd-1b9e-48aa-87cd-b114011380bc",
+        "description": "Garage Apartment - Signature Cuckoo's Nest window overlooks the ski lift at the Resort.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/d75017bd-1b9e-48aa-87cd-b114011380bc",
+        "displayOrder": 48,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "efe04b35-2a03-4587-99a7-8c71888a5cdb",
+        "description": "Garage Apartment.  Great comfortable queen bed.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/efe04b35-2a03-4587-99a7-8c71888a5cdb",
+        "displayOrder": 49,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "b7bb07c7-d232-4721-b5f5-6fb358d833d8",
+        "description": "Garage Apartment - Spacious and quiet. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/b7bb07c7-d232-4721-b5f5-6fb358d833d8",
+        "displayOrder": 50,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5351c48e-704b-4398-9c0e-9ef94b831076",
+        "description": "Garage Apartment Bathroom",
+        "url": "https://orbirental-images.s3.amazonaws.com/5351c48e-704b-4398-9c0e-9ef94b831076",
+        "displayOrder": 51,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "520c54ed-3cfe-40e5-8ab8-529a9ba72d86",
+        "description": "Garage Apartment - Just enough space for everything at a glance. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/520c54ed-3cfe-40e5-8ab8-529a9ba72d86",
+        "displayOrder": 52,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "34861b22-a1a5-4f12-ab7a-c7528642555d",
+        "description": "Garage Apartment Kitchen",
+        "url": "https://orbirental-images.s3.amazonaws.com/34861b22-a1a5-4f12-ab7a-c7528642555d",
+        "displayOrder": 53,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8e9cea23-b5bf-4079-980c-8d27c31fe8fd",
+        "description": "The views are never ending from this wonderful the Cuckoo's Nest Retreat.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/8e9cea23-b5bf-4079-980c-8d27c31fe8fd",
+        "displayOrder": 54,
+        "airbnbRoomId": null
+      }
+    ],
+    "description": {
+      "name": "The Cuckoo's Nest ",
+      "shortSummary": "The Cuckoo's Nest - A great  place to perch awhile",
+      "summary": "The Cuckoo's Nest - Newly renovated and redecorated is situated at the end of the road with views of the ski lift and the mountains of Sundance.  Large windows and decks bring the light and beauty of the area inside while you enjoy the spaciousness and luxury of this home.  \n\nAmong the many attributes of this beautifully decorated luxury residence is its suitability for large families or groups.  This property is a year-round retreat offering 4 bedrooms in the main house with a separate garage apartment and two adjoining but separate ensuite bedrooms.  \n\nThe gourmet chef’s kitchen and top of the line appliances and fully stocked serving ware pantry, invite the chefs among you to come and create while the dining table and kitchen seating allow room for all to partake and enjoy.  The open kitchen plan allows for staying connected while others gather in the living room or the parlor room nearby.  \n\nThe beauty of this home’s interior will captivate you but don’t forget the hot tub and the many decks for enjoying the crisp mountain air and then there’s the views!   You have to come and see.    \n\nThe surrounding mountains have plenty to offer as well.  From hiking and skiing to biking and snowshoeing, there’s horseback riding, zip lining, world class restaurants and a spa within a short five-minute drive or a 15-minute walk.  \n\nMountain Cabins Utah is located right here on the mountain and is available to assist in your planning and to answer your questions to make sure your time away is memorable.  \n\n\n\n\n\n\n\n\n",
+      "notes": null,
+      "access": null,
+      "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  ",
+      "interaction": null,
+      "neighbourhood": "Located in a gated community within a five minute drive to the  Sundance Resort.  There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The  TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies.  The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two.  If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.  ",
+      "space": null,
+      "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers - the roads are too narrow.\n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
+      "locale": "en_US"
+    }
+  },
+  {
+    "pricingRules": null,
     "bedCount": 3,
     "bedTypes": {
       "kingBed": 0,
@@ -4492,7 +5812,7 @@
     "isActive": true,
     "baseGuests": 4,
     "maximumGuests": 4,
-    "baseDailyRate": 375,
+    "baseDailyRate": 425,
     "city": "Sundance",
     "state": "UT",
     "address1": "8841 Alpine Loop",
@@ -4501,7 +5821,7 @@
     "countryCode": "US",
     "bedrooms": 2,
     "bathrooms": "2.5",
-    "picture": "https://orbirental-images.s3.amazonaws.com/10078346-0da1-474f-8fe4-58c10b699d2d",
+    "picture": "https://orbirental-images.s3.amazonaws.com/2b34e20e-8840-46e7-a744-a986ea9ee1a1_front+view.jpg",
     "webLink": "https://platform.hostfully.com/vacation-rental-property/50994/timpcreek-cottage-on-the-stream",
     "cleaningFeeAmount": 150,
     "minimumStay": 2,
@@ -4540,7 +5860,7 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 4,
+      "total": 12,
       "average": 5
     },
     "createdDate": 1644187187000,
@@ -4639,289 +5959,296 @@
     },
     "gallery": [
       {
-        "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
-        "description": "The snow has melted, Spring is here!",
-        "url": "https://orbirental-images.s3.amazonaws.com/2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
+        "uid": "edaf7674-146c-4c07-8ed4-8764645e7fd8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/edaf7674-146c-4c07-8ed4-8764645e7fd8",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
-        "uid": "255a58e0-a488-4336-a939-f7c0df2b6a26",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/255a58e0-a488-4336-a939-f7c0df2b6a26",
+        "uid": "2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
+        "description": "The Summer Face of TimpCreek - The Summers will keep you....",
+        "url": "https://orbirental-images.s3.amazonaws.com/2f2b8dd0-fc78-4a86-ac2d-fd7c0c00b2aa",
         "displayOrder": 1,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
-        "description": "Sundance band of turkey's come and visit.  They live high in the trees at night and fly down every morning.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
-        "displayOrder": 2,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "edaf7674-146c-4c07-8ed4-8764645e7fd8",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/edaf7674-146c-4c07-8ed4-8764645e7fd8",
-        "displayOrder": 3,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "b6c24a32-9f71-4a24-a6a0-cdf43f25aaf0",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/b6c24a32-9f71-4a24-a6a0-cdf43f25aaf0",
-        "displayOrder": 4,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
-        "displayOrder": 5,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "04ddbd12-d21b-41f8-8cdd-aafa3daa2afd",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/04ddbd12-d21b-41f8-8cdd-aafa3daa2afd",
-        "displayOrder": 6,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "e480aa57-2a9e-41ee-98c0-eea4faf61fba",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/e480aa57-2a9e-41ee-98c0-eea4faf61fba",
-        "displayOrder": 7,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "896c2a59-c937-42ec-b341-bafbfc0d9fde",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/896c2a59-c937-42ec-b341-bafbfc0d9fde",
-        "displayOrder": 8,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "23ec0e89-e547-4c1b-bb1a-160f244d6580",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/23ec0e89-e547-4c1b-bb1a-160f244d6580",
-        "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
         "uid": "9e014885-203a-4bb3-92c6-a4dd16f047b4",
         "description": "Winter Wonderland",
         "url": "https://orbirental-images.s3.amazonaws.com/9e014885-203a-4bb3-92c6-a4dd16f047b4",
-        "displayOrder": 10,
+        "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
-        "uid": "ca9ef72e-39ce-402b-b78e-5ff6d814e29b",
-        "description": "Path to the Resort and Outlaw Ski Lift ",
-        "url": "https://orbirental-images.s3.amazonaws.com/ca9ef72e-39ce-402b-b78e-5ff6d814e29b",
-        "displayOrder": 11,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "676954de-3c78-4f9c-aff1-d7c61b3ea9a4",
+        "uid": "bd80ed3e-0875-4a02-a841-4a7397af3578",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/676954de-3c78-4f9c-aff1-d7c61b3ea9a4",
-        "displayOrder": 12,
+        "url": "https://orbirental-images.s3.amazonaws.com/bd80ed3e-0875-4a02-a841-4a7397af3578",
+        "displayOrder": 3,
         "airbnbRoomId": null
       },
       {
-        "uid": "76c8897d-34e8-4b4a-b5a7-1797df485457",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/76c8897d-34e8-4b4a-b5a7-1797df485457",
-        "displayOrder": 13,
+        "uid": "255a58e0-a488-4336-a939-f7c0df2b6a26",
+        "description": "Entry Way -Through the sliding glass doors and the door to your right.... You're home.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/255a58e0-a488-4336-a939-f7c0df2b6a26",
+        "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
-        "uid": "94fa152a-6f0a-43ac-9d23-38a6e162e66f",
+        "uid": "2ae3f3f9-272d-4688-bb8c-a600dcdbf3aa",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/94fa152a-6f0a-43ac-9d23-38a6e162e66f",
-        "displayOrder": 14,
+        "url": "https://orbirental-images.s3.amazonaws.com/2ae3f3f9-272d-4688-bb8c-a600dcdbf3aa",
+        "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
-        "uid": "ee3ba171-9f91-48c7-b82b-ba2e4dfc5ddf",
+        "uid": "23ec0e89-e547-4c1b-bb1a-160f244d6580",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/ee3ba171-9f91-48c7-b82b-ba2e4dfc5ddf",
-        "displayOrder": 15,
+        "url": "https://orbirental-images.s3.amazonaws.com/23ec0e89-e547-4c1b-bb1a-160f244d6580",
+        "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
-        "uid": "751c1df8-838a-4d4e-93c3-0228d052a97e",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/751c1df8-838a-4d4e-93c3-0228d052a97e",
-        "displayOrder": 16,
+        "uid": "bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
+        "description": "Sundance band of turkey's come and visit.  They live high in the trees at night and fly down every morning.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
+        "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
         "uid": "f4e3222f-429f-4fef-b4a6-259f88063249",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/f4e3222f-429f-4fef-b4a6-259f88063249",
-        "displayOrder": 17,
+        "displayOrder": 8,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "ee3ba171-9f91-48c7-b82b-ba2e4dfc5ddf",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ee3ba171-9f91-48c7-b82b-ba2e4dfc5ddf",
+        "displayOrder": 9,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4c3ec56e-e154-4c60-aa0b-abf63050807f",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4c3ec56e-e154-4c60-aa0b-abf63050807f",
+        "displayOrder": 10,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "cb3ee491-ec8f-45f9-9e4d-38b76e574537",
+        "description": "New propane fireplace adds warmth and thermostate operated.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/cb3ee491-ec8f-45f9-9e4d-38b76e574537",
+        "displayOrder": 11,
         "airbnbRoomId": null
       },
       {
         "uid": "6fc7fbad-cd8f-45b7-862b-3fd9a8ba453f",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/6fc7fbad-cd8f-45b7-862b-3fd9a8ba453f",
-        "displayOrder": 18,
+        "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
-        "uid": "071d3205-2a28-40b6-80a5-fd2b7751d95d",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/071d3205-2a28-40b6-80a5-fd2b7751d95d",
-        "displayOrder": 19,
+        "uid": "34fef93b-5880-4481-b017-533801e47ead",
+        "description": "New Retro Appliances",
+        "url": "https://orbirental-images.s3.amazonaws.com/34fef93b-5880-4481-b017-533801e47ead",
+        "displayOrder": 13,
         "airbnbRoomId": null
       },
       {
-        "uid": "9684cc24-a3e0-4f08-a98b-34a562f6605c",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/9684cc24-a3e0-4f08-a98b-34a562f6605c",
-        "displayOrder": 20,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "9155bf4c-ee5d-4d88-809a-db7f39cc4311",
-        "description": "Kitchen view.",
-        "url": "https://orbirental-images.s3.amazonaws.com/9155bf4c-ee5d-4d88-809a-db7f39cc4311",
-        "displayOrder": 21,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "49b07ed5-813f-4ff9-bf3c-7ecff210e103",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/49b07ed5-813f-4ff9-bf3c-7ecff210e103",
-        "displayOrder": 22,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "961eac2b-836c-42fc-b9a9-d0c508afbcfc",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/961eac2b-836c-42fc-b9a9-d0c508afbcfc",
-        "displayOrder": 23,
+        "uid": "ededbe55-4d64-439d-af00-6a6be36b5147",
+        "description": "Full Bath Downstairs",
+        "url": "https://orbirental-images.s3.amazonaws.com/ededbe55-4d64-439d-af00-6a6be36b5147",
+        "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
         "uid": "7552bf1b-d7f2-4929-a044-860bddd23229",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/7552bf1b-d7f2-4929-a044-860bddd23229",
-        "displayOrder": 24,
+        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
-        "uid": "ededbe55-4d64-439d-af00-6a6be36b5147",
+        "uid": "49b07ed5-813f-4ff9-bf3c-7ecff210e103",
+        "description": "A real player piano with instructions!  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/49b07ed5-813f-4ff9-bf3c-7ecff210e103",
+        "displayOrder": 16,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "961eac2b-836c-42fc-b9a9-d0c508afbcfc",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/ededbe55-4d64-439d-af00-6a6be36b5147",
-        "displayOrder": 25,
+        "url": "https://orbirental-images.s3.amazonaws.com/961eac2b-836c-42fc-b9a9-d0c508afbcfc",
+        "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
-        "uid": "46779bba-c430-4c8a-88c6-6ed37a5778d3",
-        "description": "Window to the views and blue.",
-        "url": "https://orbirental-images.s3.amazonaws.com/46779bba-c430-4c8a-88c6-6ed37a5778d3",
-        "displayOrder": 26,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "33e5d198-d4e3-4e2c-8a7b-a77dd940491a",
-        "description": "Spectacular natural living art. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/33e5d198-d4e3-4e2c-8a7b-a77dd940491a",
-        "displayOrder": 27,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "271d2410-3b77-400f-a216-efccc9af61fb",
-        "description": "Upstairs Master Suite features queen bed, ambiance Fireplace and many fun books to enjoy.  TV (not shown) ",
-        "url": "https://orbirental-images.s3.amazonaws.com/271d2410-3b77-400f-a216-efccc9af61fb",
-        "displayOrder": 28,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "09fcb270-b707-4870-ba6c-d53876b9b08e",
+        "uid": "1da546e2-3dcb-47b2-b46e-c53cd9bb6a48",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/09fcb270-b707-4870-ba6c-d53876b9b08e",
-        "displayOrder": 29,
+        "url": "https://orbirental-images.s3.amazonaws.com/1da546e2-3dcb-47b2-b46e-c53cd9bb6a48",
+        "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
-        "uid": "7b9dc400-a632-4baf-a712-cbfb7f261202",
-        "description": "Second exit from the main bedroom has a great flowering window box with summer flowers.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/7b9dc400-a632-4baf-a712-cbfb7f261202",
-        "displayOrder": 30,
+        "uid": "78b30410-08d4-4482-b5d7-1ce49fd4e4b9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/78b30410-08d4-4482-b5d7-1ce49fd4e4b9",
+        "displayOrder": 19,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "04ddbd12-d21b-41f8-8cdd-aafa3daa2afd",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/04ddbd12-d21b-41f8-8cdd-aafa3daa2afd",
+        "displayOrder": 20,
         "airbnbRoomId": null
       },
       {
         "uid": "e1d38a77-9918-4a4f-a855-78909f57cea7",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/e1d38a77-9918-4a4f-a855-78909f57cea7",
+        "displayOrder": 21,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "896c2a59-c937-42ec-b341-bafbfc0d9fde",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/896c2a59-c937-42ec-b341-bafbfc0d9fde",
+        "displayOrder": 22,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "76c8897d-34e8-4b4a-b5a7-1797df485457",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/76c8897d-34e8-4b4a-b5a7-1797df485457",
+        "displayOrder": 23,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "46779bba-c430-4c8a-88c6-6ed37a5778d3",
+        "description": "Window to the views and blue.",
+        "url": "https://orbirental-images.s3.amazonaws.com/46779bba-c430-4c8a-88c6-6ed37a5778d3",
+        "displayOrder": 24,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "71eeb1df-12d6-4574-a806-403a595334ea",
+        "description": "Master Bedroom doors to deck",
+        "url": "https://orbirental-images.s3.amazonaws.com/71eeb1df-12d6-4574-a806-403a595334ea",
+        "displayOrder": 25,
+        "airbnbRoomId": "185405806"
+      },
+      {
+        "uid": "9a64d9cb-7fcd-4920-b55f-1bd6c73feaff",
+        "description": "Master Bedroom upstairs.  Second balcony overlooks the hot tub.  New Smart TV for watching movies.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/9a64d9cb-7fcd-4920-b55f-1bd6c73feaff",
+        "displayOrder": 26,
+        "airbnbRoomId": "185405806"
+      },
+      {
+        "uid": "1f6d339e-7c34-4fa2-aba1-a2a751cc0268",
+        "description": "Master Bedroom Upstairs.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/1f6d339e-7c34-4fa2-aba1-a2a751cc0268",
+        "displayOrder": 27,
+        "airbnbRoomId": "185405806"
+      },
+      {
+        "uid": "95376ec3-5c72-451b-aa2d-8dfe1f3965fd",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/95376ec3-5c72-451b-aa2d-8dfe1f3965fd",
+        "displayOrder": 28,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "6cb869a0-c239-4ff9-aa68-557c879546f6",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/6cb869a0-c239-4ff9-aa68-557c879546f6",
+        "displayOrder": 29,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "39feafd5-c574-48fc-a25c-730de1995c27",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/39feafd5-c574-48fc-a25c-730de1995c27",
+        "displayOrder": 30,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e3c1bedc-a4ac-43ea-9ee2-7dee318872ab",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/e3c1bedc-a4ac-43ea-9ee2-7dee318872ab",
         "displayOrder": 31,
         "airbnbRoomId": null
       },
       {
-        "uid": "2d71f57e-b29c-45a3-97bb-4c01b2d944fa",
-        "description": "Second Bedroom, Loft-Like with Extra Long Twins",
-        "url": "https://orbirental-images.s3.amazonaws.com/2d71f57e-b29c-45a3-97bb-4c01b2d944fa",
+        "uid": "8003cacc-e67b-4121-b43a-0ecdc2228872",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/8003cacc-e67b-4121-b43a-0ecdc2228872",
         "displayOrder": 32,
         "airbnbRoomId": null
       },
       {
-        "uid": "e37b8ffc-311e-4b09-842f-769b9a856589",
+        "uid": "c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/e37b8ffc-311e-4b09-842f-769b9a856589",
+        "url": "https://orbirental-images.s3.amazonaws.com/c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
         "displayOrder": 33,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "a4bfdf4d-550b-4f68-a608-ca44c112ef67",
-        "description": "The turkeys are so fun to watch.  They live in the tops of the trees and every morning fly to the ground.  Yes they fly.  Not prettily, but they fly. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/a4bfdf4d-550b-4f68-a608-ca44c112ef67",
-        "displayOrder": 34,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "f4b89b01-6497-4a44-a0ca-ee3bd9462df8",
-        "description": "Look at that mountain!",
-        "url": "https://orbirental-images.s3.amazonaws.com/f4b89b01-6497-4a44-a0ca-ee3bd9462df8",
-        "displayOrder": 35,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
-        "description": "Autumn splendor on the creek.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
-        "displayOrder": 36,
         "airbnbRoomId": null
       },
       {
         "uid": "76416407-d1db-4346-a0be-6091b63740e9",
         "description": "Autumn colors in the mountains.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/76416407-d1db-4346-a0be-6091b63740e9",
+        "displayOrder": 34,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
+        "description": "Autumn splendor on the creek.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
+        "displayOrder": 35,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "f4b89b01-6497-4a44-a0ca-ee3bd9462df8",
+        "description": "Look at that mountain!",
+        "url": "https://orbirental-images.s3.amazonaws.com/f4b89b01-6497-4a44-a0ca-ee3bd9462df8",
+        "displayOrder": 36,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "d260f216-2240-49b2-b4d7-b16d555bc35b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d260f216-2240-49b2-b4d7-b16d555bc35b",
         "displayOrder": 37,
         "airbnbRoomId": null
       },
       {
-        "uid": "86e7caa3-f01e-4dc1-9ff6-5d4ac5500045",
-        "description": "Mt. Timpanogas is our backyard.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/86e7caa3-f01e-4dc1-9ff6-5d4ac5500045",
+        "uid": "2b123171-c509-4b6f-acfa-c6c22fa1a66b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/2b123171-c509-4b6f-acfa-c6c22fa1a66b",
         "displayOrder": 38,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c57631f1-926d-4382-a0ed-85a8ca172337",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c57631f1-926d-4382-a0ed-85a8ca172337",
+        "displayOrder": 39,
         "airbnbRoomId": null
       }
     ],
     "description": {
       "name": "TimpCreek Cottage on the Stream",
       "shortSummary": "TimpCreek Cottage on the Stream ",
-      "summary": "TimpCreek on the Stream is convenient to both nature and amenities and is the perfect choice for a romantic getaway or for the business traveler.  Once you arrive, you can park, unload and then forget the car.  An easy 3 minute walk by the creek and through the trees brings you to the base of the ski lift, the restaurants, the bar,  gift shop, art gallery, meeting rooms or by going in the opposite direction up the stairs, is the Spa.  This is where you want to be.",
-      "notes": "We are a privately owned and operated vacation property within the  Sundance Resort.  Although we are not affiliated with the Resort itself, all activities and amenities are available for your use.  \r\n\r\nTimpCreek is not a private stand alone structure and has another rental attached to it.  Each unit has it's own very separate private entrance and all TimpCreek’s decks, hot tub and space are all yours to use.",
+      "summary": "TimpCreek on the Stream - convenient to both nature and resort amenities.   A perfect choice for a romantic getaway, business meeting, outdoor enthusiast or just a quick getaway.  Once you arrive, you park, unload, and then forget the car.  An easy 3-minute walk by the creek & through the trees takes you to the resort restaurants, gift shop, art gallery, meeting rooms or up the stairs to the Spa!  Convenience at its best.  This is where you want to be.  NO PETS OR EVENTS. ",
+      "notes": "We are a privately owned and operated vacation property within the  Sundance Resort.  Although we are not affiliated with the Resort itself, all activities and amenities are available for your use.  \n\nTimpCreek is not a private stand alone structure and has another rental attached to it.  Each unit has it's own separate private entrances, parking space, decks, hot tub and outside areas.  \n\nHOT TUB - Feel free to use the hot tub and adjust the temperature up or down as you like, but please do not adjust any other settings.  \n\nPROPANE FIREPLACE - Remote Control adjusts fireplace to the termperature of your likiing, but please do not adjust other settings.  (Remote Control located above the thermostate on the wall to the left of the piano).",
       "access": "Upon arrival at TimpCreek, the building will be to your right and your disignated parking spot is the one to the right.  There is room for one car.  Should you need an additional space, please contact your host.",
-      "transit": "Once you arrive, you are walking distance to the Resorts amenities.  However, should you want to explore off mountain you will want to rent or drive a car.  Be mindful from November 1st until March 31st you will need to drive a four wheel or all wheel vehicle.  \r\n\r\nThere are no grocery stores or gas stations at Sundance however in the directions, we give the location of the stores closest to us.",
-      "interaction": "Time away is so very important and we commit to do everything to make your time stressfree.  \r\nPrior to your arrival we make sure to not only make TimpCreek on the Stream is comfortable inside but will provide any information you need prior to your arrival.    \r\n\r\nAfter your booking, Pamela, your mountain contact, will send you a text for easier comminication and to make sure that any time an urgent message during your stay, we can reach you.  \r\n\r\n\r\n\r\n",
-      "neighbourhood": "As you walk out the path from the cabin, turn left and and on your walk to the Resort, you have two options, both same distance.  When you get to the fork, go left and you will pass the Glass Blowers (seasonal), and the Art Gallery for great gifts or drop in and sign up for any of their classes such as pottery,  jewelry making, journal making or shop for great gifts.   \r\n\r\nTurn right at the fork, and you wll walk past the Private Screening Room, the pond with beautiful 18\" inch trout and then walk over to the base of the Outlaw Ski Lift.\r\n\r\nFor a visit to the Spa, as you come out of the cabin turn to your right and walk up the stairs to Timphaven Road.  The Spa is located just a short walk on the right side of Timphaven.",
-      "space": "Hand peeled logs, rustic beams, cozy fireplace, timber planked floors, and is so quaint and full of fun collections reflective of Sundance plus the warmth of furnishings from a time long past welcome you to this 2 bedroom, 2.5 bath santuary.  Set apart, but not remote, TimpCreek on the  Stream has easy all year access.  \r\n\r\nCurl up in front of the fireplace for a cozy conversation or to read a book.  Prepare a meal in the kitchen, dine at the adjacent dining room table, or work at the desk for doing a bit of business before going out to play.   \r\n\r\nThe kitchen offers a full size refrigerator, full size stove and oven, dishwasher, microwave, coffee maker.  The kitchen deck with BBQ and table is perfect for outdoor dining.  \r\n\r\nMain bedroom upstairs has direct access to a private deck in the trees overlooking the stream to enjoy your morning beverage or afternoon quiet respite.  The  adjacent full bath features a soaking tub.\r\n\r\nThe loft contains the second sleeping area with two extra long twin beds, and half bath that includes the  new washer and dryer.    \r\n\r\nNo matter what season you come to visit,  whether it's for the spring meadows laced with wild flowers, the smells and activities of summer,  the magnificence of authumn colors, or a blanket of the greatest snow on earth, every season invites you to return and stay one more time.  Make this your come back to desitination.",
+      "transit": "Once you arrive, you are walking distance to the Resorts amenities.  However, should you want to explore off mountain you will want to rent or drive a car.  FROM NOVEMBER 1 THRU APRIL 30 - FOUR WHEEL, ALL WHEEL OR CHARINS ARE REQUIRED.  \n\nThere are no grocery stores or gas stations at Sundance however in the directions, we give the location of the stores closest to us.",
+      "interaction": "Time away is so very important and we commit to do everything to make your time stressfree.  \nPrior to your arrival we turn lights on, add music to the television and adjust temperatures  to add to a cozy welcome when you enter. \n\nAfter your booking, Pamela, your mountain contact, will send you a text for easier comminication and to make sure any urgent message can be communicated to you quickly.  \n\n\n\n",
+      "neighbourhood": "Walk out the path from TimpCreek and turn left to go to the Resort.  When you get to the fork, go left again nd you will pass the Glass Blowers (seasonal), the Art Gallery for great gifts or to take a class,   Turn right at the fork and you will walk past the Private Screening Room, the Pond and then find the Outlaw Ski Lift and LookOut Aspre Restaurant o your right and the Resort Restaurants to your left.  \n\nOr, walk out the path from Timp Creek and turn right, walk up the stairs to Timphaven Road.  The Spa is located just a short walk on the right side of Timphaven.",
+      "space": "Hand peeled logs, rustic beams, cozy fireplace, timber planked floors, and full of fun collections plus the warmth of furnishings from a time long past welcome you to this 2 bedroom, 2.5 bath santuary.  Set apart, but not remote, TimpCreek on the  Stream has easy all year access.  \n\nCurl up in front of the propane fireplace for a cozy conversation or to read a book.  New classic inspired appliances make preparing a meal a delight and then dine at the dining room table while looking out at Mother Nature.  Should you have to get a bit of work done, there's a desk set up for your convenience.  Then.... go out and play.  \n\nThe kitchen deck with BBQ and table is perfect for outdoor dining.  \n\nMain bedroom upstairs has direct access to a private deck in the trees overlooking the stream to enjoy your morning beverage or afternoon quiet respite.  The master bathroom upstairs has been newly renovated and has a spacious, tiled shower.  Towels and robes provided.  \n\nThe loft contains the second sleeping area with two extra long twin beds, and half bath that includes new washer and dryer.    \n\nNo matter what season you come to visit,  whether it's for the spring meadows laced with wild flowers, the smells and activities of summer,  the magnificence of autumn colors, or a blanket of the greatest snow on earth, every season invites you to return and stay one more time.  Make this your come back to desitination.",
       "houseManual": "",
       "locale": "en_US"
     }
@@ -4945,12 +6272,12 @@
       "waterBed": 0,
       "couch": 0
     },
-    "type": "HOUSE",
+    "type": "CABIN",
     "name": "Treehouse on The Stream • Sundance, Utah",
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 9,
-    "baseDailyRate": 425,
+    "baseDailyRate": 475,
     "city": "Sundance",
     "state": "UT",
     "address1": "3033 Old Bridge Road",
@@ -4961,12 +6288,12 @@
     "bathrooms": "2",
     "picture": "https://orbirental-images.s3.amazonaws.com/f06b4d60-bc7d-4e5d-b298-2b882b82ab20",
     "webLink": "https://platform.hostfully.com/vacation-rental-property/22908/streamside-location--bring-family%2C-friends-%26-pets",
-    "cleaningFeeAmount": 150,
+    "cleaningFeeAmount": 225,
     "minimumStay": 2,
     "maximumStay": 0,
     "securityDepositAmount": 0,
     "externalID": "",
-    "acceptInstantBook": false,
+    "acceptInstantBook": true,
     "acceptBookingRequest": false,
     "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22908.ics?itp=1",
     "rentalCondition": "No smoking\nCheck-in is anytime after 4PM and check out by 11AM",
@@ -4985,7 +6312,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22908/treehouse-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gswzjvk",
-    "weekEndRatePercentAdjustment": 0.11764706,
+    "weekEndRatePercentAdjustment": 4.21,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -4998,8 +6325,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 62,
-      "average": 4.82258064516129
+      "total": 71,
+      "average": 4.802816901408451
     },
     "createdDate": 1562259461000,
     "percentUponReservation": 50,
@@ -5342,7 +6669,7 @@
       "transit": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.",
       "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
       "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while tall pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
-      "space": "The Treehouse has separate levels and functions well for couples traveling together or for kids who want their own space. Upper level has beds for five and a sleeper sofa for two. The lower level has a queen bed for two plus sleeper sofa. Total sleeping space in beds is seven, eleven including sleeper sofas. \r\n\r\nThe main level has a real wood burning fireplace, fully equipped kitchen, washer/dryer with ample closets and televisions with satellite service including premium movie channels. The large windows and decks look through the trees at the steam. The kitchen deck invites you to enjoy early morning beverages in the peace and quiet while you breathe in the fresh mountain air to start your day or sip a cocktail in the evening and ponder the stars at night. The main deck allows for all day lounging and listening to the stream, or watching the kids enjoy the swings and play in their own treehouse during the summer or make snow angels or snowball fight in the winter. There is plenty of room for exploring the area and letting the kids be kids. After all, a cabin is just a cabin, but combined with room to go outside and play is a great treat. \r\n\r\nThe master bedroom has a full size closet and a dresser to provide plenty of room for unpacking, leading to a feeling of belonging not afforded by living out of a suitcase. \r\n\r\nThe second bedroom bunk beds feature a full size bed on the bottom and a twin on top. An armoire with large drawers allows you to unpack and feel at home. This bedroom contains the washer/dryer closet and shelves housing extra towels and household supplies. \r\n\r\nThe lower level has a separate entrance with a gas fireplace with a thermostat and remote control. The living room features one of the best sleeper sofas and is cozy, comfortable and fun. The big windows look out onto the deck and lawn. The kitchenette area is equipped with mini fridge, toaster/convection oven, two burner hot plate, microwave, pots and pans and serving ware. The queen size bed sits beside a large window looking out into the forest at ground level. Great for catching the squirrels at play, turkeys on their daily treks and even deer that wander close to the house. Got kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! \r\n\r\nThe lower level deck has an Instagram worthy porch swing, you'll enjoy reconnecting with each other in, while. the living room has HD TV with satellite programming including premium movies, so you'll have the best of all options. \r\n\r\nThe treehouse has board games and more. For your convenience, we supply paper towels, toilet paper, Kleenix, bath soap, shampoo & conditioner, dishwasher detergent and laundry detergent.\r\n\r\nThe Treehouse has a large grassy area for walking to the edge of the stream to cool your feet after a hike in the summer or laying on your back looking at the clouds roll by. We affectionately call this beachfront property! In the winter, this same area covered with snow is perfect for making snow angels, building snowmen or watching the creation of beautiful ice masterpieces in the stream. The bridge crossing the stream is enjoyable either season and is great place to stage those memorable photos of your family and friends. \r\n\r\nTrails that never leave the property or meander up the hills and through the woods, room to throw a ball and play hide and seek or just find a rock to sit on - you can do it at the Treehouse property. No main roads mean no traffic or traffic sounds and affords you the sounds of the forest. \r\n\r\nThe Treehouse is minutes by car and within walking distance of Sundance Resort. Ski slopes, spa, restaurants, evening entertainment at the Owl Bar with live music on weekend nights provides the opportunity to check back in when you want. A list of ongoing and current events at Sundance is available  to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts you are 45 minutes to Park City, Deer Valley & The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude.\r\n\r\nThis property has plenty of parking and if you want to bring along Aunt Suzy and Uncle Bill and their RV, ask about the availability of our RV space. This space is only steps from the main house and has access to the stream and room for private space as well. \r\n\r\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-wheel drive vehicle.",
+      "space": "The Treehouse has separate levels and functions well for couples traveling together or for kids who want their own space. Upper level has beds for five and a sleeper sofa for two. The lower level has a queen bed for two plus sleeper sofa. Total sleeping space in beds is seven, eleven including sleeper sofas. \n\nThe main level has a real wood burning fireplace, fully equipped kitchen, washer/dryer with ample closets and televisions with satellite service including premium movie channels. The large windows and decks look through the trees at the steam. The kitchen deck invites you to enjoy early morning beverages in the peace and quiet while you breathe in the fresh mountain air to start your day or sip a cocktail in the evening and ponder the stars at night. The main deck allows for all day lounging and listening to the stream, or watching the kids enjoy the swings and play in their own treehouse during the summer or make snow angels or snowball fight in the winter. There is plenty of room for exploring the area and letting the kids be kids. After all, a cabin is just a cabin, but combined with room to go outside and play is a great treat. \n\nThe master bedroom has a full size closet and a dresser to provide plenty of room for unpacking, leading to a feeling of belonging not afforded by living out of a suitcase. \n\nThe second bedroom bunk beds feature a full size bed on the bottom and a twin on top. An armoire with large drawers allows you to unpack and feel at home. This bedroom contains the washer/dryer closet and shelves housing extra towels and household supplies. \n\nThe lower level has a separate entrance with a gas fireplace with a thermostat and remote control. The living room features one of the best sleeper sofas and is cozy, comfortable and fun. The big windows look out onto the deck and lawn. The kitchenette area is equipped with mini fridge, toaster/convection oven, two burner hot plate, microwave, pots and pans and serving ware. The queen size bed sits beside a large window looking out into the forest at ground level. Great for catching the squirrels at play, turkeys on their daily treks and even deer that wander close to the house. Got kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! \n\nThe lower level deck has an Instagram worthy porch swing, you'll enjoy reconnecting with each other in, while. the living room has HD TV with satellite programming including premium movies, so you'll have the best of all options. \n\nThe treehouse has board games and more. For your convenience, we supply paper towels, toilet paper, Kleenix, bath soap, shampoo & conditioner, dishwasher detergent and laundry detergent.\n\nThe Treehouse has a large grassy area for walking to the edge of the stream to cool your feet after a hike in the summer or laying on your back looking at the clouds roll by. We affectionately call this beachfront property! In the winter, this same area covered with snow is perfect for making snow angels, building snowmen or watching the creation of beautiful ice masterpieces in the stream. The bridge crossing the stream is enjoyable either season and is great place to stage those memorable photos of your family and friends. \n\nTrails that never leave the property or meander up the hills and through the woods, room to throw a ball and play hide and seek or just find a rock to sit on - you can do it at the Treehouse property. No main roads mean no traffic or traffic sounds and affords you the sounds of the forest. \n\nThe Treehouse is minutes by car and within walking distance of Sundance Resort. Ski slopes, spa, restaurants, evening entertainment at the Owl Bar with live music on weekend nights provides the opportunity to check back in when you want. A list of ongoing and current events at Sundance is available  to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts you are 45 minutes to Park City, Deer Valley & The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude.\n\nThis property has plenty of parking and if you want to bring along Aunt Suzy and Uncle Bill and their RV, ask about the availability of our RV space. This space is only steps from the main house and has access to the stream and room for private space as well. \n\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-wheel drive vehicle.\n\nNO EVENTS WITHOUT ADDITIONAL FEES AND APPROVAL BY THE HOST.  ",
       "houseManual": "",
       "locale": "en_US"
     }

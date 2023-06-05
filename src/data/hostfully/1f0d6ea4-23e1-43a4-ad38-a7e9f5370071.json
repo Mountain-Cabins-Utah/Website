@@ -33,7 +33,7 @@
   "bathrooms": "1",
   "picture": "https://orbirental-images.s3.amazonaws.com/6a61788e-3322-46f6-b5e5-84fae1bffe97",
   "webLink": "https://platform.hostfully.com/vacation-rental-property/22907/cozy%2C-rustic-cottage-on-the-stream",
-  "cleaningFeeAmount": 150,
+  "cleaningFeeAmount": 185,
   "minimumStay": 2,
   "maximumStay": 0,
   "securityDepositAmount": 0,
@@ -70,8 +70,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 44,
-    "average": 4.931818181818182
+    "total": 55,
+    "average": 4.945454545454545
   },
   "createdDate": 1562259452000,
   "percentUponReservation": 50,
@@ -300,7 +300,7 @@
   "description": {
     "name": "Cottage On The Stream • Sundance, Utah",
     "shortSummary": "Cottage On The Stream • Sundance, Utah",
-    "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and it's charm.  Great space for families and friends to gather.  Children and pet friendly with room to play and run and have a great time. (Pet fees apply).\r\n\r\nLocated at the end of a private road, you're nestled between the stream, tall majestic pine trees and solitude - yet you are five minutes from the Resort at Sundance, the ski lift, hiking, biking, zip line and don't forget the Spa!  Good restaurants.  ",
+    "summary": "Cozy, Rustic, Comfortable Cottage on the Stream.  Everyone loves this cabin and its charm with great space for families and friends to gather.  Room to roam and play outside & have a wonderful time.   \n\nLocated at the end of a private road, you are nestled between the stream, tall, majestic pine trees, and solitude - yet you are five minutes from the Resort at Sundance, ski lift, hiking, biking, zip line and do not forget the Spa and the amazing restaurants.   \n\n",
     "notes": "When you walk to the entrance of The Cottage you will see two trees growing side by side by the front door. Under the front windows in the spring the day lilies are like a sea of yellow gently blowing in the gentle breezes.  There is a bench by the front door and the meadow is alive with creatures big and small.  The turkeys meander through the property pecking at who knows what every day. In the spring the babies hustle behind their mommas.  The deer drink from the stream, hanging out and then disappear in the trees. In the spring the meadow twinkles with butterflies of all colors and the hummingbirds begin looking for nectar.  The plastic flowers in the window box are reminiscent of times and people passed that were the guardians of this place.  ",
     "access": "This entire cabin plus the beautiful deck overlooking the stream are yours to enjoy.",
     "transit": "Sundance Resor is a mere 1.2 miles away.  A super quick drive or nice walk in the summer.  November through April requires four wheel or all wheel drive vehicles.  Please check with the hosts.\r\n\r\nDriveway parks two comfortably and space directly in front of Cabin is available.  \r\nRespectfully request no parking at neighborhing cabins  or in the road.  ",

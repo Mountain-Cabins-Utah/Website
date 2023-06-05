@@ -41,7 +41,7 @@ export async function fetchAllCabins({ limit = 20, offset = 0 } = {}): Promise<
 
   const cabinsToSkip = [
     "Big Cabin on Deer Run",
-    "Little Cabin on Deer Run",
+    // "Little Cabin on Deer Run",
     "Mountain Modern on Balsam",
   ];
 

@@ -38,7 +38,7 @@
   "bathrooms": "3",
   "picture": "https://orbirental-images.s3.amazonaws.com/628063e2-0845-4c87-b026-4b1c176dd460",
   "webLink": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream",
-  "cleaningFeeAmount": 250,
+  "cleaningFeeAmount": 300,
   "minimumStay": 2,
   "maximumStay": 0,
   "securityDepositAmount": 500,
@@ -62,7 +62,7 @@
   "panoramicDataUrl": null,
   "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22910/log-cabin-on-the-stream-%E2%80%A2-sundance%2C-utah",
   "guideBookUrl": "https://hostful.ly/gncvlnv",
-  "weekEndRatePercentAdjustment": 0.272,
+  "weekEndRatePercentAdjustment": 17.77,
   "bookingWindow": -1,
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
@@ -75,8 +75,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 44,
-    "average": 4.954545454545454
+    "total": 56,
+    "average": 4.928571428571429
   },
   "createdDate": 1562259485000,
   "percentUponReservation": 50,

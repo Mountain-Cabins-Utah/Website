@@ -17,12 +17,12 @@
     "waterBed": 0,
     "couch": 0
   },
-  "type": "HOUSE",
+  "type": "CABIN",
   "name": "Treehouse on The Stream • Sundance, Utah",
   "isActive": true,
   "baseGuests": 1,
   "maximumGuests": 9,
-  "baseDailyRate": 425,
+  "baseDailyRate": 475,
   "city": "Sundance",
   "state": "UT",
   "address1": "3033 Old Bridge Road",
@@ -33,12 +33,12 @@
   "bathrooms": "2",
   "picture": "https://orbirental-images.s3.amazonaws.com/f06b4d60-bc7d-4e5d-b298-2b882b82ab20",
   "webLink": "https://platform.hostfully.com/vacation-rental-property/22908/streamside-location--bring-family%2C-friends-%26-pets",
-  "cleaningFeeAmount": 150,
+  "cleaningFeeAmount": 225,
   "minimumStay": 2,
   "maximumStay": 0,
   "securityDepositAmount": 0,
   "externalID": "",
-  "acceptInstantBook": false,
+  "acceptInstantBook": true,
   "acceptBookingRequest": false,
   "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22908.ics?itp=1",
   "rentalCondition": "No smoking\nCheck-in is anytime after 4PM and check out by 11AM",
@@ -57,7 +57,7 @@
   "panoramicDataUrl": null,
   "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22908/treehouse-on-the-stream-%E2%80%A2-sundance%2C-utah",
   "guideBookUrl": "https://hostful.ly/gswzjvk",
-  "weekEndRatePercentAdjustment": 0.11764706,
+  "weekEndRatePercentAdjustment": 4.21,
   "bookingWindow": -1,
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
@@ -70,8 +70,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 62,
-    "average": 4.82258064516129
+    "total": 71,
+    "average": 4.802816901408451
   },
   "createdDate": 1562259461000,
   "percentUponReservation": 50,
@@ -320,7 +320,7 @@
     "transit": "Sundance resort is a mere 1.2 miles away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.",
     "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
     "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while tall pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
-    "space": "The Treehouse has separate levels and functions well for couples traveling together or for kids who want their own space. Upper level has beds for five and a sleeper sofa for two. The lower level has a queen bed for two plus sleeper sofa. Total sleeping space in beds is seven, eleven including sleeper sofas. \r\n\r\nThe main level has a real wood burning fireplace, fully equipped kitchen, washer/dryer with ample closets and televisions with satellite service including premium movie channels. The large windows and decks look through the trees at the steam. The kitchen deck invites you to enjoy early morning beverages in the peace and quiet while you breathe in the fresh mountain air to start your day or sip a cocktail in the evening and ponder the stars at night. The main deck allows for all day lounging and listening to the stream, or watching the kids enjoy the swings and play in their own treehouse during the summer or make snow angels or snowball fight in the winter. There is plenty of room for exploring the area and letting the kids be kids. After all, a cabin is just a cabin, but combined with room to go outside and play is a great treat. \r\n\r\nThe master bedroom has a full size closet and a dresser to provide plenty of room for unpacking, leading to a feeling of belonging not afforded by living out of a suitcase. \r\n\r\nThe second bedroom bunk beds feature a full size bed on the bottom and a twin on top. An armoire with large drawers allows you to unpack and feel at home. This bedroom contains the washer/dryer closet and shelves housing extra towels and household supplies. \r\n\r\nThe lower level has a separate entrance with a gas fireplace with a thermostat and remote control. The living room features one of the best sleeper sofas and is cozy, comfortable and fun. The big windows look out onto the deck and lawn. The kitchenette area is equipped with mini fridge, toaster/convection oven, two burner hot plate, microwave, pots and pans and serving ware. The queen size bed sits beside a large window looking out into the forest at ground level. Great for catching the squirrels at play, turkeys on their daily treks and even deer that wander close to the house. Got kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! \r\n\r\nThe lower level deck has an Instagram worthy porch swing, you'll enjoy reconnecting with each other in, while. the living room has HD TV with satellite programming including premium movies, so you'll have the best of all options. \r\n\r\nThe treehouse has board games and more. For your convenience, we supply paper towels, toilet paper, Kleenix, bath soap, shampoo & conditioner, dishwasher detergent and laundry detergent.\r\n\r\nThe Treehouse has a large grassy area for walking to the edge of the stream to cool your feet after a hike in the summer or laying on your back looking at the clouds roll by. We affectionately call this beachfront property! In the winter, this same area covered with snow is perfect for making snow angels, building snowmen or watching the creation of beautiful ice masterpieces in the stream. The bridge crossing the stream is enjoyable either season and is great place to stage those memorable photos of your family and friends. \r\n\r\nTrails that never leave the property or meander up the hills and through the woods, room to throw a ball and play hide and seek or just find a rock to sit on - you can do it at the Treehouse property. No main roads mean no traffic or traffic sounds and affords you the sounds of the forest. \r\n\r\nThe Treehouse is minutes by car and within walking distance of Sundance Resort. Ski slopes, spa, restaurants, evening entertainment at the Owl Bar with live music on weekend nights provides the opportunity to check back in when you want. A list of ongoing and current events at Sundance is available  to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts you are 45 minutes to Park City, Deer Valley & The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude.\r\n\r\nThis property has plenty of parking and if you want to bring along Aunt Suzy and Uncle Bill and their RV, ask about the availability of our RV space. This space is only steps from the main house and has access to the stream and room for private space as well. \r\n\r\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-wheel drive vehicle.",
+    "space": "The Treehouse has separate levels and functions well for couples traveling together or for kids who want their own space. Upper level has beds for five and a sleeper sofa for two. The lower level has a queen bed for two plus sleeper sofa. Total sleeping space in beds is seven, eleven including sleeper sofas. \n\nThe main level has a real wood burning fireplace, fully equipped kitchen, washer/dryer with ample closets and televisions with satellite service including premium movie channels. The large windows and decks look through the trees at the steam. The kitchen deck invites you to enjoy early morning beverages in the peace and quiet while you breathe in the fresh mountain air to start your day or sip a cocktail in the evening and ponder the stars at night. The main deck allows for all day lounging and listening to the stream, or watching the kids enjoy the swings and play in their own treehouse during the summer or make snow angels or snowball fight in the winter. There is plenty of room for exploring the area and letting the kids be kids. After all, a cabin is just a cabin, but combined with room to go outside and play is a great treat. \n\nThe master bedroom has a full size closet and a dresser to provide plenty of room for unpacking, leading to a feeling of belonging not afforded by living out of a suitcase. \n\nThe second bedroom bunk beds feature a full size bed on the bottom and a twin on top. An armoire with large drawers allows you to unpack and feel at home. This bedroom contains the washer/dryer closet and shelves housing extra towels and household supplies. \n\nThe lower level has a separate entrance with a gas fireplace with a thermostat and remote control. The living room features one of the best sleeper sofas and is cozy, comfortable and fun. The big windows look out onto the deck and lawn. The kitchenette area is equipped with mini fridge, toaster/convection oven, two burner hot plate, microwave, pots and pans and serving ware. The queen size bed sits beside a large window looking out into the forest at ground level. Great for catching the squirrels at play, turkeys on their daily treks and even deer that wander close to the house. Got kids needing their own space? This is it. Check out the trap door with ladder for going upstairs and down. Kids love this! \n\nThe lower level deck has an Instagram worthy porch swing, you'll enjoy reconnecting with each other in, while. the living room has HD TV with satellite programming including premium movies, so you'll have the best of all options. \n\nThe treehouse has board games and more. For your convenience, we supply paper towels, toilet paper, Kleenix, bath soap, shampoo & conditioner, dishwasher detergent and laundry detergent.\n\nThe Treehouse has a large grassy area for walking to the edge of the stream to cool your feet after a hike in the summer or laying on your back looking at the clouds roll by. We affectionately call this beachfront property! In the winter, this same area covered with snow is perfect for making snow angels, building snowmen or watching the creation of beautiful ice masterpieces in the stream. The bridge crossing the stream is enjoyable either season and is great place to stage those memorable photos of your family and friends. \n\nTrails that never leave the property or meander up the hills and through the woods, room to throw a ball and play hide and seek or just find a rock to sit on - you can do it at the Treehouse property. No main roads mean no traffic or traffic sounds and affords you the sounds of the forest. \n\nThe Treehouse is minutes by car and within walking distance of Sundance Resort. Ski slopes, spa, restaurants, evening entertainment at the Owl Bar with live music on weekend nights provides the opportunity to check back in when you want. A list of ongoing and current events at Sundance is available  to help make your stay enjoyable. You really never have to leave the mountain. However, if you love the Best Snow on Earth and want to visit the other ski resorts you are 45 minutes to Park City, Deer Valley & The Canyons. 60 minutes to Alta, Snow Bird, Brighton and Solitude.\n\nThis property has plenty of parking and if you want to bring along Aunt Suzy and Uncle Bill and their RV, ask about the availability of our RV space. This space is only steps from the main house and has access to the stream and room for private space as well. \n\nAs is typical for all Utah winter mountain driving, access may require 4-wheel drive or chains on a 2-wheel drive vehicle.\n\nNO EVENTS WITHOUT ADDITIONAL FEES AND APPROVAL BY THE HOST.  ",
     "houseManual": "",
     "locale": "en_US"
   }

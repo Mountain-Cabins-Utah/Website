@@ -47,7 +47,7 @@
   "areaSize": 1000,
   "areaSizeUnit": "SQUARE_FEET",
   "extraGuestFee": 0,
-  "taxationRate": 11.76,
+  "taxationRate": 11.8,
   "latitude": 40.394657,
   "longitude": -111.586838,
   "airBnBID": "14109370",
@@ -55,9 +55,9 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-ut",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-utah",
   "guideBookUrl": "https://hostful.ly/gjfslmg",
-  "weekEndRatePercentAdjustment": 0,
+  "weekEndRatePercentAdjustment": 4.62,
   "bookingWindow": -1,
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
@@ -70,15 +70,15 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 140,
-    "average": 4.9714285714285715
+    "total": 153,
+    "average": 4.934640522875817
   },
   "createdDate": 1562259471000,
   "percentUponReservation": 50,
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/14109370",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-ut",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22909/hideaway-above-the-stream-%E2%80%A2-sundance%2C-utah",
     "bookingDotComUrl": "https://booking.com/hotel/us/hideaway-above-the-stream.en.html",
     "homeAwayUrl": "https://www.vrbo.com/888772",
     "tripAdvisorUrl": null,
@@ -416,94 +416,87 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "c25910da-cdd4-4ba8-8a5f-595066c7018c",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/c25910da-cdd4-4ba8-8a5f-595066c7018c",
-      "displayOrder": 47,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "eed436e4-3bfb-4cb4-bbba-e457371cbf64",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/eed436e4-3bfb-4cb4-bbba-e457371cbf64",
-      "displayOrder": 48,
+      "displayOrder": 47,
       "airbnbRoomId": null
     },
     {
       "uid": "94a7842a-61c2-464e-9a52-25bd8387cc7d",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/94a7842a-61c2-464e-9a52-25bd8387cc7d",
-      "displayOrder": 49,
+      "displayOrder": 48,
       "airbnbRoomId": null
     },
     {
       "uid": "986abc82-70c2-4649-8bd8-87242bb5ce23",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/986abc82-70c2-4649-8bd8-87242bb5ce23",
-      "displayOrder": 50,
+      "displayOrder": 49,
       "airbnbRoomId": null
     },
     {
       "uid": "17fca8fd-6058-4cce-853c-b705eb30d3dd",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/17fca8fd-6058-4cce-853c-b705eb30d3dd",
-      "displayOrder": 51,
+      "displayOrder": 50,
       "airbnbRoomId": null
     },
     {
       "uid": "b847349d-5ded-468d-84a5-8a714bd84422",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/b847349d-5ded-468d-84a5-8a714bd84422",
-      "displayOrder": 52,
+      "displayOrder": 51,
       "airbnbRoomId": null
     },
     {
       "uid": "ed02a504-d8d2-41ef-9280-bb75c1c76d71",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/ed02a504-d8d2-41ef-9280-bb75c1c76d71",
-      "displayOrder": 53,
+      "displayOrder": 52,
       "airbnbRoomId": null
     },
     {
       "uid": "a67df874-d0c2-467a-9c12-8600ef25e668",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/a67df874-d0c2-467a-9c12-8600ef25e668",
-      "displayOrder": 54,
+      "displayOrder": 53,
       "airbnbRoomId": null
     },
     {
       "uid": "2d25c04e-0d0a-45c6-943e-6ed134190642",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/2d25c04e-0d0a-45c6-943e-6ed134190642",
-      "displayOrder": 55,
+      "displayOrder": 54,
       "airbnbRoomId": null
     },
     {
       "uid": "ec28d2ef-f8e5-4b49-a527-984b42d9ced0",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/ec28d2ef-f8e5-4b49-a527-984b42d9ced0",
-      "displayOrder": 56,
+      "displayOrder": 55,
       "airbnbRoomId": null
     },
     {
       "uid": "b3f9dde1-7c93-490a-8a9b-945254cfd9da",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/b3f9dde1-7c93-490a-8a9b-945254cfd9da",
-      "displayOrder": 57,
+      "displayOrder": 56,
       "airbnbRoomId": null
     },
     {
       "uid": "697f8c1b-cec3-4eb2-b1ca-0d8b352b3281",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/697f8c1b-cec3-4eb2-b1ca-0d8b352b3281",
-      "displayOrder": 58,
+      "displayOrder": 57,
       "airbnbRoomId": null
     }
   ],
   "description": {
-    "name": "Hideaway Above The Stream • Sundance, UT",
-    "shortSummary": "Secluded, hidden & private.",
-    "summary": "In the winter, take a five minute drive to Sundance Ski Resort and ride the new hi-speed quad lift to the top of the mountain for skiing and snowboarding down beautiful runs.  Stop for lunch at the Outlook Restaurant for BBQ, burgers, salads and a beverage before heading back up for a few more runs for the day.  Night skiing is also available certain nights here in Sundance.    AND, weathr permittin,  winter ziplining is available.   \r\n\r\nIn summer, a short ten minute walk will take you to the same ski lift for a ride to the top of the mountain for a panaoramic 360 view, lunch at BearClaw where you can chill out and take it all in.    In summer you can go ziplining, mountain biking, fly fishing, hiking, horseback riding, enjoy summer music events and outdoor theater!   \r\n\r\nYou’ll love the solitude and quiet of this cabin.  The sound of the stream below, watching the meadow for deer, squirrels, wild turkeys, raccoons and birds.  Come Hideaway - a forest retreat.",
+    "name": "Hideaway Above The Stream • Sundance, Utah",
+    "shortSummary": "Hideaway Above The Stream • Sundance, Utah",
+    "summary": "Take the stairs down from the parking area and enjoy the seclusion, privacy, and solitude of the Hideaway.  The stream below flows year-round.  Sit on the deck in the summer and watch the wildlife in the meadow or  sit in the hot tub in the winter and watch the snow fall.      \n\nOnly five minutes to the Resort's ski lifts, hiking & biking trails, zip line, and do not forget the Spa and the amazing restaurants, and, only a five minute drive.  ",
     "notes": "Ultimate privacy for anyone who really wants to get away!  Accessible only via 59 step staircase in winter, and All Wheel Drive to front door in Summer.  Not ideal if you have trouble with stars, but please check out our other properties for easy access.",
     "access": "",
     "transit": "",
