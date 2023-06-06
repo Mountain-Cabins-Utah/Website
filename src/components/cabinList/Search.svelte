@@ -98,7 +98,7 @@
     <input
       type="text"
       name="search"
-      placeholder="South, Utah"
+      placeholder="Search..."
       bind:value={term}
       on:input={search}
     />
@@ -106,15 +106,15 @@
       <div on:click={clearTerm} class="close"><Close /></div>
     {/if}
   </div>
-  <select name="" id="" bind:value={priceOrder} on:change={search}>
+  <!-- <select name="" id="" bind:value={priceOrder} on:change={search}>
     <option value="" selected={true} disabled={true}>Sort by Price</option>
     <option value="asc"> Price (Low to High) </option>
     <option value="desc"> Price (High to Low) </option>
-  </select>
+  </select> -->
   <select name="location" bind:value={location} on:change={search}>
     <option value="" selected={true} disabled={true}>Filter by Location</option>
-    <option value="north">Sundance (North)</option>
-    <option value="south">Beaver (South)</option>
+    <option value="north">Sundance, Utah</option>
+    <option value="south">Eagle Point Ski Resort</option>
   </select>
 </div>
 
@@ -139,7 +139,7 @@
     padding-top: 40px;
     padding-bottom: 40px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 24px;
   }
 
