@@ -33,8 +33,8 @@
   "bathrooms": "1",
   "picture": "https://platform.hostfully.com/img/littlehouse.png",
   "webLink": null,
-  "cleaningFeeAmount": 0,
-  "minimumStay": 2,
+  "cleaningFeeAmount": 75,
+  "minimumStay": 1,
   "maximumStay": 0,
   "securityDepositAmount": 0,
   "externalID": null,
@@ -43,13 +43,13 @@
   "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/77777.ics?itp=1",
   "rentalCondition": null,
   "cancellationPolicy": null,
-  "floor": 0,
+  "floor": 1,
   "areaSize": 0,
   "areaSizeUnit": "SQUARE_METERS",
   "extraGuestFee": 0,
   "taxationRate": 11.76,
   "latitude": 38.3221,
-  "longitude": 112.3812,
+  "longitude": -112.38124,
   "airBnBID": null,
   "homeAwayID": null,
   "currency": "USD",
@@ -75,7 +75,7 @@
   },
   "createdDate": 1675382239000,
   "percentUponReservation": 50,
-  "fullPaymentTiming": 45,
+  "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": null,
     "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
@@ -87,10 +87,94 @@
   "uid": "38718849-ef01-45e0-a50f-ab7ebb8d6f9a",
   "gallery": [
     {
-      "uid": "db5b362a-a729-4bea-86cb-12a802c9238e",
+      "uid": "c852ac90-3325-4b97-a164-4d3452fb6aba",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/db5b362a-a729-4bea-86cb-12a802c9238e",
+      "url": "https://orbirental-images.s3.amazonaws.com/c852ac90-3325-4b97-a164-4d3452fb6aba",
       "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3934acee-1326-4e1c-a233-cd0c9bea039a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/3934acee-1326-4e1c-a233-cd0c9bea039a",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9044edf4-1611-4c88-bf82-5954ec16ee68",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9044edf4-1611-4c88-bf82-5954ec16ee68",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "839e671b-d738-4b46-9b7c-4dd7eb587739",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/839e671b-d738-4b46-9b7c-4dd7eb587739",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4380ef91-ae0b-44f5-a7c5-9acc7279b18b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/4380ef91-ae0b-44f5-a7c5-9acc7279b18b",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3ea07ed2-f5f0-489f-bc62-1bf00ffc4584",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/3ea07ed2-f5f0-489f-bc62-1bf00ffc4584",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d5c79ac0-3a14-4534-8acf-c777f2f9582d",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d5c79ac0-3a14-4534-8acf-c777f2f9582d",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9abfcbd7-c8fb-4071-a433-c248fba948ab",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9abfcbd7-c8fb-4071-a433-c248fba948ab",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4c5b3bc5-75bc-43be-a0a0-c0b50d1a10d5",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/4c5b3bc5-75bc-43be-a0a0-c0b50d1a10d5",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "fb8706f0-74f2-40a4-ae7b-4f432c215ad4",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/fb8706f0-74f2-40a4-ae7b-4f432c215ad4",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7ca799b9-f11f-4097-8fa6-4c25162bfe95",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/7ca799b9-f11f-4097-8fa6-4c25162bfe95",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0f785160-8773-4f94-824f-eeb6ce570a94",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/0f785160-8773-4f94-824f-eeb6ce570a94",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "dc88323f-9f02-40a9-84e0-196276823435",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/dc88323f-9f02-40a9-84e0-196276823435",
+      "displayOrder": 12,
       "airbnbRoomId": null
     }
   ],
