@@ -31,8 +31,14 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "gh-action"
-          git config user.email "gh-action@gh-action.com"
-          git add .
-          git commit -m "Auto-generated JSON files from Hostfully"
-          git push
+          if [[ `git status --porcelain` ]]; then
+            # Changes
+            git config user.name "gh-action"
+            git config user.email "gh-action@gh-action.com"
+            git add .
+            git commit -m "Auto-generated JSON files from Hostfully"
+            git push
+          else
+            # No changes
+            echo "No changes to commit"
+          fi
