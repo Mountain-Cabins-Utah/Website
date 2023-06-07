@@ -6,8 +6,9 @@ on:
     - cron: "0 12 * * *" # Trigger at 12:00 PM UTC every day
 
 jobs:
-  check-format:
+  fetch:
     runs-on: ubuntu-latest
+    environment: HOSTFULLY_API_KEY
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -16,6 +17,12 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+
+      - name: "Create env file"
+        run: |
+          touch .env
+          echo HOSTFULLY_API_KEY=${{ secrets.HOSTFULLY_API_KEY }} >> .env
+          cat .env
 
       - name: Install dependencies
         run: npm ci
