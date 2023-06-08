@@ -94,27 +94,19 @@
     "amenities": [
       {
         "title": "Private Cabin",
-        "description": "Enjoy relaxing privacy at the Cottage on The Stream."
+        "description": "Enjoy complete, romantic privacy to the Carriage House in it's own quite little canyon on a private lane along the stream."
       },
       {
         "title": "Parking",
-        "description": "Ample parking is provided at the Cottage on The Stream near Sundance Mountain Resort."
+        "description": "Easy private parking is provided at the Carriage House and is paved and maintained year round."
       },
       {
-        "title": "1 King, 1 Queen, 1 Bunk Bed ",
-        "description": "Plenty of sleeping room for 14 guests in this charming little Cottage on The Stream between our Hideaway, and our Log Cabin, & Treehouse, if need even more space."
-      },
-      {
-        "title": "7 Single Beds, 1 Sofa Bed, 1 Baby Crib",
-        "description": "Just remember, the Cottage only has 1 bathroom and a small kitchen, but it's still a great place to lay your head after a long day in the great outdoors!"
+        "title": "1 Queen Sized Bed +1 Sleeper Sofa",
+        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
       },
       {
         "title": "Walk to Sundance Mountain Resort",
-        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
-      },
-      {
-        "title": "Local Attractions",
-        "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
+        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
       },
       {
         "title": "Jacuzzi / Hot Tub",
@@ -122,7 +114,7 @@
       },
       {
         "title": "Amazing Views",
-        "description": "The Cottage is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
+        "description": "The Carriage House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
       },
       {
         "title": "Propane BBQ Grill",
@@ -553,19 +545,27 @@
     "amenities": [
       {
         "title": "Private Cabin",
-        "description": "Enjoy complete, romantic privacy to the Carriage House in it's own quite little canyon on a private lane along the stream."
+        "description": "Enjoy relaxing privacy at the Cottage on The Stream."
       },
       {
         "title": "Parking",
-        "description": "Easy private parking is provided at the Carriage House and is paved and maintained year round."
+        "description": "Ample parking is provided at the Cottage on The Stream near Sundance Mountain Resort."
       },
       {
-        "title": "1 Queen Sized Bed +1 Sleeper Sofa",
-        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
+        "title": "1 King, 1 Queen, 1 Bunk Bed ",
+        "description": "Plenty of sleeping room for 14 guests in this charming little Cottage on The Stream between our Hideaway, and our Log Cabin, & Treehouse, if need even more space."
+      },
+      {
+        "title": "7 Single Beds, 1 Sofa Bed, 1 Baby Crib",
+        "description": "Just remember, the Cottage only has 1 bathroom and a small kitchen, but it's still a great place to lay your head after a long day in the great outdoors!"
       },
       {
         "title": "Walk to Sundance Mountain Resort",
-        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+        "description": "About 7 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
+      },
+      {
+        "title": "Local Attractions",
+        "description": "Enjoy Mt Biking, Skiing, Fly Fishing, Hiking, Mountain Concerts, Theater, Fine Dining, Art Gallery & Classes, Zip Lines, Water Falls, The Spa & Staying In!"
       },
       {
         "title": "Jacuzzi / Hot Tub",
@@ -573,7 +573,7 @@
       },
       {
         "title": "Amazing Views",
-        "description": "The Carriage House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
+        "description": "The Cottage is surrounded by Big Pines and a beautiful, year round steam creating views from two decks that our guests describe as \"story book views\" they can't believe actually exist."
       },
       {
         "title": "Propane BBQ Grill",
@@ -2657,7 +2657,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/gkgxwjc",
-    "weekEndRatePercentAdjustment": 31.25,
+    "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -4115,7 +4115,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge-%40-eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/grwltml",
-    "weekEndRatePercentAdjustment": 31.25,
+    "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
@@ -4513,7 +4513,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge-at-eagle-point-ski-resort-",
     "guideBookUrl": "https://hostful.ly/gbzpvpz",
-    "weekEndRatePercentAdjustment": 31.25,
+    "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,

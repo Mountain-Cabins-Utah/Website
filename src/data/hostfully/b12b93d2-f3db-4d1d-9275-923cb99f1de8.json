@@ -62,7 +62,7 @@
   "panoramicDataUrl": null,
   "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge-at-eagle-point-ski-resort-",
   "guideBookUrl": "https://hostful.ly/gbzpvpz",
-  "weekEndRatePercentAdjustment": 31.25,
+  "weekEndRatePercentAdjustment": 0,
   "bookingWindow": -1,
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
