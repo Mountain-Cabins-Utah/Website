@@ -76,8 +76,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 144,
-      "average": 4.951388888888889
+      "total": 145,
+      "average": 4.951724137931034
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
@@ -6361,7 +6361,7 @@
     "isActive": true,
     "baseGuests": 1,
     "maximumGuests": 9,
-    "baseDailyRate": 475,
+    "baseDailyRate": 450,
     "city": "Sundance",
     "state": "UT",
     "address1": "3033 Old Bridge Road",
@@ -6396,7 +6396,7 @@
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22908/treehouse-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gswzjvk",
-    "weekEndRatePercentAdjustment": 4.21,
+    "weekEndRatePercentAdjustment": 5.5556,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
