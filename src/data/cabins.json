@@ -934,8 +934,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 153,
-      "average": 4.934640522875817
+      "total": 154,
+      "average": 4.928571428571429
     },
     "createdDate": 1562259471000,
     "percentUponReservation": 50,
@@ -1953,8 +1953,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 58,
-      "average": 4.913793103448276
+      "total": 60,
+      "average": 4.916666666666667
     },
     "createdDate": 1562259485000,
     "percentUponReservation": 50,
@@ -2338,7 +2338,7 @@
     "currencySymbol": "$",
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/79174/mid-mountain-retreat%2C-sundance%2C-utah",
-    "guideBookUrl": null,
+    "guideBookUrl": "https://hostful.ly/ghblsch",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": 730,
     "bookingWindowAfterCheckout": -1,
@@ -3077,7 +3077,7 @@
     "currencySymbol": "$",
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
-    "guideBookUrl": null,
+    "guideBookUrl": "https://hostful.ly/ghcjmhj",
     "weekEndRatePercentAdjustment": 18.1818,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
@@ -5442,7 +5442,7 @@
     "currencySymbol": "$",
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest-",
-    "guideBookUrl": null,
+    "guideBookUrl": "https://hostful.ly/gnmprfv",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": 730,
     "bookingWindowAfterCheckout": -1,
@@ -6409,8 +6409,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 72,
-      "average": 4.805555555555555
+      "total": 73,
+      "average": 4.808219178082192
     },
     "createdDate": 1562259461000,
     "percentUponReservation": 50,
