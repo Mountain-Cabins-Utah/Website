@@ -295,6 +295,20 @@
       "url": "https://orbirental-images.s3.amazonaws.com/5ff84a8a-6998-4f2d-aedd-4d0ed876a760",
       "displayOrder": 29,
       "airbnbRoomId": null
+    },
+    {
+      "uid": "df9f1a40-05f9-4e57-b792-553a164af1ce",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/df9f1a40-05f9-4e57-b792-553a164af1ce",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1cb983a6-052c-4295-bc6d-e45f98aa2798",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/1cb983a6-052c-4295-bc6d-e45f98aa2798",
+      "displayOrder": 31,
+      "airbnbRoomId": null
     }
   ],
   "description": {
