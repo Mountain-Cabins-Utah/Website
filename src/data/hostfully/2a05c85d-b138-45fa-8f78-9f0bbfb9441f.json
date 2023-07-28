@@ -356,6 +356,20 @@
       "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
       "displayOrder": 37,
       "airbnbRoomId": null
+    },
+    {
+      "uid": "0e953bbb-29e8-41ce-bc20-a76695e36b56",
+      "description": "The Hot Tub is located up the your own private pathway across the stream on the adjacent property.  It has an outdoor shower.   Your privacy is always respected ",
+      "url": "https://orbirental-images.s3.amazonaws.com/0e953bbb-29e8-41ce-bc20-a76695e36b56",
+      "displayOrder": 38,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1f91e93e-e3af-4cd4-8014-4fd4dde35fe7",
+      "description": "The Hot Tub is located up the your own private pathway across the stream on the adjacent property.  It has an outdoor shower.   Your privacy is always respected ",
+      "url": "https://orbirental-images.s3.amazonaws.com/1f91e93e-e3af-4cd4-8014-4fd4dde35fe7",
+      "displayOrder": 39,
+      "airbnbRoomId": null
     }
   ],
   "description": {
