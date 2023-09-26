@@ -62,7 +62,7 @@
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
   "bookingLeadTime": 24,
-  "defaultCheckinTime": 4,
+  "defaultCheckinTime": 16,
   "defaultCheckoutTime": 11,
   "wifiNetwork": "SundanceSperry",
   "wifiPassword": "FamilyJedi3070",
@@ -70,8 +70,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 0,
-    "average": null
+    "total": 1,
+    "average": 5
   },
   "createdDate": 1677702577000,
   "percentUponReservation": 50,

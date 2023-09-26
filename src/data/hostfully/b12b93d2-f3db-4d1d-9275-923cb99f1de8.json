@@ -67,7 +67,7 @@
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
   "bookingLeadTime": 0,
-  "defaultCheckinTime": 15,
+  "defaultCheckinTime": 16,
   "defaultCheckoutTime": 11,
   "wifiNetwork": "WoodedRidge8",
   "wifiPassword": "WoRi008!",

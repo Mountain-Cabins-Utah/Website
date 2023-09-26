@@ -62,7 +62,7 @@
   "bookingWindowAfterCheckout": -1,
   "turnOverDays": 0,
   "bookingLeadTime": 24,
-  "defaultCheckinTime": 4,
+  "defaultCheckinTime": 16,
   "defaultCheckoutTime": 11,
   "wifiNetwork": " SundanceCuckcoos!",
   "wifiPassword": "FamilyJedi3048",
