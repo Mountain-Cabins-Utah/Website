@@ -76,8 +76,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 156,
-      "average": 4.955128205128205
+      "total": 157,
+      "average": 4.955414012738854
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
@@ -948,8 +948,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 163,
-      "average": 4.932515337423313
+      "total": 164,
+      "average": 4.932926829268292
     },
     "createdDate": 1562259471000,
     "percentUponReservation": 50,
