@@ -93,7 +93,7 @@
   "gallery": [
     {
       "uid": "65e1f63c-8b78-4019-abb7-f1f515d1e498",
-      "description": null,
+      "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/65e1f63c-8b78-4019-abb7-f1f515d1e498",
       "displayOrder": 0,
       "airbnbRoomId": null
