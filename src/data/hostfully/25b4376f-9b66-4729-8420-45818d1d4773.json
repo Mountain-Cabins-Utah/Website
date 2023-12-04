@@ -1,5 +1,10 @@
 {
-  "pricingRules": null,
+  "pricingRules": {
+    "increaseRate": 0,
+    "increaseRateLowerBound": 0,
+    "decreaseRate": 0,
+    "decreaseRateHigherBound": 0
+  },
   "bedCount": 8,
   "bedTypes": {
     "kingBed": 1,
@@ -70,8 +75,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 8,
-    "average": 4.625
+    "total": 9,
+    "average": 4.666666666666667
   },
   "createdDate": 1676323298000,
   "percentUponReservation": 50,

@@ -1,5 +1,10 @@
 {
-  "pricingRules": null,
+  "pricingRules": {
+    "increaseRate": 0,
+    "increaseRateLowerBound": 0,
+    "decreaseRate": 0,
+    "decreaseRateHigherBound": 0
+  },
   "bedCount": 10,
   "bedTypes": {
     "kingBed": 3,
