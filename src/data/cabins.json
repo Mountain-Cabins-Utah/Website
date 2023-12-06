@@ -76,8 +76,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 163,
-      "average": 4.9447852760736195
+      "total": 164,
+      "average": 4.945121951219512
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
@@ -452,7 +452,7 @@
         "description": "The Hot Tub is located up the your own private pathway across the stream on the adjacent property.  It has an outdoor shower.   Your privacy is always respected ",
         "url": "https://orbirental-images.s3.amazonaws.com/1f91e93e-e3af-4cd4-8014-4fd4dde35fe7",
         "displayOrder": 39,
-        "airbnbRoomId": null
+        "airbnbRoomId": "284223532"
       }
     ],
     "description": {
