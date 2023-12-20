@@ -87,52 +87,10 @@
   "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
   "gallery": [
     {
-      "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
-      "description": "Living Room ",
-      "url": "https://orbirental-images.s3.amazonaws.com/00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
-      "displayOrder": 0,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "00de55f5-b32e-40f9-a850-d9280583776c",
-      "description": "Entry Way ",
-      "url": "https://orbirental-images.s3.amazonaws.com/00de55f5-b32e-40f9-a850-d9280583776c",
-      "displayOrder": 1,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "c3348517-0337-4557-b0d5-6eadb127f2f7",
-      "description": "Entry with stairs to second floor",
-      "url": "https://orbirental-images.s3.amazonaws.com/c3348517-0337-4557-b0d5-6eadb127f2f7",
-      "displayOrder": 2,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "c876f023-59b1-4ac9-980f-721e35e4ee44",
-      "description": "The best fireplace ever",
-      "url": "https://orbirental-images.s3.amazonaws.com/c876f023-59b1-4ac9-980f-721e35e4ee44",
-      "displayOrder": 3,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "679d8d03-cbaf-428d-aec3-3729619f667d",
-      "description": "Cozy sitting area",
-      "url": "https://orbirental-images.s3.amazonaws.com/679d8d03-cbaf-428d-aec3-3729619f667d",
-      "displayOrder": 4,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "5e674f8f-3138-4102-bd99-61aa6daafcba",
-      "description": "Living area is big for the whole family",
-      "url": "https://orbirental-images.s3.amazonaws.com/5e674f8f-3138-4102-bd99-61aa6daafcba",
-      "displayOrder": 5,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "9321e7f4-fce3-4a22-a028-ddb529816347",
-      "description": "Stairs up and down",
-      "url": "https://orbirental-images.s3.amazonaws.com/9321e7f4-fce3-4a22-a028-ddb529816347",
-      "displayOrder": 6,
+      "uid": "f39c501f-3de5-4e50-8b61-2334deee2687",
+      "description": "Front of the Cabin",
+      "url": "https://orbirental-images.s3.amazonaws.com/f39c501f-3de5-4e50-8b61-2334deee2687",
+      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
@@ -140,20 +98,6 @@
       "description": "Pristine outside cabins",
       "url": "https://orbirental-images.s3.amazonaws.com/252b4561-7e3d-4c1d-bf9e-e26d9ed3d565",
       "displayOrder": 7,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "44d2070f-0f25-44e6-b3ec-e0b7487aec63",
-      "description": "Entry ",
-      "url": "https://orbirental-images.s3.amazonaws.com/44d2070f-0f25-44e6-b3ec-e0b7487aec63",
-      "displayOrder": 8,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "f39c501f-3de5-4e50-8b61-2334deee2687",
-      "description": "Front of the Cabin",
-      "url": "https://orbirental-images.s3.amazonaws.com/f39c501f-3de5-4e50-8b61-2334deee2687",
-      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
@@ -171,10 +115,10 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "78bb8594-ecec-4535-98a0-e1566e2eb3b8",
-      "description": null,
-      "url": "https://orbirental-images.s3.amazonaws.com/78bb8594-ecec-4535-98a0-e1566e2eb3b8",
-      "displayOrder": 12,
+      "uid": "09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
+      "description": "Hot Tub for your use",
+      "url": "https://orbirental-images.s3.amazonaws.com/09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
+      "displayOrder": 15,
       "airbnbRoomId": null
     },
     {
@@ -192,13 +136,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
-      "description": "Hot Tub for your use",
-      "url": "https://orbirental-images.s3.amazonaws.com/09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
-      "displayOrder": 15,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "533b3e35-65c4-42a6-925b-eef16207695d",
       "description": "covered hot tub",
       "url": "https://orbirental-images.s3.amazonaws.com/533b3e35-65c4-42a6-925b-eef16207695d",
@@ -213,10 +150,24 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "78bb8594-ecec-4535-98a0-e1566e2eb3b8",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/78bb8594-ecec-4535-98a0-e1566e2eb3b8",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "2733f02a-c81b-4511-9252-922318cda26d",
       "description": "Summer dining",
       "url": "https://orbirental-images.s3.amazonaws.com/2733f02a-c81b-4511-9252-922318cda26d",
       "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "44d2070f-0f25-44e6-b3ec-e0b7487aec63",
+      "description": "Entry ",
+      "url": "https://orbirental-images.s3.amazonaws.com/44d2070f-0f25-44e6-b3ec-e0b7487aec63",
+      "displayOrder": 8,
       "airbnbRoomId": null
     },
     {
@@ -227,48 +178,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "c420b8fc-0b50-48c6-8211-8b86487c99d5",
-      "description": "Large dining room ",
-      "url": "https://orbirental-images.s3.amazonaws.com/c420b8fc-0b50-48c6-8211-8b86487c99d5",
-      "displayOrder": 20,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3feb647c-eff5-4201-afe8-6b89aa050fb6",
-      "description": "Dining room ",
-      "url": "https://orbirental-images.s3.amazonaws.com/3feb647c-eff5-4201-afe8-6b89aa050fb6",
-      "displayOrder": 21,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "5fe4c821-6180-48bd-a361-e6032534f00d",
-      "description": "Kitchen island",
-      "url": "https://orbirental-images.s3.amazonaws.com/5fe4c821-6180-48bd-a361-e6032534f00d",
-      "displayOrder": 22,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3303ec76-d170-4f86-bba7-7be14c164c82",
-      "description": "Kitchen",
-      "url": "https://orbirental-images.s3.amazonaws.com/3303ec76-d170-4f86-bba7-7be14c164c82",
-      "displayOrder": 23,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "82c4bf52-362a-4a46-a91f-ce1a1aac1837",
-      "description": "Great space to cook and gather",
-      "url": "https://orbirental-images.s3.amazonaws.com/82c4bf52-362a-4a46-a91f-ce1a1aac1837",
-      "displayOrder": 24,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "1a1eda94-b284-43e9-8d49-5a1993065b83",
-      "description": "Dining with a view",
-      "url": "https://orbirental-images.s3.amazonaws.com/1a1eda94-b284-43e9-8d49-5a1993065b83",
-      "displayOrder": 25,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "78bd4945-97ad-490b-baef-942d438681fb",
       "description": "Mountains",
       "url": "https://orbirental-images.s3.amazonaws.com/78bd4945-97ad-490b-baef-942d438681fb",
@@ -276,17 +185,17 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "a412054b-bd42-4d71-a8b4-11015f844626",
-      "description": "Front yard from entry way",
-      "url": "https://orbirental-images.s3.amazonaws.com/a412054b-bd42-4d71-a8b4-11015f844626",
-      "displayOrder": 27,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
       "description": "The Little Free ibrary.  Take a book.  Leave a book. ",
       "url": "https://orbirental-images.s3.amazonaws.com/3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
       "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a412054b-bd42-4d71-a8b4-11015f844626",
+      "description": "Front yard from entry way",
+      "url": "https://orbirental-images.s3.amazonaws.com/a412054b-bd42-4d71-a8b4-11015f844626",
+      "displayOrder": 27,
       "airbnbRoomId": null
     },
     {
@@ -318,13 +227,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "41b0a98d-6bd6-4c79-b13c-162f43379b50",
-      "description": "Nappy Nook",
-      "url": "https://orbirental-images.s3.amazonaws.com/41b0a98d-6bd6-4c79-b13c-162f43379b50",
-      "displayOrder": 33,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
       "description": "Great hot tub with views",
       "url": "https://orbirental-images.s3.amazonaws.com/d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
@@ -346,10 +248,24 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "41b0a98d-6bd6-4c79-b13c-162f43379b50",
+      "description": "Nappy Nook",
+      "url": "https://orbirental-images.s3.amazonaws.com/41b0a98d-6bd6-4c79-b13c-162f43379b50",
+      "displayOrder": 33,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "c306cc72-ba0f-4877-98b9-9fbe6bb18762",
       "description": "Upstairs landing ",
       "url": "https://orbirental-images.s3.amazonaws.com/c306cc72-ba0f-4877-98b9-9fbe6bb18762",
       "displayOrder": 37,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
+      "description": "Main floor bedroom with desk for working",
+      "url": "https://orbirental-images.s3.amazonaws.com/b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
+      "displayOrder": 39,
       "airbnbRoomId": null
     },
     {
@@ -360,10 +276,94 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
-      "description": "Main floor bedroom with desk for working",
-      "url": "https://orbirental-images.s3.amazonaws.com/b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
-      "displayOrder": 39,
+      "uid": "00de55f5-b32e-40f9-a850-d9280583776c",
+      "description": "Entry Way ",
+      "url": "https://orbirental-images.s3.amazonaws.com/00de55f5-b32e-40f9-a850-d9280583776c",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c3348517-0337-4557-b0d5-6eadb127f2f7",
+      "description": "Entry with stairs to second floor",
+      "url": "https://orbirental-images.s3.amazonaws.com/c3348517-0337-4557-b0d5-6eadb127f2f7",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c876f023-59b1-4ac9-980f-721e35e4ee44",
+      "description": "The best fireplace ever",
+      "url": "https://orbirental-images.s3.amazonaws.com/c876f023-59b1-4ac9-980f-721e35e4ee44",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5fe4c821-6180-48bd-a361-e6032534f00d",
+      "description": "Kitchen island",
+      "url": "https://orbirental-images.s3.amazonaws.com/5fe4c821-6180-48bd-a361-e6032534f00d",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c420b8fc-0b50-48c6-8211-8b86487c99d5",
+      "description": "Large dining room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/c420b8fc-0b50-48c6-8211-8b86487c99d5",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
+      "description": "Living Room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "82c4bf52-362a-4a46-a91f-ce1a1aac1837",
+      "description": "Great space to cook and gather",
+      "url": "https://orbirental-images.s3.amazonaws.com/82c4bf52-362a-4a46-a91f-ce1a1aac1837",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3feb647c-eff5-4201-afe8-6b89aa050fb6",
+      "description": "Dining room ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3feb647c-eff5-4201-afe8-6b89aa050fb6",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "679d8d03-cbaf-428d-aec3-3729619f667d",
+      "description": "Cozy sitting area",
+      "url": "https://orbirental-images.s3.amazonaws.com/679d8d03-cbaf-428d-aec3-3729619f667d",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1a1eda94-b284-43e9-8d49-5a1993065b83",
+      "description": "Dining with a view",
+      "url": "https://orbirental-images.s3.amazonaws.com/1a1eda94-b284-43e9-8d49-5a1993065b83",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3303ec76-d170-4f86-bba7-7be14c164c82",
+      "description": "Kitchen",
+      "url": "https://orbirental-images.s3.amazonaws.com/3303ec76-d170-4f86-bba7-7be14c164c82",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5e674f8f-3138-4102-bd99-61aa6daafcba",
+      "description": "Living area is big for the whole family",
+      "url": "https://orbirental-images.s3.amazonaws.com/5e674f8f-3138-4102-bd99-61aa6daafcba",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9321e7f4-fce3-4a22-a028-ddb529816347",
+      "description": "Stairs up and down",
+      "url": "https://orbirental-images.s3.amazonaws.com/9321e7f4-fce3-4a22-a028-ddb529816347",
+      "displayOrder": 6,
       "airbnbRoomId": null
     },
     {
@@ -402,13 +402,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "98b0c787-6fb5-4984-a6e3-b37fb2345875",
-      "description": "Bathroom ",
-      "url": "https://orbirental-images.s3.amazonaws.com/98b0c787-6fb5-4984-a6e3-b37fb2345875",
-      "displayOrder": 45,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
       "description": "Downstiars private bedroom ",
       "url": "https://orbirental-images.s3.amazonaws.com/4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
@@ -420,6 +413,13 @@
       "description": "Downstairs private bedroom with seating area",
       "url": "https://orbirental-images.s3.amazonaws.com/2c8c1212-01a3-4387-9f75-fdc0e7bd0362",
       "displayOrder": 47,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "98b0c787-6fb5-4984-a6e3-b37fb2345875",
+      "description": "Bathroom ",
+      "url": "https://orbirental-images.s3.amazonaws.com/98b0c787-6fb5-4984-a6e3-b37fb2345875",
+      "displayOrder": 45,
       "airbnbRoomId": null
     },
     {

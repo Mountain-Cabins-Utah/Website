@@ -92,10 +92,10 @@
   "uid": "2041981a-9a23-4eab-9c82-c9dbeb87c593",
   "gallery": [
     {
-      "uid": "f419692c-0d1c-4222-b10f-b912aae5c1d6",
-      "description": "Covered Entryway and parking available directly in front of the condo.  Room for your trailer with ATV's and toys.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/f419692c-0d1c-4222-b10f-b912aae5c1d6",
-      "displayOrder": 0,
+      "uid": "3de0b98b-9d85-402d-89b0-36a91f2a353a",
+      "description": "Private deck off living room for sitting with your coffee in the morning or your beverage in the evening.  Great sunsets and lots of stars.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3de0b98b-9d85-402d-89b0-36a91f2a353a",
+      "displayOrder": 11,
       "airbnbRoomId": null
     },
     {
@@ -106,17 +106,31 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "a711caf0-4e19-4f5e-9f46-889e052ce578",
-      "description": "View  from entryway.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/a711caf0-4e19-4f5e-9f46-889e052ce578",
-      "displayOrder": 2,
+      "uid": "7ae10e91-b7a7-497d-b381-af42ef15b2b0",
+      "description": "King-sized bed in the loft with full bathroom, walk-in closet, kids nook...",
+      "url": "https://orbirental-images.s3.amazonaws.com/7ae10e91-b7a7-497d-b381-af42ef15b2b0",
+      "displayOrder": 14,
       "airbnbRoomId": null
     },
     {
-      "uid": "2ee88671-a40e-4366-b195-4287420b9174",
-      "description": "Free firewood and locally made fire-starters provided.\nLook on mantle for a basket with \"Cup of Fires\" and instructions.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/2ee88671-a40e-4366-b195-4287420b9174",
-      "displayOrder": 3,
+      "uid": "631dc705-a8e3-46fc-94b6-ed266c2f18c6",
+      "description": "Cozy living room, dining area, and kitchen.  Open area from kitchen keeping everyone in view and communication.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/631dc705-a8e3-46fc-94b6-ed266c2f18c6",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "adf29d00-8cd6-44c4-bd4b-c20480151f92",
+      "description": "Enjoy your own private deck at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/adf29d00-8cd6-44c4-bd4b-c20480151f92",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3ff8c4ea-f126-4cde-9195-94eb906bdb1e",
+      "description": "Main level bathroom with tub and shower.  Towels provided. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3ff8c4ea-f126-4cde-9195-94eb906bdb1e",
+      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
@@ -127,10 +141,24 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "631dc705-a8e3-46fc-94b6-ed266c2f18c6",
-      "description": "Cozy living room, dining area, and kitchen.  Open area from kitchen keeping everyone in view and communication.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/631dc705-a8e3-46fc-94b6-ed266c2f18c6",
-      "displayOrder": 5,
+      "uid": "a0899600-b6a3-4df5-824a-4a1a6fef3c39",
+      "description": "Loft bedroom with king bed.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a0899600-b6a3-4df5-824a-4a1a6fef3c39",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0ba3926f-d51c-4b28-998f-63dc99c833db",
+      "description": "Windows allow natural light and the ceiling fan keeps the fresh air moving.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/0ba3926f-d51c-4b28-998f-63dc99c833db",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2ee88671-a40e-4366-b195-4287420b9174",
+      "description": "Free firewood and locally made fire-starters provided.\nLook on mantle for a basket with \"Cup of Fires\" and instructions.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/2ee88671-a40e-4366-b195-4287420b9174",
+      "displayOrder": 3,
       "airbnbRoomId": null
     },
     {
@@ -148,80 +176,10 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "26381f04-7f02-4562-be9a-7dee4b499581",
-      "description": "Dining table seats six.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/26381f04-7f02-4562-be9a-7dee4b499581",
-      "displayOrder": 8,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3ff8c4ea-f126-4cde-9195-94eb906bdb1e",
-      "description": "Main level bathroom with tub and shower.  Towels provided. ",
-      "url": "https://orbirental-images.s3.amazonaws.com/3ff8c4ea-f126-4cde-9195-94eb906bdb1e",
-      "displayOrder": 9,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "19ef344e-23ce-4713-ab8a-15d8b6814ef2",
-      "description": "The main bedroom opens out to your private deck & spectacular views through sliding glass doors.",
-      "url": "https://orbirental-images.s3.amazonaws.com/19ef344e-23ce-4713-ab8a-15d8b6814ef2",
-      "displayOrder": 10,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3de0b98b-9d85-402d-89b0-36a91f2a353a",
-      "description": "Private deck off living room for sitting with your coffee in the morning or your beverage in the evening.  Great sunsets and lots of stars.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/3de0b98b-9d85-402d-89b0-36a91f2a353a",
-      "displayOrder": 11,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "5d055c49-de65-4b9a-9320-66b1edb8054b",
-      "description": "Enjoy your own private deck with a morning cup of coffee.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/5d055c49-de65-4b9a-9320-66b1edb8054b",
-      "displayOrder": 12,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "adf29d00-8cd6-44c4-bd4b-c20480151f92",
-      "description": "Enjoy your own private deck at Eagle Point Ski Resort",
-      "url": "https://orbirental-images.s3.amazonaws.com/adf29d00-8cd6-44c4-bd4b-c20480151f92",
-      "displayOrder": 13,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "7ae10e91-b7a7-497d-b381-af42ef15b2b0",
-      "description": "King-sized bed in the loft with full bathroom, walk-in closet, kids nook...",
-      "url": "https://orbirental-images.s3.amazonaws.com/7ae10e91-b7a7-497d-b381-af42ef15b2b0",
-      "displayOrder": 14,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "0ba3926f-d51c-4b28-998f-63dc99c833db",
-      "description": "Windows allow natural light and the ceiling fan keeps the fresh air moving.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/0ba3926f-d51c-4b28-998f-63dc99c833db",
-      "displayOrder": 15,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "a8707cb2-caed-4ffc-98e7-f99f8e689915",
-      "description": "Check out the Kid Cubby in the upstairs loft bedroom.  Kids love to play and even sleep in their own little corner of the world.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/a8707cb2-caed-4ffc-98e7-f99f8e689915",
-      "displayOrder": 16,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "a0899600-b6a3-4df5-824a-4a1a6fef3c39",
-      "description": "Loft bedroom with king bed.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/a0899600-b6a3-4df5-824a-4a1a6fef3c39",
-      "displayOrder": 17,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "eea3a7a7-67d8-43e6-8e09-4f0f3970414c",
-      "description": "Upstairs bathroom with shower. Baseboard heaters for winter weather.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/eea3a7a7-67d8-43e6-8e09-4f0f3970414c",
-      "displayOrder": 18,
+      "uid": "27179b96-0deb-4ef1-a0cc-195a9fd2a699",
+      "description": "Beautiful Puffer Lake",
+      "url": "https://orbirental-images.s3.amazonaws.com/27179b96-0deb-4ef1-a0cc-195a9fd2a699",
+      "displayOrder": 20,
       "airbnbRoomId": null
     },
     {
@@ -232,24 +190,10 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "27179b96-0deb-4ef1-a0cc-195a9fd2a699",
-      "description": "Beautiful Puffer Lake",
-      "url": "https://orbirental-images.s3.amazonaws.com/27179b96-0deb-4ef1-a0cc-195a9fd2a699",
-      "displayOrder": 20,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "75703a38-784b-4fc3-b2ee-37349e856e86",
-      "description": "Fantastic views and endless fresh air",
-      "url": "https://orbirental-images.s3.amazonaws.com/75703a38-784b-4fc3-b2ee-37349e856e86",
-      "displayOrder": 21,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "0de11224-6fba-46bd-b03a-0fc9d65ebe29",
-      "description": "If Norman Rockwell were at Eagle Point Ski Resort, he'd be painting this!",
-      "url": "https://orbirental-images.s3.amazonaws.com/0de11224-6fba-46bd-b03a-0fc9d65ebe29",
-      "displayOrder": 22,
+      "uid": "f419692c-0d1c-4222-b10f-b912aae5c1d6",
+      "description": "Covered Entryway and parking available directly in front of the condo.  Room for your trailer with ATV's and toys.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/f419692c-0d1c-4222-b10f-b912aae5c1d6",
+      "displayOrder": 0,
       "airbnbRoomId": null
     },
     {
@@ -281,10 +225,66 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "75703a38-784b-4fc3-b2ee-37349e856e86",
+      "description": "Fantastic views and endless fresh air",
+      "url": "https://orbirental-images.s3.amazonaws.com/75703a38-784b-4fc3-b2ee-37349e856e86",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0de11224-6fba-46bd-b03a-0fc9d65ebe29",
+      "description": "If Norman Rockwell were at Eagle Point Ski Resort, he'd be painting this!",
+      "url": "https://orbirental-images.s3.amazonaws.com/0de11224-6fba-46bd-b03a-0fc9d65ebe29",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "c6d3099e-764f-4efc-bb65-7114f1668345",
       "description": "Fantastic views at 10,000 feet!",
       "url": "https://orbirental-images.s3.amazonaws.com/c6d3099e-764f-4efc-bb65-7114f1668345",
       "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5d055c49-de65-4b9a-9320-66b1edb8054b",
+      "description": "Enjoy your own private deck with a morning cup of coffee.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/5d055c49-de65-4b9a-9320-66b1edb8054b",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a8707cb2-caed-4ffc-98e7-f99f8e689915",
+      "description": "Check out the Kid Cubby in the upstairs loft bedroom.  Kids love to play and even sleep in their own little corner of the world.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a8707cb2-caed-4ffc-98e7-f99f8e689915",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "26381f04-7f02-4562-be9a-7dee4b499581",
+      "description": "Dining table seats six.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/26381f04-7f02-4562-be9a-7dee4b499581",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "19ef344e-23ce-4713-ab8a-15d8b6814ef2",
+      "description": "The main bedroom opens out to your private deck & spectacular views through sliding glass doors.",
+      "url": "https://orbirental-images.s3.amazonaws.com/19ef344e-23ce-4713-ab8a-15d8b6814ef2",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a711caf0-4e19-4f5e-9f46-889e052ce578",
+      "description": "View  from entryway.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a711caf0-4e19-4f5e-9f46-889e052ce578",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "eea3a7a7-67d8-43e6-8e09-4f0f3970414c",
+      "description": "Upstairs bathroom with shower. Baseboard heaters for winter weather.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/eea3a7a7-67d8-43e6-8e09-4f0f3970414c",
+      "displayOrder": 18,
       "airbnbRoomId": null
     }
   ],

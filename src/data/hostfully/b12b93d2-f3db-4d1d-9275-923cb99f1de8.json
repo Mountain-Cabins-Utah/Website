@@ -295,13 +295,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "0e4325ad-64cd-481b-ada6-7ae56b94910f",
-      "description": null,
-      "url": "https://orbirental-images.s3.amazonaws.com/0e4325ad-64cd-481b-ada6-7ae56b94910f",
-      "displayOrder": 29,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "481d1ea3-eccc-4717-b8f8-4d70280a456c",
       "description": null,
       "url": "https://orbirental-images.s3.amazonaws.com/481d1ea3-eccc-4717-b8f8-4d70280a456c",
@@ -320,6 +313,13 @@
       "description": null,
       "url": "https://orbirental-images.s3.amazonaws.com/f041f40a-3fbb-4d1b-8f0d-a5ecc171f411",
       "displayOrder": 32,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0e4325ad-64cd-481b-ada6-7ae56b94910f",
+      "description": null,
+      "url": "https://orbirental-images.s3.amazonaws.com/0e4325ad-64cd-481b-ada6-7ae56b94910f",
+      "displayOrder": 29,
       "airbnbRoomId": null
     }
   ],

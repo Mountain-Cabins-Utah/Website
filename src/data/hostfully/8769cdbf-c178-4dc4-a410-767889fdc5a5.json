@@ -92,52 +92,10 @@
   "uid": "8769cdbf-c178-4dc4-a410-767889fdc5a5",
   "gallery": [
     {
-      "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
-      "description": "Kitchen, dining and living great room. ",
-      "url": "https://orbirental-images.s3.amazonaws.com/ffc286c4-de88-441a-8f1a-af2ea33d70ae",
-      "displayOrder": 0,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
-      "description": "Open concept while your cooking.",
-      "url": "https://orbirental-images.s3.amazonaws.com/e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
-      "displayOrder": 1,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "c32e9a34-6678-4e02-87ff-0d1110d76f10",
-      "description": "Bar seating - fully stocked kitchen,",
-      "url": "https://orbirental-images.s3.amazonaws.com/c32e9a34-6678-4e02-87ff-0d1110d76f10",
-      "displayOrder": 2,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
-      "description": "Dining area.",
-      "url": "https://orbirental-images.s3.amazonaws.com/d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
-      "displayOrder": 3,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "ea431132-680e-4db3-a3df-775ff89adb90",
-      "description": "Two comfy couches for lounging.  One sleeper sofa.",
-      "url": "https://orbirental-images.s3.amazonaws.com/ea431132-680e-4db3-a3df-775ff89adb90",
-      "displayOrder": 4,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "00302ee7-ac9d-4484-8685-161648a91eeb",
-      "description": "View of the slopes and the Aspens,",
-      "url": "https://orbirental-images.s3.amazonaws.com/00302ee7-ac9d-4484-8685-161648a91eeb",
-      "displayOrder": 5,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "6da1859d-bfb1-465b-b24a-d15bbd7945e6",
-      "description": "View through the living room out to the slopes. ",
-      "url": "https://orbirental-images.s3.amazonaws.com/6da1859d-bfb1-465b-b24a-d15bbd7945e6",
-      "displayOrder": 6,
+      "uid": "05450931-3cb5-4648-b489-422fabebdc19",
+      "description": "Burr -- it's cold outside.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/05450931-3cb5-4648-b489-422fabebdc19",
+      "displayOrder": 20,
       "airbnbRoomId": null
     },
     {
@@ -155,17 +113,59 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "5f595fe2-614c-4609-a742-84fc444b38b6",
-      "description": "A reading light and natural light.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/5f595fe2-614c-4609-a742-84fc444b38b6",
-      "displayOrder": 9,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "ac7ca6ae-ec0b-4039-8ecc-951ecd0c8ea3",
       "description": "Bathroom with jacuzzi tub. ",
       "url": "https://orbirental-images.s3.amazonaws.com/ac7ca6ae-ec0b-4039-8ecc-951ecd0c8ea3",
       "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c32e9a34-6678-4e02-87ff-0d1110d76f10",
+      "description": "Bar seating - fully stocked kitchen,",
+      "url": "https://orbirental-images.s3.amazonaws.com/c32e9a34-6678-4e02-87ff-0d1110d76f10",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
+      "description": "Open concept while your cooking.",
+      "url": "https://orbirental-images.s3.amazonaws.com/e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
+      "description": "Kitchen, dining and living great room. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ffc286c4-de88-441a-8f1a-af2ea33d70ae",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ea431132-680e-4db3-a3df-775ff89adb90",
+      "description": "Two comfy couches for lounging.  One sleeper sofa.",
+      "url": "https://orbirental-images.s3.amazonaws.com/ea431132-680e-4db3-a3df-775ff89adb90",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
+      "description": "Dining area.",
+      "url": "https://orbirental-images.s3.amazonaws.com/d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6da1859d-bfb1-465b-b24a-d15bbd7945e6",
+      "description": "View through the living room out to the slopes. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/6da1859d-bfb1-465b-b24a-d15bbd7945e6",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5f595fe2-614c-4609-a742-84fc444b38b6",
+      "description": "A reading light and natural light.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/5f595fe2-614c-4609-a742-84fc444b38b6",
+      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
@@ -204,13 +204,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "ec9dffeb-5de4-43a9-8448-867ebce4cb26",
-      "description": "Bunk beds for the kids and young at heart. ",
-      "url": "https://orbirental-images.s3.amazonaws.com/ec9dffeb-5de4-43a9-8448-867ebce4cb26",
-      "displayOrder": 16,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "7fccbe04-8b77-488c-aeff-cdc054478862",
       "description": "Areial view. ",
       "url": "https://orbirental-images.s3.amazonaws.com/7fccbe04-8b77-488c-aeff-cdc054478862",
@@ -218,10 +211,17 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "602e3e04-a45c-4232-ad82-29c862dd5b0b",
-      "description": "Beautiful Puffer Lake.",
-      "url": "https://orbirental-images.s3.amazonaws.com/602e3e04-a45c-4232-ad82-29c862dd5b0b",
-      "displayOrder": 18,
+      "uid": "ec9dffeb-5de4-43a9-8448-867ebce4cb26",
+      "description": "Bunk beds for the kids and young at heart. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ec9dffeb-5de4-43a9-8448-867ebce4cb26",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "00302ee7-ac9d-4484-8685-161648a91eeb",
+      "description": "View of the slopes and the Aspens,",
+      "url": "https://orbirental-images.s3.amazonaws.com/00302ee7-ac9d-4484-8685-161648a91eeb",
+      "displayOrder": 5,
       "airbnbRoomId": null
     },
     {
@@ -229,13 +229,6 @@
       "description": "Beautiful, quiet, cozy balcony. ",
       "url": "https://orbirental-images.s3.amazonaws.com/716004fe-41b0-4c57-b90b-ef97479d13f1",
       "displayOrder": 19,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "05450931-3cb5-4648-b489-422fabebdc19",
-      "description": "Burr -- it's cold outside.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/05450931-3cb5-4648-b489-422fabebdc19",
-      "displayOrder": 20,
       "airbnbRoomId": null
     },
     {
@@ -250,6 +243,13 @@
       "description": "Fishing at Puffer Lake – minutes from Snowflake 15.",
       "url": "https://orbirental-images.s3.amazonaws.com/ded862f7-5d44-4be0-ac83-3ce21c3420b0",
       "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "602e3e04-a45c-4232-ad82-29c862dd5b0b",
+      "description": "Beautiful Puffer Lake.",
+      "url": "https://orbirental-images.s3.amazonaws.com/602e3e04-a45c-4232-ad82-29c862dd5b0b",
+      "displayOrder": 18,
       "airbnbRoomId": null
     },
     {
