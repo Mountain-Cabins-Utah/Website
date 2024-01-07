@@ -50,7 +50,7 @@
   "taxationRate": 11.76,
   "latitude": 40.3878867,
   "longitude": -111.5878445,
-  "airBnBID": null,
+  "airBnBID": "1063076627904100638",
   "homeAwayID": null,
   "currency": "USD",
   "currencySymbol": "$",
@@ -77,7 +77,7 @@
   "percentUponReservation": 50,
   "fullPaymentTiming": 30,
   "listingLinks": {
-    "airbnbUrl": null,
+    "airbnbUrl": "https://airbnb.com/rooms/1063076627904100638",
     "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
     "bookingDotComUrl": null,
     "homeAwayUrl": null,
