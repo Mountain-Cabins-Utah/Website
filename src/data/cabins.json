@@ -81,7 +81,7 @@
       "airbnbUrl": "https://airbnb.com/rooms/1063076627904100638",
       "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
       "bookingDotComUrl": null,
-      "homeAwayUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3795644?dateless=true",
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
@@ -1036,8 +1036,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 67,
-      "average": 4.940298507462686
+      "total": 68,
+      "average": 4.9411764705882355
     },
     "createdDate": 1562259452000,
     "percentUponReservation": 50,
@@ -6489,8 +6489,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 25,
-      "average": 4.96
+      "total": 26,
+      "average": 4.961538461538462
     },
     "createdDate": 1644187187000,
     "percentUponReservation": 50,
