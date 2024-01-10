@@ -92,17 +92,17 @@
   "uid": "27f19808-e262-46cf-84c3-f93d693e7402",
   "gallery": [
     {
-      "uid": "b48c8917-a393-46e8-9de3-f01aefc9d621",
-      "description": "Log Cabin basking in the sun.",
-      "url": "https://orbirental-images.s3.amazonaws.com/b48c8917-a393-46e8-9de3-f01aefc9d621",
-      "displayOrder": 1,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "473f703c-5b33-4d9f-b298-93082db8617e",
       "description": "The Log Cabin at Twilight",
       "url": "https://orbirental-images.s3.amazonaws.com/473f703c-5b33-4d9f-b298-93082db8617e",
       "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b48c8917-a393-46e8-9de3-f01aefc9d621",
+      "description": "Log Cabin basking in the sun.",
+      "url": "https://orbirental-images.s3.amazonaws.com/b48c8917-a393-46e8-9de3-f01aefc9d621",
+      "displayOrder": 1,
       "airbnbRoomId": null
     },
     {

@@ -87,66 +87,115 @@
   "uid": "1cda98a5-90a1-4b49-bfe8-c8fa2b602aa8",
   "gallery": [
     {
-      "uid": "d6bacea2-fba2-4bf7-9e58-fb1a57b6f8f4",
-      "description": "Mt. Timpanogas - in your backyard. ",
-      "url": "https://orbirental-images.s3.amazonaws.com/d6bacea2-fba2-4bf7-9e58-fb1a57b6f8f4",
-      "displayOrder": 54,
+      "uid": "3aa659de-f556-41ac-bede-53cf682dac09",
+      "description": "Welcome to BearTooth Lodge - Family Friendly Home ",
+      "url": "https://orbirental-images.s3.amazonaws.com/3aa659de-f556-41ac-bede-53cf682dac09",
+      "displayOrder": 0,
       "airbnbRoomId": null
     },
     {
-      "uid": "133f0380-7ed9-4475-8a8c-81fb6256797c",
+      "uid": "db7b475a-4316-4bfe-80db-d421f5c50933",
+      "description": "You'll be nestled in the trees here at Bear Tooth Lodge",
+      "url": "https://orbirental-images.s3.amazonaws.com/db7b475a-4316-4bfe-80db-d421f5c50933",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9c85d758-f305-45d9-b27f-39343c873b15",
+      "description": "Driveway parking for four.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/9c85d758-f305-45d9-b27f-39343c873b15",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "eb26ab58-fd92-468b-b759-2e534f15a1e5",
+      "description": "Secluded in the trees, private and cozy.",
+      "url": "https://orbirental-images.s3.amazonaws.com/eb26ab58-fd92-468b-b759-2e534f15a1e5",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1d6686b4-bc48-4fbf-801e-1e4f2e551e92",
+      "description": "Views will amaze you ",
+      "url": "https://orbirental-images.s3.amazonaws.com/1d6686b4-bc48-4fbf-801e-1e4f2e551e92",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2d702b18-0a6a-4968-aa0f-c0e0f6ead8aa",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/133f0380-7ed9-4475-8a8c-81fb6256797c",
-      "displayOrder": 51,
+      "url": "https://orbirental-images.s3.amazonaws.com/2d702b18-0a6a-4968-aa0f-c0e0f6ead8aa",
+      "displayOrder": 5,
       "airbnbRoomId": null
     },
     {
-      "uid": "5c8aee4d-8976-4f02-806e-27aaa22d8cab",
+      "uid": "94738214-f761-4a37-a34d-82476389dbc3",
+      "description": "Kitchen Door",
+      "url": "https://orbirental-images.s3.amazonaws.com/94738214-f761-4a37-a34d-82476389dbc3",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cae190bc-47b5-4efb-a406-179ff8235bb2",
+      "description": "SUMMER ENTRNACE ONLY PLEASE.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/cae190bc-47b5-4efb-a406-179ff8235bb2",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "657f99d2-efe0-4181-85d6-030fcbb4ef35",
+      "description": "SUMMER ENTRANCE ONLY PLEASE",
+      "url": "https://orbirental-images.s3.amazonaws.com/657f99d2-efe0-4181-85d6-030fcbb4ef35",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0b748f4d-e1e5-460b-a92e-7efa27325f2f",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/5c8aee4d-8976-4f02-806e-27aaa22d8cab",
-      "displayOrder": 21,
+      "url": "https://orbirental-images.s3.amazonaws.com/0b748f4d-e1e5-460b-a92e-7efa27325f2f",
+      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
-      "uid": "1bea9069-1ac1-4708-bb4e-fb067b343939",
-      "description": "Down Stairs Bathroom",
-      "url": "https://orbirental-images.s3.amazonaws.com/1bea9069-1ac1-4708-bb4e-fb067b343939",
-      "displayOrder": 45,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "df046584-1499-4eb7-a553-ac45cb7b25dd",
-      "description": "Down Stairs Bedroom",
-      "url": "https://orbirental-images.s3.amazonaws.com/df046584-1499-4eb7-a553-ac45cb7b25dd",
-      "displayOrder": 43,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "27caafaa-908a-49d4-aa30-c9a94610dada",
+      "uid": "b46f54df-7759-4328-82a5-fe92199debd9",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/27caafaa-908a-49d4-aa30-c9a94610dada",
-      "displayOrder": 50,
+      "url": "https://orbirental-images.s3.amazonaws.com/b46f54df-7759-4328-82a5-fe92199debd9",
+      "displayOrder": 10,
       "airbnbRoomId": null
     },
     {
-      "uid": "5984caf5-c615-4d9e-a7e4-9ce6bcb2038f",
-      "description": "Down Stairs Kitchen Game Room",
-      "url": "https://orbirental-images.s3.amazonaws.com/5984caf5-c615-4d9e-a7e4-9ce6bcb2038f",
-      "displayOrder": 40,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "494762d5-c699-48d2-adff-1904aac47724",
-      "description": "Down Stairs Kitchen",
-      "url": "https://orbirental-images.s3.amazonaws.com/494762d5-c699-48d2-adff-1904aac47724",
-      "displayOrder": 41,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3d3cb61a-b04f-4643-804f-c9dee5d0e3db",
+      "uid": "767fc762-1ff5-4f6a-9f5b-0f7800b6c196",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/3d3cb61a-b04f-4643-804f-c9dee5d0e3db",
-      "displayOrder": 42,
+      "url": "https://orbirental-images.s3.amazonaws.com/767fc762-1ff5-4f6a-9f5b-0f7800b6c196",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "71458d17-9204-4477-afc3-4b5b88e0d826",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/71458d17-9204-4477-afc3-4b5b88e0d826",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3a7f39db-9921-4fc3-81c8-a168e04606df",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/3a7f39db-9921-4fc3-81c8-a168e04606df",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9857f5ec-6c46-4ea3-8287-9ef2ca762057",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9857f5ec-6c46-4ea3-8287-9ef2ca762057",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "46c8346b-4b88-4aae-a749-1f244c5bb42c",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/46c8346b-4b88-4aae-a749-1f244c5bb42c",
+      "displayOrder": 15,
       "airbnbRoomId": null
     },
     {
@@ -164,6 +213,34 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "b1d5e445-4b6b-4130-9f6d-a3a882160ac1",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/b1d5e445-4b6b-4130-9f6d-a3a882160ac1",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f248c8a2-8e55-465d-a956-e43564aa1c2c",
+      "description": "Wood burning fireplace, television and access to loft sleeping area.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/f248c8a2-8e55-465d-a956-e43564aa1c2c",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e4ecac81-294b-43bf-8a67-48642126ac43",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e4ecac81-294b-43bf-8a67-48642126ac43",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "5c8aee4d-8976-4f02-806e-27aaa22d8cab",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/5c8aee4d-8976-4f02-806e-27aaa22d8cab",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "be09a985-81b5-41d6-8448-f4788884bfb2",
       "description": "Upstairs Kitchen",
       "url": "https://orbirental-images.s3.amazonaws.com/be09a985-81b5-41d6-8448-f4788884bfb2",
@@ -178,17 +255,66 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "f248c8a2-8e55-465d-a956-e43564aa1c2c",
-      "description": "Wood burning fireplace, television and access to loft sleeping area.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/f248c8a2-8e55-465d-a956-e43564aa1c2c",
-      "displayOrder": 19,
+      "uid": "371ceb3c-e026-41a9-9cf7-3673adc4ba5a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/371ceb3c-e026-41a9-9cf7-3673adc4ba5a",
+      "displayOrder": 24,
       "airbnbRoomId": null
     },
     {
-      "uid": "9f3fa81e-50f7-4357-b972-b67e18d20664",
-      "description": "Bear cub room",
-      "url": "https://orbirental-images.s3.amazonaws.com/9f3fa81e-50f7-4357-b972-b67e18d20664",
-      "displayOrder": 37,
+      "uid": "515053e2-1116-4f59-b4c2-bcb4adb33fdd",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/515053e2-1116-4f59-b4c2-bcb4adb33fdd",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1055763f-2785-42d0-aba3-022c7be645bd",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/1055763f-2785-42d0-aba3-022c7be645bd",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "781c7f25-ec3d-4c64-bfd1-d0d71ed548fc",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/781c7f25-ec3d-4c64-bfd1-d0d71ed548fc",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9cbb9f15-8f68-4749-8354-ebc38a40a3e2",
+      "description": "Seating area in main level bedroom.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/9cbb9f15-8f68-4749-8354-ebc38a40a3e2",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "49e5cdef-d17d-4842-a2bd-c020c703c032",
+      "description": "Master Closet",
+      "url": "https://orbirental-images.s3.amazonaws.com/49e5cdef-d17d-4842-a2bd-c020c703c032",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cef3e158-b65d-4386-979a-93172e80d8a9",
+      "description": "Upstairs Bathroom",
+      "url": "https://orbirental-images.s3.amazonaws.com/cef3e158-b65d-4386-979a-93172e80d8a9",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "20cfcfaf-a3d0-41bb-b456-d764c554d29e",
+      "description": "Beautiful view from a dedicated office space for working those couple hours.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/20cfcfaf-a3d0-41bb-b456-d764c554d29e",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d91a7e98-db0b-491f-9b8a-ca4506b40146",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d91a7e98-db0b-491f-9b8a-ca4506b40146",
+      "displayOrder": 32,
       "airbnbRoomId": null
     },
     {
@@ -213,52 +339,24 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "20cfcfaf-a3d0-41bb-b456-d764c554d29e",
-      "description": "Beautiful view from a dedicated office space for working those couple hours.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/20cfcfaf-a3d0-41bb-b456-d764c554d29e",
-      "displayOrder": 31,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "cef3e158-b65d-4386-979a-93172e80d8a9",
-      "description": "Upstairs Bathroom",
-      "url": "https://orbirental-images.s3.amazonaws.com/cef3e158-b65d-4386-979a-93172e80d8a9",
-      "displayOrder": 30,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "781c7f25-ec3d-4c64-bfd1-d0d71ed548fc",
+      "uid": "d564241d-7fce-4254-86f2-9e798026c0fe",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/781c7f25-ec3d-4c64-bfd1-d0d71ed548fc",
-      "displayOrder": 27,
+      "url": "https://orbirental-images.s3.amazonaws.com/d564241d-7fce-4254-86f2-9e798026c0fe",
+      "displayOrder": 36,
       "airbnbRoomId": null
     },
     {
-      "uid": "583da72b-6d53-4f59-b335-a793571b94ff",
-      "description": "Bear Tooth Den",
-      "url": "https://orbirental-images.s3.amazonaws.com/583da72b-6d53-4f59-b335-a793571b94ff",
-      "displayOrder": 53,
+      "uid": "9f3fa81e-50f7-4357-b972-b67e18d20664",
+      "description": "Bear cub room",
+      "url": "https://orbirental-images.s3.amazonaws.com/9f3fa81e-50f7-4357-b972-b67e18d20664",
+      "displayOrder": 37,
       "airbnbRoomId": null
     },
     {
-      "uid": "46c8346b-4b88-4aae-a749-1f244c5bb42c",
+      "uid": "91aba525-82d2-42f0-a75d-d95a30214353",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/46c8346b-4b88-4aae-a749-1f244c5bb42c",
-      "displayOrder": 15,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "2d702b18-0a6a-4968-aa0f-c0e0f6ead8aa",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/2d702b18-0a6a-4968-aa0f-c0e0f6ead8aa",
-      "displayOrder": 5,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "eb26ab58-fd92-468b-b759-2e534f15a1e5",
-      "description": "Secluded in the trees, private and cozy.",
-      "url": "https://orbirental-images.s3.amazonaws.com/eb26ab58-fd92-468b-b759-2e534f15a1e5",
-      "displayOrder": 3,
+      "url": "https://orbirental-images.s3.amazonaws.com/91aba525-82d2-42f0-a75d-d95a30214353",
+      "displayOrder": 38,
       "airbnbRoomId": null
     },
     {
@@ -269,24 +367,45 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "1055763f-2785-42d0-aba3-022c7be645bd",
+      "uid": "5984caf5-c615-4d9e-a7e4-9ce6bcb2038f",
+      "description": "Down Stairs Kitchen Game Room",
+      "url": "https://orbirental-images.s3.amazonaws.com/5984caf5-c615-4d9e-a7e4-9ce6bcb2038f",
+      "displayOrder": 40,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "494762d5-c699-48d2-adff-1904aac47724",
+      "description": "Down Stairs Kitchen",
+      "url": "https://orbirental-images.s3.amazonaws.com/494762d5-c699-48d2-adff-1904aac47724",
+      "displayOrder": 41,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3d3cb61a-b04f-4643-804f-c9dee5d0e3db",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/1055763f-2785-42d0-aba3-022c7be645bd",
-      "displayOrder": 26,
+      "url": "https://orbirental-images.s3.amazonaws.com/3d3cb61a-b04f-4643-804f-c9dee5d0e3db",
+      "displayOrder": 42,
       "airbnbRoomId": null
     },
     {
-      "uid": "94738214-f761-4a37-a34d-82476389dbc3",
-      "description": "Kitchen Door",
-      "url": "https://orbirental-images.s3.amazonaws.com/94738214-f761-4a37-a34d-82476389dbc3",
-      "displayOrder": 6,
+      "uid": "df046584-1499-4eb7-a553-ac45cb7b25dd",
+      "description": "Down Stairs Bedroom",
+      "url": "https://orbirental-images.s3.amazonaws.com/df046584-1499-4eb7-a553-ac45cb7b25dd",
+      "displayOrder": 43,
       "airbnbRoomId": null
     },
     {
-      "uid": "3aa659de-f556-41ac-bede-53cf682dac09",
-      "description": "Welcome to BearTooth Lodge - Family Friendly Home ",
-      "url": "https://orbirental-images.s3.amazonaws.com/3aa659de-f556-41ac-bede-53cf682dac09",
-      "displayOrder": 0,
+      "uid": "0d17faae-7a9b-4223-af73-27c05c4af4af",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/0d17faae-7a9b-4223-af73-27c05c4af4af",
+      "displayOrder": 44,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1bea9069-1ac1-4708-bb4e-fb067b343939",
+      "description": "Down Stairs Bathroom",
+      "url": "https://orbirental-images.s3.amazonaws.com/1bea9069-1ac1-4708-bb4e-fb067b343939",
+      "displayOrder": 45,
       "airbnbRoomId": null
     },
     {
@@ -311,136 +430,24 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "d564241d-7fce-4254-86f2-9e798026c0fe",
+      "uid": "346458a8-30a7-4105-840c-99f81c52a08d",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/d564241d-7fce-4254-86f2-9e798026c0fe",
-      "displayOrder": 36,
+      "url": "https://orbirental-images.s3.amazonaws.com/346458a8-30a7-4105-840c-99f81c52a08d",
+      "displayOrder": 49,
       "airbnbRoomId": null
     },
     {
-      "uid": "9cbb9f15-8f68-4749-8354-ebc38a40a3e2",
-      "description": "Seating area in main level bedroom.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/9cbb9f15-8f68-4749-8354-ebc38a40a3e2",
-      "displayOrder": 28,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "371ceb3c-e026-41a9-9cf7-3673adc4ba5a",
+      "uid": "27caafaa-908a-49d4-aa30-c9a94610dada",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/371ceb3c-e026-41a9-9cf7-3673adc4ba5a",
-      "displayOrder": 24,
+      "url": "https://orbirental-images.s3.amazonaws.com/27caafaa-908a-49d4-aa30-c9a94610dada",
+      "displayOrder": 50,
       "airbnbRoomId": null
     },
     {
-      "uid": "d91a7e98-db0b-491f-9b8a-ca4506b40146",
+      "uid": "133f0380-7ed9-4475-8a8c-81fb6256797c",
       "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/d91a7e98-db0b-491f-9b8a-ca4506b40146",
-      "displayOrder": 32,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "3a7f39db-9921-4fc3-81c8-a168e04606df",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/3a7f39db-9921-4fc3-81c8-a168e04606df",
-      "displayOrder": 13,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "91aba525-82d2-42f0-a75d-d95a30214353",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/91aba525-82d2-42f0-a75d-d95a30214353",
-      "displayOrder": 38,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "0d17faae-7a9b-4223-af73-27c05c4af4af",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/0d17faae-7a9b-4223-af73-27c05c4af4af",
-      "displayOrder": 44,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "b46f54df-7759-4328-82a5-fe92199debd9",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/b46f54df-7759-4328-82a5-fe92199debd9",
-      "displayOrder": 10,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "71458d17-9204-4477-afc3-4b5b88e0d826",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/71458d17-9204-4477-afc3-4b5b88e0d826",
-      "displayOrder": 12,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "cae190bc-47b5-4efb-a406-179ff8235bb2",
-      "description": "SUMMER ENTRNACE ONLY PLEASE.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/cae190bc-47b5-4efb-a406-179ff8235bb2",
-      "displayOrder": 7,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "0b748f4d-e1e5-460b-a92e-7efa27325f2f",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/0b748f4d-e1e5-460b-a92e-7efa27325f2f",
-      "displayOrder": 9,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "515053e2-1116-4f59-b4c2-bcb4adb33fdd",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/515053e2-1116-4f59-b4c2-bcb4adb33fdd",
-      "displayOrder": 25,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "e4ecac81-294b-43bf-8a67-48642126ac43",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/e4ecac81-294b-43bf-8a67-48642126ac43",
-      "displayOrder": 20,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "9857f5ec-6c46-4ea3-8287-9ef2ca762057",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/9857f5ec-6c46-4ea3-8287-9ef2ca762057",
-      "displayOrder": 14,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "b1d5e445-4b6b-4130-9f6d-a3a882160ac1",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/b1d5e445-4b6b-4130-9f6d-a3a882160ac1",
-      "displayOrder": 18,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "49e5cdef-d17d-4842-a2bd-c020c703c032",
-      "description": "Master Closet",
-      "url": "https://orbirental-images.s3.amazonaws.com/49e5cdef-d17d-4842-a2bd-c020c703c032",
-      "displayOrder": 29,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "657f99d2-efe0-4181-85d6-030fcbb4ef35",
-      "description": "SUMMER ENTRANCE ONLY PLEASE",
-      "url": "https://orbirental-images.s3.amazonaws.com/657f99d2-efe0-4181-85d6-030fcbb4ef35",
-      "displayOrder": 8,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "db7b475a-4316-4bfe-80db-d421f5c50933",
-      "description": "You'll be nestled in the trees here at Bear Tooth Lodge",
-      "url": "https://orbirental-images.s3.amazonaws.com/db7b475a-4316-4bfe-80db-d421f5c50933",
-      "displayOrder": 1,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "1d6686b4-bc48-4fbf-801e-1e4f2e551e92",
-      "description": "Views will amaze you ",
-      "url": "https://orbirental-images.s3.amazonaws.com/1d6686b4-bc48-4fbf-801e-1e4f2e551e92",
-      "displayOrder": 4,
+      "url": "https://orbirental-images.s3.amazonaws.com/133f0380-7ed9-4475-8a8c-81fb6256797c",
+      "displayOrder": 51,
       "airbnbRoomId": null
     },
     {
@@ -451,10 +458,17 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "346458a8-30a7-4105-840c-99f81c52a08d",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/346458a8-30a7-4105-840c-99f81c52a08d",
-      "displayOrder": 49,
+      "uid": "583da72b-6d53-4f59-b335-a793571b94ff",
+      "description": "Bear Tooth Den",
+      "url": "https://orbirental-images.s3.amazonaws.com/583da72b-6d53-4f59-b335-a793571b94ff",
+      "displayOrder": 53,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d6bacea2-fba2-4bf7-9e58-fb1a57b6f8f4",
+      "description": "Mt. Timpanogas - in your backyard. ",
+      "url": "https://orbirental-images.s3.amazonaws.com/d6bacea2-fba2-4bf7-9e58-fb1a57b6f8f4",
+      "displayOrder": 54,
       "airbnbRoomId": null
     },
     {
@@ -462,20 +476,6 @@
       "description": "Bear Cub Den - Summertime Fun ",
       "url": "https://orbirental-images.s3.amazonaws.com/3430171d-9904-4a86-a87c-5b0318c1a17e",
       "displayOrder": 55,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "767fc762-1ff5-4f6a-9f5b-0f7800b6c196",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/767fc762-1ff5-4f6a-9f5b-0f7800b6c196",
-      "displayOrder": 11,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "9c85d758-f305-45d9-b27f-39343c873b15",
-      "description": "Driveway parking for four.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/9c85d758-f305-45d9-b27f-39343c873b15",
-      "displayOrder": 2,
       "airbnbRoomId": null
     }
   ],

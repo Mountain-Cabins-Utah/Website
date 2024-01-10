@@ -92,6 +92,13 @@
   "uid": "2a05c85d-b138-45fa-8f78-9f0bbfb9441f",
   "gallery": [
     {
+      "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
+      "description": "The Carriage House.  A beautiful place to come to.  A covered place to park your car and a beautiful circular stairway lthat eads up to the entrance to your home away from home!  Welcome.  \n ",
+      "url": "https://orbirental-images.s3.amazonaws.com/ae712a73-af19-41fa-aae9-9270017ed9b5",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "76bee241-15a3-4e92-ad68-a404485c0226",
       "description": "Queen size adjustable bed with access to outside covered large deck.  ",
       "url": "https://orbirental-images.s3.amazonaws.com/76bee241-15a3-4e92-ad68-a404485c0226",
@@ -225,6 +232,13 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "e7c4c06f-0a86-4127-9657-9973989e5eb0",
+      "description": "Your view from the bed.  You won't find anything better than this for less!",
+      "url": "https://orbirental-images.s3.amazonaws.com/e7c4c06f-0a86-4127-9657-9973989e5eb0",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "758a0216-7717-4cc4-a6b0-2a4993a37824",
       "description": "The best part of waking up in the mountains is all of this!",
       "url": "https://orbirental-images.s3.amazonaws.com/758a0216-7717-4cc4-a6b0-2a4993a37824",
@@ -260,6 +274,41 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "e05ee094-3f8a-481a-8f6b-65939ad53597",
+      "description": "Enjoy unlimited access to the hot tub just across the stream from the Carriage House.",
+      "url": "https://orbirental-images.s3.amazonaws.com/e05ee094-3f8a-481a-8f6b-65939ad53597",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "46c77186-b30b-4647-94e3-ae5203dce3da",
+      "description": "Enjoy a steaming outdoor shower after your relaxing soak in the hot tub",
+      "url": "https://orbirental-images.s3.amazonaws.com/46c77186-b30b-4647-94e3-ae5203dce3da",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7e40ff54-5b62-4c99-845e-2cb93fc83a90",
+      "description": "Ascend the one of a kind circularstaircase to get to the larger deck and bedroom.",
+      "url": "https://orbirental-images.s3.amazonaws.com/7e40ff54-5b62-4c99-845e-2cb93fc83a90",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ea3e949d-5016-441c-b4ae-f4709fecb24e",
+      "description": "With two covered decks to choose from, you'll find a new favorite sitting spot every day!",
+      "url": "https://orbirental-images.s3.amazonaws.com/ea3e949d-5016-441c-b4ae-f4709fecb24e",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "98c2f9fa-7a6f-4837-b210-276ff47f98ac",
+      "description": "Bring your marshmallows, chocolate, and gram crackers to make s'mores on the fire.",
+      "url": "https://orbirental-images.s3.amazonaws.com/98c2f9fa-7a6f-4837-b210-276ff47f98ac",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "f10650e8-77ea-464b-9508-8587118c3fc9",
       "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
       "url": "https://orbirental-images.s3.amazonaws.com/f10650e8-77ea-464b-9508-8587118c3fc9",
@@ -288,48 +337,6 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "be7cb986-7da8-463d-8083-95820d45e5b6",
-      "description": "Can you picture yourself watching the lights from the Carriage House glimmer on the stream?",
-      "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
-      "displayOrder": 37,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
-      "description": "The Carriage House.  A beautiful place to come to.  A covered place to park your car and a beautiful circular stairway lthat eads up to the entrance to your home away from home!  Welcome.  \n ",
-      "url": "https://orbirental-images.s3.amazonaws.com/ae712a73-af19-41fa-aae9-9270017ed9b5",
-      "displayOrder": 0,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "ea3e949d-5016-441c-b4ae-f4709fecb24e",
-      "description": "With two covered decks to choose from, you'll find a new favorite sitting spot every day!",
-      "url": "https://orbirental-images.s3.amazonaws.com/ea3e949d-5016-441c-b4ae-f4709fecb24e",
-      "displayOrder": 29,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "7e40ff54-5b62-4c99-845e-2cb93fc83a90",
-      "description": "Ascend the one of a kind circularstaircase to get to the larger deck and bedroom.",
-      "url": "https://orbirental-images.s3.amazonaws.com/7e40ff54-5b62-4c99-845e-2cb93fc83a90",
-      "displayOrder": 28,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "98c2f9fa-7a6f-4837-b210-276ff47f98ac",
-      "description": "Bring your marshmallows, chocolate, and gram crackers to make s'mores on the fire.",
-      "url": "https://orbirental-images.s3.amazonaws.com/98c2f9fa-7a6f-4837-b210-276ff47f98ac",
-      "displayOrder": 30,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "e7c4c06f-0a86-4127-9657-9973989e5eb0",
-      "description": "Your view from the bed.  You won't find anything better than this for less!",
-      "url": "https://orbirental-images.s3.amazonaws.com/e7c4c06f-0a86-4127-9657-9973989e5eb0",
-      "displayOrder": 20,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
       "description": "Enjoy the fire, the soothing stream, and the gourmet air of the mountains just outside on one of two private decks.  ",
       "url": "https://orbirental-images.s3.amazonaws.com/91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
@@ -344,17 +351,10 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "e05ee094-3f8a-481a-8f6b-65939ad53597",
-      "description": "Enjoy unlimited access to the hot tub just across the stream from the Carriage House.",
-      "url": "https://orbirental-images.s3.amazonaws.com/e05ee094-3f8a-481a-8f6b-65939ad53597",
-      "displayOrder": 26,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "46c77186-b30b-4647-94e3-ae5203dce3da",
-      "description": "Enjoy a steaming outdoor shower after your relaxing soak in the hot tub",
-      "url": "https://orbirental-images.s3.amazonaws.com/46c77186-b30b-4647-94e3-ae5203dce3da",
-      "displayOrder": 27,
+      "uid": "be7cb986-7da8-463d-8083-95820d45e5b6",
+      "description": "Can you picture yourself watching the lights from the Carriage House glimmer on the stream?",
+      "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
+      "displayOrder": 37,
       "airbnbRoomId": null
     },
     {

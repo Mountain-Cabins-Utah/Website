@@ -87,24 +87,10 @@
   "uid": "1f0d6ea4-23e1-43a4-ad38-a7e9f5370071",
   "gallery": [
     {
-      "uid": "971a0998-020b-45a2-b3da-4149dc1a606e",
-      "description": "The Cottage at night.  Magical.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/971a0998-020b-45a2-b3da-4149dc1a606e",
-      "displayOrder": 3,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "f3b1a3e2-834f-4de5-9285-0072b10b7e78",
       "description": "Front of The Cottage",
       "url": "https://orbirental-images.s3.amazonaws.com/f3b1a3e2-834f-4de5-9285-0072b10b7e78",
       "displayOrder": 0,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "a9782e3d-2959-4446-9c60-ecfbd2937f75",
-      "description": "The snowy Cottage is calling you.",
-      "url": "https://orbirental-images.s3.amazonaws.com/a9782e3d-2959-4446-9c60-ecfbd2937f75",
-      "displayOrder": 5,
       "airbnbRoomId": null
     },
     {
@@ -115,10 +101,31 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "a3815805-c5d5-4280-9994-7307187b6766",
+      "description": "Comfy couch.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/a3815805-c5d5-4280-9994-7307187b6766",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "971a0998-020b-45a2-b3da-4149dc1a606e",
+      "description": "The Cottage at night.  Magical.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/971a0998-020b-45a2-b3da-4149dc1a606e",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "c7da3f19-d7dc-435e-9c76-41c1460dc8d4",
       "description": "The essence of a creek side cabin!",
       "url": "https://orbirental-images.s3.amazonaws.com/c7da3f19-d7dc-435e-9c76-41c1460dc8d4",
       "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "a9782e3d-2959-4446-9c60-ecfbd2937f75",
+      "description": "The snowy Cottage is calling you.",
+      "url": "https://orbirental-images.s3.amazonaws.com/a9782e3d-2959-4446-9c60-ecfbd2937f75",
+      "displayOrder": 5,
       "airbnbRoomId": null
     },
     {
@@ -133,41 +140,6 @@
       "description": "What a wonderful place to enjoy your morning ",
       "url": "https://orbirental-images.s3.amazonaws.com/360bee2d-dfc1-49d3-926b-d5a43e828ca6",
       "displayOrder": 7,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "570acf75-3272-46be-8ad7-99befc3628a8",
-      "description": "View from the \"bridge\" across the creek.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/570acf75-3272-46be-8ad7-99befc3628a8",
-      "displayOrder": 19,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "148ce06d-8f95-4cda-92d4-fdb42d741b1a",
-      "description": "Turkeys sometimes use this bridge and so can you!",
-      "url": "https://orbirental-images.s3.amazonaws.com/148ce06d-8f95-4cda-92d4-fdb42d741b1a",
-      "displayOrder": 20,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
-      "description": "A beautiful place to relax and enjoy this beautiful place.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
-      "displayOrder": 21,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "d19550e5-dd22-46ca-ae73-542c6218f355",
-      "description": "Soft green grass for your toes.",
-      "url": "https://orbirental-images.s3.amazonaws.com/d19550e5-dd22-46ca-ae73-542c6218f355",
-      "displayOrder": 22,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "a3815805-c5d5-4280-9994-7307187b6766",
-      "description": "Comfy couch.  ",
-      "url": "https://orbirental-images.s3.amazonaws.com/a3815805-c5d5-4280-9994-7307187b6766",
-      "displayOrder": 2,
       "airbnbRoomId": null
     },
     {
@@ -241,6 +213,41 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "7fdc598f-d607-4f33-8c58-926f8284f4a6",
+      "description": "Stream Side Hot Tub soothes the body and the mind.  \n",
+      "url": "https://orbirental-images.s3.amazonaws.com/7fdc598f-d607-4f33-8c58-926f8284f4a6",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "570acf75-3272-46be-8ad7-99befc3628a8",
+      "description": "View from the \"bridge\" across the creek.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/570acf75-3272-46be-8ad7-99befc3628a8",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "148ce06d-8f95-4cda-92d4-fdb42d741b1a",
+      "description": "Turkeys sometimes use this bridge and so can you!",
+      "url": "https://orbirental-images.s3.amazonaws.com/148ce06d-8f95-4cda-92d4-fdb42d741b1a",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
+      "description": "A beautiful place to relax and enjoy this beautiful place.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/e4eb65ed-ff15-40b8-b76c-e8ea05a65c66",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d19550e5-dd22-46ca-ae73-542c6218f355",
+      "description": "Soft green grass for your toes.",
+      "url": "https://orbirental-images.s3.amazonaws.com/d19550e5-dd22-46ca-ae73-542c6218f355",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "fb663d88-b5e5-4cb1-9ecf-794a68e0a71e",
       "description": "The daily march of the turkeys. ",
       "url": "https://orbirental-images.s3.amazonaws.com/fb663d88-b5e5-4cb1-9ecf-794a68e0a71e",
@@ -252,13 +259,6 @@
       "description": "Mount Timpanogas says hi.",
       "url": "https://orbirental-images.s3.amazonaws.com/d1f5d2c8-3a9a-4a5a-b301-d2686a8d58f0",
       "displayOrder": 24,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "7fdc598f-d607-4f33-8c58-926f8284f4a6",
-      "description": "Stream Side Hot Tub soothes the body and the mind.  \n",
-      "url": "https://orbirental-images.s3.amazonaws.com/7fdc598f-d607-4f33-8c58-926f8284f4a6",
-      "displayOrder": 18,
       "airbnbRoomId": null
     },
     {
