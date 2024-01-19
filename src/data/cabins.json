@@ -57,7 +57,7 @@
     "currencySymbol": "$",
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
-    "guideBookUrl": null,
+    "guideBookUrl": "https://hostful.ly/gbkcbkm",
     "weekEndRatePercentAdjustment": 16.8067,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
@@ -5989,8 +5989,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 11,
-      "average": 4.636363636363637
+      "total": 12,
+      "average": 4.666666666666667
     },
     "createdDate": 1676323298000,
     "percentUponReservation": 50,
