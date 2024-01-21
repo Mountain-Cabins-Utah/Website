@@ -1,0 +1,313 @@
+{
+  "pricingRules": null,
+  "bedCount": 1,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 0,
+    "doubleBed": 0,
+    "singleBed": 0,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "APARTMENT",
+  "name": "Three Sisters",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 1,
+  "baseDailyRate": 0,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "8456 North Three Sisters Lane",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 1,
+  "bathrooms": "1",
+  "picture": "https://orbirental-images.s3.amazonaws.com/c429e498-463f-42dc-8f6c-753cbe0541ac_8456Threesisters%282%29.jpg",
+  "webLink": null,
+  "cleaningFeeAmount": 0,
+  "minimumStay": 1,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": null,
+  "acceptInstantBook": false,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/117253.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50%. minus 5% credit card processing fees.  Otherwise, they won't get a refund.",
+  "floor": 2,
+  "areaSize": 0,
+  "areaSizeUnit": "SQUARE_METERS",
+  "extraGuestFee": 0,
+  "taxationRate": 0,
+  "latitude": 40.3858785,
+  "longitude": -111.5953324,
+  "airBnBID": null,
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
+  "guideBookUrl": null,
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 48,
+  "defaultCheckinTime": 15,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": null,
+  "wifiPassword": null,
+  "rentalLicenseNumber": null,
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 0,
+    "average": null
+  },
+  "createdDate": 1705768942000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 45,
+  "listingLinks": {
+    "airbnbUrl": null,
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": null,
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "382b21e9-b7cc-4830-b630-d3cb75639338",
+  "gallery": [
+    {
+      "uid": "424e5f01-8524-45dd-8109-b206e6b0ad34",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/424e5f01-8524-45dd-8109-b206e6b0ad34",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "dbb72f1e-e742-470f-8067-f41f59b4b5d7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/dbb72f1e-e742-470f-8067-f41f59b4b5d7",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6a6b5c8e-af64-4d9f-8f55-8845e38a8c2a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/6a6b5c8e-af64-4d9f-8f55-8845e38a8c2a",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4745b45e-ae66-41a4-9f1a-60a27fab39a6",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/4745b45e-ae66-41a4-9f1a-60a27fab39a6",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "52e61abb-7168-4bf2-b808-f637415ca867",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/52e61abb-7168-4bf2-b808-f637415ca867",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "58bf129d-ccee-4de9-b88e-f1641ebc0f09",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/58bf129d-ccee-4de9-b88e-f1641ebc0f09",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ec76eb64-a97f-4862-a307-037cdff2145b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ec76eb64-a97f-4862-a307-037cdff2145b",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c2cf9cdf-72ae-459c-8ab1-7bbe9a21017f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c2cf9cdf-72ae-459c-8ab1-7bbe9a21017f",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "20344894-9f45-4347-b6b0-6e3a64b2c64a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/20344894-9f45-4347-b6b0-6e3a64b2c64a",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d3637f2c-f685-4691-9892-4e2de0993d53",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d3637f2c-f685-4691-9892-4e2de0993d53",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c3abfa3f-71b4-40f6-99b5-e24642412d66",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c3abfa3f-71b4-40f6-99b5-e24642412d66",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ba7a0cd7-515f-4573-950d-396907b56ce9",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ba7a0cd7-515f-4573-950d-396907b56ce9",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "76053a34-60a0-4f56-a3d8-fdaa946f449b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/76053a34-60a0-4f56-a3d8-fdaa946f449b",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "29915cb0-b321-4043-9012-b177ccacf1ee",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/29915cb0-b321-4043-9012-b177ccacf1ee",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "dde1c397-707e-440a-8245-33bd73e88af7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/dde1c397-707e-440a-8245-33bd73e88af7",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9a5a9188-b763-488e-a591-96873eeb5d8e",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9a5a9188-b763-488e-a591-96873eeb5d8e",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "dd9fbf71-7537-43fb-a938-f19e7c78d571",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/dd9fbf71-7537-43fb-a938-f19e7c78d571",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "37739a07-1ba1-455b-b4fd-bc343d46ab28",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/37739a07-1ba1-455b-b4fd-bc343d46ab28",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c291ae85-7a48-401c-ab12-d85669174bc1",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c291ae85-7a48-401c-ab12-d85669174bc1",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "89babed4-c8ba-4b9a-941a-73a78099fe54",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/89babed4-c8ba-4b9a-941a-73a78099fe54",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d31f1f29-f5ef-4747-a850-ffbdba643a20",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d31f1f29-f5ef-4747-a850-ffbdba643a20",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "63d3b16f-e0f2-4fde-8205-0f410c8221b3",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/63d3b16f-e0f2-4fde-8205-0f410c8221b3",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9a065c35-cd98-4d3a-a2c0-41e896734b2f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9a065c35-cd98-4d3a-a2c0-41e896734b2f",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ba41a238-9c0f-4a4d-8d3d-0121bff3185b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ba41a238-9c0f-4a4d-8d3d-0121bff3185b",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "61175579-7cff-45e3-9d7b-7136acd30c10",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/61175579-7cff-45e3-9d7b-7136acd30c10",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "04a11b73-34da-4fb5-b303-c2403c847b49",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/04a11b73-34da-4fb5-b303-c2403c847b49",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Three Sisters",
+    "shortSummary": null,
+    "summary": null,
+    "notes": null,
+    "access": null,
+    "transit": null,
+    "interaction": null,
+    "neighbourhood": null,
+    "space": null,
+    "houseManual": null,
+    "locale": "en_US"
+  }
+}

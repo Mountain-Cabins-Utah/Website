@@ -1443,8 +1443,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 172,
-      "average": 4.936046511627907
+      "total": 173,
+      "average": 4.936416184971098
     },
     "createdDate": 1562259471000,
     "percentUponReservation": 50,
@@ -6413,18 +6413,13 @@
     }
   },
   {
-    "pricingRules": {
-      "increaseRate": 0,
-      "increaseRateLowerBound": 0,
-      "decreaseRate": 0,
-      "decreaseRateHigherBound": 0
-    },
-    "bedCount": 3,
+    "pricingRules": null,
+    "bedCount": 1,
     "bedTypes": {
       "kingBed": 0,
-      "queenBed": 1,
+      "queenBed": 0,
       "doubleBed": 0,
-      "singleBed": 2,
+      "singleBed": 0,
       "sofaBed": 0,
       "futonBed": 0,
       "floorMattress": 0,
@@ -6436,400 +6431,297 @@
       "waterBed": 0,
       "couch": 0
     },
-    "type": "COTTAGE",
-    "name": "TimpCreek Cottage on the Stream",
+    "type": "APARTMENT",
+    "name": "Three Sisters",
     "isActive": true,
-    "baseGuests": 4,
-    "maximumGuests": 4,
-    "baseDailyRate": 425,
+    "baseGuests": 1,
+    "maximumGuests": 1,
+    "baseDailyRate": 0,
     "city": "Sundance",
     "state": "UT",
-    "address1": "8841 Alpine Loop",
-    "address2": "Unit 1-D",
+    "address1": "8456 North Three Sisters Lane",
+    "address2": "",
     "postalCode": "84604",
     "countryCode": "US",
-    "bedrooms": 2,
-    "bathrooms": "2.5",
-    "picture": "https://orbirental-images.s3.amazonaws.com/2b34e20e-8840-46e7-a744-a986ea9ee1a1_front+view.jpg",
-    "webLink": "https://platform.hostfully.com/vacation-rental-property/50994/timpcreek-cottage-on-the-stream",
-    "cleaningFeeAmount": 150,
-    "minimumStay": 2,
+    "bedrooms": 1,
+    "bathrooms": "1",
+    "picture": "https://orbirental-images.s3.amazonaws.com/c429e498-463f-42dc-8f6c-753cbe0541ac_8456Threesisters%282%29.jpg",
+    "webLink": null,
+    "cleaningFeeAmount": 0,
+    "minimumStay": 1,
     "maximumStay": 0,
     "securityDepositAmount": 0,
-    "externalID": "",
-    "acceptInstantBook": true,
+    "externalID": null,
+    "acceptInstantBook": false,
     "acceptBookingRequest": false,
-    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/50994.ics?itp=1",
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/117253.ics?itp=1",
     "rentalCondition": null,
-    "cancellationPolicy": null,
+    "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50%. minus 5% credit card processing fees.  Otherwise, they won't get a refund.",
     "floor": 2,
-    "areaSize": 1200,
-    "areaSizeUnit": "SQUARE_FEET",
+    "areaSize": 0,
+    "areaSizeUnit": "SQUARE_METERS",
     "extraGuestFee": 0,
-    "taxationRate": 11.76,
-    "latitude": 40.39245,
-    "longitude": -111.581195,
-    "airBnBID": "556654306649796348",
+    "taxationRate": 0,
+    "latitude": 40.3858785,
+    "longitude": -111.5953324,
+    "airBnBID": null,
     "homeAwayID": null,
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/50994/timpcreek-cottage-on-the-stream",
-    "guideBookUrl": "https://hostful.ly/gvdldxb",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
+    "guideBookUrl": null,
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
-    "bookingLeadTime": 0,
-    "defaultCheckinTime": 16,
+    "bookingLeadTime": 48,
+    "defaultCheckinTime": 15,
     "defaultCheckoutTime": 11,
-    "wifiNetwork": "Timp Creek",
-    "wifiPassword": "Timp5678",
-    "rentalLicenseNumber": "",
+    "wifiNetwork": null,
+    "wifiPassword": null,
+    "rentalLicenseNumber": null,
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 26,
-      "average": 4.961538461538462
+      "total": 0,
+      "average": null
     },
-    "createdDate": 1644187187000,
+    "createdDate": 1705768942000,
     "percentUponReservation": 50,
-    "fullPaymentTiming": 30,
+    "fullPaymentTiming": 45,
     "listingLinks": {
-      "airbnbUrl": "https://airbnb.com/rooms/556654306649796348",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/50994/timpcreek-cottage-on-the-stream",
+      "airbnbUrl": null,
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
       "bookingDotComUrl": null,
-      "homeAwayUrl": "https://www.vrbo.com/2689380?dateless=true",
+      "homeAwayUrl": null,
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
-    "uid": "897cf246-c783-4df0-a5ff-faf3241b6d9a",
-    "amenities": [
-      {
-        "title": "Private Entrance",
-        "description": "Enjoy complete, romantic privacy to the House in it's own quite little canyon on a private lane along the stream."
-      },
-      {
-        "title": "Parking",
-        "description": "Easy private parking is provided at the TimpCreek House and is paved and maintained year round."
-      },
-      {
-        "title": "2 Queen Sized Bed +1 Sleeper Sofa",
-        "description": "Enjoy luxury comfort on this quality mattress but be warned: You may not want to go back home, and this bed won't fit in your carry on luggage 🙂"
-      },
-      {
-        "title": "Walk to Sundance Mountain Resort",
-        "description": "About 3 minutes easy walk from Sundance Mountain Resort, voted \"Utah's Best Resort 2017\" by Conde` Nest Traveler."
-      },
-      {
-        "title": "Double Deck / Patio",
-        "description": "Relax on a Patio over looking Sundance Mountain and all the hikes, biking, skiing, fly fishing and sights in the area."
-      },
-      {
-        "title": "Amazing Views",
-        "description": "The TimpCreek House is surrounded by Big Pines and a beautiful, year round steam creating views from the deck that our guests describe as \"story book views\" they can't believe actually exist."
-      },
-      {
-        "title": "Propane BBQ Grill",
-        "description": "Dine out at Sundance Resort Restaurants like The Tree Room, Foundry Grill, or the Owl Bar, or... Grill and dine in with your own propane BBQ grill just outside the door."
-      },
-      {
-        "title": "Find More on Instagram",
-        "description": "Check out other guest's experience and share your own by searching & tagging your photos with #mtcabinsutguest & @mtcabinsutguide. We can't wait to meet you!!!"
-      }
-    ],
-    "description info": [
-      {
-        "title": "Entire Cabin For Rent",
-        "description": "4 guests   2 bedroom   1 bed + sofa sleeper   2.5 bath"
-      },
-      {
-        "description": "14 recent guests said this place was sparkling clean.",
-        "title": "Sparkling clean"
-      },
-      {
-        "title": "Great location",
-        "description": "90% of recent guests gave the location a 5-star rating."
-      },
-      {
-        "title": "Super Host Status",
-        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
-      },
-      {
-        "title": "Top Rated",
-        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
-      }
-    ],
-    "footer info": [
-      {
-        "icon": "person-plus",
-        "text": "Sleeps 2+2"
-      },
-      {
-        "icon": "shower-head-water",
-        "text": "Luxury Shower"
-      },
-      {
-        "text": "Walking Distance to Sundance",
-        "icon": "direction-sign"
-      },
-      {
-        "text": "Mountain Activities",
-        "icon": "mountain"
-      },
-      {
-        "text": "Microwave | Coffee Machine | Kitchenet",
-        "icon": "fork-plate-knife"
-      }
-    ],
-    "map": {
-      "label": "(40.394780, -111.589190)",
-      "url": "https://maps.google.com/maps?q=%2840.394780%2C%20-111.589190%29&t=m&z=10&output=embed&iwloc=near"
-    },
+    "uid": "382b21e9-b7cc-4830-b630-d3cb75639338",
     "gallery": [
       {
-        "uid": "808d3de3-5c0c-4349-b2fc-65bdaec1c161",
+        "uid": "424e5f01-8524-45dd-8109-b206e6b0ad34",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/808d3de3-5c0c-4349-b2fc-65bdaec1c161",
+        "url": "https://orbirental-images.s3.amazonaws.com/424e5f01-8524-45dd-8109-b206e6b0ad34",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
-        "uid": "dd9b012e-6bf3-44a0-a73c-0dde45c76ece",
+        "uid": "dbb72f1e-e742-470f-8067-f41f59b4b5d7",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/dd9b012e-6bf3-44a0-a73c-0dde45c76ece",
+        "url": "https://orbirental-images.s3.amazonaws.com/dbb72f1e-e742-470f-8067-f41f59b4b5d7",
         "displayOrder": 1,
         "airbnbRoomId": null
       },
       {
-        "uid": "46ed255f-1762-4ef2-8704-183c95540b70",
-        "description": "Through these sliding glass doors and the door to your right is your entrance to this cozy, memory filled home.  Enjoy!",
-        "url": "https://orbirental-images.s3.amazonaws.com/46ed255f-1762-4ef2-8704-183c95540b70",
+        "uid": "6a6b5c8e-af64-4d9f-8f55-8845e38a8c2a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/6a6b5c8e-af64-4d9f-8f55-8845e38a8c2a",
         "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
-        "uid": "9e014885-203a-4bb3-92c6-a4dd16f047b4",
-        "description": "Winter Wonderland",
-        "url": "https://orbirental-images.s3.amazonaws.com/9e014885-203a-4bb3-92c6-a4dd16f047b4",
+        "uid": "4745b45e-ae66-41a4-9f1a-60a27fab39a6",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4745b45e-ae66-41a4-9f1a-60a27fab39a6",
         "displayOrder": 3,
         "airbnbRoomId": null
       },
       {
-        "uid": "2ae3f3f9-272d-4688-bb8c-a600dcdbf3aa",
-        "description": "Walkway from the road and TimpCreek is to your right through the sliding glass doors. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/2ae3f3f9-272d-4688-bb8c-a600dcdbf3aa",
+        "uid": "52e61abb-7168-4bf2-b808-f637415ca867",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/52e61abb-7168-4bf2-b808-f637415ca867",
         "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
-        "uid": "bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
-        "description": "Sundance band of turkey's come and visit.  They live high in the trees at night and fly down every morning.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/bf51c71f-437b-4fd1-9a86-47ea2dfa4e95",
+        "uid": "58bf129d-ccee-4de9-b88e-f1641ebc0f09",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/58bf129d-ccee-4de9-b88e-f1641ebc0f09",
         "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
-        "uid": "e1edf97b-a55b-4620-8abe-bf5497f1499c",
-        "description": "Dining Room Taable for playing games, eating meals and having conversation.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/e1edf97b-a55b-4620-8abe-bf5497f1499c",
+        "uid": "ec76eb64-a97f-4862-a307-037cdff2145b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ec76eb64-a97f-4862-a307-037cdff2145b",
         "displayOrder": 6,
-        "airbnbRoomId": "284223924"
+        "airbnbRoomId": null
       },
       {
-        "uid": "473b5a04-8101-43c0-9056-a78f39c7332c",
-        "description": "Try out the player piano with instructions on the top.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/473b5a04-8101-43c0-9056-a78f39c7332c",
+        "uid": "c2cf9cdf-72ae-459c-8ab1-7bbe9a21017f",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c2cf9cdf-72ae-459c-8ab1-7bbe9a21017f",
         "displayOrder": 7,
-        "airbnbRoomId": "185405808"
+        "airbnbRoomId": null
       },
       {
-        "uid": "961eac2b-836c-42fc-b9a9-d0c508afbcfc",
-        "description": "Pick your favorite rool and follow the instructions on the top of the piana.  Enjoy.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/961eac2b-836c-42fc-b9a9-d0c508afbcfc",
+        "uid": "20344894-9f45-4347-b6b0-6e3a64b2c64a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/20344894-9f45-4347-b6b0-6e3a64b2c64a",
         "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
-        "uid": "0f64730f-798e-4e99-a947-e7a383c522fb",
-        "description": "Sit on the couch and enjoy the fireplace. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/0f64730f-798e-4e99-a947-e7a383c522fb",
+        "uid": "12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
         "displayOrder": 9,
-        "airbnbRoomId": "185405808"
+        "airbnbRoomId": null
       },
       {
-        "uid": "4c3ec56e-e154-4c60-aa0b-abf63050807f",
-        "description": "New Couch and propane fireplace creates a cozy, relaxing area to watch a movie, take a nap, read a book or have a conversation.  Blissful moments.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4c3ec56e-e154-4c60-aa0b-abf63050807f",
+        "uid": "4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
         "displayOrder": 10,
-        "airbnbRoomId": "185405808"
+        "airbnbRoomId": null
       },
       {
-        "uid": "cb3ee491-ec8f-45f9-9e4d-38b76e574537",
-        "description": "New propane fireplace adds warmth and thermostate operated.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/cb3ee491-ec8f-45f9-9e4d-38b76e574537",
+        "uid": "d3637f2c-f685-4691-9892-4e2de0993d53",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d3637f2c-f685-4691-9892-4e2de0993d53",
         "displayOrder": 11,
-        "airbnbRoomId": "185405808"
+        "airbnbRoomId": null
       },
       {
-        "uid": "b05a90c0-3f0f-4c16-80c4-16299113f7c7",
-        "description": "New stove, refrigerator and dishwasher.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/b05a90c0-3f0f-4c16-80c4-16299113f7c7",
+        "uid": "c3abfa3f-71b4-40f6-99b5-e24642412d66",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c3abfa3f-71b4-40f6-99b5-e24642412d66",
         "displayOrder": 12,
-        "airbnbRoomId": "284223924"
+        "airbnbRoomId": null
       },
       {
-        "uid": "03663e27-433f-46f8-a633-d125360549d5",
-        "description": "Kitchen looking into the dining area.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/03663e27-433f-46f8-a633-d125360549d5",
+        "uid": "ba7a0cd7-515f-4573-950d-396907b56ce9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ba7a0cd7-515f-4573-950d-396907b56ce9",
         "displayOrder": 13,
-        "airbnbRoomId": "284223924"
+        "airbnbRoomId": null
       },
       {
-        "uid": "aa568f80-df60-4724-a13d-bc0219399989",
-        "description": "Downstairs bathroom with tub, toilet, sink and shower.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/aa568f80-df60-4724-a13d-bc0219399989",
+        "uid": "76053a34-60a0-4f56-a3d8-fdaa946f449b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/76053a34-60a0-4f56-a3d8-fdaa946f449b",
         "displayOrder": 14,
-        "airbnbRoomId": "260365978"
+        "airbnbRoomId": null
       },
       {
-        "uid": "6fc7fbad-cd8f-45b7-862b-3fd9a8ba453f",
-        "description": "Loveseat to watch the fire in the fireplace.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/6fc7fbad-cd8f-45b7-862b-3fd9a8ba453f",
+        "uid": "29915cb0-b321-4043-9012-b177ccacf1ee",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/29915cb0-b321-4043-9012-b177ccacf1ee",
         "displayOrder": 15,
-        "airbnbRoomId": "185405808"
+        "airbnbRoomId": null
       },
       {
-        "uid": "78b30410-08d4-4482-b5d7-1ce49fd4e4b9",
-        "description": "A quiet nook to grab a book.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/78b30410-08d4-4482-b5d7-1ce49fd4e4b9",
+        "uid": "dde1c397-707e-440a-8245-33bd73e88af7",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/dde1c397-707e-440a-8245-33bd73e88af7",
         "displayOrder": 16,
-        "airbnbRoomId": "185405805"
+        "airbnbRoomId": null
       },
       {
-        "uid": "43bfa69f-03df-495a-af47-4b4117921e72",
-        "description": "Xtra Long Twin beds in the loft area upstairs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/43bfa69f-03df-495a-af47-4b4117921e72",
+        "uid": "9a5a9188-b763-488e-a591-96873eeb5d8e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/9a5a9188-b763-488e-a591-96873eeb5d8e",
         "displayOrder": 17,
-        "airbnbRoomId": "185405807"
+        "airbnbRoomId": null
       },
       {
-        "uid": "4c0037ae-a378-411a-a376-982b08deb90a",
-        "description": "Quiet sleeping area.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4c0037ae-a378-411a-a376-982b08deb90a",
+        "uid": "dd9fbf71-7537-43fb-a938-f19e7c78d571",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/dd9fbf71-7537-43fb-a938-f19e7c78d571",
         "displayOrder": 18,
-        "airbnbRoomId": "185405807"
+        "airbnbRoomId": null
       },
       {
-        "uid": "9c257e5d-0101-46e5-b202-dde1d90893b5",
-        "description": "Laundry and half bath upstairs",
-        "url": "https://orbirental-images.s3.amazonaws.com/9c257e5d-0101-46e5-b202-dde1d90893b5",
+        "uid": "37739a07-1ba1-455b-b4fd-bc343d46ab28",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/37739a07-1ba1-455b-b4fd-bc343d46ab28",
         "displayOrder": 19,
-        "airbnbRoomId": "260365981"
+        "airbnbRoomId": null
       },
       {
-        "uid": "71eeb1df-12d6-4574-a806-403a595334ea",
-        "description": "Upstairs Main Bedroom doors to deck",
-        "url": "https://orbirental-images.s3.amazonaws.com/71eeb1df-12d6-4574-a806-403a595334ea",
+        "uid": "c291ae85-7a48-401c-ab12-d85669174bc1",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c291ae85-7a48-401c-ab12-d85669174bc1",
         "displayOrder": 20,
-        "airbnbRoomId": "185405806"
+        "airbnbRoomId": null
       },
       {
-        "uid": "d78357b3-6966-41eb-be41-372166366a62",
-        "description": "Queen Bed in Main Bedroom upstairs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/d78357b3-6966-41eb-be41-372166366a62",
+        "uid": "89babed4-c8ba-4b9a-941a-73a78099fe54",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/89babed4-c8ba-4b9a-941a-73a78099fe54",
         "displayOrder": 21,
-        "airbnbRoomId": "185405806"
+        "airbnbRoomId": null
       },
       {
-        "uid": "9a64d9cb-7fcd-4920-b55f-1bd6c73feaff",
-        "description": "Master Bedroom upstairs.  Second balcony overlooks the hot tub.  New Smart TV for watching movies.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/9a64d9cb-7fcd-4920-b55f-1bd6c73feaff",
+        "uid": "d31f1f29-f5ef-4747-a850-ffbdba643a20",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d31f1f29-f5ef-4747-a850-ffbdba643a20",
         "displayOrder": 22,
-        "airbnbRoomId": "185405806"
+        "airbnbRoomId": null
       },
       {
-        "uid": "1f6d339e-7c34-4fa2-aba1-a2a751cc0268",
-        "description": "Main Bedroom Upstairs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/1f6d339e-7c34-4fa2-aba1-a2a751cc0268",
+        "uid": "63d3b16f-e0f2-4fde-8205-0f410c8221b3",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/63d3b16f-e0f2-4fde-8205-0f410c8221b3",
         "displayOrder": 23,
-        "airbnbRoomId": "185405806"
+        "airbnbRoomId": null
       },
       {
-        "uid": "45ddb2bc-1c3f-4e5d-8a0a-bafbe1cbc475",
-        "description": "Spacious Bathroom Upstairs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/45ddb2bc-1c3f-4e5d-8a0a-bafbe1cbc475",
+        "uid": "9a065c35-cd98-4d3a-a2c0-41e896734b2f",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/9a065c35-cd98-4d3a-a2c0-41e896734b2f",
         "displayOrder": 24,
-        "airbnbRoomId": "260365978"
+        "airbnbRoomId": null
       },
       {
-        "uid": "ac69949e-db8f-4cdc-b4ac-10f4acf0e8bb",
-        "description": "Newly installed large walk in shower upstairs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/ac69949e-db8f-4cdc-b4ac-10f4acf0e8bb",
+        "uid": "ba41a238-9c0f-4a4d-8d3d-0121bff3185b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ba41a238-9c0f-4a4d-8d3d-0121bff3185b",
         "displayOrder": 25,
-        "airbnbRoomId": "260365978"
+        "airbnbRoomId": null
       },
       {
-        "uid": "985f40f8-4765-4f44-ac61-89b242b9935e",
-        "description": "Outside hot tub overlooking the creek.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/985f40f8-4765-4f44-ac61-89b242b9935e",
+        "uid": "d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
         "displayOrder": 26,
-        "airbnbRoomId": "284223927"
+        "airbnbRoomId": null
       },
       {
-        "uid": "896c2a59-c937-42ec-b341-bafbfc0d9fde",
-        "description": "Enjoy the stars at night!",
-        "url": "https://orbirental-images.s3.amazonaws.com/896c2a59-c937-42ec-b341-bafbfc0d9fde",
+        "uid": "61175579-7cff-45e3-9d7b-7136acd30c10",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/61175579-7cff-45e3-9d7b-7136acd30c10",
         "displayOrder": 27,
-        "airbnbRoomId": "284223927"
+        "airbnbRoomId": null
       },
       {
-        "uid": "76c8897d-34e8-4b4a-b5a7-1797df485457",
-        "description": "Dine al fresco outside next to the stream.  Propane BBQ with propane provided.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/76c8897d-34e8-4b4a-b5a7-1797df485457",
+        "uid": "04a11b73-34da-4fb5-b303-c2403c847b49",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/04a11b73-34da-4fb5-b303-c2403c847b49",
         "displayOrder": 28,
-        "airbnbRoomId": "185405805"
+        "airbnbRoomId": null
       },
       {
-        "uid": "8003cacc-e67b-4121-b43a-0ecdc2228872",
-        "description": "Take advantage of a respite on the bench and watch the water in the creek.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/8003cacc-e67b-4121-b43a-0ecdc2228872",
+        "uid": "084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
         "displayOrder": 29,
-        "airbnbRoomId": "185405805"
-      },
-      {
-        "uid": "c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
-        "description": "The Creek will mesmerize you both in summe and in winter. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/c5f392ca-7c03-44ce-8d3d-3f0441c2ede1",
-        "displayOrder": 30,
-        "airbnbRoomId": "185405805"
-      },
-      {
-        "uid": "fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
-        "description": "Autumn splendor on the creek.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/fd0c1fbc-8baf-48a0-aa85-f16d1730a442",
-        "displayOrder": 31,
-        "airbnbRoomId": "185405805"
-      },
-      {
-        "uid": "d260f216-2240-49b2-b4d7-b16d555bc35b",
-        "description": "Mt. Timpanogas looms in your close back yard.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/d260f216-2240-49b2-b4d7-b16d555bc35b",
-        "displayOrder": 32,
-        "airbnbRoomId": "185405805"
+        "airbnbRoomId": null
       }
     ],
     "description": {
-      "name": "TimpCreek Cottage on the Stream",
-      "shortSummary": "TimpCreek Cottage on the Stream ",
-      "summary": "Embrace the epitome of convenience here at TimpCreek on the Stream where nature blends with luxury. A romantic escape, business gathering, adventure retreat, or refreshing getaway, this is where you belong. Leave your car behind upon arrival; a charming 3-minute stroll by the creek takes you to exquisite luxury dining, gift shop, art gallery, the Spa or your business meetings at the Resort.  And let's not forget the thrill of the Outlaw Ski Lift, right at the base of the resort. This is it! ",
-      "notes": "We are a privately owned and operated vacation property within the  Sundance Resort.  Although we are not affiliated with the Resort itself, all activities and amenities are available for your use.  \n\nTimpCreek is not a private stand alone structure and has another rental attached to it.  Each unit has it's own separate private entrances, parking space, decks, hot tub and outside areas.  \n\nHOT TUB - Feel free to use the hot tub and adjust the temperature up or down as you like, but please do not adjust any other settings.  \n\nPROPANE FIREPLACE - Remote Control adjusts fireplace to the termperature of your likiing, but please do not adjust other settings.  (Remote Control located above the thermostate on the wall to the left of the piano).",
-      "access": "Upon arrival at TimpCreek, the building will be to your right and your disignated parking spot is the one to the right.  There is room for one car.  Should you need an additional space, please contact your host.",
-      "transit": "Once you arrive, you are walking distance to the Resorts amenities.  However, should you want to explore off mountain you will want to rent or drive a car.  FROM NOVEMBER 1 THRU APRIL 30 - FOUR WHEEL, ALL WHEEL OR CHARINS ARE REQUIRED.  \n\nThere are no grocery stores or gas stations at Sundance however in the directions, we give the location of the stores closest to us.",
-      "interaction": "Time away is so very important and we commit to do everything to make your time stress free.  \nPrior to your arrival we turn lights on, add music to the television and adjust temperatures  to add to a cozy welcome when you enter. \n\nAfter your booking, Pamela, your mountain contact, will send you a text for easier communication and to make sure any urgent message can be communicated to you quickly.  \n\n\n\n",
-      "neighbourhood": "Walk out the path from TimpCreek and turn left to go to the Resort.  When you get to the fork, go left again nd you will pass the Glass Blowers (seasonal), the Art Gallery for great gifts or to take a class,   Turn right at the fork and you will walk past the Private Screening Room, the Pond and then find the Outlaw Ski Lift and LookOut Aspre Restaurant o your right and the Resort Restaurants to your left.  \n\nOr, walk out the path from Timp Creek and turn right, walk up the stairs to Timphaven Road.  The Spa is located just a short walk on the right side of Timphaven.",
-      "space": "Hand peeled logs, rustic beams, cozy fireplace, timber planked floors, and full of fun collections plus the warmth of furnishings from a time long past welcome you to this 2 bedroom, 2.5 bath santuary.  Set apart, but not remote, TimpCreek on the  Stream has easy all year access.  \n\nCurl up in front of the propane fireplace for a cozy conversation or to read a book.  New classic inspired appliances make preparing a meal a delight and then dine at the dining room table while looking out at Mother Nature.  Should you have to get a bit of work done, there's a desk set up for your convenience.  Then.... go out and play.  \n\nThe kitchen deck with BBQ and table is perfect for outdoor dining.  \n\nMain bedroom upstairs has direct access to a private deck in the trees overlooking the stream to enjoy your morning beverage or afternoon quiet respite.  The master bathroom upstairs has been newly renovated and has a spacious, tiled shower.  Towels and robes provided.  \n\nThe loft contains the second sleeping area with two extra long twin beds, and half bath that includes new washer and dryer.    \n\nNo matter what season you come to visit,  whether it's for the spring meadows laced with wild flowers, the smells and activities of summer,  the magnificence of autumn colors, or a blanket of the greatest snow on earth, every season invites you to return and stay one more time.  Make this your come back to destination.",
-      "houseManual": "",
+      "name": "Three Sisters",
+      "shortSummary": null,
+      "summary": null,
+      "notes": null,
+      "access": null,
+      "transit": null,
+      "interaction": null,
+      "neighbourhood": null,
+      "space": null,
+      "houseManual": null,
       "locale": "en_US"
     }
   }
