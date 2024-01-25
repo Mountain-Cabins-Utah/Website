@@ -542,7 +542,7 @@
     "acceptInstantBook": true,
     "acceptBookingRequest": false,
     "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/22906.ics?itp=1",
-    "rentalCondition": null,
+    "rentalCondition": "PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \n\nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \n\nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \n\nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \n\nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount.  Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \n\nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \n\nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \n\nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \n\nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \n\nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \n\nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \n\nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \n\nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \n\nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AND NO SMOKING – Violation of these or any of the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred due to Guests  occupancy.   \n\nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
     "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid, minus 5%  to cover credit  card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50% minus 5% to cover processing fees. Otherwise, they won't get a refund.",
     "floor": 0,
     "areaSize": 650,
@@ -1971,417 +1971,6 @@
       "neighbourhood": "",
       "space": "",
       "houseManual": "",
-      "locale": "en_US"
-    }
-  },
-  {
-    "pricingRules": null,
-    "bedCount": 9,
-    "bedTypes": {
-      "kingBed": 4,
-      "queenBed": 1,
-      "doubleBed": 0,
-      "singleBed": 4,
-      "sofaBed": 0,
-      "futonBed": 0,
-      "floorMattress": 0,
-      "bunkBed": 0,
-      "toddlerBed": 0,
-      "crib": 0,
-      "hammockBed": 0,
-      "airMattress": 0,
-      "waterBed": 0,
-      "couch": 0
-    },
-    "type": "CABIN",
-    "name": "Little Cabin on Deer Run",
-    "isActive": true,
-    "baseGuests": 12,
-    "maximumGuests": 12,
-    "baseDailyRate": 995,
-    "city": "Sundance",
-    "state": "UT",
-    "address1": "3093 Deer Run ",
-    "address2": "",
-    "postalCode": "84604",
-    "countryCode": "US",
-    "bedrooms": 7,
-    "bathrooms": "4",
-    "picture": "https://orbirental-images.s3.amazonaws.com/00e8762b-5141-4cb3-88ad-97a8bf8376a7_1-28-23+-+3.jpg",
-    "webLink": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
-    "cleaningFeeAmount": 500,
-    "minimumStay": 2,
-    "maximumStay": 40,
-    "securityDepositAmount": 500,
-    "externalID": "",
-    "acceptInstantBook": true,
-    "acceptBookingRequest": false,
-    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/52565.ics?itp=1",
-    "rentalCondition": "GENERAL PROPERTY CONDITIONS ---- There are differences in our Northern Properties and Southern Properties.  Dependent upon the property rented determines the Rental Conditions listed herein.  \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled and money would not be refundable.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-in’s or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nBEFORE DEPARTING:  Please do the following before departing the property:  \n•\tFurniture - If you moved it, please put it back. \n•\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n•\tNetflix - if you signed into Netflix, remember to sign out.  \n•\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n•\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds.\n•\tTowels - leave used towels in the bathtub, shower or on the floor.\n•\tLights, fans, and appliances should be turned off. \n•\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n•\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n•\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\n\nNORTHERN PROPERTIES located in Sundance, Utah - Carriage House Above the Stream, Hideaway Above the Stream, Treehouse on the Stream, Cottage on the Stream, Log Cabin on the Stream\nMINIMUM STAY:  A two-night minimum stay is required.  Longer minimum stays may be required during holiday periods or special events.  \nPETS:  Well behaved adult dogs are considered.  No cats.  $100.00 pet fee will be charged plus a pet deposit.  \nPET EXCEPTION: Carriage House Above the Stream is NOT pet friendly.  No pets at this property.  \nRESTRICTIONS NORTHERN PROPERTY:   The following activities are not permitted within the boundaries of the residential community or resort:  \n•\tATVs or snowmobiles*\n•\tDischarge of firearms or use of archery tackle*\n•\tHunting or trapping*\n•\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n•\tExcessive noise that disrupts, disturbs, annoys or offends neighbors*\n•\tSound curfew is 9:00 pm*\n•\tLarge recreational vehicles or large trailers (The roads are too narrow) *\n•\tParking anywhere except designated cabin parking.  No street parking or parking in neighboring cabins*\n*\tFines of up to $1,000.00 may be assessed for prohibited activities.  \n**\tOpen fires are restricted outside and will be fined $2,500 by the County.\n\nSOUTHERN PROPERTIES located in Beaver, Utah - Wooded Ridge 6, Wooded Ridge 8, Wooded Ridge 10, Snowflake 15, Snowflake 17\nMINIMUM STAY:  A one-night minimum stay is required.  Longer minimum stays may be required during holiday periods or special events.  \nPETS:  Well behaved adult dogs are considered.  No cats.  $100.00 pet fee will be charged plus a pet deposit.  \nRESTRICTIONS SOUTHERN PROPERTY:   The following activities are not permitted within the boundaries of the community or resort:  \n•\tDischarge of firearms or use of archery tackle*\n•\tHunting or trapping*\n•\tOutside fires, fireworks or any combustible substance is prohibited**\n•\tExcessive noise that disrupts, disturbs, annoys or offends neighbors*\n•\tSound curfew is 9:00 pm*\n•\tParking anywhere except designated parking.  \n*\t       Fines of up to $1,000.00 may be assessed for prohibited activities.  \n**\tOpen fires are restricted outside and will be fined $2,500 by the County.",
-    "cancellationPolicy": null,
-    "floor": 3,
-    "areaSize": 3098,
-    "areaSizeUnit": "SQUARE_FEET",
-    "extraGuestFee": 0,
-    "taxationRate": 11.76,
-    "latitude": 40.38711480000001,
-    "longitude": -111.5860962,
-    "airBnBID": "826912898418052793",
-    "homeAwayID": null,
-    "currency": "USD",
-    "currencySymbol": "$",
-    "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
-    "guideBookUrl": "https://hostful.ly/gmdqhrx",
-    "weekEndRatePercentAdjustment": 0,
-    "bookingWindow": -1,
-    "bookingWindowAfterCheckout": -1,
-    "turnOverDays": 0,
-    "bookingLeadTime": 24,
-    "defaultCheckinTime": 16,
-    "defaultCheckoutTime": 11,
-    "wifiNetwork": " Sundance little cabin ",
-    "wifiPassword": "FamilyJedi3093",
-    "rentalLicenseNumber": "",
-    "rentalLicenseNumberExpirationDate": null,
-    "minimumWeekendStay": 0,
-    "reviews": {
-      "total": 2,
-      "average": 4.5
-    },
-    "createdDate": 1646947716000,
-    "percentUponReservation": 50,
-    "fullPaymentTiming": 30,
-    "listingLinks": {
-      "airbnbUrl": "https://airbnb.com/rooms/826912898418052793",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/52565/little-cabin-on-deer-run",
-      "bookingDotComUrl": null,
-      "homeAwayUrl": null,
-      "tripAdvisorUrl": null,
-      "hvmiUrl": null
-    },
-    "uid": "742117b6-5fc2-46a9-b713-4d982d6363d6",
-    "gallery": [
-      {
-        "uid": "f9d80536-0c07-488e-834d-cebbd4cbd2a2",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/f9d80536-0c07-488e-834d-cebbd4cbd2a2",
-        "displayOrder": 0,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "11d5d6de-0bea-4038-83d5-7ffd4672dc45",
-        "description": "Main entrance.",
-        "url": "https://orbirental-images.s3.amazonaws.com/11d5d6de-0bea-4038-83d5-7ffd4672dc45",
-        "displayOrder": 1,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "3bb65eb9-892f-4944-b026-9e91b809d924",
-        "description": "This is your view as you walk in the front door.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/3bb65eb9-892f-4944-b026-9e91b809d924",
-        "displayOrder": 2,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "56df00c3-e278-4afe-a0d9-55234c6ffc7b",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/56df00c3-e278-4afe-a0d9-55234c6ffc7b",
-        "displayOrder": 3,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "b3f7fedd-f68e-4650-8fa4-68c1b3972005",
-        "description": "Main level living room. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/b3f7fedd-f68e-4650-8fa4-68c1b3972005",
-        "displayOrder": 4,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "acd7fbe0-7ed2-453f-aacb-46f7f49db410",
-        "description": "Looking from the windows back to the front door.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/acd7fbe0-7ed2-453f-aacb-46f7f49db410",
-        "displayOrder": 5,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "d11d4d64-7420-41cd-978b-cb84ad05ebab",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/d11d4d64-7420-41cd-978b-cb84ad05ebab",
-        "displayOrder": 6,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "7b8d3823-8887-4eb1-bc48-46d23fc8f5c8",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/7b8d3823-8887-4eb1-bc48-46d23fc8f5c8",
-        "displayOrder": 7,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "7d486dc0-d417-48ca-a008-5467941db657",
-        "description": "Main level kitchen.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/7d486dc0-d417-48ca-a008-5467941db657",
-        "displayOrder": 8,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "2fa415de-e5df-4b96-9d02-8e54fca137f3",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/2fa415de-e5df-4b96-9d02-8e54fca137f3",
-        "displayOrder": 9,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "cbb4fd0d-e1d7-437e-aace-b1637a95405b",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/cbb4fd0d-e1d7-437e-aace-b1637a95405b",
-        "displayOrder": 10,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bb56cb59-baa6-4853-a41f-eb89a55afd35",
-        "description": "Dining area and pool table.  And, by the winow is a sit down Ms. PacMan machine!",
-        "url": "https://orbirental-images.s3.amazonaws.com/bb56cb59-baa6-4853-a41f-eb89a55afd35",
-        "displayOrder": 11,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "298aff10-6c49-41ed-9513-a8291695662c",
-        "description": " Dining room table seats eight plus bar seating for four.  BBQ is out on the deck.",
-        "url": "https://orbirental-images.s3.amazonaws.com/298aff10-6c49-41ed-9513-a8291695662c",
-        "displayOrder": 12,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "ea234690-053a-4511-b466-c6953b164f8a",
-        "description": "Main level game room near kitchen. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/ea234690-053a-4511-b466-c6953b164f8a",
-        "displayOrder": 13,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "81072da1-e067-4beb-b0ad-345b77fe24e3",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/81072da1-e067-4beb-b0ad-345b77fe24e3",
-        "displayOrder": 14,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "dd204d53-12a2-4d76-babd-5dffe946f90d",
-        "description": "Sitting area by pool table",
-        "url": "https://orbirental-images.s3.amazonaws.com/dd204d53-12a2-4d76-babd-5dffe946f90d",
-        "displayOrder": 15,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "905f80d1-4eab-465a-9821-3f393ade4e86",
-        "description": "Bedroom #2 - Main Level Master with adjoining bathroom.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/905f80d1-4eab-465a-9821-3f393ade4e86",
-        "displayOrder": 16,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "e00139b6-fe73-4918-b61e-5b7c61b2789a",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/e00139b6-fe73-4918-b61e-5b7c61b2789a",
-        "displayOrder": 17,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bcca5373-d6a9-468d-9994-f43a932cdaec",
-        "description": "Loft play area near entrance.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/bcca5373-d6a9-468d-9994-f43a932cdaec",
-        "displayOrder": 18,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "f6c0e6d4-e4aa-471f-9ce6-da6c192d1c73",
-        "description": "Loft Bedroom #6 - Upstairs - Climp the stairs  and find a great place to hide and sleep.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/f6c0e6d4-e4aa-471f-9ce6-da6c192d1c73",
-        "displayOrder": 19,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "fc0e5dc9-f85d-4433-84a1-c66dc39de2ff",
-        "description": "Master Bath - Main level - Extra Long Soaking Tub and adjoinging shower.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/fc0e5dc9-f85d-4433-84a1-c66dc39de2ff",
-        "displayOrder": 20,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "537872e9-b1a6-4825-aa94-b59b38c64502",
-        "description": "Main level master bath with laundry facilities access.",
-        "url": "https://orbirental-images.s3.amazonaws.com/537872e9-b1a6-4825-aa94-b59b38c64502",
-        "displayOrder": 21,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "5639ec29-4443-4bb8-815f-e9f6c7e00b4b",
-        "description": "Main level master bathroom.  Extra long soaking tub.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/5639ec29-4443-4bb8-815f-e9f6c7e00b4b",
-        "displayOrder": 22,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "06c2d51a-f629-4cdf-a49e-b446d8c69e1d",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/06c2d51a-f629-4cdf-a49e-b446d8c69e1d",
-        "displayOrder": 23,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "7ba534f1-00bc-403c-913a-098ee5092a4e",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/7ba534f1-00bc-403c-913a-098ee5092a4e",
-        "displayOrder": 24,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "944d69ed-3d1c-4832-8cd1-dd71dc7b9261",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/944d69ed-3d1c-4832-8cd1-dd71dc7b9261",
-        "displayOrder": 25,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "7eaa27c2-3c25-4dc3-9ad4-79a15fc46a4a",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/7eaa27c2-3c25-4dc3-9ad4-79a15fc46a4a",
-        "displayOrder": 26,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "3eb97062-ab5f-40d9-94dc-328f26789fcd",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/3eb97062-ab5f-40d9-94dc-328f26789fcd",
-        "displayOrder": 27,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "1cfe0d29-c966-4d2c-ac34-dbb0a5338152",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/1cfe0d29-c966-4d2c-ac34-dbb0a5338152",
-        "displayOrder": 28,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "b8efe3cd-ac36-489d-8029-33903172a92d",
-        "description": "Downstairs living room with kitchen.",
-        "url": "https://orbirental-images.s3.amazonaws.com/b8efe3cd-ac36-489d-8029-33903172a92d",
-        "displayOrder": 29,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "48590c01-86c1-4882-964e-8092a87edbf1",
-        "description": "Downstairs kitchen.",
-        "url": "https://orbirental-images.s3.amazonaws.com/48590c01-86c1-4882-964e-8092a87edbf1",
-        "displayOrder": 30,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bd054102-8fdf-47ad-8586-fd61485d6164",
-        "description": "Lower level living room with kitchen ",
-        "url": "https://orbirental-images.s3.amazonaws.com/bd054102-8fdf-47ad-8586-fd61485d6164",
-        "displayOrder": 31,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "95dd6d6e-ffb7-458f-a137-e7c4af5a4f3d",
-        "description": "Downstairs living room, fireplace and TV.",
-        "url": "https://orbirental-images.s3.amazonaws.com/95dd6d6e-ffb7-458f-a137-e7c4af5a4f3d",
-        "displayOrder": 32,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bb0faa9e-7bd1-40d6-80dc-05ddf772575e",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/bb0faa9e-7bd1-40d6-80dc-05ddf772575e",
-        "displayOrder": 33,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "4be5d50e-fe95-4e9d-be95-11c105bc6910",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/4be5d50e-fe95-4e9d-be95-11c105bc6910",
-        "displayOrder": 34,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "c92ca22f-aacb-49b6-a59e-4eaf8cad59b2",
-        "description": "Lower level main queen bedroom with hot tub access.",
-        "url": "https://orbirental-images.s3.amazonaws.com/c92ca22f-aacb-49b6-a59e-4eaf8cad59b2",
-        "displayOrder": 35,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "73ccbf3c-8617-4d41-a374-fba74fe951b1",
-        "description": "Bedroom #3 - Lower level Queen room - shared bath with outside access.",
-        "url": "https://orbirental-images.s3.amazonaws.com/73ccbf3c-8617-4d41-a374-fba74fe951b1",
-        "displayOrder": 36,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "5a42450f-add6-48e8-865d-e05488733a69",
-        "description": "Bedroom #3 - Lower level queen, shared bath with outside access.",
-        "url": "https://orbirental-images.s3.amazonaws.com/5a42450f-add6-48e8-865d-e05488733a69",
-        "displayOrder": 37,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "28620561-eba6-477a-b933-471383e95529",
-        "description": "Lower level bedroom with queen bed.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/28620561-eba6-477a-b933-471383e95529",
-        "displayOrder": 38,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "6c3bd3ea-c871-4287-95e6-b517b07bbd70",
-        "description": "Downsyairs laundry.",
-        "url": "https://orbirental-images.s3.amazonaws.com/6c3bd3ea-c871-4287-95e6-b517b07bbd70",
-        "displayOrder": 39,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "f85884b5-56a0-4d8c-8dc8-d53efefe110c",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/f85884b5-56a0-4d8c-8dc8-d53efefe110c",
-        "displayOrder": 40,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "c9610782-dedc-4150-a24a-069c56b6b557",
-        "description": "Ski In - Ski Out - Walk up the road 300 feet and drop down Mid-Mountain and then ski down with your ski pass and ride the lift up to the higher trails.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/c9610782-dedc-4150-a24a-069c56b6b557",
-        "displayOrder": 41,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "7a9b2072-43e0-4bc8-8920-2a03a890d624",
-        "description": "Back of house with propane fire pit - summer only",
-        "url": "https://orbirental-images.s3.amazonaws.com/7a9b2072-43e0-4bc8-8920-2a03a890d624",
-        "displayOrder": 42,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "b2b6daed-7351-48bf-bfea-e3b3fbfe9aa9",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/b2b6daed-7351-48bf-bfea-e3b3fbfe9aa9",
-        "displayOrder": 43,
-        "airbnbRoomId": null
-      }
-    ],
-    "description": {
-      "name": "Little Cabin on Deer Run",
-      "shortSummary": "Little Cabin on Deer Run ",
-      "summary": "Little Cabin on Deer Run is anything but little.  We've just always called it that.  Take this opportuity to come and visit. \nThe updated and spacious design encourages gathering everyone together upstairs or downstairs while affording everyone their own personal, quiet retreats.\n\nMain level kitchen is fully stocked and all you need for meal preparation is food.  Downstairs kitchen stocked and ready for cooking pizza or popcorn at night while watching movies.  \n\nGas fireplaces, flat screen TV’s,  comfortable seating creates a cozy, relaxed place to get in touch with your family and friends or simply re-center yourself.  \n\nFour bedrooms with king beds, one bedroom with a queen bed and two sleeping lofts with two twin beds afford lots of sleeping options.   Two separate laundry stations  with full size washer and dryers with laundry supplies are a plus.  \n\nHot Tub on the covered deck for relaxing soaks in the cold air is a treat by itself. \n\nActivities are abundant in the area and can fill up your days dependant on the time of year.  Winter beckons you to grab your skis, your ski pass and walk to the  end of the road and drop down mid-mountain to the slopes.   Ski down and then ride the lift back to the higher trails.  In the summer , walk the roadway loop for a magnificent view of Mt. Timpanogoas.   Go moountain biking, zip lining, hiking , horseback riding....... So much to do.  Or do nothing at all but enjoy the Little Cabin.  \n\nCAR CHARGING STATIONS ARE AVAILABLE IN THE UPPER PARKING LOT OF SUDANCE.\nNO EVENTS HOSTED AT THIS PROPERTY.  \nNO PETS.\nWINTERS (November through March) REQUIRE FOUR WHEEL OR ALL WHEEL DRIVE VEHICLES. \n\n\n",
-      "notes": "",
-      "access": "",
-      "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  ",
-      "interaction": "Pamela and Lynn live here on the mountain and are always available by phone or text for any questiions, recommndations and assistance you might need.  \n",
-      "neighbourhood": "Located in a gated community within a five minute drive to the  Sundance Resort.  There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The  TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies.  The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two.  If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.  ",
-      "space": "Entire cabin is yours to use.  ",
-      "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nPET EXCEPTIONS:  \n1.\tNorthern Properties - NO PETS – Carriage House on the Stream, Cuckcoo’s Nest, Mid-Mountain Retreat, Little Cabin, Big Cabin\n2.\tSouthern Properties - NO PETS – Wooded Ridge #9 and Wooded Ridge #13\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
       "locale": "en_US"
     }
   },
@@ -5082,11 +4671,11 @@
     "pricingRules": null,
     "bedCount": 6,
     "bedTypes": {
-      "kingBed": 1,
+      "kingBed": 0,
       "queenBed": 3,
       "doubleBed": 0,
       "singleBed": 2,
-      "sofaBed": 0,
+      "sofaBed": 1,
       "futonBed": 0,
       "floorMattress": 0,
       "bunkBed": 0,
@@ -5098,485 +4687,513 @@
       "couch": 0
     },
     "type": "CABIN",
-    "name": "Stream Song • Sundance, Utah",
+    "name": "Stewart Heights",
     "isActive": true,
-    "baseGuests": 10,
+    "baseGuests": 1,
     "maximumGuests": 10,
-    "baseDailyRate": 895,
+    "baseDailyRate": 595,
     "city": "Sundance",
     "state": "UT",
-    "address1": "8984 Timphaven Road",
+    "address1": "9095 North Childres's Road",
     "address2": "",
     "postalCode": "84604",
     "countryCode": "US",
-    "bedrooms": 5,
-    "bathrooms": "4",
-    "picture": "https://orbirental-images.s3.amazonaws.com/793695a7-2592-4e94-b559-64adc4fcae03",
-    "webLink": "",
-    "cleaningFeeAmount": 250,
-    "minimumStay": 5,
-    "maximumStay": 0,
-    "securityDepositAmount": 500,
-    "externalID": "",
-    "acceptInstantBook": false,
-    "acceptBookingRequest": true,
-    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/45403.ics?itp=1",
-    "rentalCondition": null,
-    "cancellationPolicy": null,
-    "floor": 3,
-    "areaSize": 4043,
+    "bedrooms": 4,
+    "bathrooms": "2.5",
+    "picture": "https://orbirental-images.s3.amazonaws.com/5267f859-830f-4ec7-be84-5d40f2a01ab5_9095Childrens%286%29.jpg",
+    "webLink": null,
+    "cleaningFeeAmount": 300,
+    "minimumStay": 2,
+    "maximumStay": 30,
+    "securityDepositAmount": 0,
+    "externalID": null,
+    "acceptInstantBook": true,
+    "acceptBookingRequest": false,
+    "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/105719.ics?itp=1",
+    "rentalCondition": "PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \n\nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \n\nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \n\nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \n\nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount.  Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \n\nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \n\nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \n\nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \n\nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \n\nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \n\nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \n\nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \n\nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \n\nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AND NO SMOKING – Violation of these or any of the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred due to Guests  occupancy.   \n\nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
+    "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid, minus 5%  to cover credit  card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50% minus 5% to cover processing fees. Otherwise, they won't get a refund.",
+    "floor": 1,
+    "areaSize": 3,
     "areaSizeUnit": "SQUARE_METERS",
     "extraGuestFee": 0,
     "taxationRate": 11.76,
-    "latitude": 40.394763,
-    "longitude": -111.587451,
-    "airBnBID": "",
+    "latitude": 40.3958283,
+    "longitude": -111.5800367,
+    "airBnBID": "1076147737313342170",
     "homeAwayID": null,
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/45403/8984-timphaven-road",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights",
     "guideBookUrl": null,
-    "weekEndRatePercentAdjustment": 6.145251,
+    "weekEndRatePercentAdjustment": 16.8067,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
     "bookingLeadTime": 0,
-    "defaultCheckinTime": 16,
+    "defaultCheckinTime": 15,
     "defaultCheckoutTime": 11,
-    "wifiNetwork": "",
-    "wifiPassword": "",
-    "rentalLicenseNumber": "",
+    "wifiNetwork": "2wire759",
+    "wifiPassword": "3255789022",
+    "rentalLicenseNumber": null,
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
       "total": 0,
       "average": null
     },
-    "createdDate": 1633480630000,
+    "createdDate": 1700092857000,
     "percentUponReservation": 50,
     "fullPaymentTiming": 30,
     "listingLinks": {
-      "airbnbUrl": null,
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/45403/8984-timphaven-road",
+      "airbnbUrl": "https://airbnb.com/rooms/1076147737313342170",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights",
       "bookingDotComUrl": null,
       "homeAwayUrl": null,
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
-    "uid": "37a820d1-84ad-4d32-bb2e-3305dced7518",
-    "amenities": [],
-    "description info": [
-      {
-        "title": "Entire Cabin For Rent",
-        "description": "10 guests   5 bedrooms   6 beds   4 bathrooms"
-      },
-      {
-        "title": "Sparkling clean",
-        "description": "14 recent guests said this place was sparkling clean."
-      },
-      {
-        "title": "Great location",
-        "description": "90% of recent guests gave the location a 5-star rating."
-      },
-      {
-        "title": "Super Host Status",
-        "description": "Mountain Cabins Utah has achieved top rankings on sites like AirBnB, VRBO.com, Booking.com, Expedia etc."
-      },
-      {
-        "title": "Top Rated",
-        "description": "This vacation rental cabin maintains a 5-STAR rating on Google Reviews and most popular booking sites!"
-      }
-    ],
-    "footer info": [
-      {
-        "text": "Sleeps 10",
-        "icon": "person-plus"
-      },
-      {
-        "text": "Hot Tub",
-        "icon": "shower-head-water"
-      },
-      {
-        "text": "Walking Distance to Sundance",
-        "icon": "direction-sign"
-      },
-      {
-        "text": "Mountain Activities",
-        "icon": "mountain"
-      },
-      {
-        "text": "Kitchen | Microwave | Coffee Machine",
-        "icon": "fork-plate-knife"
-      }
-    ],
-    "map": {
-      "label": "8984 Timphaven Rd, Sundance, UT 84604",
-      "url": "https://maps.google.com/maps?q=8984%20Timphaven%20Rd%2C%20Sundance%2C%20UT%2084604&t=m&z=10&output=embed&iwloc=near"
-    },
+    "uid": "12c7d9d0-9199-4074-8243-21428edbb8d4",
     "gallery": [
       {
-        "uid": "00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
-        "description": "Living Room ",
-        "url": "https://orbirental-images.s3.amazonaws.com/00fc47b7-9dfd-4b32-8ff6-ff41f7c84db2",
+        "uid": "b6dd6d78-75e8-409e-9659-095a7a9bedd7",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/b6dd6d78-75e8-409e-9659-095a7a9bedd7",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
-        "uid": "00de55f5-b32e-40f9-a850-d9280583776c",
-        "description": "Entry Way ",
-        "url": "https://orbirental-images.s3.amazonaws.com/00de55f5-b32e-40f9-a850-d9280583776c",
+        "uid": "970ad21d-ff33-463c-a77e-b549d943ce33",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/970ad21d-ff33-463c-a77e-b549d943ce33",
         "displayOrder": 1,
         "airbnbRoomId": null
       },
       {
-        "uid": "c3348517-0337-4557-b0d5-6eadb127f2f7",
-        "description": "Entry with stairs to second floor",
-        "url": "https://orbirental-images.s3.amazonaws.com/c3348517-0337-4557-b0d5-6eadb127f2f7",
+        "uid": "7ab31ee7-c095-402c-9d5b-6b19e7c7b04b",
+        "description": "It's all about the windows and the views.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/7ab31ee7-c095-402c-9d5b-6b19e7c7b04b",
         "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
-        "uid": "c876f023-59b1-4ac9-980f-721e35e4ee44",
-        "description": "The best fireplace ever",
-        "url": "https://orbirental-images.s3.amazonaws.com/c876f023-59b1-4ac9-980f-721e35e4ee44",
+        "uid": "ab538618-2032-40bf-8831-fa341f16e47b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/ab538618-2032-40bf-8831-fa341f16e47b",
         "displayOrder": 3,
         "airbnbRoomId": null
       },
       {
-        "uid": "679d8d03-cbaf-428d-aec3-3729619f667d",
-        "description": "Cozy sitting area",
-        "url": "https://orbirental-images.s3.amazonaws.com/679d8d03-cbaf-428d-aec3-3729619f667d",
+        "uid": "7383f209-76bd-467c-a8f3-cde84232a8ae",
+        "description": "Main Living Room",
+        "url": "https://orbirental-images.s3.amazonaws.com/7383f209-76bd-467c-a8f3-cde84232a8ae",
         "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
-        "uid": "5e674f8f-3138-4102-bd99-61aa6daafcba",
-        "description": "Living area is big for the whole family",
-        "url": "https://orbirental-images.s3.amazonaws.com/5e674f8f-3138-4102-bd99-61aa6daafcba",
+        "uid": "936f150b-be3b-4531-826a-d1e1d45fe28d",
+        "description": "Main Living Room",
+        "url": "https://orbirental-images.s3.amazonaws.com/936f150b-be3b-4531-826a-d1e1d45fe28d",
         "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
-        "uid": "9321e7f4-fce3-4a22-a028-ddb529816347",
-        "description": "Stairs up and down",
-        "url": "https://orbirental-images.s3.amazonaws.com/9321e7f4-fce3-4a22-a028-ddb529816347",
+        "uid": "ee0b570e-9431-4186-ae2f-326cb0ed1c59",
+        "description": "Spacious kitchen - just bring your food.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/ee0b570e-9431-4186-ae2f-326cb0ed1c59",
         "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
-        "uid": "252b4561-7e3d-4c1d-bf9e-e26d9ed3d565",
-        "description": "Pristine outside cabins",
-        "url": "https://orbirental-images.s3.amazonaws.com/252b4561-7e3d-4c1d-bf9e-e26d9ed3d565",
+        "uid": "b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
         "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
-        "uid": "44d2070f-0f25-44e6-b3ec-e0b7487aec63",
-        "description": "Entry ",
-        "url": "https://orbirental-images.s3.amazonaws.com/44d2070f-0f25-44e6-b3ec-e0b7487aec63",
+        "uid": "115da2a9-6cc7-485d-b47d-2f86aa815131",
+        "description": "Kitchen Dinning main floor",
+        "url": "https://orbirental-images.s3.amazonaws.com/115da2a9-6cc7-485d-b47d-2f86aa815131",
         "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
-        "uid": "f39c501f-3de5-4e50-8b61-2334deee2687",
-        "description": "Front of the Cabin",
-        "url": "https://orbirental-images.s3.amazonaws.com/f39c501f-3de5-4e50-8b61-2334deee2687",
+        "uid": "0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
         "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
-        "uid": "124f0897-94cb-44fd-aeac-5f58bbe034b6",
-        "description": "Driveway has room for parking",
-        "url": "https://orbirental-images.s3.amazonaws.com/124f0897-94cb-44fd-aeac-5f58bbe034b6",
+        "uid": "0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
+        "description": "Main Level Bedroom - Every room has a view.\n",
+        "url": "https://orbirental-images.s3.amazonaws.com/0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
         "displayOrder": 10,
         "airbnbRoomId": null
       },
       {
-        "uid": "92989b3a-3754-4fb4-99e7-f11062d7f7c6",
-        "description": "Covered entry way deck and big covered back deck",
-        "url": "https://orbirental-images.s3.amazonaws.com/92989b3a-3754-4fb4-99e7-f11062d7f7c6",
+        "uid": "05affb2c-430d-4e16-8b4c-93ff0c025c29",
+        "description": "Master Bathroom",
+        "url": "https://orbirental-images.s3.amazonaws.com/05affb2c-430d-4e16-8b4c-93ff0c025c29",
         "displayOrder": 11,
         "airbnbRoomId": null
       },
       {
-        "uid": "78bb8594-ecec-4535-98a0-e1566e2eb3b8",
-        "description": null,
-        "url": "https://orbirental-images.s3.amazonaws.com/78bb8594-ecec-4535-98a0-e1566e2eb3b8",
+        "uid": "c4704a0a-3370-4e04-941b-7970fd841b49",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c4704a0a-3370-4e04-941b-7970fd841b49",
         "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
-        "uid": "77140c5a-610e-42f6-9cf3-1bd581307cc9",
-        "description": "Main deck ",
-        "url": "https://orbirental-images.s3.amazonaws.com/77140c5a-610e-42f6-9cf3-1bd581307cc9",
+        "uid": "11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
+        "description": "Loft Sleeping Area Upstairs - Queen Bed",
+        "url": "https://orbirental-images.s3.amazonaws.com/11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
         "displayOrder": 13,
         "airbnbRoomId": null
       },
       {
-        "uid": "b041195b-8620-4a2c-8b28-7a721327f5c8",
-        "description": "Deck with a view",
-        "url": "https://orbirental-images.s3.amazonaws.com/b041195b-8620-4a2c-8b28-7a721327f5c8",
+        "uid": "435f1b05-a5a1-4826-924b-098d49c9bd5a",
+        "description": "Downstairs Family Room\n",
+        "url": "https://orbirental-images.s3.amazonaws.com/435f1b05-a5a1-4826-924b-098d49c9bd5a",
         "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
-        "uid": "09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
-        "description": "Hot Tub for your use",
-        "url": "https://orbirental-images.s3.amazonaws.com/09c5254b-bc09-4dc0-a86a-f18b1c6ebe84",
+        "uid": "8f6ac18e-5006-455b-87a3-c5ab4d016f85",
+        "description": "Downstairs Kitchen",
+        "url": "https://orbirental-images.s3.amazonaws.com/8f6ac18e-5006-455b-87a3-c5ab4d016f85",
         "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
-        "uid": "533b3e35-65c4-42a6-925b-eef16207695d",
-        "description": "covered hot tub",
-        "url": "https://orbirental-images.s3.amazonaws.com/533b3e35-65c4-42a6-925b-eef16207695d",
+        "uid": "0e5cd743-9c10-4938-814b-f6b60b5ba60f",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/0e5cd743-9c10-4938-814b-f6b60b5ba60f",
         "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
-        "uid": "b4360058-d253-4dd3-9d90-bf08d160cb57",
-        "description": "Summer dining",
-        "url": "https://orbirental-images.s3.amazonaws.com/b4360058-d253-4dd3-9d90-bf08d160cb57",
+        "uid": "03b4d23d-d650-42f4-8738-26db45a5aad1",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/03b4d23d-d650-42f4-8738-26db45a5aad1",
         "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
-        "uid": "2733f02a-c81b-4511-9252-922318cda26d",
-        "description": "Summer dining",
-        "url": "https://orbirental-images.s3.amazonaws.com/2733f02a-c81b-4511-9252-922318cda26d",
+        "uid": "2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
+        "description": "Downstairs 3rd bedroom",
+        "url": "https://orbirental-images.s3.amazonaws.com/2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
         "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
-        "uid": "9fd8bd1e-59b9-4fcb-a388-e15bf34ddbb8",
-        "description": "Te majestic mountains",
-        "url": "https://orbirental-images.s3.amazonaws.com/9fd8bd1e-59b9-4fcb-a388-e15bf34ddbb8",
+        "uid": "34eda805-76f4-4589-a63d-627cf983ce86",
+        "description": "The Timpanogas Bedroom - French doors make this private. ",
+        "url": "https://orbirental-images.s3.amazonaws.com/34eda805-76f4-4589-a63d-627cf983ce86",
         "displayOrder": 19,
         "airbnbRoomId": null
       },
       {
-        "uid": "c420b8fc-0b50-48c6-8211-8b86487c99d5",
-        "description": "Large dining room ",
-        "url": "https://orbirental-images.s3.amazonaws.com/c420b8fc-0b50-48c6-8211-8b86487c99d5",
+        "uid": "fb88bb12-4870-45f0-a561-0fcfea21bf6d",
+        "description": "Hot Tub",
+        "url": "https://orbirental-images.s3.amazonaws.com/fb88bb12-4870-45f0-a561-0fcfea21bf6d",
         "displayOrder": 20,
         "airbnbRoomId": null
       },
       {
-        "uid": "3feb647c-eff5-4201-afe8-6b89aa050fb6",
-        "description": "Dining room ",
-        "url": "https://orbirental-images.s3.amazonaws.com/3feb647c-eff5-4201-afe8-6b89aa050fb6",
+        "uid": "c5dd6dc8-99c9-4a08-b56c-34c99a7ba51d",
+        "description": "Washer & Dryer",
+        "url": "https://orbirental-images.s3.amazonaws.com/c5dd6dc8-99c9-4a08-b56c-34c99a7ba51d",
         "displayOrder": 21,
         "airbnbRoomId": null
       },
       {
-        "uid": "5fe4c821-6180-48bd-a361-e6032534f00d",
-        "description": "Kitchen island",
-        "url": "https://orbirental-images.s3.amazonaws.com/5fe4c821-6180-48bd-a361-e6032534f00d",
+        "uid": "0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
+        "description": "Spectacular Mountain Views",
+        "url": "https://orbirental-images.s3.amazonaws.com/0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
         "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
-        "uid": "3303ec76-d170-4f86-bba7-7be14c164c82",
-        "description": "Kitchen",
-        "url": "https://orbirental-images.s3.amazonaws.com/3303ec76-d170-4f86-bba7-7be14c164c82",
+        "uid": "28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
         "displayOrder": 23,
         "airbnbRoomId": null
       },
       {
-        "uid": "82c4bf52-362a-4a46-a91f-ce1a1aac1837",
-        "description": "Great space to cook and gather",
-        "url": "https://orbirental-images.s3.amazonaws.com/82c4bf52-362a-4a46-a91f-ce1a1aac1837",
+        "uid": "3af161a7-6732-4b9f-9c5f-e555470ef0ce",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/3af161a7-6732-4b9f-9c5f-e555470ef0ce",
         "displayOrder": 24,
         "airbnbRoomId": null
       },
       {
-        "uid": "1a1eda94-b284-43e9-8d49-5a1993065b83",
-        "description": "Dining with a view",
-        "url": "https://orbirental-images.s3.amazonaws.com/1a1eda94-b284-43e9-8d49-5a1993065b83",
+        "uid": "a35ba7be-d595-4298-a71e-14f5663d9f65",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/a35ba7be-d595-4298-a71e-14f5663d9f65",
         "displayOrder": 25,
         "airbnbRoomId": null
       },
       {
-        "uid": "78bd4945-97ad-490b-baef-942d438681fb",
-        "description": "Mountains",
-        "url": "https://orbirental-images.s3.amazonaws.com/78bd4945-97ad-490b-baef-942d438681fb",
+        "uid": "a35afab3-a93f-43fa-9933-e64c505cc7ac",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/a35afab3-a93f-43fa-9933-e64c505cc7ac",
         "displayOrder": 26,
         "airbnbRoomId": null
       },
       {
-        "uid": "a412054b-bd42-4d71-a8b4-11015f844626",
-        "description": "Front yard from entry way",
-        "url": "https://orbirental-images.s3.amazonaws.com/a412054b-bd42-4d71-a8b4-11015f844626",
+        "uid": "bcedae5b-2041-4c7c-bed4-57c941af3663",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/bcedae5b-2041-4c7c-bed4-57c941af3663",
         "displayOrder": 27,
         "airbnbRoomId": null
       },
       {
-        "uid": "3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
-        "description": "The Little Free ibrary.  Take a book.  Leave a book. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/3b0680fb-fb16-402b-99ac-99ebe24a7b2c",
+        "uid": "d2a64403-2608-45f6-a98b-4578679092ac",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/d2a64403-2608-45f6-a98b-4578679092ac",
         "displayOrder": 28,
         "airbnbRoomId": null
       },
       {
-        "uid": "2f8de625-42ef-45ac-bc3f-d9379597c389",
-        "description": "Master bedroom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/2f8de625-42ef-45ac-bc3f-d9379597c389",
+        "uid": "73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
         "displayOrder": 29,
         "airbnbRoomId": null
       },
       {
-        "uid": "0906ef16-b024-4e02-9c06-ffad4d5cdb7e",
-        "description": "Master bedroom with fireplace",
-        "url": "https://orbirental-images.s3.amazonaws.com/0906ef16-b024-4e02-9c06-ffad4d5cdb7e",
+        "uid": "c79e1651-62f9-4ccd-b9b6-c8d81af89df0",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c79e1651-62f9-4ccd-b9b6-c8d81af89df0",
         "displayOrder": 30,
         "airbnbRoomId": null
       },
       {
-        "uid": "d6ace96a-ef6f-42ae-902a-6f6a8db60d1f",
-        "description": "Master bedroom with views",
-        "url": "https://orbirental-images.s3.amazonaws.com/d6ace96a-ef6f-42ae-902a-6f6a8db60d1f",
+        "uid": "c383aaf1-a116-4f0b-b418-0a6e5f84cb26",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c383aaf1-a116-4f0b-b418-0a6e5f84cb26",
         "displayOrder": 31,
         "airbnbRoomId": null
       },
       {
-        "uid": "8e4dc16c-4b0f-42d6-9871-2b5630223d15",
-        "description": "The Nap Nook",
-        "url": "https://orbirental-images.s3.amazonaws.com/8e4dc16c-4b0f-42d6-9871-2b5630223d15",
+        "uid": "1ded3786-72c2-4449-ba05-30196e689f76",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/1ded3786-72c2-4449-ba05-30196e689f76",
         "displayOrder": 32,
         "airbnbRoomId": null
       },
       {
-        "uid": "41b0a98d-6bd6-4c79-b13c-162f43379b50",
-        "description": "Nappy Nook",
-        "url": "https://orbirental-images.s3.amazonaws.com/41b0a98d-6bd6-4c79-b13c-162f43379b50",
+        "uid": "fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
         "displayOrder": 33,
         "airbnbRoomId": null
       },
       {
-        "uid": "d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
-        "description": "Great hot tub with views",
-        "url": "https://orbirental-images.s3.amazonaws.com/d82ce9cd-a761-4c3d-b6ec-2d8694b958f3",
+        "uid": "3540a0e5-3fcd-4aba-9643-a00af5c3853c",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/3540a0e5-3fcd-4aba-9643-a00af5c3853c",
         "displayOrder": 34,
         "airbnbRoomId": null
       },
       {
-        "uid": "4397e6a5-c58c-4e66-b3e8-a2ff1a78fc67",
-        "description": "Big bathrom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4397e6a5-c58c-4e66-b3e8-a2ff1a78fc67",
+        "uid": "65b30fc9-5237-47ec-9f44-61a478d12fb8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/65b30fc9-5237-47ec-9f44-61a478d12fb8",
         "displayOrder": 35,
         "airbnbRoomId": null
       },
       {
-        "uid": "33b1e194-7fa6-4755-b1d0-22943f80fe1a",
-        "description": "Shower for two ",
-        "url": "https://orbirental-images.s3.amazonaws.com/33b1e194-7fa6-4755-b1d0-22943f80fe1a",
+        "uid": "9ad16c1b-aa60-4593-9276-7502fca18511",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/9ad16c1b-aa60-4593-9276-7502fca18511",
         "displayOrder": 36,
         "airbnbRoomId": null
       },
       {
-        "uid": "c306cc72-ba0f-4877-98b9-9fbe6bb18762",
-        "description": "Upstairs landing ",
-        "url": "https://orbirental-images.s3.amazonaws.com/c306cc72-ba0f-4877-98b9-9fbe6bb18762",
+        "uid": "30493efa-e0a9-4db2-81db-13163dd5895b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/30493efa-e0a9-4db2-81db-13163dd5895b",
         "displayOrder": 37,
         "airbnbRoomId": null
       },
       {
-        "uid": "4f9391bf-5ac8-4782-ad56-b8d15bfde4f7",
-        "description": "Main Level Bedroom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4f9391bf-5ac8-4782-ad56-b8d15bfde4f7",
+        "uid": "7b12f2d6-8fd9-42e7-bad0-0932111bdff5",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/7b12f2d6-8fd9-42e7-bad0-0932111bdff5",
         "displayOrder": 38,
         "airbnbRoomId": null
       },
       {
-        "uid": "b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
-        "description": "Main floor bedroom with desk for working",
-        "url": "https://orbirental-images.s3.amazonaws.com/b9f0e33f-8176-4cbc-87d7-bd2f64dc2de2",
+        "uid": "eff7d0b3-d970-49ca-9955-808dd37495be",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/eff7d0b3-d970-49ca-9955-808dd37495be",
         "displayOrder": 39,
         "airbnbRoomId": null
       },
       {
-        "uid": "cb27032d-6ede-404b-8acd-2626e6abb23f",
-        "description": "Washer and dryer in main level bathroom",
-        "url": "https://orbirental-images.s3.amazonaws.com/cb27032d-6ede-404b-8acd-2626e6abb23f",
+        "uid": "4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
         "displayOrder": 40,
         "airbnbRoomId": null
       },
       {
-        "uid": "e0fa8240-9486-4390-a93d-977cb359f063",
-        "description": "Main level bathroom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/e0fa8240-9486-4390-a93d-977cb359f063",
+        "uid": "3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
         "displayOrder": 41,
         "airbnbRoomId": null
       },
       {
-        "uid": "ac53ebb6-8141-4afa-8429-4b33d5ac2d55",
-        "description": "Bathroom main level",
-        "url": "https://orbirental-images.s3.amazonaws.com/ac53ebb6-8141-4afa-8429-4b33d5ac2d55",
+        "uid": "5771e521-d541-490f-ae15-c06b1547c922",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/5771e521-d541-490f-ae15-c06b1547c922",
         "displayOrder": 42,
         "airbnbRoomId": null
       },
       {
-        "uid": "ccc6d850-7edb-40dd-a230-173b187f31e3",
-        "description": "Second bedroom main level",
-        "url": "https://orbirental-images.s3.amazonaws.com/ccc6d850-7edb-40dd-a230-173b187f31e3",
+        "uid": "673960a8-a1c9-42d3-b10c-e2e306fd9502",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/673960a8-a1c9-42d3-b10c-e2e306fd9502",
         "displayOrder": 43,
         "airbnbRoomId": null
       },
       {
-        "uid": "0396fd08-28d7-4e69-b6b0-b32def5c6e3f",
-        "description": "The cozy hiding place from second bedroom on main level",
-        "url": "https://orbirental-images.s3.amazonaws.com/0396fd08-28d7-4e69-b6b0-b32def5c6e3f",
+        "uid": "b155353d-8362-4af3-8f31-f81e02faad7a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/b155353d-8362-4af3-8f31-f81e02faad7a",
         "displayOrder": 44,
         "airbnbRoomId": null
       },
       {
-        "uid": "98b0c787-6fb5-4984-a6e3-b37fb2345875",
-        "description": "Bathroom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/98b0c787-6fb5-4984-a6e3-b37fb2345875",
+        "uid": "51d509cc-b915-4878-b763-14badf12f5f1",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/51d509cc-b915-4878-b763-14badf12f5f1",
         "displayOrder": 45,
         "airbnbRoomId": null
       },
       {
-        "uid": "4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
-        "description": "Downstiars private bedroom ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4b802e6b-1aa1-4f1e-8380-5cb04eccffab",
+        "uid": "2f11e842-105c-4db9-ac7d-98fd038120dd",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/2f11e842-105c-4db9-ac7d-98fd038120dd",
         "displayOrder": 46,
         "airbnbRoomId": null
       },
       {
-        "uid": "2c8c1212-01a3-4387-9f75-fdc0e7bd0362",
-        "description": "Downstairs private bedroom with seating area",
-        "url": "https://orbirental-images.s3.amazonaws.com/2c8c1212-01a3-4387-9f75-fdc0e7bd0362",
+        "uid": "e9b5e9b4-b644-4534-bb11-9679fe6895e6",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/e9b5e9b4-b644-4534-bb11-9679fe6895e6",
         "displayOrder": 47,
         "airbnbRoomId": null
       },
       {
-        "uid": "3ee395ce-1b5d-4e7b-8e32-3cde35fdd682",
-        "description": "Work our area",
-        "url": "https://orbirental-images.s3.amazonaws.com/3ee395ce-1b5d-4e7b-8e32-3cde35fdd682",
+        "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
         "displayOrder": 48,
         "airbnbRoomId": null
       },
       {
-        "uid": "06a260aa-cfa6-4da6-9079-8d165321ea60",
-        "description": "Second bedroom downstairs with two twin beds",
-        "url": "https://orbirental-images.s3.amazonaws.com/06a260aa-cfa6-4da6-9079-8d165321ea60",
+        "uid": "442e8d97-db03-49e2-9536-04f5b0c678a8",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/442e8d97-db03-49e2-9536-04f5b0c678a8",
         "displayOrder": 49,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c36f2dea-ffb4-49ba-8139-5d63275e04aa",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c36f2dea-ffb4-49ba-8139-5d63275e04aa",
+        "displayOrder": 50,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "99652cf0-de55-4b56-b08c-fed17d587606",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/99652cf0-de55-4b56-b08c-fed17d587606",
+        "displayOrder": 51,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "01c0995f-8b97-4de3-a7b3-1c265e0919ee",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/01c0995f-8b97-4de3-a7b3-1c265e0919ee",
+        "displayOrder": 52,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "a9819df5-c7b0-4dea-906d-c583d8b82b93",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/a9819df5-c7b0-4dea-906d-c583d8b82b93",
+        "displayOrder": 53,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5e86d002-88af-4568-8957-4130ae8c605c",
+        "description": "Mountain Views",
+        "url": "https://orbirental-images.s3.amazonaws.com/5e86d002-88af-4568-8957-4130ae8c605c",
+        "displayOrder": 54,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c054f88d-cfe4-404e-b644-0abef4be6b8b",
+        "description": "Balcony View",
+        "url": "https://orbirental-images.s3.amazonaws.com/c054f88d-cfe4-404e-b644-0abef4be6b8b",
+        "displayOrder": 55,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "af1b8ae6-0e45-4c44-8591-528da65aad41",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/af1b8ae6-0e45-4c44-8591-528da65aad41",
+        "displayOrder": 56,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "8a647436-180b-4036-a8a7-c47de5931fdc",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/8a647436-180b-4036-a8a7-c47de5931fdc",
+        "displayOrder": 57,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "719c6692-2d43-4ea6-a55a-fffad541a69c",
+        "description": "The Mountain tells the story.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/719c6692-2d43-4ea6-a55a-fffad541a69c",
+        "displayOrder": 58,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "0aa54449-5c6a-47d3-a889-8368da8d7c36",
+        "description": "And the ski liftss create the stories!",
+        "url": "https://orbirental-images.s3.amazonaws.com/0aa54449-5c6a-47d3-a889-8368da8d7c36",
+        "displayOrder": 59,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "593f9147-98a9-4bdd-beb3-75f4943a7bde",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/593f9147-98a9-4bdd-beb3-75f4943a7bde",
+        "displayOrder": 60,
         "airbnbRoomId": null
       }
     ],
     "description": {
-      "name": "8984 Timphaven Road",
-      "shortSummary": "Stream Song - Relax, Rejuvinate and Reconnect",
-      "summary": "Stream Song is an exceptionally warm, inviting cabin for reconnecting with family and friends.  Take it easy here.  Play games at the dining room table, watch a movie on the Smart TV, make a meal with friends or just sit on the deck and listen to the year-round song of the stream below.  Breathe the fresh mountain air.  For a treat, take a drink of our fresh out of the faucet drinking water!  Crystal clean.  \r\n\r\nThis five bedroom, four bathroom home is a two-minute drive to the ski slopes, restaurants, and spa at  the Resort.  Centered in the middle of the open concept entry way, living room, dining room and kitchen is a large propane fireplace making everything so cozy.  The chic, mountain cabin furnishings are comfortable and invite relaxation.  \r\n\r\nThe wonderful floor to ceiling windows allows natural light in and showcases the views of the forest, majestic Mt. Timpanogas, gorgeous skies and the natural abundance of beauty this little slice of heaven here in Sundance, Utah, provides.   A well-appointed kitchen has updated appliances with counter space.  It is a joy to cook and prepare meals.  \r\n\r\n Two bedrooms on the main level feature queen beds with windows for light. One bedroom has a workstation desk, with direct access to one of two bathrooms closely situated.  The second bedroom has a ladder that accesses a quiet reading space when you might just want to \"hide out\".  A full-size washer and dryer are located on this floor for your convenience. \r\n\r\nUpstairs is the master suite with king size bed, private fireplace, outside balcony and a bathroom with a window walled tub overlooking the landscape. The Nap Nook is on this level as well. Great excuse to take a nap! \r\n\r\nThe lower level is an open area featuring twin beds at one end for the kids and a workout area with stationary bike, free weights, a bench, and a TV.  A second private bedroom on this floor has an adjacent bathroom featuring a queen bed and sitting area.  \r\n\r\nThe main level deck features (weather permitting) a dining table, Adirondack chairs and a propane BBQ for grilling.  At the opposite end of the deck is the covered hot tub with a separate entrance from the house to make winter access easy. \r\n\r\nWe would love to share this magical place with you.  Come make Stream Song your home away from home for your next get away.\r\n\r\nNO PETS – NO PARTIES OR EVENTS\r\nDRIVEWAY PARKING FOR FIVE CARS.   \r\n",
-      "notes": "",
-      "access": "",
-      "transit": "",
-      "interaction": "",
-      "neighbourhood": "",
-      "space": "",
-      "houseManual": "",
+      "name": "Stewart Heights",
+      "shortSummary": "Stewart Heights is all about the Mountains and the Views. Gated Communty and Secluded.  ",
+      "summary": "\nStewart Heights - A Mountain Retreat in Sundance, Utah\n\nEscape to the serenity of Stewart Heights, a distinguished mountain retreat nestled in the heart of Sundance, Utah. Located at 9095 North Childres's Road, this charming property offers a captivating blend of rustic elegance and modern comfort, providing the perfect haven for your Sundance getaway.",
+      "notes": null,
+      "access": "Stewart Heights has a small apartment below the garage with a separate entrance  that is rented by a chef at Sundance Ski Resort.  He will not bother you at all.  ",
+      "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  \n",
+      "interaction": "We live on the mountain and you call anytime with questions and concerns you may have.  If you can't find something or need something, please call.  Your time away is valuable and we appreciate you coming to stay with us.  ",
+      "neighbourhood": "Located in a gated community within a five minute drive to the  Sundance Resort.  There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The  TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies.  The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two.  If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.  ",
+      "space": null,
+      "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers - the roads are too narrow.\n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.",
       "locale": "en_US"
     }
   },
@@ -6414,16 +6031,16 @@
   },
   {
     "pricingRules": null,
-    "bedCount": 1,
+    "bedCount": 6,
     "bedTypes": {
       "kingBed": 0,
-      "queenBed": 0,
+      "queenBed": 4,
       "doubleBed": 0,
       "singleBed": 0,
       "sofaBed": 0,
       "futonBed": 0,
       "floorMattress": 0,
-      "bunkBed": 0,
+      "bunkBed": 2,
       "toddlerBed": 0,
       "crib": 0,
       "hammockBed": 0,
@@ -6431,52 +6048,52 @@
       "waterBed": 0,
       "couch": 0
     },
-    "type": "APARTMENT",
+    "type": "CABIN",
     "name": "Three Sisters",
     "isActive": true,
     "baseGuests": 1,
-    "maximumGuests": 1,
-    "baseDailyRate": 0,
+    "maximumGuests": 10,
+    "baseDailyRate": 495,
     "city": "Sundance",
     "state": "UT",
     "address1": "8456 North Three Sisters Lane",
     "address2": "",
     "postalCode": "84604",
     "countryCode": "US",
-    "bedrooms": 1,
-    "bathrooms": "1",
+    "bedrooms": 4,
+    "bathrooms": "3",
     "picture": "https://orbirental-images.s3.amazonaws.com/c429e498-463f-42dc-8f6c-753cbe0541ac_8456Threesisters%282%29.jpg",
     "webLink": null,
-    "cleaningFeeAmount": 0,
-    "minimumStay": 1,
-    "maximumStay": 0,
-    "securityDepositAmount": 0,
+    "cleaningFeeAmount": 275,
+    "minimumStay": 2,
+    "maximumStay": 30,
+    "securityDepositAmount": 500,
     "externalID": null,
-    "acceptInstantBook": false,
+    "acceptInstantBook": true,
     "acceptBookingRequest": false,
     "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/117253.ics?itp=1",
-    "rentalCondition": null,
+    "rentalCondition": "PROPERTY CONDITIONS \n\nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \n\nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \n\nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \n\nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \n\nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount.  Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \n\nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \n\nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \n\nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \n\nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \n\nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \n\nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \n\nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \n\nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \n\nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AND NO SMOKING – Violation of these or any of the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred due to Guests  occupancy.   \n\nPETS:  Depending on the property, well behaved adult dogs are considered.  No cats.  $100.00 non-refundable pet fee will be charged per stay.  Should your pet cause any damage or additional housekeeping is required for “accidents” in the house, additional costs will be incurred.    \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers \na.\t(Northern Properties – The roads are too narrow) \n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
     "cancellationPolicy": "Guests who cancel at least 30 days before check-in will get back 100% of the amount they've paid minus 5% credit card processing fees.   If they cancel between 14 and 30 days before check-in, they'll get back 50%. minus 5% credit card processing fees.  Otherwise, they won't get a refund.",
-    "floor": 2,
-    "areaSize": 0,
-    "areaSizeUnit": "SQUARE_METERS",
+    "floor": 3,
+    "areaSize": 1692,
+    "areaSizeUnit": "SQUARE_FEET",
     "extraGuestFee": 0,
-    "taxationRate": 0,
+    "taxationRate": 11.76,
     "latitude": 40.3858785,
     "longitude": -111.5953324,
-    "airBnBID": null,
+    "airBnBID": "1076172970539313504",
     "homeAwayID": null,
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters-*-sundance%2C-utah",
     "guideBookUrl": null,
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
     "turnOverDays": 0,
-    "bookingLeadTime": 48,
-    "defaultCheckinTime": 15,
+    "bookingLeadTime": 0,
+    "defaultCheckinTime": 16,
     "defaultCheckoutTime": 11,
     "wifiNetwork": null,
     "wifiPassword": null,
@@ -6489,10 +6106,10 @@
     },
     "createdDate": 1705768942000,
     "percentUponReservation": 50,
-    "fullPaymentTiming": 45,
+    "fullPaymentTiming": 30,
     "listingLinks": {
-      "airbnbUrl": null,
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters",
+      "airbnbUrl": "https://airbnb.com/rooms/1076172970539313504",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/117253/three-sisters-*-sundance%2C-utah",
       "bookingDotComUrl": null,
       "homeAwayUrl": null,
       "tripAdvisorUrl": null,
@@ -6543,23 +6160,23 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "20344894-9f45-4347-b6b0-6e3a64b2c64a",
+        "uid": "c8f0a471-de74-401d-b385-fae0f2a14d1c",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/20344894-9f45-4347-b6b0-6e3a64b2c64a",
+        "url": "https://orbirental-images.s3.amazonaws.com/c8f0a471-de74-401d-b385-fae0f2a14d1c",
         "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
-        "uid": "12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+        "uid": "fa065a4f-a104-411a-800d-791c1253327f",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+        "url": "https://orbirental-images.s3.amazonaws.com/fa065a4f-a104-411a-800d-791c1253327f",
         "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
-        "uid": "4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+        "uid": "e5907634-2641-453a-baa3-487cc8a89682",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+        "url": "https://orbirental-images.s3.amazonaws.com/e5907634-2641-453a-baa3-487cc8a89682",
         "displayOrder": 8,
         "airbnbRoomId": null
       },
@@ -6571,9 +6188,9 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "c3abfa3f-71b4-40f6-99b5-e24642412d66",
+        "uid": "76053a34-60a0-4f56-a3d8-fdaa946f449b",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/c3abfa3f-71b4-40f6-99b5-e24642412d66",
+        "url": "https://orbirental-images.s3.amazonaws.com/76053a34-60a0-4f56-a3d8-fdaa946f449b",
         "displayOrder": 10,
         "airbnbRoomId": null
       },
@@ -6585,44 +6202,44 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "76053a34-60a0-4f56-a3d8-fdaa946f449b",
+        "uid": "29915cb0-b321-4043-9012-b177ccacf1ee",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/76053a34-60a0-4f56-a3d8-fdaa946f449b",
+        "url": "https://orbirental-images.s3.amazonaws.com/29915cb0-b321-4043-9012-b177ccacf1ee",
         "displayOrder": 12,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c3abfa3f-71b4-40f6-99b5-e24642412d66",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c3abfa3f-71b4-40f6-99b5-e24642412d66",
+        "displayOrder": 13,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "20344894-9f45-4347-b6b0-6e3a64b2c64a",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/20344894-9f45-4347-b6b0-6e3a64b2c64a",
+        "displayOrder": 14,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/4d73ca1a-c3c9-4cd5-ad80-67069a12f0a9",
+        "displayOrder": 15,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/12bc09a3-3717-4d3c-8caa-2dfc6c76ae9d",
+        "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
         "uid": "d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/d39d79dc-5e32-4dde-8ed1-0393ef4b342a",
-        "displayOrder": 13,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "29915cb0-b321-4043-9012-b177ccacf1ee",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/29915cb0-b321-4043-9012-b177ccacf1ee",
-        "displayOrder": 14,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "dd9fbf71-7537-43fb-a938-f19e7c78d571",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/dd9fbf71-7537-43fb-a938-f19e7c78d571",
-        "displayOrder": 15,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "dde1c397-707e-440a-8245-33bd73e88af7",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/dde1c397-707e-440a-8245-33bd73e88af7",
-        "displayOrder": 16,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "9a5a9188-b763-488e-a591-96873eeb5d8e",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/9a5a9188-b763-488e-a591-96873eeb5d8e",
         "displayOrder": 17,
         "airbnbRoomId": null
       },
@@ -6655,23 +6272,23 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "04a11b73-34da-4fb5-b303-c2403c847b49",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/04a11b73-34da-4fb5-b303-c2403c847b49",
-        "displayOrder": 22,
-        "airbnbRoomId": null
-      },
-      {
         "uid": "63d3b16f-e0f2-4fde-8205-0f410c8221b3",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/63d3b16f-e0f2-4fde-8205-0f410c8221b3",
-        "displayOrder": 23,
+        "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
         "uid": "9a065c35-cd98-4d3a-a2c0-41e896734b2f",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/9a065c35-cd98-4d3a-a2c0-41e896734b2f",
+        "displayOrder": 23,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
         "displayOrder": 24,
         "airbnbRoomId": null
       },
@@ -6683,9 +6300,9 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+        "uid": "9a5a9188-b763-488e-a591-96873eeb5d8e",
         "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/084a4ca5-e61a-4420-a6a2-8e48aa8f767b",
+        "url": "https://orbirental-images.s3.amazonaws.com/9a5a9188-b763-488e-a591-96873eeb5d8e",
         "displayOrder": 26,
         "airbnbRoomId": null
       },
@@ -6695,17 +6312,31 @@
         "url": "https://orbirental-images.s3.amazonaws.com/61175579-7cff-45e3-9d7b-7136acd30c10",
         "displayOrder": 27,
         "airbnbRoomId": null
+      },
+      {
+        "uid": "dde1c397-707e-440a-8245-33bd73e88af7",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/dde1c397-707e-440a-8245-33bd73e88af7",
+        "displayOrder": 28,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "59839b3d-e3fb-4b60-9ae0-6815b2e82290",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/59839b3d-e3fb-4b60-9ae0-6815b2e82290",
+        "displayOrder": 29,
+        "airbnbRoomId": null
       }
     ],
     "description": {
-      "name": "Three Sisters",
-      "shortSummary": null,
-      "summary": null,
+      "name": "Three Sisters * Sundance, Utah",
+      "shortSummary": "Spectacular Views",
+      "summary": "Three Sisters Log Cabin- A Mountain Retreat in Sundance, Utah\n\nEscape to the serenity of Three Sisters log cabin,  with amazing views of Stewart Falls and Mount Timpanogos.   This distinguished mountain retreat nestled in the heart of Sundance, Utah.  offers a captivating blend of rustic elegance providing the perfect haven for your Sundance getaway.",
       "notes": null,
       "access": null,
-      "transit": null,
-      "interaction": null,
-      "neighbourhood": null,
+      "transit": "Sundance resort is a half mile away.  A super quick drive or nice walk.  The Sundance resort has restaurants, a bar, skiing, summer sports, a zipline and more.",
+      "interaction": "Living on the mountain and only a five minute walk away, we are available for any and all questions or concerns you may have.  Just give us a call.",
+      "neighbourhood": "You're in the heart of the beautiful Wasatch mountains.  Mount Timpanogas  stands tall over Sundance while tall pine trees are everywhere you look.  Take a seat next to stream, breathe in the mountain air and relax.",
       "space": null,
       "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers - the roads are too narrow.\n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  ",
       "locale": "en_US"
