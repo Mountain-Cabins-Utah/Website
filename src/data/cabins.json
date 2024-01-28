@@ -71,8 +71,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 0,
-      "average": null
+      "total": 1,
+      "average": 5
     },
     "createdDate": 1702067404000,
     "percentUponReservation": 50,
