@@ -136,248 +136,241 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "3af161a7-6732-4b9f-9c5f-e555470ef0ce",
-      "description": "",
-      "url": "https://orbirental-images.s3.amazonaws.com/3af161a7-6732-4b9f-9c5f-e555470ef0ce",
-      "displayOrder": 7,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "a35ba7be-d595-4298-a71e-14f5663d9f65",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/a35ba7be-d595-4298-a71e-14f5663d9f65",
-      "displayOrder": 8,
+      "displayOrder": 7,
       "airbnbRoomId": null
     },
     {
       "uid": "ee0b570e-9431-4186-ae2f-326cb0ed1c59",
       "description": "Spacious kitchen - just bring your food.  ",
       "url": "https://orbirental-images.s3.amazonaws.com/ee0b570e-9431-4186-ae2f-326cb0ed1c59",
-      "displayOrder": 9,
+      "displayOrder": 8,
       "airbnbRoomId": null
     },
     {
       "uid": "73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
-      "displayOrder": 10,
+      "displayOrder": 9,
       "airbnbRoomId": null
     },
     {
       "uid": "b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
-      "displayOrder": 11,
+      "displayOrder": 10,
       "airbnbRoomId": null
     },
     {
       "uid": "a35afab3-a93f-43fa-9933-e64c505cc7ac",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/a35afab3-a93f-43fa-9933-e64c505cc7ac",
-      "displayOrder": 12,
+      "displayOrder": 11,
       "airbnbRoomId": null
     },
     {
       "uid": "28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
-      "displayOrder": 13,
+      "displayOrder": 12,
       "airbnbRoomId": null
     },
     {
       "uid": "0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
       "description": "Main Level Bedroom - Every room has a view.\n",
       "url": "https://orbirental-images.s3.amazonaws.com/0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
-      "displayOrder": 14,
+      "displayOrder": 13,
       "airbnbRoomId": null
     },
     {
       "uid": "05affb2c-430d-4e16-8b4c-93ff0c025c29",
       "description": "Master Bathroom",
       "url": "https://orbirental-images.s3.amazonaws.com/05affb2c-430d-4e16-8b4c-93ff0c025c29",
-      "displayOrder": 15,
+      "displayOrder": 14,
       "airbnbRoomId": null
     },
     {
       "uid": "c4704a0a-3370-4e04-941b-7970fd841b49",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/c4704a0a-3370-4e04-941b-7970fd841b49",
-      "displayOrder": 16,
+      "displayOrder": 15,
       "airbnbRoomId": null
     },
     {
       "uid": "11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
       "description": "Loft Sleeping Area Upstairs - Queen Bed",
       "url": "https://orbirental-images.s3.amazonaws.com/11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
-      "displayOrder": 17,
+      "displayOrder": 16,
       "airbnbRoomId": null
     },
     {
       "uid": "435f1b05-a5a1-4826-924b-098d49c9bd5a",
       "description": "Downstairs Family Room\n",
       "url": "https://orbirental-images.s3.amazonaws.com/435f1b05-a5a1-4826-924b-098d49c9bd5a",
-      "displayOrder": 18,
+      "displayOrder": 17,
       "airbnbRoomId": null
     },
     {
       "uid": "0e5cd743-9c10-4938-814b-f6b60b5ba60f",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/0e5cd743-9c10-4938-814b-f6b60b5ba60f",
-      "displayOrder": 19,
+      "displayOrder": 18,
       "airbnbRoomId": null
     },
     {
       "uid": "03b4d23d-d650-42f4-8738-26db45a5aad1",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/03b4d23d-d650-42f4-8738-26db45a5aad1",
-      "displayOrder": 20,
+      "displayOrder": 19,
       "airbnbRoomId": null
     },
     {
       "uid": "2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
       "description": "Downstairs 3rd bedroom",
       "url": "https://orbirental-images.s3.amazonaws.com/2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
-      "displayOrder": 21,
+      "displayOrder": 20,
       "airbnbRoomId": null
     },
     {
       "uid": "0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
       "description": "Spectacular Mountain Views",
       "url": "https://orbirental-images.s3.amazonaws.com/0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
-      "displayOrder": 22,
+      "displayOrder": 21,
       "airbnbRoomId": null
     },
     {
       "uid": "0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
-      "displayOrder": 23,
+      "displayOrder": 22,
       "airbnbRoomId": null
     },
     {
       "uid": "34eda805-76f4-4589-a63d-627cf983ce86",
       "description": "The Timpanogas Bedroom - French doors make this private. ",
       "url": "https://orbirental-images.s3.amazonaws.com/34eda805-76f4-4589-a63d-627cf983ce86",
-      "displayOrder": 24,
+      "displayOrder": 23,
       "airbnbRoomId": null
     },
     {
       "uid": "8f6ac18e-5006-455b-87a3-c5ab4d016f85",
       "description": "Downstairs Kitchen",
       "url": "https://orbirental-images.s3.amazonaws.com/8f6ac18e-5006-455b-87a3-c5ab4d016f85",
-      "displayOrder": 25,
+      "displayOrder": 24,
       "airbnbRoomId": null
     },
     {
       "uid": "d2a64403-2608-45f6-a98b-4578679092ac",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/d2a64403-2608-45f6-a98b-4578679092ac",
-      "displayOrder": 26,
+      "displayOrder": 25,
       "airbnbRoomId": null
     },
     {
       "uid": "fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
-      "displayOrder": 27,
+      "displayOrder": 26,
       "airbnbRoomId": null
     },
     {
       "uid": "fb88bb12-4870-45f0-a561-0fcfea21bf6d",
       "description": "Hot Tub",
       "url": "https://orbirental-images.s3.amazonaws.com/fb88bb12-4870-45f0-a561-0fcfea21bf6d",
-      "displayOrder": 28,
+      "displayOrder": 27,
       "airbnbRoomId": null
     },
     {
       "uid": "3540a0e5-3fcd-4aba-9643-a00af5c3853c",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/3540a0e5-3fcd-4aba-9643-a00af5c3853c",
-      "displayOrder": 29,
+      "displayOrder": 28,
       "airbnbRoomId": null
     },
     {
       "uid": "65b30fc9-5237-47ec-9f44-61a478d12fb8",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/65b30fc9-5237-47ec-9f44-61a478d12fb8",
-      "displayOrder": 30,
+      "displayOrder": 29,
       "airbnbRoomId": null
     },
     {
       "uid": "30493efa-e0a9-4db2-81db-13163dd5895b",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/30493efa-e0a9-4db2-81db-13163dd5895b",
-      "displayOrder": 31,
+      "displayOrder": 30,
       "airbnbRoomId": null
     },
     {
       "uid": "eff7d0b3-d970-49ca-9955-808dd37495be",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/eff7d0b3-d970-49ca-9955-808dd37495be",
-      "displayOrder": 32,
+      "displayOrder": 31,
       "airbnbRoomId": null
     },
     {
       "uid": "4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
-      "displayOrder": 33,
+      "displayOrder": 32,
       "airbnbRoomId": null
     },
     {
       "uid": "3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
-      "displayOrder": 34,
+      "displayOrder": 33,
       "airbnbRoomId": null
     },
     {
       "uid": "5771e521-d541-490f-ae15-c06b1547c922",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/5771e521-d541-490f-ae15-c06b1547c922",
-      "displayOrder": 35,
+      "displayOrder": 34,
       "airbnbRoomId": null
     },
     {
       "uid": "673960a8-a1c9-42d3-b10c-e2e306fd9502",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/673960a8-a1c9-42d3-b10c-e2e306fd9502",
-      "displayOrder": 36,
+      "displayOrder": 35,
       "airbnbRoomId": null
     },
     {
       "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
-      "displayOrder": 37,
+      "displayOrder": 36,
       "airbnbRoomId": null
     },
     {
       "uid": "a9819df5-c7b0-4dea-906d-c583d8b82b93",
       "description": "",
       "url": "https://orbirental-images.s3.amazonaws.com/a9819df5-c7b0-4dea-906d-c583d8b82b93",
-      "displayOrder": 38,
+      "displayOrder": 37,
       "airbnbRoomId": null
     },
     {
       "uid": "c054f88d-cfe4-404e-b644-0abef4be6b8b",
       "description": "Balcony View",
       "url": "https://orbirental-images.s3.amazonaws.com/c054f88d-cfe4-404e-b644-0abef4be6b8b",
-      "displayOrder": 39,
+      "displayOrder": 38,
       "airbnbRoomId": null
     },
     {
       "uid": "719c6692-2d43-4ea6-a55a-fffad541a69c",
       "description": "The Mountain tells the story.  ",
       "url": "https://orbirental-images.s3.amazonaws.com/719c6692-2d43-4ea6-a55a-fffad541a69c",
-      "displayOrder": 40,
+      "displayOrder": 39,
       "airbnbRoomId": null
     }
   ],
   "description": {
     "name": "Stewart Heights",
-    "shortSummary": "Stewart Heights is all about the Mountains and the Views.  Stunning property.  ",
-    "summary": "Escape to the serenity of Stewart Heights, a distinguished mountain home perched on a hillside overlooking the ski trails and beautiful mountains sheltering Sundance Mountain Resort.   This charming property offers a captivating blend of rustic elegance and modern comfort, providing the perfect getaway here in the Wasatch Mountains.  Spacious with two levels for families traveling together or room for everyone to have their own peach and serenity.  ",
+    "shortSummary": "Steart Hieghts is all about the mountains and unparalleled perspective on the surrounding landscape.",
+    "summary": "Escape to the serenity of Stewart Heights, a distinguished mountain home perched on a hillside overlooking  some of the most spectacular views in the area.  This charming property offers a captivating blend of rustic elegance and modern comfort, providing the perfect getaway here in the Wasatch Mountains.  Spacious with two levels for families traveling together or just room for everyone to have their own peach and serenity.  ",
     "notes": null,
     "access": "Stewart Heights has a small apartment below the garage with a separate entrance  that is rented by a chef at Sundance Ski Resort.  This gentleman is quiet, has his own entrance and you will hardly know he's here.  He's a chef, they work all the time.  Ask them!  ",
     "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  \n",
