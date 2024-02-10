@@ -32,7 +32,7 @@
   "bedrooms": 3,
   "bathrooms": "1",
   "picture": "https://orbirental-images.s3.amazonaws.com/6a61788e-3322-46f6-b5e5-84fae1bffe97",
-  "webLink": "https://platform.hostfully.com/vacation-rental-property/22907/cozy%2C-rustic-cottage-on-the-stream",
+  "webLink": "https://mountaincabinsutah.com/property/cottage-on-the-stream-sundance-utah/",
   "cleaningFeeAmount": 150,
   "minimumStay": 2,
   "maximumStay": 0,
@@ -70,8 +70,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 69,
-    "average": 4.942028985507246
+    "total": 70,
+    "average": 4.942857142857143
   },
   "createdDate": 1562259452000,
   "percentUponReservation": 50,

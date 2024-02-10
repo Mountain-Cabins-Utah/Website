@@ -37,7 +37,7 @@
   "bedrooms": 1,
   "bathrooms": "1",
   "picture": "https://orbirental-images.s3.amazonaws.com/5189d3e6-a958-450f-9ff0-80b8301b3ce4",
-  "webLink": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-above-the-stream",
+  "webLink": "https://mountaincabinsutah.com/property/carriage-house-on-the-stream-in-sundance-utah/",
   "cleaningFeeAmount": 75,
   "minimumStay": 2,
   "maximumStay": 30,
@@ -75,8 +75,8 @@
   "rentalLicenseNumberExpirationDate": null,
   "minimumWeekendStay": 0,
   "reviews": {
-    "total": 173,
-    "average": 4.9479768786127165
+    "total": 174,
+    "average": 4.948275862068965
   },
   "createdDate": 1562259446000,
   "percentUponReservation": 50,
