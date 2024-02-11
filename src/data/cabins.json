@@ -33,7 +33,7 @@
     "bedrooms": 4,
     "bathrooms": "3",
     "picture": "https://orbirental-images.s3.amazonaws.com/1eb3eb65-099a-4774-8573-bdea967ac712_CAPTURE+2.webp",
-    "webLink": null,
+    "webLink": "https://mountaincabinsutah.com/property/bear-tooth-lodge/",
     "cleaningFeeAmount": 300,
     "minimumStay": 2,
     "maximumStay": 0,
@@ -56,7 +56,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gbkcbkm",
     "weekEndRatePercentAdjustment": 16.8067,
     "bookingWindow": -1,
@@ -79,7 +79,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/1063076627904100638",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/3795644?dateless=true",
       "tripAdvisorUrl": null,
@@ -481,7 +481,7 @@
       }
     ],
     "description": {
-      "name": "Bear Tooth Lodge",
+      "name": "Bear Tooth Lodge • Sundance, Utah",
       "shortSummary": "New vacation rental - Family Friendly - Fun, Cozy Mountain Cabin",
       "summary": "Bear Tooth Lodge - Secluded and nestled in the trees yet minutes from the adventures the mountain has to offer.  This four-bedroom  escape in Sundance, Utah, is just the place to bring families and friends.  This cabin has it all, fireplace,  magnificant views, beautiful outside space, hot tub, swings, two kitchens, a game room and loads of beds for all AND kid friendly with fun \"hidden\" escape rooms for spaces all their own.  Come and make some memories.  ",
       "notes": "Located in a gated community within a five minute drive to the  Sundance Resort, you will find award winning restaurants, winter and summer activies, music, art studio, gift shop, spa and the local Sundance community.  Close by is horseback riding, snow shoing, skiing, hiking, ziplining, fly fishing there's so much to do.  ",
@@ -556,7 +556,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-on-the-stream-in-sundance%2C-utah",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/CarriageHouseStream",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": -1,
@@ -579,7 +579,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/18105837",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-on-the-stream-in-sundance%2C-utah",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/22906/carriage-house-on-the-stream-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": "https://booking.com/hotel/us/carriage-house-above-the-stream.en.html",
       "homeAwayUrl": "https://www.vrbo.com/955170?dateless=true",
       "tripAdvisorUrl": null,
@@ -671,288 +671,225 @@
     "gallery": [
       {
         "uid": "ae712a73-af19-41fa-aae9-9270017ed9b5",
-        "description": "The Carriage House.  A beautiful place to come to.  A covered place to park your car and a beautiful circular stairway lthat eads up to the entrance to your home away from home!  Welcome.  \n ",
+        "description": "The Carriage House.  A beautiful place to come to make memories. ",
         "url": "https://orbirental-images.s3.amazonaws.com/ae712a73-af19-41fa-aae9-9270017ed9b5",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
+        "uid": "be7cb986-7da8-463d-8083-95820d45e5b6",
+        "description": "Your home away from home right by the stream.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
+        "displayOrder": 1,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "4e1d8142-c170-46ec-98fe-8e6c215f9795",
+        "description": "DISH Network satellite television programming.   Comfy robes.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/4e1d8142-c170-46ec-98fe-8e6c215f9795",
+        "displayOrder": 2,
+        "airbnbRoomId": "6277299"
+      },
+      {
         "uid": "76bee241-15a3-4e92-ad68-a404485c0226",
         "description": "Queen size adjustable bed with access to outside covered large deck.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/76bee241-15a3-4e92-ad68-a404485c0226",
-        "displayOrder": 1,
+        "displayOrder": 3,
+        "airbnbRoomId": "6277299"
+      },
+      {
+        "uid": "192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
+        "description": "The best night sleep is awaiting you.  Black out drapes for a good nights sleep.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
+        "displayOrder": 4,
+        "airbnbRoomId": "6277299"
+      },
+      {
+        "uid": "5e46606b-36d2-433d-858a-72a502592032",
+        "description": "Disconnect and connect with those your love.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/5e46606b-36d2-433d-858a-72a502592032",
+        "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
         "uid": "1e8ac7b6-c837-49b4-a219-eeda2e92b5b7",
         "description": "Common area, bedroom and bathroom plus butler's kitchen. ",
         "url": "https://orbirental-images.s3.amazonaws.com/1e8ac7b6-c837-49b4-a219-eeda2e92b5b7",
-        "displayOrder": 2,
-        "airbnbRoomId": null
+        "displayOrder": 6,
+        "airbnbRoomId": "6616592"
       },
       {
         "uid": "44a49c18-0197-40ad-ba97-c96e1bb703b6",
-        "description": "Hidden office in the armoire, mini fridge, Keurig coffee maker, microwave and toaster oven.  Or how about an electric hot water kettle for tea!",
+        "description": "Butler's Kitchen - Mini fridge, Keurig coffee machine, toaster oven, serving ware.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/44a49c18-0197-40ad-ba97-c96e1bb703b6",
-        "displayOrder": 3,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
-        "description": "Cozy and well equipped to meet your needs.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
-        "displayOrder": 4,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "9c60028b-c9d1-4893-89bb-14dd3f6298f8",
-        "description": "Stand up or sit down desk, wireless printer, scanner, copier and office supplies for you.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/9c60028b-c9d1-4893-89bb-14dd3f6298f8",
-        "displayOrder": 5,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "16723ad4-3924-4538-882a-c6ae54ecad24",
-        "description": "Close up the armoire and leave work for the day.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/16723ad4-3924-4538-882a-c6ae54ecad24",
-        "displayOrder": 6,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bace21c1-11d6-4bdd-aa5e-f715b9bad7cd",
-        "description": "Take a break from work, cat nap on the couch and listen to the stream.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/bace21c1-11d6-4bdd-aa5e-f715b9bad7cd",
         "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
-        "uid": "db009ec5-ddbf-49c8-9270-a59aa3973d6b",
-        "description": "Large walk in shower with plenty of hot water, towels and cozy robes for you.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/db009ec5-ddbf-49c8-9270-a59aa3973d6b",
+        "uid": "16723ad4-3924-4538-882a-c6ae54ecad24",
+        "description": "Armoire houses a Smart TV, games, card, checkers, books & games.",
+        "url": "https://orbirental-images.s3.amazonaws.com/16723ad4-3924-4538-882a-c6ae54ecad24",
         "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
-        "uid": "53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
-        "description": "Bathroom features large walk in shower, counter space, large mirror,  petrified wood sink and   radiant heated floors in the cooler months.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
+        "uid": "5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
+        "description": "Microwave, small sink, glassware.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/5ccda7ef-bbd7-4056-92b9-f6c45cdd88a7",
         "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
-        "uid": "4e1d8142-c170-46ec-98fe-8e6c215f9795",
-        "description": "Satellite television programming, comfortable linens and lots of usb charging ports for all your devices. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/4e1d8142-c170-46ec-98fe-8e6c215f9795",
+        "uid": "53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
+        "description": "One of a kind petrified wood sink .  Radiant heated floors in winter.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/53b6c0f9-eb78-4c96-9b7b-da5aecbb57ca",
         "displayOrder": 10,
         "airbnbRoomId": null
       },
       {
-        "uid": "192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
-        "description": "Natural light from multiple windows, wooden window blinds with black out drapes for a good nights sleep.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/192e8ca7-eb9c-49d5-bbc7-bea7903b8588",
+        "uid": "db009ec5-ddbf-49c8-9270-a59aa3973d6b",
+        "description": "Large walk in shower.  Comfy robes.  It's a PULL shower handle.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/db009ec5-ddbf-49c8-9270-a59aa3973d6b",
         "displayOrder": 11,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "90f0059f-dcaf-4943-b4f0-cd5117c8ca17",
-        "description": "Small deck off common area room. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/90f0059f-dcaf-4943-b4f0-cd5117c8ca17",
-        "displayOrder": 12,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "87fdff3f-bba5-4640-8f57-0f62ce09824c",
-        "description": "Stream side walk to shared hot tub.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/87fdff3f-bba5-4640-8f57-0f62ce09824c",
-        "displayOrder": 13,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
-        "description": "Covered deck to park your car with a  circular staircase up to the entrance.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
-        "displayOrder": 14,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "886f84ab-7536-430c-97f9-bfed67367a10",
-        "description": "Two covered decks provide comfortable access to the fresh mountain air",
-        "url": "https://orbirental-images.s3.amazonaws.com/886f84ab-7536-430c-97f9-bfed67367a10",
-        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
         "uid": "c1e28eb3-10ea-424c-b5ed-5d7f0d6eb625",
         "description": "Our custom spiral staircase provides truly Instagram worthy photo ops & an extra access point to the Carriage House",
         "url": "https://orbirental-images.s3.amazonaws.com/c1e28eb3-10ea-424c-b5ed-5d7f0d6eb625",
-        "displayOrder": 16,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "cd54b467-cbca-47d3-a0b2-d818297c89bc",
-        "description": "Great views to wake up to",
-        "url": "https://orbirental-images.s3.amazonaws.com/cd54b467-cbca-47d3-a0b2-d818297c89bc",
-        "displayOrder": 17,
+        "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
         "uid": "d4682eab-a895-431c-ac4e-6fe145e59345",
         "description": "Your second deck with propane fire pit is great for making smores or just telling stories and enjoying each other.",
         "url": "https://orbirental-images.s3.amazonaws.com/d4682eab-a895-431c-ac4e-6fe145e59345",
-        "displayOrder": 18,
+        "displayOrder": 13,
         "airbnbRoomId": null
       },
       {
         "uid": "647c7c83-3e0c-4a03-b1a6-eaa485aea761",
         "description": "Want to really enjoy the steam?  We have a bench for that...",
         "url": "https://orbirental-images.s3.amazonaws.com/647c7c83-3e0c-4a03-b1a6-eaa485aea761",
-        "displayOrder": 19,
+        "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
         "uid": "e7c4c06f-0a86-4127-9657-9973989e5eb0",
         "description": "Your view from the bed.  You won't find anything better than this for less!",
         "url": "https://orbirental-images.s3.amazonaws.com/e7c4c06f-0a86-4127-9657-9973989e5eb0",
-        "displayOrder": 20,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "758a0216-7717-4cc4-a6b0-2a4993a37824",
-        "description": "The best part of waking up in the mountains is all of this!",
-        "url": "https://orbirental-images.s3.amazonaws.com/758a0216-7717-4cc4-a6b0-2a4993a37824",
-        "displayOrder": 21,
+        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
         "uid": "f4a2ce5f-eacd-4cc8-a9ab-0d85bea1d7cb",
         "description": "Enjoy your morning beverage of choice overlooking the stream",
         "url": "https://orbirental-images.s3.amazonaws.com/f4a2ce5f-eacd-4cc8-a9ab-0d85bea1d7cb",
-        "displayOrder": 22,
+        "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
-        "uid": "5e46606b-36d2-433d-858a-72a502592032",
-        "description": "Unplug & reconnect",
-        "url": "https://orbirental-images.s3.amazonaws.com/5e46606b-36d2-433d-858a-72a502592032",
-        "displayOrder": 23,
+        "uid": "87fdff3f-bba5-4640-8f57-0f62ce09824c",
+        "description": "Stream side walk to hot tub.  Hot tub will be private during your stay.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/87fdff3f-bba5-4640-8f57-0f62ce09824c",
+        "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
         "uid": "6c353143-1c4a-48c4-aa6d-896b8033d110",
         "description": "Outdoor shower",
         "url": "https://orbirental-images.s3.amazonaws.com/6c353143-1c4a-48c4-aa6d-896b8033d110",
-        "displayOrder": 24,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "d94f0712-3888-4f01-97b1-c63d481793fc",
-        "description": "Hot tub over the stream",
-        "url": "https://orbirental-images.s3.amazonaws.com/d94f0712-3888-4f01-97b1-c63d481793fc",
-        "displayOrder": 25,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "e05ee094-3f8a-481a-8f6b-65939ad53597",
-        "description": "Enjoy unlimited access to the hot tub just across the stream from the Carriage House.",
-        "url": "https://orbirental-images.s3.amazonaws.com/e05ee094-3f8a-481a-8f6b-65939ad53597",
-        "displayOrder": 26,
+        "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
         "uid": "46c77186-b30b-4647-94e3-ae5203dce3da",
         "description": "Enjoy a steaming outdoor shower after your relaxing soak in the hot tub",
         "url": "https://orbirental-images.s3.amazonaws.com/46c77186-b30b-4647-94e3-ae5203dce3da",
-        "displayOrder": 27,
+        "displayOrder": 19,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "758a0216-7717-4cc4-a6b0-2a4993a37824",
+        "description": "The best part of waking up in the mountains is this!",
+        "url": "https://orbirental-images.s3.amazonaws.com/758a0216-7717-4cc4-a6b0-2a4993a37824",
+        "displayOrder": 20,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "e05ee094-3f8a-481a-8f6b-65939ad53597",
+        "description": "Enjoy unlimited access to the hot tub just across the stream from the Carriage House.",
+        "url": "https://orbirental-images.s3.amazonaws.com/e05ee094-3f8a-481a-8f6b-65939ad53597",
+        "displayOrder": 21,
         "airbnbRoomId": null
       },
       {
         "uid": "7e40ff54-5b62-4c99-845e-2cb93fc83a90",
         "description": "Ascend the one of a kind circularstaircase to get to the larger deck and bedroom.",
         "url": "https://orbirental-images.s3.amazonaws.com/7e40ff54-5b62-4c99-845e-2cb93fc83a90",
-        "displayOrder": 28,
+        "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
         "uid": "ea3e949d-5016-441c-b4ae-f4709fecb24e",
         "description": "With two covered decks to choose from, you'll find a new favorite sitting spot every day!",
         "url": "https://orbirental-images.s3.amazonaws.com/ea3e949d-5016-441c-b4ae-f4709fecb24e",
-        "displayOrder": 29,
+        "displayOrder": 23,
         "airbnbRoomId": null
       },
       {
         "uid": "98c2f9fa-7a6f-4837-b210-276ff47f98ac",
         "description": "Bring your marshmallows, chocolate, and gram crackers to make s'mores on the fire.",
         "url": "https://orbirental-images.s3.amazonaws.com/98c2f9fa-7a6f-4837-b210-276ff47f98ac",
-        "displayOrder": 30,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "f10650e8-77ea-464b-9508-8587118c3fc9",
-        "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
-        "url": "https://orbirental-images.s3.amazonaws.com/f10650e8-77ea-464b-9508-8587118c3fc9",
-        "displayOrder": 31,
+        "displayOrder": 24,
         "airbnbRoomId": null
       },
       {
         "uid": "56312881-1697-4c95-b507-a1f563c7dd7e",
         "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
         "url": "https://orbirental-images.s3.amazonaws.com/56312881-1697-4c95-b507-a1f563c7dd7e",
-        "displayOrder": 32,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "c35be1dd-34a8-4af5-828e-803e76eb2b2b",
-        "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
-        "url": "https://orbirental-images.s3.amazonaws.com/c35be1dd-34a8-4af5-828e-803e76eb2b2b",
-        "displayOrder": 33,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "28bfc46e-cff2-449e-8d60-9eedd9c44dd5",
-        "description": "The many faces of Mount Timpanogos...  It's a different personality from one minute to the next and we're convinced these are the best views in any resort in Utah!",
-        "url": "https://orbirental-images.s3.amazonaws.com/28bfc46e-cff2-449e-8d60-9eedd9c44dd5",
-        "displayOrder": 34,
+        "displayOrder": 25,
         "airbnbRoomId": null
       },
       {
         "uid": "91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
         "description": "Enjoy the fire, the soothing stream, and the gourmet air of the mountains just outside on one of two private decks.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/91ef346b-79ec-413d-9c17-f0fc6afb0cc2",
-        "displayOrder": 35,
+        "displayOrder": 26,
         "airbnbRoomId": null
       },
       {
         "uid": "f84d7bbe-9bba-4912-9226-ee04d5f42076",
         "description": "Your breakfast nook is a cozy breakfast deck that looks out the hot tub and Big Pine Lodge.",
         "url": "https://orbirental-images.s3.amazonaws.com/f84d7bbe-9bba-4912-9226-ee04d5f42076",
-        "displayOrder": 36,
+        "displayOrder": 27,
         "airbnbRoomId": null
       },
       {
-        "uid": "be7cb986-7da8-463d-8083-95820d45e5b6",
-        "description": "Can you picture yourself watching the lights from the Carriage House glimmer on the stream?",
-        "url": "https://orbirental-images.s3.amazonaws.com/be7cb986-7da8-463d-8083-95820d45e5b6",
-        "displayOrder": 37,
+        "uid": "886f84ab-7536-430c-97f9-bfed67367a10",
+        "description": "Two covered decks provide comfortable access to the fresh mountain air",
+        "url": "https://orbirental-images.s3.amazonaws.com/886f84ab-7536-430c-97f9-bfed67367a10",
+        "displayOrder": 28,
         "airbnbRoomId": null
       },
       {
-        "uid": "0e953bbb-29e8-41ce-bc20-a76695e36b56",
-        "description": "The Hot Tub is located up the your own private pathway across the stream on the adjacent property.  It has an outdoor shower.   Your privacy is always respected ",
-        "url": "https://orbirental-images.s3.amazonaws.com/0e953bbb-29e8-41ce-bc20-a76695e36b56",
-        "displayOrder": 38,
+        "uid": "00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
+        "description": "Covered deck to park your car with a  circular staircase up to the entrance.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/00f3f8fd-6c36-49a9-9db5-3084fdbf7a5c",
+        "displayOrder": 29,
         "airbnbRoomId": null
       },
       {
         "uid": "1f91e93e-e3af-4cd4-8014-4fd4dde35fe7",
         "description": "The Hot Tub is located up the your own private pathway across the stream on the adjacent property.  It has an outdoor shower.   Your privacy is always respected ",
         "url": "https://orbirental-images.s3.amazonaws.com/1f91e93e-e3af-4cd4-8014-4fd4dde35fe7",
-        "displayOrder": 39,
+        "displayOrder": 30,
         "airbnbRoomId": "284223532"
       }
     ],
     "description": {
-      "name": "Carriage House on The Stream in Sundance, Utah",
-      "shortSummary": "Carriage House on The Stream in Sundance, Utah",
+      "name": "Carriage House on The Stream • Sundance, Utah",
+      "shortSummary": "Carriage House on The Stream • Sundance, Utah",
       "summary": "Time for a couple's getaway, a personal timeout or attend business meetings?  This is where you want to be.  Fresh mountain air, a stream, comfortable bedding, and essentials are all here!  A short drive up Provo Canyon brings you to the little slice of heaven in Big Pine Canyon in Sundance, Utah.  The world-class restaurants at the Resort or Owl Bar provide gathering places for your business or pleasure dining & entertainment - and your drive is 3 minutes.      ",
       "notes": "Walking distance to Sundance Mountain Resort\n",
       "access": "This upstairs suite is entirely available for your use including the two outside decks.  There is a hot tub and outside shower at the main house - 30 yards away and is available for your private use.  The laundry facilities are on the main floor and available for you to use as well.",
@@ -2440,7 +2377,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%E2%80%A2-eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/gkgxwjc",
     "weekEndRatePercentAdjustment": 31.4465,
     "bookingWindow": -1,
@@ -2463,7 +2400,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/35459510",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%40-eagle-point-ski-resort",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23490/n%C2%BA10-wooded-ridge-%E2%80%A2-eagle-point-ski-resort",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/2254277?dateless=true",
       "tripAdvisorUrl": null,
@@ -2791,8 +2728,8 @@
       }
     ],
     "description": {
-      "name": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
-      "shortSummary": "Nº10 Wooded Ridge @ Eagle Point Ski Resort",
+      "name": "Nº10 Wooded Ridge • Eagle Point Ski Resort",
+      "shortSummary": "Nº10 Wooded Ridge  • Eagle Point Ski Resort",
       "summary": "This ski-in/ski-out, 2 bedroom + loft bedroom, 2 bath condo sleeps 8.  Kid's play cubby upstairs.\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\n\n",
       "notes": "",
       "access": "",
@@ -2861,7 +2798,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge--%E2%80%A2--eagle-point-ski-resort",
     "guideBookUrl": "https://hostful.ly/ghcjmhj",
     "weekEndRatePercentAdjustment": 18.1818,
     "bookingWindow": -1,
@@ -2884,7 +2821,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": null,
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge-at-eagle-point-ski-resort",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/77777/n%C2%BA13-wooded-ridge--%E2%80%A2--eagle-point-ski-resort",
       "bookingDotComUrl": null,
       "homeAwayUrl": null,
       "tripAdvisorUrl": null,
@@ -2992,8 +2929,8 @@
       }
     ],
     "description": {
-      "name": "Nº13 Wooded Ridge at Eagle Point Ski Resort",
-      "shortSummary": "Nº13 Wooded Ridge @ Eagle Point Ski Resort",
+      "name": "Nº13 Wooded Ridge  •  Eagle Point Ski Resort",
+      "shortSummary": "Nº13 Wooded Ridge • Eagle Point Ski Resort",
       "summary": "\nWR #13 is where you want to stay at  Eagle Point Ski Resort.  Seasonally all types of play await right outside the door.  Bring your toys!  Skiing, snowboarding, snowmobiling, timber sledding, rock climbing, hiking, biking, ATV the Paiute Trail, fish all five lakes,  stargaze, rent an off-road E-bike or paddle board a lake,. Or, how about making your friend an enemy at the paint ball course next to the Lodge?  Come Play. It's fun.  \n\nGorgeous 1 bd, 1 bath, sleeps four.  See it to believe it\n\n\n",
       "notes": "WR #13 is not a pet friendly condo.  \n\nSmoking is not permitted in the condo at all.  Please smoke in your vehicles or away from the unit.  ",
       "access": null,
@@ -3067,7 +3004,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24476/n%C2%BA15-snowflake-at-eagle-point-ski-resort-",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24476/n%C2%BA15-snowflake--%E2%80%A2--eagle-point-ski-resort-",
     "guideBookUrl": "https://hostful.ly/gpddxfw",
     "weekEndRatePercentAdjustment": 47.3373,
     "bookingWindow": -1,
@@ -3090,7 +3027,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/38702025",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/24476/n%C2%BA15-snowflake-at-eagle-point-ski-resort-",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/24476/n%C2%BA15-snowflake--%E2%80%A2--eagle-point-ski-resort-",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/2254280?dateless=true",
       "tripAdvisorUrl": null,
@@ -3193,44 +3130,44 @@
     },
     "gallery": [
       {
+        "uid": "00302ee7-ac9d-4484-8685-161648a91eeb",
+        "description": "View of the slopes and the Aspens,",
+        "url": "https://orbirental-images.s3.amazonaws.com/00302ee7-ac9d-4484-8685-161648a91eeb",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
         "uid": "ffc286c4-de88-441a-8f1a-af2ea33d70ae",
         "description": "Kitchen, dining and living great room. ",
         "url": "https://orbirental-images.s3.amazonaws.com/ffc286c4-de88-441a-8f1a-af2ea33d70ae",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "airbnbRoomId": null
       },
       {
         "uid": "e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
         "description": "Open concept while your cooking.",
         "url": "https://orbirental-images.s3.amazonaws.com/e320d934-a5d6-4c41-b5f2-bc5378ff67d8",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
         "uid": "c32e9a34-6678-4e02-87ff-0d1110d76f10",
         "description": "Bar seating - fully stocked kitchen,",
         "url": "https://orbirental-images.s3.amazonaws.com/c32e9a34-6678-4e02-87ff-0d1110d76f10",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "airbnbRoomId": null
       },
       {
         "uid": "d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
         "description": "Dining area.",
         "url": "https://orbirental-images.s3.amazonaws.com/d6410ed3-7eaa-45d0-a2c2-800a9ea156d8",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
         "uid": "ea431132-680e-4db3-a3df-775ff89adb90",
         "description": "Two comfy couches for lounging.  One sleeper sofa.",
         "url": "https://orbirental-images.s3.amazonaws.com/ea431132-680e-4db3-a3df-775ff89adb90",
-        "displayOrder": 4,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "00302ee7-ac9d-4484-8685-161648a91eeb",
-        "description": "View of the slopes and the Aspens,",
-        "url": "https://orbirental-images.s3.amazonaws.com/00302ee7-ac9d-4484-8685-161648a91eeb",
         "displayOrder": 5,
         "airbnbRoomId": null
       },
@@ -3439,15 +3376,15 @@
       }
     ],
     "description": {
-      "name": "Nº15 Snowflake at Eagle Point Ski Resort ",
-      "shortSummary": "Nº15 Snowflake at Eagle Point Ski Resort  ",
-      "summary": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\r\n\r\nOur Snowflake #15 is a beautiful ski-in/ski-out 2 bedroom, two bath, plus loft condo that sleeps 10 people.  A Queen bed in each bedroom, two twin bed bunk beds in the loft, and a sleeper sofa for 2 in the living room.  Internet access, satellite TV plus a Blu-ray player is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   There’s floor space for an extra person should they want to bring a sleeping bag.  \r\n\r\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \r\n\r\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the sunset or look at the stars.",
-      "notes": "",
+      "name": "Nº15 Snowflake  •  Eagle Point Ski Resort ",
+      "shortSummary": "Nº15 Snowflake  •  Eagle Point Ski Resort  ",
+      "summary": "Snowflake #15 is a ski-in/ski-out 2 bedroom, 2 bath, pus loft condo that sleeps 10 people. Queen bed in each bedroom, two  sets of twin size bed bunk beds in the loft, and a sleeper sofa for 2 in the living room.  Internet access, smart TVs,  is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   \n\n",
+      "notes": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\n\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \n\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the spectacular sunsets or look at the stars.",
       "access": "",
-      "transit": "",
+      "transit": "Winter driving requires four wheel or all wheel drive vehicles.  Come prepared!  ",
       "interaction": "",
-      "neighbourhood": "Eagle Point Resort & Area: \r\n Any time of year, there’s no better place to escape the crowds than by booking a Mountain Cabins Utah Condo at Eagle Point Ski Resort. Located in the Fish Lake National Forest, at over 9,000’ above sea level, you can escape the heat of summer and breathe the cleanest air surrounded by tall quakie aspens and pine trees.  In the fall, come and watch the trees turn yellow and feel the crispness of the changing seasons.  In winter the solitude and beauty of the snow is like being in the movies. \r\n\r\nSummertime:  \r\nOur Mountain Cabins Utah Condos provide untethered access to bucket list hiking, world-class fishing, clear water kayaking, paddle-boarding, mind-blowing mountain biking, and miles and miles of ATV trails for exploration, all within minutes of your front door.  Try frisbee golf or paintball at the Upper Eagle Point Lodge or enjoy golf or tennis in Beaver, just 20 minutes down the mountain.  Do you have horses?  Bring them up and ride the trails.  We have space for horse trailers and areas for you to tether them.   \r\n\r\nDon’t forget your camera equipment because this is one of the most Instagram-worthy experiences you’ll ever find.  There’s truly no shortage of amazing sights and experiences to share with your followers over your Mountain Cabins Utah Condo and Eagle Point Ski Resort vacation (tag us @mtcabinsut and show other guests around using #mtcabinsutguest and #mtcabinsutguide)\r\n\r\n\r\nFires:  \r\nOpen flame fires are not permitted anywhere on the property.  Be very mindful of the level of forest fire danger. Remember Smokey the Bear - ONLY YOU can prevent forest fires.  \r\n\r\nWintertime: World-class skiing and snowboarding on the greatest snow on earth at Eagle Point Ski Resort is hard to beat. With access to 650 skiable acres and 40 named runs, ranging from tree-lined groomers to the steepest, most challenging runs in southern Utah, Eagle Point’s 5 lifts will provide each skill level of skier or snowboarder in your group with a fun-filled, action-packed day.  From the base elevation of 9,100’ to the summit elevation of 10,600’ there’s 1,500’ of elevation.  The small crowds, reasonable lift pricing, expert terrain, and spectacular views are unbeatable. \r\n\r\nThe national forest lands surrounding Eagle Point Ski Resort are your playground for snowmobiling, timber sledding, and snow biking.  (Not permitted within the boundaries of the Resort). \r\n\r\nEndless trails for snowshoeing or cross-country skiing are also right outside the condos.  Take the little ones out for sledding, make snow angels, make a snowman or engage in a good old-fashioned snowball fight.   Bring your family and teach them how to ski and also get in plenty of verticals for yourself.\r\n\r\nThe Terrain Park, located by the Monarch Triple Chair Lift, is an ever-evolving creation of our residential Tzar of Creation, Mongo.  The addition of new snow-making equipment in 2019, created five different jumps and twelve rail features.  Come and try those tricks you saw on television and were told not to try at home.  Well, you’re not at home now, are you?  However, a bit of prudence and common sense might be a good rule of thumb. \r\n\r\nAfter a day on the slopes, enjoy a cup of hot cocoa by the warm fireplace (wood supplied) as you look out over the resort and let the memories you’re building really sink in and find a permanent home in your heart.  Or, let someone else do all the work and simply go to the Canyon Side Lodge to enjoy a fantastic meal with the family or a quiet wine or beverage in the bar. \r\n\r\nWinter Survival:  It is absolutely mandatory to drive vehicles with four-wheel or all-wheel drive, or you must have chains that you know how to put on.   In your parking space in front of the condo with your front-facing into the parking lot for easy exit.  Put your windshield wipers up away from the window for easier cleaning.  The snowplows usually come once a day in the morning.  HINT:  Remember in heavy snow, do not try to power your way out if you sense you are getting stuck.  Move forward a few inches, then back a few inches.  Slow and steady.  Never come up the mountain without a full tank of gas.  Never. \r\n\r\nFalling Snow and Ice:  Look up and be aware of what’s over your head.  Stairs can be very slippery and dangerous.  Wear appropriate shoes and clothing.  \r\n\r\nAt Your Condo:  Please do your part to conserve water and electricity that isn’t being used.  Please keep the doors and windows or screens closed to ensure the wildlife stays wild and you don’t.\r\n\r\nTrash: If you have a lot of trash there is a dumpster on the left as you head to upper Eagle Point Lodge. There is also a dumpster available to the public near the mouth of Beaver Canyon.\r\n\r\nPlease, NO SMOKING in the Condos.\r\n\r\nEntertainment:  While there is internet and satellite TV in Snowflake 15, we find that most guests come here to unplug and be entertained by the real greatest show on earth, Mother Nature.  Your home away from home has family games and books.  A Blue-Ray Player is available so bring your favorite movies to watch or that book you’ve wanted to read.  Cuddle up on the couch with a blanket and pillow and take an hour or two for yourself.  \r\n\r\nCell service is spotty so you’ll want to enable WiFi calling if you need to keep in touch with the world below.\r\n\r\nLocal Attractions:  Puffer Lake, 1.5 miles from the condo, is the nearest of nine lakes near the condo.  Plenty of fishing is available in the lakes or the many streams and rivers that flow through the area.  A half-day driving excursion on FR 135 off of Hwy 135 will acquaint you with all nine lakes and get you out in the stunningly beautiful forest and meadows. \r\n\r\nGroceries and Supplies:  Mike’s Food Town, is located at 270 N Main Street in Beaver. Stock up on essentials at Mike’s before you come up the mountain. SUGGESTION:  Stop at bigger stores for your specialty items in Cedar City if you’re coming from the south or Spanish Fork if coming from the north or do your major shopping at home.  Mike and his family have been the local grocer since 1980. \r\n\r\nAdult Beverage:  Beaver Spirits, is located at 710 N Main Street in Beaver.  Small but nice wine selection and also have great t-shirts for sale.  \r\n\r\nFavorite Shops:   \r\n***Sherwood Forest Candle & Gift Shop, (435) 438-0211\r\n31 N Main Street, Beaver, Utah 84713\r\n\r\n***This is where you can purchase the \"Cup of Fire\" fire starters used in our condo.\r\n\r\nBeaver Sport and Pawn, (435) 438-0211\r\n91 N Main St, Beaver, UT 84713\r\nThis is a “just because you have to see it”\r\n\r\n\r\nThe Creamery, (833) 796-4551\r\n165 South 500 West, Beaver, UT 84713\r\nGifts, ice cream, cheese and more\r\n\r\nRestaurants:\r\nOn the mountain:  \r\n\r\nThe Canyonside Bar & Grill serves Friday dinner service and Saturday lunch and dinner service mid-June through Labor Day Weekend.  \r\n\r\nBeaver Area:  Maria’s Cocina (17 miles away at 1419 E Canyon Rd. - 435-438-5654) is our absolute favorite, must-try restaurant.  Opens Memorial Day Weekend through Labor Day Weekend.   Quaint Mexican Restaurant with Maria, herself, cooking in the back. Have to try it.  \r\n\r\nOur Local Favorites: Beaver Taco, Craigo’s Pizza , the Timberline - for nice dine-in, Mel’s Diner for great burgers and shakes and The Creamery Cheese Factory.  And don’t forget Dairy Queen for dessert! \r\n\r\nGatherings:   Mountain Cabins Utah Condos own a total of six condominiums in Eagle Point Ski Resort.  For your larger gatherings of groups or family and friends, consider renting multiple condos to sleep a total of 38 people in a total of 19 beds (including sleeper sofas).\r\n\r\nLarger groups are no problem, just let us know and we’ll arrange everything for you.  How about that big family reunion waiting to happen, a beautiful destination wedding, corporate retreats/events, church functions, group trail rides, and hikes.  The ideas are endless but you can count on Mountain Cabins Utah Condos and Eagle Point Ski Resort to help you facilitate your biggest dreams.  ",
-      "space": "",
+      "neighbourhood": "Any time of year, there’s no better place to escape the crowds than by booking a Mountain Cabins Utah Condo at Eagle Point Ski Resort. Located in the Fish Lake National Forest, at over 9,000’ above sea level, you can escape the heat of summer and breathe the cleanest air surrounded by tall quakie aspens and pine trees.  In the fall, come and watch the trees turn yellow and feel the crispness of the changing seasons.  In winter the solitude and beauty of the snow is like being in the movies. \n\nSummertime:  \nOur Mountain Cabins Utah Condos provide untethered access to bucket list hiking, world-class fishing, clear water kayaking, paddle-boarding, mind-blowing mountain biking, and miles and miles of ATV trails for exploration, all within minutes of your front door.  Try frisbee golf or paintball at the Upper Eagle Point Lodge or enjoy golf or tennis in Beaver, just 20 minutes down the mountain.  Do you have horses?  Bring them up and ride the trails.  We have space for horse trailers and areas for you to tether them.   \n\nDon’t forget your camera equipment because this is one of the most Instagram-worthy experiences you’ll ever find.  There’s truly no shortage of amazing sights and experiences to share with your followers over your Mountain Cabins Utah Condo and Eagle Point Ski Resort vacation (tag us @mtcabinsut and show other guests around using #mtcabinsutguest and #mtcabinsutguide)\n\n\nFires:  \nOpen flame fires are not permitted anywhere on the property.  Be very mindful of the level of forest fire danger. Remember Smokey the Bear - ONLY YOU can prevent forest fires.  \n\nWintertime: World-class skiing and snowboarding on the greatest snow on earth at Eagle Point Ski Resort is hard to beat. With access to 650 skiable acres and 40 named runs, ranging from tree-lined groomers to the steepest, most challenging runs in southern Utah, Eagle Point’s 5 lifts will provide each skill level of skier or snowboarder in your group with a fun-filled, action-packed day.  From the base elevation of 9,100’ to the summit elevation of 10,600’ there’s 1,500’ of elevation.  The small crowds, reasonable lift pricing, expert terrain, and spectacular views are unbeatable. \n\nThe national forest lands surrounding Eagle Point Ski Resort are your playground for snowmobiling, timber sledding, and snow biking.  (Not permitted within the boundaries of the Resort). \n\nEndless trails for snowshoeing or cross-country skiing are also right outside the condos.  Take the little ones out for sledding, make snow angels, make a snowman or engage in a good old-fashioned snowball fight.   Bring your family and teach them how to ski and also get in plenty of verticals for yourself.\n\nThe Terrain Park, located by the Monarch Triple Chair Lift, is an ever-evolving creation of our residential Tzar of Creation, Mongo.  The addition of new snow-making equipment in 2019, created five different jumps and twelve rail features.  Come and try those tricks you saw on television and were told not to try at home.  Well, you’re not at home now, are you?  However, a bit of prudence and common sense might be a good rule of thumb. \n\nAfter a day on the slopes, enjoy a cup of hot cocoa by the warm fireplace (wood supplied) as you look out over the resort and let the memories you’re building really sink in and find a permanent home in your heart.  Or, let someone else do all the work and simply go to the Canyon Side Lodge to enjoy a fantastic meal with the family or a quiet wine or beverage in the bar. \n\nWinter Survival:  It is absolutely mandatory to drive vehicles with four-wheel or all-wheel drive, or you must have chains that you know how to put on.   In your parking space in front of the condo with your front-facing into the parking lot for easy exit.  Put your windshield wipers up away from the window for easier cleaning.  The snowplows usually come once a day in the morning.  HINT:  Remember in heavy snow, do not try to power your way out if you sense you are getting stuck.  Move forward a few inches, then back a few inches.  Slow and steady.  Never come up the mountain without a full tank of gas.  Never. \n\nFalling Snow and Ice:  Look up and be aware of what’s over your head.  Stairs can be very slippery and dangerous.  Wear appropriate shoes and clothing.  \n\nAt Your Condo:  Please do your part to conserve water and electricity that isn’t being used.  Please keep the doors and windows or screens closed to ensure the wildlife stays wild and you don’t.\n\nTrash: If you have a lot of trash there is a dumpster on the left as you head to upper Eagle Point Lodge. There is also a dumpster available to the public near the mouth of Beaver Canyon.\n\nPlease, NO SMOKING in the Condos.\n\nEntertainment:  While there is internet and satellite TV in Snowflake 15, we find that most guests come here to unplug and be entertained by the real greatest show on earth, Mother Nature.  Your home away from home has family games and books.  A Blue-Ray Player is available so bring your favorite movies to watch or that book you’ve wanted to read.  Cuddle up on the couch with a blanket and pillow and take an hour or two for yourself.  \n\nCell service is spotty so you’ll want to enable WiFi calling if you need to keep in touch with the world below.\n\nLocal Attractions:  Puffer Lake, 1.5 miles from the condo, is the nearest of nine lakes near the condo.  Plenty of fishing is available in the lakes or the many streams and rivers that flow through the area.  A half-day driving excursion on FR 135 off of Hwy 135 will acquaint you with all nine lakes and get you out in the stunningly beautiful forest and meadows. \n\nGroceries and Supplies:  Mike’s Food Town, is located at 270 N Main Street in Beaver. Stock up on essentials at Mike’s before you come up the mountain. SUGGESTION:  Stop at bigger stores for your specialty items in Cedar City if you’re coming from the south or Spanish Fork if coming from the north or do your major shopping at home.  Mike and his family have been the local grocer since 1980. \n\nAdult Beverage:  Beaver Spirits, is located at 710 N Main Street in Beaver.  Small but nice wine selection and also have great t-shirts for sale.  \n\nFavorite Shops:   \n***Sherwood Forest Candle & Gift Shop, (435) 438-0211\n31 N Main Street, Beaver, Utah 84713\n\n***This is where you can purchase the \"Cup of Fire\" fire starters used in our condo.\n\nBeaver Sport and Pawn, (435) 438-0211\n91 N Main St, Beaver, UT 84713\nThis is a “just because you have to see it”\n\n\nThe Creamery, (833) 796-4551\n165 South 500 West, Beaver, UT 84713\nGifts, ice cream, cheese and more\n\nRestaurants:\nOn the mountain:  \n\nThe Canyonside Bar & Grill serves Friday dinner service and Saturday lunch and dinner service mid-June through Labor Day Weekend.  \n\nBeaver Area:  Maria’s Cocina (17 miles away at 1419 E Canyon Rd. - 435-438-5654) is our absolute favorite, must-try restaurant.  Opens Memorial Day Weekend through Labor Day Weekend.   Quaint Mexican Restaurant with Maria, herself, cooking in the back. Have to try it.  \n\nOur Local Favorites: Beaver Taco, Craigo’s Pizza , the Timberline - for nice dine-in, Mel’s Diner for great burgers and shakes and The Creamery Cheese Factory.  And don’t forget Dairy Queen for dessert! \n\nGatherings:   Mountain Cabins Utah Condos own a total of six condominiums in Eagle Point Ski Resort.  For your larger gatherings of groups or family and friends, consider renting multiple condos to sleep a total of 38 people in a total of 19 beds (including sleeper sofas).\n\nLarger groups are no problem, just let us know and we’ll arrange everything for you.  How about that big family reunion waiting to happen, a beautiful destination wedding, corporate retreats/events, church functions, group trail rides, and hikes.  The ideas are endless but you can count on Mountain Cabins Utah Condos and Eagle Point Ski Resort to help you facilitate your biggest dreams.  ",
+      "space": "Entire condo is for your private use.  ",
       "houseManual": "",
       "locale": "en_US"
     }
@@ -3640,192 +3577,185 @@
     },
     "gallery": [
       {
+        "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
+        "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
+        "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
         "description": "Sofa sleeper in the living room",
         "url": "https://orbirental-images.s3.amazonaws.com/bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "airbnbRoomId": null
       },
       {
         "uid": "3368c375-0b0e-4528-8b1f-db8d152c35b1",
         "description": "Living room and sliding door to covered deck",
         "url": "https://orbirental-images.s3.amazonaws.com/3368c375-0b0e-4528-8b1f-db8d152c35b1",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
         "uid": "c5c507d7-e8c2-4d2a-9468-67c9617c1469",
         "description": "Kitchen",
         "url": "https://orbirental-images.s3.amazonaws.com/c5c507d7-e8c2-4d2a-9468-67c9617c1469",
-        "displayOrder": 2,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
-        "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
-        "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
         "displayOrder": 3,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "bbda616d-71a1-442a-b79e-1ea7e3e58144",
-        "description": null,
-        "url": "https://orbirental-images.s3.amazonaws.com/bbda616d-71a1-442a-b79e-1ea7e3e58144",
-        "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
         "uid": "cfb9530b-6d0e-4a83-b55f-656eeac9768e",
         "description": "Five Twin Beds including Trundle Bed.",
         "url": "https://orbirental-images.s3.amazonaws.com/cfb9530b-6d0e-4a83-b55f-656eeac9768e",
-        "displayOrder": 5,
+        "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
         "uid": "a89115c7-c21c-46c3-9de1-ab1a36976eec",
         "description": "Bathroom with jetted tub and shower",
         "url": "https://orbirental-images.s3.amazonaws.com/a89115c7-c21c-46c3-9de1-ab1a36976eec",
-        "displayOrder": 6,
+        "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
         "uid": "d37982b9-d3ae-42ee-99d7-c742e41f90c1",
         "description": "Comfy bed and cozy sheets",
         "url": "https://orbirental-images.s3.amazonaws.com/d37982b9-d3ae-42ee-99d7-c742e41f90c1",
-        "displayOrder": 7,
+        "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
         "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
         "description": null,
         "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
-        "displayOrder": 8,
+        "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
         "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
         "description": "Well stocked kitchen.  Just bring food.",
         "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
-        "displayOrder": 9,
+        "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
         "uid": "e3edb0f5-d31c-4b98-9ece-f528454060f8",
         "description": "Queen sized bed in the bedroom on second floor",
         "url": "https://orbirental-images.s3.amazonaws.com/e3edb0f5-d31c-4b98-9ece-f528454060f8",
-        "displayOrder": 10,
+        "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
         "uid": "d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
         "description": "Full-sized bathrooms with bathtubs and showers",
         "url": "https://orbirental-images.s3.amazonaws.com/d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
-        "displayOrder": 11,
+        "displayOrder": 10,
         "airbnbRoomId": null
       },
       {
         "uid": "1bc33ae4-794d-4769-8531-51f4b02016de",
         "description": "In house washer & dryer",
         "url": "https://orbirental-images.s3.amazonaws.com/1bc33ae4-794d-4769-8531-51f4b02016de",
-        "displayOrder": 12,
+        "displayOrder": 11,
         "airbnbRoomId": null
       },
       {
         "uid": "09e18cd1-da47-4c67-b870-7bdc59aedf76",
         "description": "Fishing at Puffer Lake – minutes from Snowflake 17",
         "url": "https://orbirental-images.s3.amazonaws.com/09e18cd1-da47-4c67-b870-7bdc59aedf76",
-        "displayOrder": 13,
+        "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
         "uid": "94b07487-1f29-4ea9-98f0-7712cb9c97e8",
         "description": "Beautiful Puffer Lake",
         "url": "https://orbirental-images.s3.amazonaws.com/94b07487-1f29-4ea9-98f0-7712cb9c97e8",
-        "displayOrder": 14,
+        "displayOrder": 13,
         "airbnbRoomId": null
       },
       {
         "uid": "52085792-9d6f-49e2-87e5-194e664aca44",
         "description": null,
         "url": "https://orbirental-images.s3.amazonaws.com/52085792-9d6f-49e2-87e5-194e664aca44",
-        "displayOrder": 15,
+        "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
         "uid": "355514b8-66c7-4b87-84c9-564c1a058f5b",
         "description": "If Norman Rockwell were at Eagle Point Ski Resort...",
         "url": "https://orbirental-images.s3.amazonaws.com/355514b8-66c7-4b87-84c9-564c1a058f5b",
-        "displayOrder": 16,
+        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
         "uid": "d88f2802-9661-4ea1-90e5-24b0cdb47476",
         "description": "Canyonside Lodge at Eagle Point Ski Resort",
         "url": "https://orbirental-images.s3.amazonaws.com/d88f2802-9661-4ea1-90e5-24b0cdb47476",
-        "displayOrder": 17,
+        "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
         "uid": "3afa24cd-01e6-491d-879c-8a53ccb93eb0",
         "description": "Canyonside Lift in moonlight",
         "url": "https://orbirental-images.s3.amazonaws.com/3afa24cd-01e6-491d-879c-8a53ccb93eb0",
-        "displayOrder": 18,
+        "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
         "uid": "54231bba-ed7c-46fb-b3e3-923d2c3e6ea6",
         "description": "Twilight at Eagle Point Ski Resort",
         "url": "https://orbirental-images.s3.amazonaws.com/54231bba-ed7c-46fb-b3e3-923d2c3e6ea6",
-        "displayOrder": 19,
+        "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
         "uid": "39148674-76e9-4055-8459-aab2bd626bab",
         "description": "Happy Camper!",
         "url": "https://orbirental-images.s3.amazonaws.com/39148674-76e9-4055-8459-aab2bd626bab",
-        "displayOrder": 20,
+        "displayOrder": 19,
         "airbnbRoomId": null
       },
       {
         "uid": "f179bfce-f26c-4ef4-a89c-b4f9d6726ef2",
         "description": "Canyonside Lodge at Eagle Point Ski Resort",
         "url": "https://orbirental-images.s3.amazonaws.com/f179bfce-f26c-4ef4-a89c-b4f9d6726ef2",
-        "displayOrder": 21,
+        "displayOrder": 20,
         "airbnbRoomId": null
       },
       {
         "uid": "f99aff70-a189-4503-8633-884e087641f2",
         "description": "Canyonside Lodge at Eagle Point Ski Resort",
         "url": "https://orbirental-images.s3.amazonaws.com/f99aff70-a189-4503-8633-884e087641f2",
-        "displayOrder": 22,
+        "displayOrder": 21,
         "airbnbRoomId": null
       },
       {
         "uid": "7148a5ea-b9ba-434d-9f5b-b681f02970ff",
         "description": "Bike & ski rentals are done here at the shop on the Upper Mountain",
         "url": "https://orbirental-images.s3.amazonaws.com/7148a5ea-b9ba-434d-9f5b-b681f02970ff",
-        "displayOrder": 23,
+        "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
         "uid": "c000eb27-b7d4-4d2d-bd5d-6ace9ef7aa18",
         "description": "Bike & ski rentals are done here at the shop on the Upper Mountain",
         "url": "https://orbirental-images.s3.amazonaws.com/c000eb27-b7d4-4d2d-bd5d-6ace9ef7aa18",
-        "displayOrder": 24,
+        "displayOrder": 23,
         "airbnbRoomId": null
       },
       {
         "uid": "b5cfa60d-4b78-4bbe-ba4d-f4e151a35220",
         "description": "It's so fresh at 10,000 feet!",
         "url": "https://orbirental-images.s3.amazonaws.com/b5cfa60d-4b78-4bbe-ba4d-f4e151a35220",
-        "displayOrder": 25,
+        "displayOrder": 24,
         "airbnbRoomId": null
       },
       {
         "uid": "95296696-dfa9-40ac-91bd-6df399ef4ecf",
         "description": "Wide-open spaces and spectacular views",
         "url": "https://orbirental-images.s3.amazonaws.com/95296696-dfa9-40ac-91bd-6df399ef4ecf",
-        "displayOrder": 26,
+        "displayOrder": 25,
         "airbnbRoomId": null
       }
     ],
@@ -4708,7 +4638,7 @@
     "bedrooms": 4,
     "bathrooms": "2.5",
     "picture": "https://orbirental-images.s3.amazonaws.com/5267f859-830f-4ec7-be84-5d40f2a01ab5_9095Childrens%286%29.jpg",
-    "webLink": null,
+    "webLink": "https://mountaincabinsutah.com/property/stewart-heights/",
     "cleaningFeeAmount": 300,
     "minimumStay": 2,
     "maximumStay": 30,
@@ -4731,7 +4661,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gdfbnjd",
     "weekEndRatePercentAdjustment": 16.8067,
     "bookingWindow": -1,
@@ -4754,7 +4684,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/1076147737313342170",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/3825587?dateless=true",
       "tripAdvisorUrl": null,
@@ -4763,261 +4693,261 @@
     "uid": "12c7d9d0-9199-4074-8243-21428edbb8d4",
     "gallery": [
       {
+        "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
+        "displayOrder": 0,
+        "airbnbRoomId": null
+      },
+      {
         "uid": "01c0995f-8b97-4de3-a7b3-1c265e0919ee",
         "description": "It's all about the views and the mountains.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/01c0995f-8b97-4de3-a7b3-1c265e0919ee",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "airbnbRoomId": null
       },
       {
         "uid": "e9b5e9b4-b644-4534-bb11-9679fe6895e6",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/e9b5e9b4-b644-4534-bb11-9679fe6895e6",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "airbnbRoomId": null
       },
       {
         "uid": "0aa54449-5c6a-47d3-a889-8368da8d7c36",
         "description": "And the ski liftss create the stories!",
         "url": "https://orbirental-images.s3.amazonaws.com/0aa54449-5c6a-47d3-a889-8368da8d7c36",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "airbnbRoomId": null
       },
       {
         "uid": "5e86d002-88af-4568-8957-4130ae8c605c",
         "description": "Mountain Views",
         "url": "https://orbirental-images.s3.amazonaws.com/5e86d002-88af-4568-8957-4130ae8c605c",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "airbnbRoomId": null
       },
       {
         "uid": "8a647436-180b-4036-a8a7-c47de5931fdc",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/8a647436-180b-4036-a8a7-c47de5931fdc",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
         "uid": "7ab31ee7-c095-402c-9d5b-6b19e7c7b04b",
         "description": "It's all about the windows and the views.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/7ab31ee7-c095-402c-9d5b-6b19e7c7b04b",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
         "uid": "936f150b-be3b-4531-826a-d1e1d45fe28d",
         "description": "Main Living Room",
         "url": "https://orbirental-images.s3.amazonaws.com/936f150b-be3b-4531-826a-d1e1d45fe28d",
-        "displayOrder": 6,
+        "displayOrder": 7,
         "airbnbRoomId": null
       },
       {
         "uid": "a35ba7be-d595-4298-a71e-14f5663d9f65",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/a35ba7be-d595-4298-a71e-14f5663d9f65",
-        "displayOrder": 7,
+        "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
         "uid": "ee0b570e-9431-4186-ae2f-326cb0ed1c59",
         "description": "Spacious kitchen - just bring your food.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/ee0b570e-9431-4186-ae2f-326cb0ed1c59",
-        "displayOrder": 8,
+        "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
         "uid": "73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/73ee22ae-eeba-4bb8-9a3f-6df9a655cc4e",
-        "displayOrder": 9,
+        "displayOrder": 10,
         "airbnbRoomId": null
       },
       {
         "uid": "b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/b74ce19d-81ca-4fbc-8c38-5d3846a5619c",
-        "displayOrder": 10,
+        "displayOrder": 11,
         "airbnbRoomId": null
       },
       {
         "uid": "a35afab3-a93f-43fa-9933-e64c505cc7ac",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/a35afab3-a93f-43fa-9933-e64c505cc7ac",
-        "displayOrder": 11,
+        "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
         "uid": "28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/28cc0555-aa56-48f2-ac8e-fbf0c77f4831",
-        "displayOrder": 12,
+        "displayOrder": 13,
         "airbnbRoomId": null
       },
       {
         "uid": "0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
         "description": "Main Level Bedroom - Every room has a view.\n",
         "url": "https://orbirental-images.s3.amazonaws.com/0f7d40ae-619e-4aca-90f4-2766ea32c1bb",
-        "displayOrder": 13,
+        "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
         "uid": "05affb2c-430d-4e16-8b4c-93ff0c025c29",
         "description": "Master Bathroom",
         "url": "https://orbirental-images.s3.amazonaws.com/05affb2c-430d-4e16-8b4c-93ff0c025c29",
-        "displayOrder": 14,
+        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
         "uid": "c4704a0a-3370-4e04-941b-7970fd841b49",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/c4704a0a-3370-4e04-941b-7970fd841b49",
-        "displayOrder": 15,
+        "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
         "uid": "11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
         "description": "Loft Sleeping Area Upstairs - Queen Bed",
         "url": "https://orbirental-images.s3.amazonaws.com/11b858a6-5fdf-45a7-a77b-f1dc7055b4ff",
-        "displayOrder": 16,
+        "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
         "uid": "435f1b05-a5a1-4826-924b-098d49c9bd5a",
         "description": "Downstairs Family Room\n",
         "url": "https://orbirental-images.s3.amazonaws.com/435f1b05-a5a1-4826-924b-098d49c9bd5a",
-        "displayOrder": 17,
+        "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
         "uid": "0e5cd743-9c10-4938-814b-f6b60b5ba60f",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/0e5cd743-9c10-4938-814b-f6b60b5ba60f",
-        "displayOrder": 18,
+        "displayOrder": 19,
         "airbnbRoomId": null
       },
       {
         "uid": "03b4d23d-d650-42f4-8738-26db45a5aad1",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/03b4d23d-d650-42f4-8738-26db45a5aad1",
-        "displayOrder": 19,
+        "displayOrder": 20,
         "airbnbRoomId": null
       },
       {
         "uid": "2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
         "description": "Downstairs 3rd bedroom",
         "url": "https://orbirental-images.s3.amazonaws.com/2bcd0482-cfd3-48cb-9837-29cc03dc3c8c",
-        "displayOrder": 20,
+        "displayOrder": 21,
         "airbnbRoomId": null
       },
       {
         "uid": "0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
         "description": "Spectacular Mountain Views",
         "url": "https://orbirental-images.s3.amazonaws.com/0c22f45d-8f0c-4bac-a9f3-4fa319d3ab32",
-        "displayOrder": 21,
+        "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
         "uid": "0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/0876bb8d-fdb5-41fc-a09f-dc79ac6a3197",
-        "displayOrder": 22,
+        "displayOrder": 23,
         "airbnbRoomId": null
       },
       {
         "uid": "34eda805-76f4-4589-a63d-627cf983ce86",
         "description": "The Timpanogas Bedroom - French doors make this private. ",
         "url": "https://orbirental-images.s3.amazonaws.com/34eda805-76f4-4589-a63d-627cf983ce86",
-        "displayOrder": 23,
+        "displayOrder": 24,
         "airbnbRoomId": null
       },
       {
         "uid": "8f6ac18e-5006-455b-87a3-c5ab4d016f85",
         "description": "Downstairs Kitchen",
         "url": "https://orbirental-images.s3.amazonaws.com/8f6ac18e-5006-455b-87a3-c5ab4d016f85",
-        "displayOrder": 24,
+        "displayOrder": 25,
         "airbnbRoomId": null
       },
       {
         "uid": "d2a64403-2608-45f6-a98b-4578679092ac",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/d2a64403-2608-45f6-a98b-4578679092ac",
-        "displayOrder": 25,
+        "displayOrder": 26,
         "airbnbRoomId": null
       },
       {
         "uid": "fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/fc8b7c25-01fe-4cc6-815f-b82594e73ae7",
-        "displayOrder": 26,
+        "displayOrder": 27,
         "airbnbRoomId": null
       },
       {
         "uid": "fb88bb12-4870-45f0-a561-0fcfea21bf6d",
         "description": "Hot Tub",
         "url": "https://orbirental-images.s3.amazonaws.com/fb88bb12-4870-45f0-a561-0fcfea21bf6d",
-        "displayOrder": 27,
+        "displayOrder": 28,
         "airbnbRoomId": null
       },
       {
         "uid": "3540a0e5-3fcd-4aba-9643-a00af5c3853c",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/3540a0e5-3fcd-4aba-9643-a00af5c3853c",
-        "displayOrder": 28,
+        "displayOrder": 29,
         "airbnbRoomId": null
       },
       {
         "uid": "65b30fc9-5237-47ec-9f44-61a478d12fb8",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/65b30fc9-5237-47ec-9f44-61a478d12fb8",
-        "displayOrder": 29,
+        "displayOrder": 30,
         "airbnbRoomId": null
       },
       {
         "uid": "30493efa-e0a9-4db2-81db-13163dd5895b",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/30493efa-e0a9-4db2-81db-13163dd5895b",
-        "displayOrder": 30,
+        "displayOrder": 31,
         "airbnbRoomId": null
       },
       {
         "uid": "eff7d0b3-d970-49ca-9955-808dd37495be",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/eff7d0b3-d970-49ca-9955-808dd37495be",
-        "displayOrder": 31,
+        "displayOrder": 32,
         "airbnbRoomId": null
       },
       {
         "uid": "4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/4e85b6e3-e3d5-4ba3-8751-0f90975c0b05",
-        "displayOrder": 32,
+        "displayOrder": 33,
         "airbnbRoomId": null
       },
       {
         "uid": "3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/3d0777a3-6d51-4ef8-ae00-bd43c7f3a9e8",
-        "displayOrder": 33,
+        "displayOrder": 34,
         "airbnbRoomId": null
       },
       {
         "uid": "5771e521-d541-490f-ae15-c06b1547c922",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/5771e521-d541-490f-ae15-c06b1547c922",
-        "displayOrder": 34,
+        "displayOrder": 35,
         "airbnbRoomId": null
       },
       {
         "uid": "673960a8-a1c9-42d3-b10c-e2e306fd9502",
         "description": "",
         "url": "https://orbirental-images.s3.amazonaws.com/673960a8-a1c9-42d3-b10c-e2e306fd9502",
-        "displayOrder": 35,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
         "displayOrder": 36,
         "airbnbRoomId": null
       },
@@ -5044,7 +4974,7 @@
       }
     ],
     "description": {
-      "name": "Stewart Heights",
+      "name": "Stewart Heights • Sundance, Utah",
       "shortSummary": "Steart Hieghts is all about the mountains and unparalleled perspective on the surrounding landscape.",
       "summary": "Escape to the serenity of Stewart Heights, a distinguished mountain home perched on a hillside overlooking  some of the most spectacular views in the area.  This charming property offers a captivating blend of rustic elegance and modern comfort, providing the perfect getaway here in the Wasatch Mountains.  Spacious with two levels for families traveling together or just room for everyone to have their own peach and serenity.  ",
       "notes": null,
@@ -5119,7 +5049,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/79174/sundance-mountain-haven",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/79174/sundance-mountain-haven-%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/ghblsch",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": 730,
@@ -5142,7 +5072,7 @@
     "fullPaymentTiming": 30,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/855211384059873912",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/79174/sundance-mountain-haven",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/79174/sundance-mountain-haven-%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/3339224?dateless=true",
       "tripAdvisorUrl": null,
@@ -5376,7 +5306,7 @@
       }
     ],
     "description": {
-      "name": "Sundance Mountain Haven",
+      "name": "Sundance Mountain Haven • Sundance, Utah",
       "shortSummary": "Spacious Family Home  with Views, Hot Tub , Fireplaces, Decks and a Kid Cubby",
       "summary": "Sundance Mountain Haven has quick, easy access to ski runs in the winter and hiking trails in the summer invite you to go out and play.   Multi generations can enjoy the cabin at the same time.  Kid cubby to hide from adults, ping pong, shuffleboard, pool table for big kids, well-appointed kitchen for cooking, quiet bedrooms for relaxing and the hot tub on the deck for a relaxing soak.  Large living room for movies or sports games.  Come stay in this magical place and make new memories.\n\n\n\n\n\n \n",
       "notes": "The bedroom with the four twin beds has the pool table in the middle.  This is  not a private bedroom with doors.  \n\nThe Kid Cubby Loft is the bedroom with two single beds.  It has a kid size entrance  that opens into a space for kids to play and sleep or watch tv in main living room from their perch.  \n\nCAR CHARGING STATIONS ARE AVAILABLE IN THE UPPER PARKING LOT OF SUNDANCE RESORT.  \nNO EVENTS HOSTED AT THIS PROPERTY.  \nNO PETS.\n \n \n\n",
@@ -5451,7 +5381,7 @@
     "currency": "USD",
     "currencySymbol": "$",
     "panoramicDataUrl": null,
-    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest-",
+    "propertyURL": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest--%E2%80%A2-sundance%2C-utah",
     "guideBookUrl": "https://hostful.ly/gnmprfv",
     "weekEndRatePercentAdjustment": 0,
     "bookingWindow": 730,
@@ -5474,7 +5404,7 @@
     "fullPaymentTiming": 46,
     "listingLinks": {
       "airbnbUrl": "https://airbnb.com/rooms/867438031304977601",
-      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest-",
+      "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/78231/the-cuckoo%27s-nest--%E2%80%A2-sundance%2C-utah",
       "bookingDotComUrl": null,
       "homeAwayUrl": "https://www.vrbo.com/3350728?dateless=true",
       "tripAdvisorUrl": null,
@@ -5876,13 +5806,13 @@
       }
     ],
     "description": {
-      "name": "The Cuckoo's Nest ",
+      "name": "The Cuckoo's Nest  • Sundance, Utah",
       "shortSummary": "The Cuckoo's Nest - A great  place to perch awhile",
-      "summary": "The Cuckoo's Nest - Newly renovated and redecorated is situated at the end of the road with views of the ski lift and the mountains of Sundance.  Large windows and decks bring the light and beauty of the area inside while you enjoy the spaciousness and luxury of this home.  \n\nAmong the many attributes of this beautifully decorated luxury residence is its suitability for large families or groups.  This property is a year-round retreat offering 4 bedrooms in the main house with a separate garage apartment and two adjoining but separate ensuite bedrooms.  \n\nThe gourmet chef’s kitchen and top of the line appliances and fully stocked serving ware pantry, invite the chefs among you to come and create while the dining table and kitchen seating allow room for all to partake and enjoy.  The open kitchen plan allows for staying connected while others gather in the living room or the parlor room nearby.  \n\nThe beauty of this home’s interior will captivate you but don’t forget the hot tub and the many decks for enjoying the crisp mountain air and then there’s the views!   You have to come and see.    \n\nThe surrounding mountains have plenty to offer as well.  From hiking and skiing to biking and snowshoeing, there’s horseback riding, zip lining, world class restaurants and a spa within a short five-minute drive or a 15-minute walk.  \n\nMountain Cabins Utah is located right here on the mountain and is available to assist in your planning and to answer your questions to make sure your time away is memorable.  \n\n\n\n\n\n\n\n\n",
-      "notes": null,
-      "access": null,
+      "summary": "The Cuckoo's Nest is newly renovated and redecorated and is situated at the end of the road with spectacular views of the mountains and the ski lift at the Resort.  Four bedrooms in the main house with two adjoining but separate ensuite bedrooms plus a separate garage apartment invites families and groups to gather.  \n\n",
+      "notes": "A gourmet chef's kitche features top of the line appliances, fully stocked with serving ware, and large pantry invite the chefs amoung you to come and create while the dining table and kitchen seating allow room for all to partake and enjoy.  The open kitchen plan allows for staying connected while others gather in the living room, parlour or family room nearby.  \n\nThe beauty of this home's interior will captivate you but don't forget the hot tub and the many decks for enjoying the crisp mountain air and don't forget the views.  You have to come and see for yourself.  \n\nThe surrounding mountains and Resort have plenty to offer.  Hiking, biking, skiing, snowshoeing, horseback riding, zip lining, music events, the spa, world class dining are all within a five to sevin minute drive.  ",
+      "access": "",
       "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  ",
-      "interaction": null,
+      "interaction": "The staff here at Mountain Cabins Utah live on the mountain and are here to answer any questions or be available to resolve any situations or problems that may come up.  Your time away is important to us and we will endeavor to make it more than you expected.  ",
       "neighbourhood": "Located in a gated community within a five minute drive to the  Sundance Resort.  There you will find award winning restaurants such as The Foundry Grill that serves breakfast, lunch and dinner; The  TreeRoom for that extra special dining experience; The Owl Bar with burgers and the best staff ever and music on the weekends. (Adults only); or stop at the Deli for sandwiches, soup, coffee, smoothies, cookies and goodies.  The Deli also has those necessities you may need like milk, eggs, bread and a great steak or two.  If you're skiing, (or not) try out the OutLook AspreSki Restaurant for lunch.  ",
       "space": null,
       "houseManual": "GENERAL PROPERTY CONDITIONS \nAGE REQUIREMENT:  Guest is at least twenty-five (25) years of age.  Guest is responsible for all other guests and visitors of the rental property during the reservation.  \nPAYMENT:  50% of the total reservation amount is due at time of booking.  30 Days prior to arrival, the balance is due.  Should final payment not be made 30 days prior to arrival, the reservation may be cancelled, and any payment made becomes non-refundable.  \nLIMITED OCCUPANCY:  Maximum occupancy is limited to the number of individuals listed on the reservation.  If the host concludes that this policy has been breached, Host reserves the right to expel the entire party with no refund.  \nTERM OF RENTAL AGREEMENT:  The Rental Agreement begins at 4:00 p.m. on Check-in Date and ends at 11:00 a.m. on Check out Date.  Early check-ins or late check-outs are subject to approval.  \nCANCELLATION POLICY:  Guests who cancel at least 30 days before check-in will get back 100% of the amount, they've paid minus 5% credit card processing fees.   Should a reservation be rescheduled at the request of the guest or recommendation of the Host, and then cancelled, the payment made would not be refundable.  \nSMOKING:  No smoking inside the property.  A minimum fee of $250 will be assessed if smoking in the property is detected.  \nPARKING:  Is restricted to the properties designated spaces.  Do not park in neighboring properties or in the road. \nREFUNDS:  Guest hereby agrees and acknowledges that guest shall not be entitled to a refund in the event guest departs before the end of the reservation or guest arrives late.  Furthermore, any refund or compensation for the occurrence of any and all events out of the control of Owners, including but not limited to, Acts of God, weather conditions, power outages, water outages, mechanical failure of appliances and electronics, heat and air will be at the sole discretion of Owners.  Mountain roads can be curvy and steep.  Gravel drives and roads are well maintained; however, it is highly recommended to have four-wheel drive or chains on two-wheel-drive vehicles.  No refunds will be given due to road conditions. \nHOSTS RIGHTS:  Guest agrees that if the conditions and limitations set forth herein are not met, Host shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Guest has vacated the Property.  All monies paid by the Guest shall be forfeited as liquidated damages.  \nINDEMNIITY CLAUSE:  Guest hereby agrees to indemnify and hold Host harmless from all claims, including those of third parties, arising out of or in any way related to Guest’s use of Property or the items of personal property provided therein.  Guest assumes all risk of injury or other losses relating to any recreational activities, including use of hot tub on the Property and will hold Host harmless with respect therein.  \nREPAIRS AND MAINTENANCE:  This property is reserved wit the Host’s furniture and household furnishings.  Host shall not be responsible for providing additional furnishings or equipment not presently available in Property.  Guest will report any maintenance issues immediately to the Host.  Host will make every effort to repair and/or replace any equipment that is not working property but cannot guarantee that all equipment will be in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.  \nUSE OF RENTAL PROPERTY:  Guest shall occupy and use the rental property in a manner that shall not disturb or offend neighbors of the rental property. \nSENSITIVE MOUNTAIN SEPTIC:  Toilets:  The following items are NOT to be flushed down the toilets.  Baby wipes, facial wipes, diapers, tampons or any feminine products, Q-Tips, excessive toilet paper.  Should a toilet overflow and the plumber determines the cause was by any of the above items, guest will be charged the entire service call plus time and effort by owners.  Use the trash cans located beside the toilets.  \nCARE OF PREMISES/DAMAGES:  NO PET PROPERTIES AN D NO SMOKING – Violation of these or anyf the House Rules constitutes grounds for automatic eviction plus forfeit of all payments and all booking/reservation costs if violated.   Guest agrees to pay Host for any damages to the property, grounds, furnishings, household items, hot tubs caused by Guest during its occupancy.  This will include payment of any additional cleaning charges incurred dur to Gits occupancy.   \n\nBEFORE DEPARTING:  Please do the following before departing the property:  \n1.\tFurniture - If you moved it, please put it back. \n2.\tRemote controls - make sure all remote controls are left visible in each room with a television, DVD player or other devices using a remote control.  \n3.\tNetflix and Streaming Services  - if you signed into your home accounts, remember to sign out.  \n4.\tDishes, pots, pans, etc., must be washed and put away for the next guest.  If the Property has a dishwasher, please load, and turn it on.  \n5.\tBeds - If you slept in the bed, just leave it unmade.  DO NOT strip beds\n6.\tTowels - leave used towels in the bathtub, shower or on the floor.\n7.\tLights, fans, and appliances should be turned off. \n8.\tGarbage must be bagged and placed in the outside cans or containers or left inside the property.  \n9.\tFireplaces - extinguish all fires in fireplaces and make sure safety screens are closed or in place. \t\n10.\tThermostats - During cool season, set thermostat at 55 degrees upon departure\n\nRESTRICTIONS:  The following activities are not permitted within the boundaries of the residential community or resort:  \n1.\tATVs or snowmobiles* (Southern Properties excluded from this restriction)\n2.\tDischarge of firearms or use of archery tackle*\n3.\tHunting or trapping*\n4.\tOutside fires, fireworks or any combustible substance are absolutely prohibited**\n5.\tExcessive noise that disrupts, disturbs, annoys, or offends neighbors*\n6.\tSound curfew is 7:30 pm*\n7.\tLarge recreational vehicles or large trailers - the roads are too narrow.\n8.\tParking anywhere except designated parking.  No street parking or parking in neighboring cabins or condos\n9.\tOpen fires are strictly restricted outside – no firepits, bonfires or any such version of these and will be fined $2,500.00.\n\nFINES OF UP TO $1,000.00 MAY BE ASSESSED FOR PROHIBITED ACTIVITES\n\nGuest and Host, by signing this Rental Agreement acknowledges that they will comply with the terms of this Agreement and each assumes the responsibility for the obligations set forth herein.  Guest acknowledges receipt of the House Rules.  Guest acknowledges that they have read, accepts, and agrees to the terms set forth.  \n",
@@ -5923,7 +5853,7 @@
     "bedrooms": 4,
     "bathrooms": "3",
     "picture": "https://orbirental-images.s3.amazonaws.com/c429e498-463f-42dc-8f6c-753cbe0541ac_8456Threesisters%282%29.jpg",
-    "webLink": null,
+    "webLink": "https://mountaincabinsutah.com/property/three-sisters-sundance-utah/",
     "cleaningFeeAmount": 275,
     "minimumStay": 2,
     "maximumStay": 30,

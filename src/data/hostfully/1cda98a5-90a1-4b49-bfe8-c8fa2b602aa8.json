@@ -32,7 +32,7 @@
   "bedrooms": 4,
   "bathrooms": "3",
   "picture": "https://orbirental-images.s3.amazonaws.com/1eb3eb65-099a-4774-8573-bdea967ac712_CAPTURE+2.webp",
-  "webLink": null,
+  "webLink": "https://mountaincabinsutah.com/property/bear-tooth-lodge/",
   "cleaningFeeAmount": 300,
   "minimumStay": 2,
   "maximumStay": 0,
@@ -55,7 +55,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge-%E2%80%A2-sundance%2C-utah",
   "guideBookUrl": "https://hostful.ly/gbkcbkm",
   "weekEndRatePercentAdjustment": 16.8067,
   "bookingWindow": -1,
@@ -78,7 +78,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/1063076627904100638",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/110093/bear-tooth-lodge-%E2%80%A2-sundance%2C-utah",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/3795644?dateless=true",
     "tripAdvisorUrl": null,
@@ -480,7 +480,7 @@
     }
   ],
   "description": {
-    "name": "Bear Tooth Lodge",
+    "name": "Bear Tooth Lodge • Sundance, Utah",
     "shortSummary": "New vacation rental - Family Friendly - Fun, Cozy Mountain Cabin",
     "summary": "Bear Tooth Lodge - Secluded and nestled in the trees yet minutes from the adventures the mountain has to offer.  This four-bedroom  escape in Sundance, Utah, is just the place to bring families and friends.  This cabin has it all, fireplace,  magnificant views, beautiful outside space, hot tub, swings, two kitchens, a game room and loads of beds for all AND kid friendly with fun \"hidden\" escape rooms for spaces all their own.  Come and make some memories.  ",
     "notes": "Located in a gated community within a five minute drive to the  Sundance Resort, you will find award winning restaurants, winter and summer activies, music, art studio, gift shop, spa and the local Sundance community.  Close by is horseback riding, snow shoing, skiing, hiking, ziplining, fly fishing there's so much to do.  ",
