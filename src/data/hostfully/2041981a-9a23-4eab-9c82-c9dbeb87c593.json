@@ -60,7 +60,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge-%40-eagle-point-ski-resort",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge--%E2%80%A2--eagle-point-ski-resort",
   "guideBookUrl": "https://hostful.ly/grwltml",
   "weekEndRatePercentAdjustment": 31.4465,
   "bookingWindow": -1,
@@ -83,7 +83,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/35222391",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge-%40-eagle-point-ski-resort",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23491/-n%C2%BA6-wooded-ridge--%E2%80%A2--eagle-point-ski-resort",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/2254278?dateless=true",
     "tripAdvisorUrl": null,
@@ -289,10 +289,10 @@
     }
   ],
   "description": {
-    "name": " Nº6 Wooded Ridge @ Eagle Point Ski Resort",
-    "shortSummary": " Nº6 Wooded Ridge @ Eagle Point Ski Resort",
-    "summary": "This ski-in/ski-out, 2 bedroom, plus loft bedroom sleeps 8.  Two bathrooms - one up one down.  Queen bed in the main level bedroom, king bed in the loft  bedroom, queen bed in second bedroom upstairs plus a queen size sleeper sofa in the living room.  WiFi, satellite TV, & blu-ray.   Wood burning fireplace with free wood & firestarters.\r\n\r\nThe kitchen provides everything you need to make yourself at home including a smartphone charging station, coffeemaker, pots and pans, serving ware, microwave, toaster and blender.  \r\n\r\nThe deck provides plenty of room to sit outside and enjoy spectacular views of the slopes and watch the sunset or look at the stars at night.  ",
-    "notes": "",
+    "name": " Nº6 Wooded Ridge  •  Eagle Point Ski Resort",
+    "shortSummary": " Nº6 Wooded Ridge  •  Eagle Point Ski Resort",
+    "summary": "This ski-in/ski-out, 2 bedroom, plus loft bedroom sleeps 8.  Two bathrooms - one up one down.  Queen bed in the main level bedroom, king bed in the loft  bedroom, queen bed in second bedroom upstairs plus a queen size sleeper sofa in the living room.  WiFi, smart TV, wood burning fireplace with wood provided.  AND, a kid bubby upstairs for the little one!",
+    "notes": "The kitchen provides everything you need to make yourself at home including a smartphone charging station, coffeemaker, pots and pans, serving ware, microwave, toaster and blender.  \n\nThe deck provides plenty of room to sit outside and enjoy spectacular views of the slopes and watch the sunset or look at the stars at night.  ",
     "access": "",
     "transit": "",
     "interaction": "We're available by phone and by text throughout the week, and on-site personnel will always be assigned on the weekends.",

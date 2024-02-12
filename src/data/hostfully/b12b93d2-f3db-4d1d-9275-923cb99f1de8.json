@@ -60,7 +60,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge-at-eagle-point-ski-resort-",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge--%E2%80%A2---eagle-point-ski-resort-",
   "guideBookUrl": "https://hostful.ly/gbzpvpz",
   "weekEndRatePercentAdjustment": 31.4465,
   "bookingWindow": -1,
@@ -83,7 +83,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/35459553",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge-at-eagle-point-ski-resort-",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23489/n%C2%BA8-wooded-ridge--%E2%80%A2---eagle-point-ski-resort-",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/2254279?dateless=true",
     "tripAdvisorUrl": null,
@@ -324,9 +324,9 @@
     }
   ],
   "description": {
-    "name": "Nº8 Wooded Ridge at Eagle Point Ski Resort ",
-    "shortSummary": "Nº8 Wooded Ridge at Eagle Point Ski Resort ",
-    "summary": "This ski-in/ski-out, 2 bedroom + 1 loft bedroom, 2 bath condo sleeps 8.  Kid's cubby upstairs.\r\n\r\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\r\n\r\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\r\n\r\nWalking distance to lodge.",
+    "name": "Nº8 Wooded Ridge  •   Eagle Point Ski Resort ",
+    "shortSummary": "Nº8 Wooded Ridge  •  Eagle Point Ski Resort ",
+    "summary": "This ski-in/ski-out, 2 bedroom + 1 loft bedroom, 2 bath condo sleeps 8.  Kid's cubby upstairs.\n\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\n\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\n\n",
     "notes": "",
     "access": "",
     "transit": "You'll be enjoying the peace and serenity of the mountains about 20 minutes away from Beaver, Utah.  Be sure to fill your gas tank in town before coming up the mountains all-wheel-drive + snow tires and a set of chains, just in case, are highly recommended in winter.",
