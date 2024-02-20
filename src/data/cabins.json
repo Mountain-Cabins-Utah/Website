@@ -4631,7 +4631,7 @@
     "baseDailyRate": 595,
     "city": "Sundance",
     "state": "UT",
-    "address1": "9095 North Childres's Road",
+    "address1": "9095 North Children's Road",
     "address2": "",
     "postalCode": "84604",
     "countryCode": "US",
@@ -4662,7 +4662,7 @@
     "currencySymbol": "$",
     "panoramicDataUrl": null,
     "propertyURL": "https://platform.hostfully.com/vacation-rental-property/105719/stewart-heights-%E2%80%A2-sundance%2C-utah",
-    "guideBookUrl": "https://hostful.ly/gdfbnjd",
+    "guideBookUrl": "https://hostful.ly/gxbdbrs",
     "weekEndRatePercentAdjustment": 16.8067,
     "bookingWindow": -1,
     "bookingWindowAfterCheckout": -1,
@@ -5403,8 +5403,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 14,
-      "average": 4.714285714285714
+      "total": 15,
+      "average": 4.733333333333333
     },
     "createdDate": 1676323298000,
     "percentUponReservation": 50,
