@@ -23,7 +23,7 @@
     "couch": 0
   },
   "type": "CONDO",
-  "name": " Eagle Point Ski Resort Nº6  @ Wooded Ridge ",
+  "name": "Eagle Point Ski Resort Nº6 in Wooded Ridge Condos",
   "isActive": true,
   "baseGuests": 1,
   "maximumGuests": 6,
@@ -60,7 +60,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/eagle-point-ski-resort-n%C2%BA6--%40-wooded-ridge-",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23491/eagle-point-ski-resort-n%C2%BA6-in-wooded-ridge-condos",
   "guideBookUrl": "https://hostful.ly/grwltml",
   "weekEndRatePercentAdjustment": 31.4465,
   "bookingWindow": -1,
@@ -83,7 +83,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/35222391",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23491/eagle-point-ski-resort-n%C2%BA6--%40-wooded-ridge-",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23491/eagle-point-ski-resort-n%C2%BA6-in-wooded-ridge-condos",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/2254278?dateless=true",
     "tripAdvisorUrl": null,
@@ -289,8 +289,8 @@
     }
   ],
   "description": {
-    "name": "Eagle Point Ski Resort Nº6  @ Wooded Ridge ",
-    "shortSummary": "Eagle Point Ski Resort Nº6  @ Wooded Ridge ",
+    "name": "Eagle Point Ski Resort Nº6 in Wooded Ridge Condos",
+    "shortSummary": "Eagle Point Ski Resort Nº6 in Wooded Ridge Condos",
     "summary": "This ski-in/ski-out, 2 bedroom, plus loft bedroom sleeps 8.  Two bathrooms - one up one down.  Queen bed in the main level bedroom, king bed in the loft  bedroom, queen bed in second bedroom upstairs plus a queen size sleeper sofa in the living room.  WiFi, smart TV, wood burning fireplace with wood provided.  AND, a kid bubby upstairs for the little one!",
     "notes": "The kitchen provides everything you need to make yourself at home including a smartphone charging station, coffeemaker, pots and pans, serving ware, microwave, toaster and blender.  \n\nThe deck provides plenty of room to sit outside and enjoy spectacular views of the slopes and watch the sunset or look at the stars at night.  ",
     "access": "",

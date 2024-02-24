@@ -18,7 +18,7 @@
     "couch": 0
   },
   "type": "CONDO",
-  "name": " Eagle Point Ski Resort Nº9 @ Wooded Ridge ",
+  "name": "Eagle Point Ski Resort Nº9 Wooded Ridge Condos",
   "isActive": true,
   "baseGuests": 1,
   "maximumGuests": 4,
@@ -32,7 +32,7 @@
   "bedrooms": 1,
   "bathrooms": "1",
   "picture": "https://orbirental-images.s3.amazonaws.com/5be4f29a-fbab-40ea-b602-32f01a59ffd8_Best+Picture.jpg",
-  "webLink": null,
+  "webLink": "https://platform.hostfully.com/vacation-rental-property/82129/eagle-point-ski-resort-n%C2%BA9-%40-wooded-ridge-",
   "cleaningFeeAmount": 75,
   "minimumStay": 2,
   "maximumStay": 0,

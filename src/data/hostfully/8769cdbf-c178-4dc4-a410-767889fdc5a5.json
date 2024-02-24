@@ -23,7 +23,7 @@
     "couch": 0
   },
   "type": "CONDO",
-  "name": " Eagle Point Ski Resort Nº15 @ Snowflake",
+  "name": "Eagle Point Ski Resort -Nº15 in Snowflake Condos",
   "isActive": true,
   "baseGuests": 1,
   "maximumGuests": 10,
@@ -60,7 +60,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24476/eagle-point-ski-resort----n%C2%BA15-snowflake",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/24476/eagle-point-ski-resort-n%C2%BA15-in-snowflake-condos",
   "guideBookUrl": "https://hostful.ly/gpddxfw",
   "weekEndRatePercentAdjustment": 35.503,
   "bookingWindow": -1,
@@ -83,7 +83,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/38702025",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/24476/eagle-point-ski-resort----n%C2%BA15-snowflake",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/24476/eagle-point-ski-resort-n%C2%BA15-in-snowflake-condos",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/2254280?dateless=true",
     "tripAdvisorUrl": null,
@@ -274,72 +274,44 @@
       "airbnbRoomId": null
     },
     {
-      "uid": "e134a120-1a74-4c88-8c48-93d1ff528e02",
-      "description": "The bar at Canyonside Lodge",
-      "url": "https://orbirental-images.s3.amazonaws.com/e134a120-1a74-4c88-8c48-93d1ff528e02",
-      "displayOrder": 26,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "d0fc506a-5de3-4043-9b61-dca9506efcb6",
-      "description": "The bar at Canyonside Lodge",
-      "url": "https://orbirental-images.s3.amazonaws.com/d0fc506a-5de3-4043-9b61-dca9506efcb6",
-      "displayOrder": 27,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "2f47bcc6-ffe7-4829-9867-2f6070a36cee",
-      "description": "Upper Lodge for Bike Rentals and Ski Patrol and the Lifts",
-      "url": "https://orbirental-images.s3.amazonaws.com/2f47bcc6-ffe7-4829-9867-2f6070a36cee",
-      "displayOrder": 28,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "a2d923d4-e547-4490-86ab-76405574e696",
       "description": "Views AND privacy...",
       "url": "https://orbirental-images.s3.amazonaws.com/a2d923d4-e547-4490-86ab-76405574e696",
-      "displayOrder": 29,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "ab06114d-89f6-4c43-b685-621ecf494370",
-      "description": "Still June...",
-      "url": "https://orbirental-images.s3.amazonaws.com/ab06114d-89f6-4c43-b685-621ecf494370",
-      "displayOrder": 30,
+      "displayOrder": 26,
       "airbnbRoomId": null
     },
     {
       "uid": "f8f3a33f-37f5-4a33-b95f-03e2f0d39a5d",
       "description": "Wide-open spaciousness at 10,000 feet in Southern Utah.",
       "url": "https://orbirental-images.s3.amazonaws.com/f8f3a33f-37f5-4a33-b95f-03e2f0d39a5d",
-      "displayOrder": 31,
+      "displayOrder": 27,
       "airbnbRoomId": null
     },
     {
       "uid": "ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
       "description": "Great views of the resort from your deck",
       "url": "https://orbirental-images.s3.amazonaws.com/ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
-      "displayOrder": 32,
+      "displayOrder": 28,
       "airbnbRoomId": null
     },
     {
       "uid": "9dec7b51-72b4-4a27-a3b5-08d19c53262a",
       "description": "Even the electronics addicted can't help enjoying nature here!",
       "url": "https://orbirental-images.s3.amazonaws.com/9dec7b51-72b4-4a27-a3b5-08d19c53262a",
-      "displayOrder": 33,
+      "displayOrder": 29,
       "airbnbRoomId": null
     },
     {
       "uid": "d0e7511b-e501-4c19-8803-f2a440e8c6d5",
       "description": "Upper mountain yurt...",
       "url": "https://orbirental-images.s3.amazonaws.com/d0e7511b-e501-4c19-8803-f2a440e8c6d5",
-      "displayOrder": 34,
+      "displayOrder": 30,
       "airbnbRoomId": null
     }
   ],
   "description": {
-    "name": "Eagle Point Ski Resort  - Nº15 Snowflake",
-    "shortSummary": " Eagle Point Ski Resort  - Nº15 Snowflake",
+    "name": "Eagle Point Ski Resort Nº15 in Snowflake Condos",
+    "shortSummary": " Eagle Point Ski Resort Nº15 in Snowflake Condos",
     "summary": "Snowflake #15 is a ski-in/ski-out 2 bedroom, 2 bath, pus loft condo that sleeps 10 people. Queen bed in each bedroom, two  sets of twin size bed bunk beds in the loft, and a sleeper sofa for 2 in the living room.  Internet access, smart TVs,  is there for you to make your stay more enjoyable and comfortable.    A real wood-burning fireplace with dry wood and fire starters makes things extra cozy and convenient.   \n\n",
     "notes": "Located along the historic Paiute Trail in Utah’s Tushar Mountains, in the Eagle Point Ski Resort off of Hwy 153, our Mountain Cabins Utah Condos are true diamonds in the most spectacular rough!\n\nA fully stocked kitchen provides everything you need to make yourself at home—cooking utensils, silverware, pots & pans, plates, bowls, cups, glasses, pizza pan, wine glasses, coffee maker, toaster, blender, dishwasher, and microwave.  You’ll find a starter supply of paper towels, dish soap, dishwasher soap, and trash bags for your use.   \n\nThe deck has plenty of room to sit outside and enjoy spectacular views of the ski slopes and breathe the clean air with a nice cup of coffee in the morning or a beverage of choice in the evening to watch the spectacular sunsets or look at the stars.",
     "access": "",
