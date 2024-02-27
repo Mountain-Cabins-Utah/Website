@@ -571,8 +571,8 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 176,
-      "average": 4.948863636363637
+      "total": 177,
+      "average": 4.9491525423728815
     },
     "createdDate": 1562259446000,
     "percentUponReservation": 50,
@@ -1390,7 +1390,7 @@
       "airbnbUrl": "https://airbnb.com/rooms/1097336327164015767",
       "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/77777/eagle-point-ski-resort--n%C2%BA13-%40-wooded-ridge-",
       "bookingDotComUrl": null,
-      "homeAwayUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3873917?dateless=true",
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
@@ -3651,7 +3651,7 @@
       "airbnbUrl": "https://airbnb.com/rooms/1097327047404259000",
       "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/82129/eagle-point-ski-resort-n%C2%BA9-%40-wooded-ridge-",
       "bookingDotComUrl": null,
-      "homeAwayUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/3873918?dateless=true",
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
@@ -5176,8 +5176,8 @@
     ],
     "description": {
       "name": "Stewart Heights • Sundance, Utah",
-      "shortSummary": "Stewart Heights is all about the mountains & the views",
-      "summary": "Escape to the serenity of Stewart Heights, a distinguished mountain home perched on a hillside overlooking  some of the most spectacular views in the area.  This charming property offers a captivating blend of rustic elegance and modern comfort, providing the perfect getaway here in the Wasatch Mountains.  Spacious with two levels for families traveling together or just room for everyone to have their own peach and serenity.  ",
+      "shortSummary": "Mountains and views take center stage at Stewart Heights",
+      "summary": "Escape to the serenity of Stewart Heights, a distinguished mountain home perched on a hillside with spectacular views.  A captivating blend of rustic elegance and modern comforts, this perfect getaway provides two levels for families traveling together and extra space to breathe, think, and fosters a sense of tranquility and relaxation for all.  Have a conversation, play a game, watch a movie, reconnect with each other.  It’s about taking time out.  Take it! ",
       "notes": null,
       "access": "Stewart Heights has a small apartment below the garage with a separate entrance  that is rented by a chef at Sundance Ski Resort.  This gentleman is quiet, has his own entrance and you will hardly know he's here.  He's a chef, they work all the time.  Ask them!  ",
       "transit": "Car Rental is best.  \nWINTER - From November 1st until March 31st, four wheel or all wheel drive is mandatory.  \n",
