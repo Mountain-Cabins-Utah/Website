@@ -60,7 +60,7 @@
   "currency": "USD",
   "currencySymbol": "$",
   "panoramicDataUrl": null,
-  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/eagle-point-ski-resort-n%C2%BA8-in-wooded-ridge-condos",
+  "propertyURL": "https://platform.hostfully.com/vacation-rental-property/23489/eagle-point-ski-resort-n%C2%BA8-wooded-ridge-condos",
   "guideBookUrl": "https://hostful.ly/gbzpvpz",
   "weekEndRatePercentAdjustment": 31.4465,
   "bookingWindow": -1,
@@ -83,7 +83,7 @@
   "fullPaymentTiming": 30,
   "listingLinks": {
     "airbnbUrl": "https://airbnb.com/rooms/35459553",
-    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23489/eagle-point-ski-resort-n%C2%BA8-in-wooded-ridge-condos",
+    "hostfullyUrl": "https://platform.hostfully.com/vacation-rental-property/23489/eagle-point-ski-resort-n%C2%BA8-wooded-ridge-condos",
     "bookingDotComUrl": null,
     "homeAwayUrl": "https://www.vrbo.com/2254279?dateless=true",
     "tripAdvisorUrl": null,
@@ -324,8 +324,8 @@
     }
   ],
   "description": {
-    "name": "Eagle Point Ski Resort Nº8 in Wooded Ridge Condos",
-    "shortSummary": "Eagle Point Ski Resort Nº8 in Wooded Ridge Condos",
+    "name": "Eagle Point Ski Resort Nº8 Wooded Ridge Condos",
+    "shortSummary": "Eagle Point Ski Resort Nº8 Wooded Ridge Condos",
     "summary": "This ski-in/ski-out, 2 bedroom + 1 loft bedroom, 2 bath condo sleeps 8.  Kid's cubby upstairs.\n\nFully stocked kitchen (except food).  Wood burning fireplace, WiFi, TV,\n\nThe deck provides plenty of room to sit outside & enjoy spectacular views of the slopes & watch the sunset or look at the stars.\n\n",
     "notes": "",
     "access": "",
