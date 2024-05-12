@@ -1,0 +1,250 @@
+{
+  "pricingRules": null,
+  "bedCount": 6,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 3,
+    "doubleBed": 1,
+    "singleBed": 0,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 2,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "Hilda's Haven",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 10,
+  "baseDailyRate": 495,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "2707 East Stewart Road",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 5,
+  "bathrooms": "2",
+  "picture": "https://orbirental-images.s3.amazonaws.com/ed5adcd2-20d5-4eaf-967c-e22c32b27163_1.jpg",
+  "webLink": "https://book.hostfully.com/mountain-cabins-utah/property-details/569aea91-99d9-4a11-93a1-47580fa5a657/hilda%27s-haven",
+  "cleaningFeeAmount": 275,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 500,
+  "externalID": null,
+  "acceptInstantBook": true,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/122109.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": null,
+  "floor": 2,
+  "areaSize": 3049,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.3869252,
+  "longitude": -111.5857626,
+  "airBnBID": "1154653942230415407",
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://book.hostfully.com/mountain-cabins-utah/property-details/569aea91-99d9-4a11-93a1-47580fa5a657/hilda%27s-haven",
+  "guideBookUrl": null,
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 10,
+  "defaultCheckinTime": 15,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": null,
+  "wifiPassword": null,
+  "rentalLicenseNumber": null,
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 0,
+    "average": null
+  },
+  "createdDate": 1708112468000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 45,
+  "listingLinks": {
+    "airbnbUrl": "https://airbnb.com/rooms/1154653942230415407",
+    "hostfullyUrl": "https://book.hostfully.com/mountain-cabins-utah/property-details/569aea91-99d9-4a11-93a1-47580fa5a657/hilda%27s-haven",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": null,
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "569aea91-99d9-4a11-93a1-47580fa5a657",
+  "gallery": [
+    {
+      "uid": "2c5daf55-1079-4de4-b0ac-9869872fc40e",
+      "description": "Hilda's unique block A-Frame cabin, built in 1978",
+      "url": "https://orbirental-images.s3.amazonaws.com/2c5daf55-1079-4de4-b0ac-9869872fc40e",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "196e9c24-f36a-404e-9085-082f9f13a981",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/196e9c24-f36a-404e-9085-082f9f13a981",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "66cc70d6-8f4b-4a0e-b272-ebfc7bfc9229",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/66cc70d6-8f4b-4a0e-b272-ebfc7bfc9229",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6bf34fbd-05f5-4229-bb9d-2acadba764e2",
+      "description": "Or light the fire and sit simply and watch.  ",
+      "url": "https://orbirental-images.s3.amazonaws.com/6bf34fbd-05f5-4229-bb9d-2acadba764e2",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "76dab740-aed2-422c-829e-b27637a603d3",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/76dab740-aed2-422c-829e-b27637a603d3",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e8a3d6d0-09fc-4f1c-868f-86648e059a25",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e8a3d6d0-09fc-4f1c-868f-86648e059a25",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "70f5f357-a0da-44e0-a50a-efafe1dd0f93",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/70f5f357-a0da-44e0-a50a-efafe1dd0f93",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2701b3a4-a133-48a9-a5e9-a4b4925717ad",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/2701b3a4-a133-48a9-a5e9-a4b4925717ad",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e57cd04d-5332-4106-813b-d7e08e8d6801",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e57cd04d-5332-4106-813b-d7e08e8d6801",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "6d277a22-51ac-4edc-8064-d68c2346f88b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/6d277a22-51ac-4edc-8064-d68c2346f88b",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ceb4323b-40ae-4a46-99e5-ecb644e5a62b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ceb4323b-40ae-4a46-99e5-ecb644e5a62b",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "512b5c61-19da-463d-bcf5-b90677c26c9f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/512b5c61-19da-463d-bcf5-b90677c26c9f",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3bdf66aa-ff73-482d-9143-c36ee869e05d",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/3bdf66aa-ff73-482d-9143-c36ee869e05d",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "11124340-5aed-4bb9-9336-10bf6f961dce",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/11124340-5aed-4bb9-9336-10bf6f961dce",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f428d78d-d7a2-4ca7-92c3-dbb0b4c8bedd",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/f428d78d-d7a2-4ca7-92c3-dbb0b4c8bedd",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "66bbc65f-840c-472b-ae07-0c864905bc9f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/66bbc65f-840c-472b-ae07-0c864905bc9f",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "88b589cd-37f6-44aa-8c52-3b563db2acbb",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/88b589cd-37f6-44aa-8c52-3b563db2acbb",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "28a27730-3d70-45c9-8643-83ce811ffa2c",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/28a27730-3d70-45c9-8643-83ce811ffa2c",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ca604622-bf92-486c-8cb7-beb68e9820df",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ca604622-bf92-486c-8cb7-beb68e9820df",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "02bfbaee-fa95-409c-9fc1-cb86234f4ba2",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/02bfbaee-fa95-409c-9fc1-cb86234f4ba2",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b7c951cb-5894-437f-ab02-4707e94b83ad",
+      "description": "Outside deck for gathering, grilling, and watching wildlife in the yard",
+      "url": "https://orbirental-images.s3.amazonaws.com/b7c951cb-5894-437f-ab02-4707e94b83ad",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Hilda's Haven",
+    "shortSummary": "From the mossy shingle roof to the lemon yellow kitchen, you will feel at home at Hilda’s Haven.  ",
+    "summary": "Enjoy a piece of history in this beautiful, surprisingly roomy, A-Frame cabin less than 300 steps to the Outlaw Express chair lift. Built in 1978 and lovingly cared for, this family cabin is a perfect representation of the mountain’s past and present. Just a two minute walk to Sundance Resort where you will find restaurants, skiing, live music, art studio, gift shop, spa, and just a short distance to horseback riding, snowshoeing, cross country skiing, hiking, ziplining, and flyfishing.",
+    "notes": "You will have this dwelling to yourself along with a large yard.\nParking can accommodate up to 4 cars. No street parking is available.\n\nPERFECT FOR:\n\tLarge families with kids who need room to roam\n\tThose who want to be able to walk to Sundance Resort easily\n\nThere are no groceries or gas at Sundance. We advise filling up your car and grabbing some basics before heading up.\n\nHarmon’s is the last grocery before heading into Provo Canyon\n870 East 800 North\nOrem – (801) 225-1770\n\nCostco\n648 East 800 South\nOrem - 801-851-5004\n\nState Liquor Store\n1668 N. State Street\nOrem - 801-225-0119\nCloses at 7:00 pm\n\n\nTHE HISTORY of Hilda’s\n\nIn the 1890’s, Andrew Jackson Stewart, a surveyor of Scottish heritage, was commissioned by the U.S. government, to survey the canyons east of Utah Valley. Eventually, he and his sons Scott and John, surveyed their way up the North Fork of the Provo River to within a few hundred yards of this place. Like everyone else that has seen the majesty of Mount Timpanogos, the Stewarts were taken with its beauty and wondered at the possibilities offered by this land. \n\nThe Homestead Act of 1860 allowed individuals to claim 140 acres each, on the condition that they improve the land. They did so by creating a timber mill, harvesting ice and farming beets, among other things. The land was eventually consolidated into the hands of Scott and John.  By the 1930’s Scott’s son Paul purchased his father’s share of the land. It became the summer range for his sheep. Every year, after the snow melted, he drove his sheep from the desert west of Utah Lake, up Provo Canyon, to graze on the grasses offered by these mountains. \n\nThe first home on this property was built by Paul with salvaged wood from his parent’s cabin at Aspen Grove, that was destroyed by an avalanche. This enabled Paul to be near his sheep and his wife Hilda and their eight children. A painting of that cabin hangs on the wall next to the entry to the kitchen of this cabin.  It housed Paul, Hilda and their children through many summers. In 1945, Paul’s brothers Ray and Hank asked to install a 1,000 foot rope to an old Chevy truck engine to pull skiers up the hill. Later, Paul bought an old chair lift from an operation at Parley’s Summit, near Park City and had it installed on his property. That was the beginning of what would become the Timp Haven ski resort. \n\nBy the late 1960’s Paul was looking to sell the ski resort. He found a buyer in a young actor that first showed up at Timp Haven in 1962 on his way home from college in Colorado. Later, the actor met and married a girl from Orem. He purchased property from John Stewart and built a cabin on the property. By 1969, Paul and Robert Redford reached a deal, and the resort was renamed “Sundance.” \n\nSome of the history laid out here can be viewed in picture form on the wall between the Tree Room Restaurant and the deli. You can also see pictures of the Timp Haven resort on the walls of the Outlook Café. Other reminders of this history and heritage still exist in the rock fireplace standing out front at the bottom of the stairs. It was the fireplace that stood at the center of the family room of that first home. \n\nThis cabin was built in 1978. Paul and Hilda’s children and grandchildren have worked hard to maintain and preserve it in its original state. If the majestic pines that stand on either side of this cabin could speak, they could tell more history than can be shared here. They could tell us of the many happy times and fond memories enjoyed by Paul, Hilda and their descendants. We hope you enjoy your time here and appreciate all those who have come before to make this experience possible. \n",
+    "access": null,
+    "transit": "",
+    "interaction": null,
+    "neighbourhood": null,
+    "space": "Warm wood paneling, upstairs and main level living rooms, 1 bathroom upstairs, 1 bathroom main level, a large yard, galley kitchen, and the stream running through it, this place is welcoming for family gatherings, “friends-givings,” and provides a familiar and comforting stay.\n\nRoom details and layout\n\tMain level two queen bedrooms\n\tUpstairs one bedroom has a set of bunk beds with a full on the bottom and a twin on top, one bedroom with a queen, and one bedroom with a full.",
+    "houseManual": null,
+    "locale": "en_US"
+  }
+}
