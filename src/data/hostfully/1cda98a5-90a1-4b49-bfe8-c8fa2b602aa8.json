@@ -18,7 +18,7 @@
     "couch": 0
   },
   "type": "CABIN",
-  "name": "Bear Tooth Lodge",
+  "name": "Bear Tooth Lodge • Sundance, Utah",
   "isActive": true,
   "baseGuests": 1,
   "maximumGuests": 13,
@@ -36,7 +36,7 @@
   "cleaningFeeAmount": 300,
   "minimumStay": 2,
   "maximumStay": 0,
-  "securityDepositAmount": 250,
+  "securityDepositAmount": 0,
   "externalID": null,
   "acceptInstantBook": true,
   "acceptBookingRequest": false,

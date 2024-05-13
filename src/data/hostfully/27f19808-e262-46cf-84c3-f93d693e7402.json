@@ -41,7 +41,7 @@
   "cleaningFeeAmount": 300,
   "minimumStay": 2,
   "maximumStay": 0,
-  "securityDepositAmount": 500,
+  "securityDepositAmount": 0,
   "externalID": "",
   "acceptInstantBook": true,
   "acceptBookingRequest": false,
