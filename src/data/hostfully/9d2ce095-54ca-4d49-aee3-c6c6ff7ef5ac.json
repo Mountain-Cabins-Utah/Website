@@ -1,0 +1,383 @@
+{
+  "pricingRules": null,
+  "bedCount": 5,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 0,
+    "doubleBed": 0,
+    "singleBed": 0,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "Palisade Pines",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 10,
+  "baseDailyRate": 495,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "8839 N Timphaven",
+  "address2": "",
+  "postalCode": "84606",
+  "countryCode": "US",
+  "bedrooms": 5,
+  "bathrooms": "3.5",
+  "picture": "https://orbirental-images.s3.amazonaws.com/cd622bc0-bc37-47bf-9842-30b32aede82e_1.jpg",
+  "webLink": null,
+  "cleaningFeeAmount": 300,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": null,
+  "acceptInstantBook": false,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/137159.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": null,
+  "floor": 3,
+  "areaSize": 0,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 0,
+  "latitude": 40.3920241,
+  "longitude": -111.5848701,
+  "airBnBID": null,
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://book.hostfully.com/mountain-cabins-utah/property-details/9d2ce095-54ca-4d49-aee3-c6c6ff7ef5ac/palisade-pines",
+  "guideBookUrl": null,
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 48,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": null,
+  "wifiPassword": null,
+  "rentalLicenseNumber": null,
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 0,
+    "average": null
+  },
+  "createdDate": 1716235951000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 45,
+  "listingLinks": {
+    "airbnbUrl": null,
+    "hostfullyUrl": "https://book.hostfully.com/mountain-cabins-utah/property-details/9d2ce095-54ca-4d49-aee3-c6c6ff7ef5ac/palisade-pines",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": null,
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "9d2ce095-54ca-4d49-aee3-c6c6ff7ef5ac",
+  "gallery": [
+    {
+      "uid": "8749dc31-9e68-46fc-9339-fec8e685505f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/8749dc31-9e68-46fc-9339-fec8e685505f",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9fdf9e30-16ba-42fd-827c-55fdb19e6e00",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9fdf9e30-16ba-42fd-827c-55fdb19e6e00",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7c3aeeae-3761-4c44-a73d-5cb75a69a0b7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/7c3aeeae-3761-4c44-a73d-5cb75a69a0b7",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "53676c28-c12d-4100-b670-23fc7923865c",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/53676c28-c12d-4100-b670-23fc7923865c",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "29a8ab4d-b8be-4ef2-8dc2-ed82ddb44280",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/29a8ab4d-b8be-4ef2-8dc2-ed82ddb44280",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "941dfe90-e445-448a-975d-813554643b2a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/941dfe90-e445-448a-975d-813554643b2a",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "7beccc9f-314e-4b36-b3a0-4f0de28db736",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/7beccc9f-314e-4b36-b3a0-4f0de28db736",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c99837ff-eefe-4897-b5be-c43e438bf770",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c99837ff-eefe-4897-b5be-c43e438bf770",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e00a1875-37a9-45a5-abb9-22d76f0fb4cb",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e00a1875-37a9-45a5-abb9-22d76f0fb4cb",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2a4994f4-a400-45ca-865f-6cf3158a5ad9",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/2a4994f4-a400-45ca-865f-6cf3158a5ad9",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c654e3fd-ba49-46fd-88cb-9d18ceb127e5",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c654e3fd-ba49-46fd-88cb-9d18ceb127e5",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e65db215-424c-4870-b215-a5535f8a44c4",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e65db215-424c-4870-b215-a5535f8a44c4",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "25d7df18-8dbe-4e1a-ba31-7f8f8f667850",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/25d7df18-8dbe-4e1a-ba31-7f8f8f667850",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e0d95744-439f-4a32-a1be-e6ce3f6ab469",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e0d95744-439f-4a32-a1be-e6ce3f6ab469",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "79c37d72-5682-4bf8-96fb-896492aa1f76",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/79c37d72-5682-4bf8-96fb-896492aa1f76",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c487488b-0a09-4543-9c27-8d74532c5c5b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c487488b-0a09-4543-9c27-8d74532c5c5b",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b167b044-611b-456d-bbae-eee2ab9a1f46",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/b167b044-611b-456d-bbae-eee2ab9a1f46",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c3d886a6-db1b-4837-95d3-115a35b46566",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c3d886a6-db1b-4837-95d3-115a35b46566",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "06d49c24-722f-431a-aac6-1f9e6aa834fc",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/06d49c24-722f-431a-aac6-1f9e6aa834fc",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "077a9979-ee1d-48a1-8de7-c83e767fbebd",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/077a9979-ee1d-48a1-8de7-c83e767fbebd",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "95adf791-e30a-4d60-9f5a-863ff6d32eed",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/95adf791-e30a-4d60-9f5a-863ff6d32eed",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d37eab9e-3841-4497-9bd0-824bb2485c5f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d37eab9e-3841-4497-9bd0-824bb2485c5f",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "58639c05-9f47-4a4e-8678-7f65ff6917a8",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/58639c05-9f47-4a4e-8678-7f65ff6917a8",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2a0af397-1d5e-4d02-8ff2-62a776709466",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/2a0af397-1d5e-4d02-8ff2-62a776709466",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0ca20e01-80e8-4c24-bffa-1f0b3af081f7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/0ca20e01-80e8-4c24-bffa-1f0b3af081f7",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "84756571-e08e-4ca3-95a1-dd189a0b3e6f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/84756571-e08e-4ca3-95a1-dd189a0b3e6f",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "043b6869-fb86-41c4-8888-1978228a4a88",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/043b6869-fb86-41c4-8888-1978228a4a88",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "26953f9b-555d-4d4c-a13a-3af4a7565152",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/26953f9b-555d-4d4c-a13a-3af4a7565152",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "23ba05f2-268b-481a-8a94-e17648123642",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/23ba05f2-268b-481a-8a94-e17648123642",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f2eb3fa2-2580-4bbd-b4c6-d3b0c173122a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/f2eb3fa2-2580-4bbd-b4c6-d3b0c173122a",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "599198b1-e083-4d67-81f8-716b78a18621",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/599198b1-e083-4d67-81f8-716b78a18621",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "324c8745-015e-4b5e-8979-b3a44f99ea3c",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/324c8745-015e-4b5e-8979-b3a44f99ea3c",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "aa05f843-36eb-4ab9-b766-5917167c04a0",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/aa05f843-36eb-4ab9-b766-5917167c04a0",
+      "displayOrder": 32,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d1415135-780e-477c-a749-db3704c92871",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d1415135-780e-477c-a749-db3704c92871",
+      "displayOrder": 33,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "3a51d26c-fe1f-4405-a535-5db26dbe42fa",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/3a51d26c-fe1f-4405-a535-5db26dbe42fa",
+      "displayOrder": 34,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e0af3f59-744d-4c03-8b4f-b6f9baa5db0d",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e0af3f59-744d-4c03-8b4f-b6f9baa5db0d",
+      "displayOrder": 35,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "cf33d088-2e69-45aa-ad62-75581cce2927",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/cf33d088-2e69-45aa-ad62-75581cce2927",
+      "displayOrder": 36,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ea753e61-350a-49e0-92c7-3e64afcdddbc",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ea753e61-350a-49e0-92c7-3e64afcdddbc",
+      "displayOrder": 37,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "1a0ec6a2-f31b-4053-ac5f-33c162c7e7d4",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/1a0ec6a2-f31b-4053-ac5f-33c162c7e7d4",
+      "displayOrder": 38,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "46cddf60-e328-463f-bbd8-25697b9f8ce3",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/46cddf60-e328-463f-bbd8-25697b9f8ce3",
+      "displayOrder": 39,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Palisade Pines",
+    "shortSummary": "Artfully decorated, roomy family cabin for your crew",
+    "summary": "Palisade Pines is a family cabin in the heart of Sundance Mountain. A traditional weekend cabin, this is a homey and welcoming gathering place with a large deck and yard to roam.  Located in the beautiful Wasatch Mountains, this cabin is a few minutes from Sundance Resort where you will find restaurants, skiing, live music, art studio, gift shop, spa, horseback riding, snowshoeing, cross country skiing, hiking, ziplining, and flyfishing.",
+    "notes": "It's easy to gather generations here. The walk out, ground level has an impressive game room with many arcade games, ping pong, and pool table for the kids to enjoy. The main level has a roomy living room for lounging with a book, a large kitchen with island for meals together, beautiful dining table, and an outside deck overlooking the tall pines and large yard.\n\nRoom details and layout\n\tMain floor has a hall bathroom and two bedrooms with queen beds, and a master bedroom with king bed and bathroom.\n\tUp the staircase is a sleeping loft with one queen bed and a half-bathroom.\n\tDownstairs has a hall bathroom and one bedroom with a king bed.\n\nYou will have the entire cabin to yourself.\nDriveway can fit 5 cars. No street parking is allowed.\n\nPERFECT FOR:\n\tTwo couples with a kids\n\tFamily gatherings\n\tFriends get together\n\nThere are no groceries or gas at Sundance. We advise filling up your car and grabbing some basics before heading up.\n\nHarmon’s is the last grocery before heading into Provo Canyon\n870 East 800 North\nOrem - 801-225-1770\n\nCostco\n648 East 800 South\nOrem - 801-851-5004\n\nState Liquor Store\n1668 N. State Street\nOrem - 801-225-0119\nCloses at 7:00 pm\n",
+    "access": null,
+    "transit": null,
+    "interaction": null,
+    "neighbourhood": null,
+    "space": null,
+    "houseManual": null,
+    "locale": "en_US"
+  }
+}
