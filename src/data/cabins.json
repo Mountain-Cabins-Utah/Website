@@ -5871,16 +5871,16 @@
     "uid": "12c7d9d0-9199-4074-8243-21428edbb8d4",
     "gallery": [
       {
-        "uid": "f306ed3a-0894-4d10-bddf-14ba6164f599",
-        "description": "It's all about the views!",
-        "url": "https://orbirental-images.s3.amazonaws.com/f306ed3a-0894-4d10-bddf-14ba6164f599",
+        "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
-        "uid": "98adebbf-8bf7-4287-ac16-042273b46646",
-        "description": "",
-        "url": "https://orbirental-images.s3.amazonaws.com/98adebbf-8bf7-4287-ac16-042273b46646",
+        "uid": "f306ed3a-0894-4d10-bddf-14ba6164f599",
+        "description": "It's all about the views!",
+        "url": "https://orbirental-images.s3.amazonaws.com/f306ed3a-0894-4d10-bddf-14ba6164f599",
         "displayOrder": 1,
         "airbnbRoomId": null
       },
