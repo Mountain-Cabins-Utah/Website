@@ -3213,7 +3213,7 @@
     "rentalLicenseNumberExpirationDate": null,
     "minimumWeekendStay": 0,
     "reviews": {
-      "total": 8,
+      "total": 9,
       "average": 5
     },
     "createdDate": 1563214551000,
@@ -5428,7 +5428,7 @@
     "state": "UT",
     "address1": "8839 N Timphaven",
     "address2": "",
-    "postalCode": "84606",
+    "postalCode": "84604",
     "countryCode": "US",
     "bedrooms": 5,
     "bathrooms": "3.5",
@@ -5481,7 +5481,7 @@
       "airbnbUrl": "https://airbnb.com/rooms/1165319047198235592",
       "hostfullyUrl": "https://book.hostfully.com/mountain-cabins-utah/property-details/9d2ce095-54ca-4d49-aee3-c6c6ff7ef5ac/palisade-pines",
       "bookingDotComUrl": null,
-      "homeAwayUrl": null,
+      "homeAwayUrl": "https://www.vrbo.com/4023308?dateless=true",
       "tripAdvisorUrl": null,
       "hvmiUrl": null
     },
