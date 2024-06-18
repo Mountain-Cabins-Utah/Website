@@ -82,7 +82,7 @@
   "percentUponReservation": 50,
   "fullPaymentTiming": 30,
   "listingLinks": {
-    "airbnbUrl": "https://airbnb.com/rooms/12361119",
+    "airbnbUrl": null,
     "hostfullyUrl": "https://book.hostfully.com/mountain-cabins-utah/property-details/27f19808-e262-46cf-84c3-f93d693e7402/log-cabin-on-the-stream-%E2%80%A2-sundance%2C-utah",
     "bookingDotComUrl": "https://booking.com/hotel/us/log-cabin-on-the-stream.en.html",
     "homeAwayUrl": "https://www.vrbo.com/801597?dateless=true",
