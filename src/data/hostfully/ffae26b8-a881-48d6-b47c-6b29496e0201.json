@@ -1,0 +1,327 @@
+{
+  "pricingRules": null,
+  "bedCount": 5,
+  "bedTypes": {
+    "kingBed": 0,
+    "queenBed": 0,
+    "doubleBed": 0,
+    "singleBed": 0,
+    "sofaBed": 0,
+    "futonBed": 0,
+    "floorMattress": 0,
+    "bunkBed": 0,
+    "toddlerBed": 0,
+    "crib": 0,
+    "hammockBed": 0,
+    "airMattress": 0,
+    "waterBed": 0,
+    "couch": 0
+  },
+  "type": "CABIN",
+  "name": "Aspen Springs",
+  "isActive": true,
+  "baseGuests": 1,
+  "maximumGuests": 10,
+  "baseDailyRate": 595,
+  "city": "Sundance",
+  "state": "UT",
+  "address1": "8979 Timphaven Rd",
+  "address2": "",
+  "postalCode": "84604",
+  "countryCode": "US",
+  "bedrooms": 5,
+  "bathrooms": "4.5",
+  "picture": "https://orbirental-images.s3.amazonaws.com/e580ff6f-d93a-4a38-ae20-837aa2ad002b_35-web-or-mls-DSC_2332.jpg",
+  "webLink": null,
+  "cleaningFeeAmount": 275,
+  "minimumStay": 2,
+  "maximumStay": 0,
+  "securityDepositAmount": 0,
+  "externalID": null,
+  "acceptInstantBook": false,
+  "acceptBookingRequest": false,
+  "availabilityCalendarUrl": "https://platform.hostfully.com/calendar/144091.ics?itp=1",
+  "rentalCondition": null,
+  "cancellationPolicy": "Cancellation 30 days before arrival 100% refund\nCancellation 15 days before arrival 50% refund\nCancellation after 15 days before arrival 0% refund\n",
+  "floor": 3,
+  "areaSize": 3535,
+  "areaSizeUnit": "SQUARE_FEET",
+  "extraGuestFee": 0,
+  "taxationRate": 11.76,
+  "latitude": 40.3944052,
+  "longitude": -111.5876505,
+  "airBnBID": null,
+  "homeAwayID": null,
+  "currency": "USD",
+  "currencySymbol": "$",
+  "panoramicDataUrl": null,
+  "propertyURL": "https://book.hostfully.com/mountain-cabins-utah/property-details/ffae26b8-a881-48d6-b47c-6b29496e0201/aspen-springs",
+  "guideBookUrl": null,
+  "weekEndRatePercentAdjustment": 0,
+  "bookingWindow": -1,
+  "bookingWindowAfterCheckout": -1,
+  "turnOverDays": 0,
+  "bookingLeadTime": 0,
+  "defaultCheckinTime": 16,
+  "defaultCheckoutTime": 11,
+  "wifiNetwork": null,
+  "wifiPassword": null,
+  "rentalLicenseNumber": null,
+  "rentalLicenseNumberExpirationDate": null,
+  "minimumWeekendStay": 0,
+  "reviews": {
+    "total": 0,
+    "average": null
+  },
+  "createdDate": 1720063292000,
+  "percentUponReservation": 50,
+  "fullPaymentTiming": 30,
+  "listingLinks": {
+    "airbnbUrl": null,
+    "hostfullyUrl": "https://book.hostfully.com/mountain-cabins-utah/property-details/ffae26b8-a881-48d6-b47c-6b29496e0201/aspen-springs",
+    "bookingDotComUrl": null,
+    "homeAwayUrl": null,
+    "tripAdvisorUrl": null,
+    "hvmiUrl": null
+  },
+  "uid": "ffae26b8-a881-48d6-b47c-6b29496e0201",
+  "gallery": [
+    {
+      "uid": "47e825e8-a881-4111-8000-a505ade57674",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/47e825e8-a881-4111-8000-a505ade57674",
+      "displayOrder": 0,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "749e7e57-8622-40be-a632-f45d99acf589",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/749e7e57-8622-40be-a632-f45d99acf589",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0b0f018a-1b9d-4bb1-9549-18ed6595b1b7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/0b0f018a-1b9d-4bb1-9549-18ed6595b1b7",
+      "displayOrder": 2,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "8ff7aeb1-1ee3-44ae-b79c-eb78c14986a4",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/8ff7aeb1-1ee3-44ae-b79c-eb78c14986a4",
+      "displayOrder": 3,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f278458a-7d15-45ad-8d61-1ac1d772d664",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/f278458a-7d15-45ad-8d61-1ac1d772d664",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "119fa6dc-3b16-42de-8247-d07b35510811",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/119fa6dc-3b16-42de-8247-d07b35510811",
+      "displayOrder": 5,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "298f653e-17fd-4082-b9dc-67007f492a23",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/298f653e-17fd-4082-b9dc-67007f492a23",
+      "displayOrder": 6,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ccf01363-730e-4156-9e42-8bedfe35d17c",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/ccf01363-730e-4156-9e42-8bedfe35d17c",
+      "displayOrder": 7,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "758fbeb0-0ecb-4e00-9107-3bed0454a2b4",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/758fbeb0-0ecb-4e00-9107-3bed0454a2b4",
+      "displayOrder": 8,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "011a17c4-b44b-454b-bc21-808aab348945",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/011a17c4-b44b-454b-bc21-808aab348945",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "8ef3ca25-0a00-4cbe-937a-a7e928a95a47",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/8ef3ca25-0a00-4cbe-937a-a7e928a95a47",
+      "displayOrder": 10,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "da96ef4f-c94a-4469-9619-f4d6d07fcbd2",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/da96ef4f-c94a-4469-9619-f4d6d07fcbd2",
+      "displayOrder": 11,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "0af0297d-0383-4c7d-a218-151951e5bd44",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/0af0297d-0383-4c7d-a218-151951e5bd44",
+      "displayOrder": 12,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "762e01f2-a591-4a26-9154-7d26fd67c5ca",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/762e01f2-a591-4a26-9154-7d26fd67c5ca",
+      "displayOrder": 13,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "bf5ff9bd-e7ff-454f-8734-20376130f5af",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/bf5ff9bd-e7ff-454f-8734-20376130f5af",
+      "displayOrder": 14,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e6ea2316-5d2e-480e-aeba-741d869dedc7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e6ea2316-5d2e-480e-aeba-741d869dedc7",
+      "displayOrder": 15,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "68ac551e-8b97-4cdc-ba83-fe4b53f4dc16",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/68ac551e-8b97-4cdc-ba83-fe4b53f4dc16",
+      "displayOrder": 16,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "aa7ae530-a921-49a2-aaa4-29a54740526f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/aa7ae530-a921-49a2-aaa4-29a54740526f",
+      "displayOrder": 17,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "9d1dc27b-3bbb-4b77-bc11-6cb3561a300a",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/9d1dc27b-3bbb-4b77-bc11-6cb3561a300a",
+      "displayOrder": 18,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "e08c7e62-4fdf-4adb-9dc7-a64a2d495ed7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/e08c7e62-4fdf-4adb-9dc7-a64a2d495ed7",
+      "displayOrder": 19,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "2e84fded-0ba6-4e1c-af00-f6dcea1592e0",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/2e84fded-0ba6-4e1c-af00-f6dcea1592e0",
+      "displayOrder": 20,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "d5f6fca3-a4b9-43c6-b861-936c1607867e",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/d5f6fca3-a4b9-43c6-b861-936c1607867e",
+      "displayOrder": 21,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f1ca3ddd-3052-4624-a39f-139e65f46041",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/f1ca3ddd-3052-4624-a39f-139e65f46041",
+      "displayOrder": 22,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "4e124112-c9e7-4477-b9c2-d10d41e71fe7",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/4e124112-c9e7-4477-b9c2-d10d41e71fe7",
+      "displayOrder": 23,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "475bd231-91f1-4914-96fb-bd9c802623c2",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/475bd231-91f1-4914-96fb-bd9c802623c2",
+      "displayOrder": 24,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "26dc3834-eea9-4473-9a10-22361ce8f238",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/26dc3834-eea9-4473-9a10-22361ce8f238",
+      "displayOrder": 25,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "10ef35dd-ab47-4164-87c8-8aa966620e1f",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/10ef35dd-ab47-4164-87c8-8aa966620e1f",
+      "displayOrder": 26,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "80362f8a-41a1-4dba-9e6e-71d7258d4307",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/80362f8a-41a1-4dba-9e6e-71d7258d4307",
+      "displayOrder": 27,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "8256f1a5-2df2-4649-a60e-e4f01bf60e94",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/8256f1a5-2df2-4649-a60e-e4f01bf60e94",
+      "displayOrder": 28,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "f695e33a-8d5f-4803-94e5-8678bd0e330b",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/f695e33a-8d5f-4803-94e5-8678bd0e330b",
+      "displayOrder": 29,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "b2394006-28a3-489f-bdf8-35e7b0919646",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/b2394006-28a3-489f-bdf8-35e7b0919646",
+      "displayOrder": 30,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "06a71361-62b8-465d-ae67-fb7b6e5b2894",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/06a71361-62b8-465d-ae67-fb7b6e5b2894",
+      "displayOrder": 31,
+      "airbnbRoomId": null
+    }
+  ],
+  "description": {
+    "name": "Aspen Springs",
+    "shortSummary": "Everyone loves the warmth of this cabin with its gathering spaces and great mountain views.",
+    "summary": " A wonderful place for family and friends to come together to play and relax. Located just five minutes from Sundance Resort where you will find restaurants, skiing, live music, art studio, gift shop, spa, horseback riding, snowshoeing, cross country skiing, hiking, ziplining, and flyfishing. You never have to leave the mountain. However, if you want to visit other ski resorts, you are 45 minutes to Park City, Deer Valley, and The Canyons and 60 minutes to Alta, Snowbird, Brighton, and Solitude",
+    "notes": "",
+    "access": null,
+    "transit": null,
+    "interaction": null,
+    "neighbourhood": "The home is set back from the road in a mountain neighborhood and offers large wrap around decks on three sides to three season enjoyment of the beautiful woods and mountains. The front offers a small yard for snowball fights and building snowmen.",
+    "space": "What we love about Aspen Springs is the large open gathering spaces combined with room to separate to play, read, relax and sleep.  With 5 bedrooms, pool table and large dining and entertaining areas this is the home you will want to book for your next family escape or couples’ retreat.  Bed configuration is 1 King and 4 Queen beds with a Pack-N-Play available for a little one.  It will easily sleep 10 adults.\n\nThe hot tub is privately positioned in a hillside cutout that offers privacy and quiet to relax after a day of skiing or hiking.  The gas fireplace is easy to light and offers a great glow to the barnwood wrapped family room and kitchen.  The pool room has a wall of windows to look out at the mountains and a saddle for players to wait for their next turn.\n\nThe kitchen has a center island to gather around and do meal prep and is fully stocked with pots and pans, dishes and silverware.  A gas range makes cooking a joy along with double ovens if you are planning a big meal.  The dine in kitchen can seat 8 or the dining room can seat an additional 10. Of course there is a microwave, coffee maker, blender, crock pot and mixer to help with your meal plans.\n\nOne king bedroom with ensuite bathroom, double sinks, large tile shower, and walk-in closet, dresser, TV, and writing desk. This room is romantic and finished in a rustic style with a sliding barn door and plenty of privacy and room to unwind.\n\nTwo queen bedrooms with ensuite bathrooms and walk-in showers.  \nTwo queen bedrooms share a hall bathroom with a bathtub. \n\nYou will have the entire cabin to yourself.\nDriveway can fit 3 cars. No street parking is allowed.\n",
+    "houseManual": null,
+    "locale": "en_US"
+  }
+}
