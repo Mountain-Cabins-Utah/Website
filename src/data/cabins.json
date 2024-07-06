@@ -2010,9 +2010,9 @@
     },
     "gallery": [
       {
-        "uid": "00302ee7-ac9d-4484-8685-161648a91eeb",
-        "description": "View of the slopes and the Aspens,",
-        "url": "https://orbirental-images.s3.amazonaws.com/00302ee7-ac9d-4484-8685-161648a91eeb",
+        "uid": "ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
+        "description": "Great views of the resort from your deck",
+        "url": "https://orbirental-images.s3.amazonaws.com/ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
         "displayOrder": 0,
         "airbnbRoomId": null
       },
@@ -2052,178 +2052,157 @@
         "airbnbRoomId": null
       },
       {
-        "uid": "6da1859d-bfb1-465b-b24a-d15bbd7945e6",
-        "description": "View through the living room out to the slopes. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/6da1859d-bfb1-465b-b24a-d15bbd7945e6",
-        "displayOrder": 6,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "84daa0f5-8079-4d32-b7fb-c56ce9611ed1",
-        "description": "Building C.",
-        "url": "https://orbirental-images.s3.amazonaws.com/84daa0f5-8079-4d32-b7fb-c56ce9611ed1",
-        "displayOrder": 7,
-        "airbnbRoomId": null
-      },
-      {
         "uid": "f454673f-6b04-4f16-b1d4-f58b15d1a778",
         "description": "Bedroom with great natural light.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/f454673f-6b04-4f16-b1d4-f58b15d1a778",
-        "displayOrder": 8,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "5f595fe2-614c-4609-a742-84fc444b38b6",
-        "description": "A reading light and natural light.  ",
-        "url": "https://orbirental-images.s3.amazonaws.com/5f595fe2-614c-4609-a742-84fc444b38b6",
-        "displayOrder": 9,
+        "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
         "uid": "ac7ca6ae-ec0b-4039-8ecc-951ecd0c8ea3",
         "description": "Bathroom with jacuzzi tub. ",
         "url": "https://orbirental-images.s3.amazonaws.com/ac7ca6ae-ec0b-4039-8ecc-951ecd0c8ea3",
-        "displayOrder": 10,
+        "displayOrder": 7,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "5f595fe2-614c-4609-a742-84fc444b38b6",
+        "description": "A reading light and natural light.  ",
+        "url": "https://orbirental-images.s3.amazonaws.com/5f595fe2-614c-4609-a742-84fc444b38b6",
+        "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
         "uid": "7aedc473-21d5-4a35-a31f-e3c25c189ebb",
         "description": "Bedroom with closets, dressers and comfy bed. ",
         "url": "https://orbirental-images.s3.amazonaws.com/7aedc473-21d5-4a35-a31f-e3c25c189ebb",
-        "displayOrder": 11,
+        "displayOrder": 9,
         "airbnbRoomId": null
       },
       {
         "uid": "78317c51-1ae2-41d9-a46b-5b89a789d29f",
         "description": "Yep, it's a bathroom. ",
         "url": "https://orbirental-images.s3.amazonaws.com/78317c51-1ae2-41d9-a46b-5b89a789d29f",
-        "displayOrder": 12,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "0db9be8f-af62-4166-80a6-43278088d6be",
-        "description": "Bunk beds for all. ",
-        "url": "https://orbirental-images.s3.amazonaws.com/0db9be8f-af62-4166-80a6-43278088d6be",
-        "displayOrder": 13,
+        "displayOrder": 10,
         "airbnbRoomId": null
       },
       {
         "uid": "7c102a3e-51f2-4d73-b0d5-7fb35979ac82",
         "description": "Close to bathroom.",
         "url": "https://orbirental-images.s3.amazonaws.com/7c102a3e-51f2-4d73-b0d5-7fb35979ac82",
-        "displayOrder": 14,
+        "displayOrder": 11,
         "airbnbRoomId": null
       },
       {
         "uid": "75986085-9089-47bc-af46-116832f47589",
         "description": "Loft area with bunk beds. ",
         "url": "https://orbirental-images.s3.amazonaws.com/75986085-9089-47bc-af46-116832f47589",
-        "displayOrder": 15,
+        "displayOrder": 12,
         "airbnbRoomId": null
       },
       {
         "uid": "ec9dffeb-5de4-43a9-8448-867ebce4cb26",
         "description": "Bunk beds for the kids and young at heart. ",
         "url": "https://orbirental-images.s3.amazonaws.com/ec9dffeb-5de4-43a9-8448-867ebce4cb26",
-        "displayOrder": 16,
+        "displayOrder": 13,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "84daa0f5-8079-4d32-b7fb-c56ce9611ed1",
+        "description": "Building C.",
+        "url": "https://orbirental-images.s3.amazonaws.com/84daa0f5-8079-4d32-b7fb-c56ce9611ed1",
+        "displayOrder": 14,
         "airbnbRoomId": null
       },
       {
         "uid": "7fccbe04-8b77-488c-aeff-cdc054478862",
         "description": "Areial view. ",
         "url": "https://orbirental-images.s3.amazonaws.com/7fccbe04-8b77-488c-aeff-cdc054478862",
-        "displayOrder": 17,
+        "displayOrder": 15,
         "airbnbRoomId": null
       },
       {
         "uid": "602e3e04-a45c-4232-ad82-29c862dd5b0b",
         "description": "Beautiful Puffer Lake.",
         "url": "https://orbirental-images.s3.amazonaws.com/602e3e04-a45c-4232-ad82-29c862dd5b0b",
-        "displayOrder": 18,
+        "displayOrder": 16,
         "airbnbRoomId": null
       },
       {
         "uid": "716004fe-41b0-4c57-b90b-ef97479d13f1",
         "description": "Beautiful, quiet, cozy balcony. ",
         "url": "https://orbirental-images.s3.amazonaws.com/716004fe-41b0-4c57-b90b-ef97479d13f1",
-        "displayOrder": 19,
+        "displayOrder": 17,
         "airbnbRoomId": null
       },
       {
         "uid": "05450931-3cb5-4648-b489-422fabebdc19",
         "description": "Burr -- it's cold outside.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/05450931-3cb5-4648-b489-422fabebdc19",
-        "displayOrder": 20,
+        "displayOrder": 18,
         "airbnbRoomId": null
       },
       {
         "uid": "0a84a407-1771-471f-95d1-4dc24395227b",
         "description": "Up the stairs to cozy condo 15.  ",
         "url": "https://orbirental-images.s3.amazonaws.com/0a84a407-1771-471f-95d1-4dc24395227b",
-        "displayOrder": 21,
+        "displayOrder": 19,
         "airbnbRoomId": null
       },
       {
         "uid": "ded862f7-5d44-4be0-ac83-3ce21c3420b0",
         "description": "Fishing at Puffer Lake – minutes from Snowflake 15.",
         "url": "https://orbirental-images.s3.amazonaws.com/ded862f7-5d44-4be0-ac83-3ce21c3420b0",
-        "displayOrder": 22,
+        "displayOrder": 20,
         "airbnbRoomId": null
       },
       {
         "uid": "d4025c90-052b-49fe-bb43-eea1f2415dac",
         "description": "Waiting for Spring and the Snow to melt.",
         "url": "https://orbirental-images.s3.amazonaws.com/d4025c90-052b-49fe-bb43-eea1f2415dac",
-        "displayOrder": 23,
+        "displayOrder": 21,
         "airbnbRoomId": null
       },
       {
         "uid": "377322f5-ba78-4fcc-b0da-64248610db0a",
         "description": "If Norman Rockwell were here...",
         "url": "https://orbirental-images.s3.amazonaws.com/377322f5-ba78-4fcc-b0da-64248610db0a",
-        "displayOrder": 24,
+        "displayOrder": 22,
         "airbnbRoomId": null
       },
       {
         "uid": "3551de8f-7db4-4e4d-8c73-23684ba05748",
         "description": "Beautiful Twilight",
         "url": "https://orbirental-images.s3.amazonaws.com/3551de8f-7db4-4e4d-8c73-23684ba05748",
-        "displayOrder": 25,
+        "displayOrder": 23,
         "airbnbRoomId": null
       },
       {
         "uid": "a2d923d4-e547-4490-86ab-76405574e696",
         "description": "Views AND privacy...",
         "url": "https://orbirental-images.s3.amazonaws.com/a2d923d4-e547-4490-86ab-76405574e696",
-        "displayOrder": 26,
+        "displayOrder": 24,
         "airbnbRoomId": null
       },
       {
         "uid": "f8f3a33f-37f5-4a33-b95f-03e2f0d39a5d",
         "description": "Wide-open spaciousness at 10,000 feet in Southern Utah.",
         "url": "https://orbirental-images.s3.amazonaws.com/f8f3a33f-37f5-4a33-b95f-03e2f0d39a5d",
-        "displayOrder": 27,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
-        "description": "Great views of the resort from your deck",
-        "url": "https://orbirental-images.s3.amazonaws.com/ba4dbfef-c618-4ba9-813c-fb6ec9af5a56",
-        "displayOrder": 28,
+        "displayOrder": 25,
         "airbnbRoomId": null
       },
       {
         "uid": "9dec7b51-72b4-4a27-a3b5-08d19c53262a",
         "description": "Even the electronics addicted can't help enjoying nature here!",
         "url": "https://orbirental-images.s3.amazonaws.com/9dec7b51-72b4-4a27-a3b5-08d19c53262a",
-        "displayOrder": 29,
+        "displayOrder": 26,
         "airbnbRoomId": null
       },
       {
         "uid": "d0e7511b-e501-4c19-8803-f2a440e8c6d5",
         "description": "Upper mountain yurt...",
         "url": "https://orbirental-images.s3.amazonaws.com/d0e7511b-e501-4c19-8803-f2a440e8c6d5",
-        "displayOrder": 30,
+        "displayOrder": 27,
         "airbnbRoomId": null
       }
     ],
@@ -2855,23 +2834,23 @@
     },
     "gallery": [
       {
-        "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
-        "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
-        "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
-        "displayOrder": 0,
-        "airbnbRoomId": null
-      },
-      {
         "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
         "description": "Sofa sleeper in the living room",
         "url": "https://orbirental-images.s3.amazonaws.com/bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
-        "displayOrder": 1,
+        "displayOrder": 0,
         "airbnbRoomId": null
       },
       {
         "uid": "3368c375-0b0e-4528-8b1f-db8d152c35b1",
         "description": "Living room and sliding door to covered deck",
         "url": "https://orbirental-images.s3.amazonaws.com/3368c375-0b0e-4528-8b1f-db8d152c35b1",
+        "displayOrder": 1,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
+        "description": "",
+        "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
         "displayOrder": 2,
         "airbnbRoomId": null
       },
@@ -2883,51 +2862,51 @@
         "airbnbRoomId": null
       },
       {
+        "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
+        "description": "Well stocked kitchen.  Just bring food.",
+        "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
+        "displayOrder": 4,
+        "airbnbRoomId": null
+      },
+      {
         "uid": "cfb9530b-6d0e-4a83-b55f-656eeac9768e",
         "description": "Five Twin Beds including Trundle Bed.",
         "url": "https://orbirental-images.s3.amazonaws.com/cfb9530b-6d0e-4a83-b55f-656eeac9768e",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "airbnbRoomId": null
       },
       {
         "uid": "a89115c7-c21c-46c3-9de1-ab1a36976eec",
         "description": "Bathroom with jetted tub and shower",
         "url": "https://orbirental-images.s3.amazonaws.com/a89115c7-c21c-46c3-9de1-ab1a36976eec",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "airbnbRoomId": null
       },
       {
         "uid": "d37982b9-d3ae-42ee-99d7-c742e41f90c1",
         "description": "Comfy bed and cozy sheets",
         "url": "https://orbirental-images.s3.amazonaws.com/d37982b9-d3ae-42ee-99d7-c742e41f90c1",
-        "displayOrder": 6,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
-        "description": null,
-        "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
         "displayOrder": 7,
-        "airbnbRoomId": null
-      },
-      {
-        "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
-        "description": "Well stocked kitchen.  Just bring food.",
-        "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
-        "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
         "uid": "e3edb0f5-d31c-4b98-9ece-f528454060f8",
         "description": "Queen sized bed in the bedroom on second floor",
         "url": "https://orbirental-images.s3.amazonaws.com/e3edb0f5-d31c-4b98-9ece-f528454060f8",
-        "displayOrder": 9,
+        "displayOrder": 8,
         "airbnbRoomId": null
       },
       {
         "uid": "d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
         "description": "Full-sized bathrooms with bathtubs and showers",
         "url": "https://orbirental-images.s3.amazonaws.com/d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
+        "displayOrder": 9,
+        "airbnbRoomId": null
+      },
+      {
+        "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
+        "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
+        "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
         "displayOrder": 10,
         "airbnbRoomId": null
       },

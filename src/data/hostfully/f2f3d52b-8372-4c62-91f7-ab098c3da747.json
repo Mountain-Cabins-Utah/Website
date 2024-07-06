@@ -92,23 +92,23 @@
   "uid": "f2f3d52b-8372-4c62-91f7-ab098c3da747",
   "gallery": [
     {
-      "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
-      "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
-      "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
-      "displayOrder": 0,
-      "airbnbRoomId": null
-    },
-    {
       "uid": "bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
       "description": "Sofa sleeper in the living room",
       "url": "https://orbirental-images.s3.amazonaws.com/bd71cdb3-e9f8-43a7-9fe3-94f6779b85db",
-      "displayOrder": 1,
+      "displayOrder": 0,
       "airbnbRoomId": null
     },
     {
       "uid": "3368c375-0b0e-4528-8b1f-db8d152c35b1",
       "description": "Living room and sliding door to covered deck",
       "url": "https://orbirental-images.s3.amazonaws.com/3368c375-0b0e-4528-8b1f-db8d152c35b1",
+      "displayOrder": 1,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
+      "description": "",
+      "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
       "displayOrder": 2,
       "airbnbRoomId": null
     },
@@ -120,51 +120,51 @@
       "airbnbRoomId": null
     },
     {
+      "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
+      "description": "Well stocked kitchen.  Just bring food.",
+      "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
+      "displayOrder": 4,
+      "airbnbRoomId": null
+    },
+    {
       "uid": "cfb9530b-6d0e-4a83-b55f-656eeac9768e",
       "description": "Five Twin Beds including Trundle Bed.",
       "url": "https://orbirental-images.s3.amazonaws.com/cfb9530b-6d0e-4a83-b55f-656eeac9768e",
-      "displayOrder": 4,
+      "displayOrder": 5,
       "airbnbRoomId": null
     },
     {
       "uid": "a89115c7-c21c-46c3-9de1-ab1a36976eec",
       "description": "Bathroom with jetted tub and shower",
       "url": "https://orbirental-images.s3.amazonaws.com/a89115c7-c21c-46c3-9de1-ab1a36976eec",
-      "displayOrder": 5,
+      "displayOrder": 6,
       "airbnbRoomId": null
     },
     {
       "uid": "d37982b9-d3ae-42ee-99d7-c742e41f90c1",
       "description": "Comfy bed and cozy sheets",
       "url": "https://orbirental-images.s3.amazonaws.com/d37982b9-d3ae-42ee-99d7-c742e41f90c1",
-      "displayOrder": 6,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
-      "description": null,
-      "url": "https://orbirental-images.s3.amazonaws.com/c2167325-adb3-474e-a19a-a6eaf7f7d0ff",
       "displayOrder": 7,
-      "airbnbRoomId": null
-    },
-    {
-      "uid": "eef98a6e-1e5c-4eba-885a-83e55ee30275",
-      "description": "Well stocked kitchen.  Just bring food.",
-      "url": "https://orbirental-images.s3.amazonaws.com/eef98a6e-1e5c-4eba-885a-83e55ee30275",
-      "displayOrder": 8,
       "airbnbRoomId": null
     },
     {
       "uid": "e3edb0f5-d31c-4b98-9ece-f528454060f8",
       "description": "Queen sized bed in the bedroom on second floor",
       "url": "https://orbirental-images.s3.amazonaws.com/e3edb0f5-d31c-4b98-9ece-f528454060f8",
-      "displayOrder": 9,
+      "displayOrder": 8,
       "airbnbRoomId": null
     },
     {
       "uid": "d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
       "description": "Full-sized bathrooms with bathtubs and showers",
       "url": "https://orbirental-images.s3.amazonaws.com/d1c52357-9d0b-40c9-ad27-6dbe94a78a58",
+      "displayOrder": 9,
+      "airbnbRoomId": null
+    },
+    {
+      "uid": "ba9ae82a-c2d1-43c8-a418-fde888438990",
+      "description": "Conveniently located right across from the Lodge at Eagle Point Ski Resort",
+      "url": "https://orbirental-images.s3.amazonaws.com/ba9ae82a-c2d1-43c8-a418-fde888438990",
       "displayOrder": 10,
       "airbnbRoomId": null
     },
